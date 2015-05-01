@@ -149,9 +149,11 @@ $(window).scroll(function () {
                 topHeight = $('#nav_list').offset().top + 48;
     if (scrollTop > topHeight) { }
     $('.overHead')[scrollTop > topHeight ? 'addClass' : 'removeClass']('top_Show');
-   // (scrollTop > topHeight ? $('#topSearch') : $('#headSearch')).prev().focus();
+    // (scrollTop > topHeight ? $('#topSearch') : $('#headSearch')).prev().focus();
+    $('#black_Top')[scrollTop > 400 ? 'show' : 'hide']();
     if (window['IsIndex']) {
-        $('.r_l_nav li:eq(0)').siblings('li')[scrollTop > 400 ? 'show' : 'hide']();
+
+        $('#index_message')[scrollTop > 400 ? 'show' : 'hide']();
     }
 });
 

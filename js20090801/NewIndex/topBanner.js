@@ -46,37 +46,21 @@ function ajaxInit(date) {
             })
         })
     }, function () {
-       
-
-        //定时10月27日0:00—11月3日0:00，
-        //弹出框链接： http://www.panli.com/Special/hongbao_201510.aspx 
-        new bannerSpecial('Special13', new Date(2015, 9, 27), new Date(2015, 10, 3), new Date(date), function () {
-            var _ImgW = 507,
-                _ImgH = 554,
-                _closeAR = 40,
-                _closeAT = -9,
-                _imgSrc = 'http://sf.panli.com/Ued/Pc/index/images/doing_001.png',
-                _aHref = 'http://www.panli.com/Special/hongbao_201510.aspx';
-            var Special10 = $('<div class="Special10" style="width:' + _ImgW + 'px; height:' + _ImgH + 'px; background:url(' + _imgSrc + '); position:fixed; left:50%; top:50%; margin-left:-' + _ImgW / 2 + 'px; margin-top:-' + _ImgH / 2 + 'px; z-index:9999;"><a href="javascript:;" class="SpecialClose" style="display:block; width:60px; height:60px; position:absolute; right:' + _closeAR + 'px; top:' + _closeAT + 'px;z-index:12;"></a><a href="' + _aHref + '" style="display:block; width:' + _ImgW + 'px; height:' + _ImgH + 'px;  position:absolute; left:0px; bottom:0px;z-index:10;"></a></div>');
-            $('body').prepend(Special10);
-            Panli.Overlay.open();
-            Special10.find('.SpecialClose').click(function () {
-                Panli.Overlay.close();
-                Special10.remove();
-                return false;
-            });
-        });
 
 
-        //定时11月3日0:00—11月10日0:00;
-        //弹出框链接：  http://www.panli.com/Special/hongbao_201510.aspx 
-        new bannerSpecial('Special13', new Date(2015, 10, 3), new Date(2015, 10, 10), new Date(date), function () {
-            var _ImgW = 614,
-                _ImgH = 518,
-                _closeAR = 84,
-                _closeAT = -9,
-                _imgSrc = 'http://sf.panli.com/Ued/Pc/index/images/doing_003.png',
-                _aHref = 'http://www.panli.com/Special/hongbao_201510.aspx';
+
+
+
+        //定时12月12日0:00—12月13日0:00; 圣诞三重礼弹窗 ///
+
+        //弹出框链接：  http://www.panli.com/Special/Christmas2015.html  
+        new bannerSpecial('Special13', new Date(2015, 11, 21), new Date(2015, 11, 29), new Date(date), function () {
+            var _ImgW = 666,
+                _ImgH = 565,
+                _closeAR = 58,
+                _closeAT = 47,
+                _imgSrc = 'http://sf.panli.com/Ued/Pc/index/images/layer20151221.png',
+                _aHref = 'http://www.panli.com/Special/Christmas2015.html';
             var Special10 = $('<div class="Special10" style="width:' + _ImgW + 'px; height:' + _ImgH + 'px; background:url(' + _imgSrc + '); position:fixed; left:50%; top:50%; margin-left:-' + _ImgW / 2 + 'px; margin-top:-' + _ImgH / 2 + 'px; z-index:9999;"><a href="javascript:;" class="SpecialClose" style="display:block; width:60px; height:60px; position:absolute; right:' + _closeAR + 'px; top:' + _closeAT + 'px;z-index:12;"></a><a href="' + _aHref + '" style="display:block; width:' + _ImgW + 'px; height:' + _ImgH + 'px;  position:absolute; left:0px; bottom:0px;z-index:10;"></a></div>');
             $('body').prepend(Special10);
             Panli.Overlay.open();
@@ -140,4 +124,9 @@ function clientTimeZoneT() {
 }
 
 
-    
+$(window).scroll(function () {
+    var scrollTop = $(window).scrollTop();
+    if (window['IsIndex']) {
+        $('#black_Top')[scrollTop > 400 ? 'show' : 'hide']();
+    }
+});
