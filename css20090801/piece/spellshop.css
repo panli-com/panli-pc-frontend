@@ -1,0 +1,207 @@
+.pay {
+    background: url(http://sf.panli.com/FrontEnd/images20090801/piece/2013416Bate/Spellshop/pay_bj.gif) repeat-y -951px 0;
+    width: 950px;
+    margin: 10px auto auto auto;
+}
+
+.fukuan {
+    background: url(http://sf.panli.com/FrontEnd/images20090801/piece/2013416Bate/Spellshop/pay_bj.gif) no-repeat 0 0;
+    padding: 20px 0;
+}
+
+.step {
+    width: 898px;
+    height: 43px;
+    margin: 0 auto;
+    display: block;
+}
+
+.ShopMessage {
+    width: 908px;
+    height: 260px;
+    margin: 0px auto 0 auto;
+}
+
+.ShopMessage-LeftBg {
+    height: 243px;
+    width: 7px;
+    background: url(http://sf.panli.com/FrontEnd/images20090801/piece/2013416Bate/leftBgshop.gif) no-repeat bottom left;
+    float: left;
+    font-size: 0px;
+}
+
+.ShopMessage-RightBg {
+    height: 243px;
+    width: 4px;
+    background: url(http://sf.panli.com/FrontEnd/images20090801/piece/2013416Bate/rigthBgshop.gif) no-repeat bottom left;
+    float: left;
+    font-size: 0px;
+}
+
+.ShopMessage-CenterCon {
+    height: 241px;
+    width: 895px;
+    float: left;
+    border: solid 1px #cbcbcb;
+    background: url(http://sf.panli.com/FrontEnd/images20090801/piece/2013416Bate/shopConBg.gif) repeat-x bottom left;
+}
+
+
+.Con-Exempt {position:absolute; width:61px; height:61px; background: url(http://sf.panli.com/FrontEnd/images20090801/piece/mianyou.png) no-repeat; margin-left:165px; }
+.Con-Message {width:222px; height:222px; float:left; display:inline; margin: 8px 0 0 13px;}
+.Con-Message ul li{ width:212px;height:35px; line-height:35px; color:#7c7c7c; padding-left:6px;}
+.Con-Message ul li.w1 { font-size:14px; font-weight:900; border-bottom:dashed 1px #cccccc;    }
+.Con-Message ul li.w3 { background-color:#efefef;}
+.Con-Message ul li.w2{background-color:#efefef; }
+.Con-Message ul li.w4 span {float:left; padding-right:7px; }
+.Con-Message ul li.w4 img {float:left;display:inline; margin:10px 3px 0 0;}
+.Con-Message ul li.w5 {background-color:#efefef;}
+.Con-Message ul li.w6 {height:60px;margin-top:25px;}
+.Con-Message ul li.w6 a { display:block; width:211px; height:40px;background: url(http://sf.panli.com/FrontEnd/images20090801/piece/2013416Bate/jinrubutton.gif) no-repeat;  margin:5px 0 0 -2px;    }
+.Con-Message ul li.w6 a:hover { background-position:-212px 0;}
+
+
+
+
+.Con-Line { font-size:0px; float:left; width:12px; height:241px;background: url(http://sf.panli.com/FrontEnd/images20090801/piece/2013416Bate/shopxian.gif) no-repeat; margin-left:10px; display:inline;  }
+
+.Con-Snatch { width:611px; height:177px; float:left; display:inline; margin:8px 0 0 10px;}
+.Con-Snatch-Tit { height:34px; line-height:34px; width:611px; border-bottom:dashed 1px #cbcbcb;}
+.Con-Snatch-Tit span {float:left;font-size:14px; font-weight:900; color:#7c7c7c}
+.Con-Snatch-Tit a { float:right; color:#6ba0bf; text-decoration:none;   }
+.Con-Snatch-Tit a:hover { color:#ff6600; text-decoration:underline;   }
+.Con-Snatch-Input { width:600px; height:107px; margin:35px 0 0 16px;}
+.ShopCartImg { float:left;}
+.Con-Snatch-Message { float:left; display:inline; margin-left:5px;width:480px;}
+.Con-Snatch-point {width:480px; height:36px; line-height:36px; font-size:14px; color:#9f9f9f;}
+.Con-Snatch-Inputs { width:480px; height:37px;}
+.ConSnatchText { border:none; background:none;height:37px; width:348px; padding:0 5px; line-height:37px;}
+.ConSnatchTextS{height:37px; width:358px;background: url(http://sf.panli.com/FrontEnd/images20090801/piece/2013416Bate/inputText.gif) no-repeat; display:inline;float:left;}
+.ConSnatchSubmit,.ConSnatchSubmit_,.ConSnatchSubmit_Over {border:none; background:none; font-size:18px; text-align:center;line-height:37px; color:#fff; height:37px; width:113px;background: url(http://sf.panli.com/FrontEnd/images20090801/piece/2013416Bate/button.gif) no-repeat; display:inline;float:left; margin-left:5px; cursor:pointer;}
+.ConSnatchSubmit_ { background-position:0 -42px;}
+.ConSnatchSubmit_Over {background-position:0 -252px;}
+.ErrorMs {display:inline; float:left; margin-top:15px; width:455px; height:16px;background: url(http://sf.panli.com/FrontEnd/images20090801/piece/2013416Bate/errorcuo.gif) no-repeat; padding-left:20px; color:#f00; }
+
+.ShopProduct { width:898px;margin-left:26px;}
+.ShopProduct-Tit { width:898px; height:40px; line-height:40px;font-size:14px; font-weight:900; color:#7c7c7c;}
+.ShopProduct-TableTh {width:898px; height:34px; line-height:33px; font-weight:900; color:#a3a3a3; text-align:left;border:solid 1px #dddddd; }
+.ShopProduct-TableTh2{ width:897px; height:33px; background-color:#f3f3f3; border-top:solid 1px #fff;  border-left:solid 1px #fff;  }
+.ShopProduct-TableTh2 span{display:block; float:left;}
+span.T1,td.T1 { width:32px;}
+span.T2,td.T2{width:290px; padding-left:18px;}
+span.T3,td.T3 {width:115px;}
+span.T4,td.T4 {width:112px;}
+span.T5,td.T5 {width:125px;}
+span.T6,td.T6 {}
+td.T1 { border-right:solid 1px #dddddd; text-align:center;}
+.sp_info { width:896px;margin-top:15px;}
+
+.ShopMessage-BottomBg {height: 17px;width: 908px;background: url(http://sf.panli.com/FrontEnd/images20090801/piece/2013416Bate/bottomBgshop.jpg) no-repeat bottom left;float: left;font-size: 0px;}
+
+.bottombg { width: 950px;height: 10px;background: url(http://sf.panli.com/FrontEnd/images20090801/piece/2013416Bate/Spellshop/pay_bj.gif) no-repeat bottom right;}
+
+.sp_info{clear:both;}
+.sp_infoOn table tr{background-color:#ecfad3; }
+.sp_info table tr.on{background-color:#f9f9f9; }
+.sp_info table{border-collapse:collapse;border-collapse:collapse;width:898px; margin-bottom:10px;}
+.sp_info table td{padding:8px 0px 8px 15px;border:#ddd solid 1px;margin:0;}
+.sp_info .no_info td{border:#f5c174 solid 1px;}
+.sp_info .w1{width:35px;padding:0;height:50px;text-align:center;}
+.w1 a{background:url(http://sf.panli.com/FrontEnd/images20090801/icon/common/sc.gif) no-repeat center;height:16px;width:16px;float:left;margin:0 0 0 10px;}
+.sp_info table .w2,.sp_info .no_info .w2{width:290px;border-right:0;}
+.sp_info table .w3,.sp_info .no_info .w3{width:110px;border-left:0;border-right:0;}
+.sp_info table .w4,.sp_info .no_info .w4{border-left:0;}
+.sp_info table .w5 {width:100px;border-left:0;border-right:0; padding:0;}
+.sp_info table .w6 {width:100px;border-left:0;border-right:0;}
+.w2 textarea{border:#a7d0e4 solid 1px;padding:3px;margin:0;height:28px;width:280px;font-size:12px;}
+.w4 textarea{border:#a7d0e4 solid 1px;padding:3px;margin:0;height:28px;width:165px;font-size:12px;}
+.w3 input{width:30px;border:1px solid #A7D0E4;font-size:14px;padding:3px;float:left;margin:0 4px 0 3px;display:inline;font-size:16px;font-family:Arial;}
+.w3 a{background:url(http://sf.panli.com/FrontEnd/images20090801/piece/2013416Bate/jj.gif) no-repeat 0 0;height:18px;width:18px;display:block;float:left;margin-top:4px;}
+.w3 .jia:hover{background-position:0 -20px;}
+.w3 .jian{background-position:-22px 0;}
+.w3 .jian:hover{background-position:-22px -20px;}
+.pic{border:#ddd solid 1px;float:left;height:40px;width:40px;padding:1px;}
+.pic img{height:40px;width:40px;cursor:text;}
+.w2 h3{font-size:12px;font-weight:100;float:left;margin:0 0 0 10px;display:inline;width:220px;line-height:20px;}
+.w2 h3 a{color:#71a8cf; text-decoration:none; cursor:text;}
+/*.w2 h3 a:hover{text-decoration:none;color:#FF0000;} */
+.w2 .red,.w4 .red{border:#FF6600 solid 1px;color:#FF0000;background:#FFFFCC;}
+.w4 .hui{color:#bbb;}
+
+.sp_info .w5{padding:4px 50px;}
+.w5 input{background:url(http://sf.panli.com/FrontEnd/images20090801/piece/2013416Bate/tianjia.gif) no-repeat 0 0;width:61px;color:#FFF;border:0;height:20px;float:left;cursor:pointer;}
+.w5 .by{background-position:0 -21px;}
+.w5 p{float:left;width:300px;margin:5px 0 0 10px;}
+
+.ShopSubmit { height:75px;margin:17px auto 0 auto; text-align:right;}
+.ShopSubmit span {display:block;}
+.ShopSubmit span em {font-style:normal;color:#f00;}
+.ShopSubmit span i {font-style:normal;color:#f00;}
+.ShopSubmit a { display:inline; width:141px; margin-top:20px; height:39px;  background:url(http://sf.panli.com/FrontEnd/images20090801/piece/2013416Bate/butonSub.gif) no-repeat; text-decoration:none; float:right;}
+.ShopSubmit a:hover { background-position:-152px 0;}
+.ShopProductON .ShopProduct-TableTh2{padding-left:20px;width:877px; color:#7c7c7c;  height:37px;}
+.ShopProductON { height:38px; line-height:37px; margin-top:20px;}
+
+.ShopProduct-Ul {height:317px; margin:18px auto 0 auto; width:950px;}
+.ShopProduct-Ul li {float:left; width:210px; margin-right:20px;}
+.ShopProduct-Ul li p{ width:210px; height:37px; line-height:37px;}
+.ShopProduct-Ul li p span { font-size:14px; font-weight:900; color:#ff0055; float:left;}
+.ShopProduct-Ul li p a { font-size:14px;color:#fff; float:right; background:url(http://sf.panli.com/FrontEnd/images20090801/piece/2013416Bate/button.gif) no-repeat; width:113px; height:37px; text-decoration:none; text-align:center;}
+.ShopProduct-Ul li p a:hover { background-position:0 -42px;}
+.ShopProduct-UlText {width:210px; display:block; height:55px; font-size:14px; text-decoration:underline; line-height:25px;}
+.ShopProduct-UlText a {   color:#71a8cf;   }
+.ShopProduct-UlText a:hover {   color:#ff6600; text-decoration:none;   }
+
+/* 成功 */
+
+.new_p_cg{height:120px;}
+.new_p_cg h2{font-size:24px;color:#80AB51;padding-left:110px;height:78px;background:url(http://sf.panli.com/FrontEnd/images20090801/welcome.jpg) no-repeat left;line-height:78px;float:left;display:inline;margin-left:230px;margin-top:30px;}
+.new_p_fail{height:100px;background:url(http://sf.panli.com/FrontEnd/images20090801/biaoqing/b7.gif) no-repeat left;padding-left:120px;margin:60px 0 250px 280px;}
+.new_p_fail h2{font-size:24px;color:#80AB51;padding-bottom:10px;}
+.new_p_fail p{font-size:14px;padding-bottom:10px;}
+.new_p_fail a{color:#71a8cf;font-size:14px;margin-right:20px;display:inline;}
+.new_p_fail a:hover{color:#F60;text-decoration:none;}
+.new_p_yd{line-height:24px;padding-left:340px;padding-bottom:250px;}
+.new_p_yd b{color:#F00;}
+.new_p_yd p{padding-bottom:10px;font-size:14px;}
+.new_p_yd a{color:#71a8cf;font-size:14px;margin-right:20px;display:inline;}
+.new_p_yd a:hover{color:#F60;text-decoration:none;}
+/* 成功 */
+
+.new_pay_t{width:896px;height:36px;background-color:#f3f3f3;border:1px solid #dddddd;margin-left:25px;}
+.new_pay_t ul li{float:left;font-weight:bold;color:#a3a3a3;margin:10px 0 0 12px;}
+.new_pay_t .p_q1{width:280px;}
+.new_pay_t .p_q2{width:108px;}
+.new_pay_t .p_q3{width:98px;}
+.new_pay_t .p_q4{width:105px;}
+
+
+.am_payment{padding-top:10px;float:right;margin-right:25px;display:inline;}
+.am_payment input{width:150px;background:white;border:#BADBEA solid 1px;padding:5px 5px 5px 5px;color:#f00;float:left;}
+.am_payment .a_red{border:#f00 solid 1px;}
+.am_payment p{font-size:14px;float:left;padding-top:5px;}
+.am_payment a{color:#71a8cf;text-decoration:none;padding-left:5px;float:left;padding-top:8px;}
+.am_payment a:hover{color:#f00;text-decoration:underline;}
+
+.pd,.pd_,.pd_h{float:left;background:url(http://sf.panli.com/FrontEnd/images20090801/piece/button.gif) no-repeat 0 0;height:40px;width:113px;color:#FFF;border:none;font-size:14px;cursor:pointer;margin-top:15px;line-height:34px;}
+.pd_{background:url(http://sf.panli.com/FrontEnd/images20090801/piece/button.gif) no-repeat 0 -42px;}
+.pd_h{background:url(http://sf.panli.com/FrontEnd/images20090801/piece/button.gif) no-repeat 0 -250px;}
+
+.pf_quer{float:right;width:228px;}
+.pf_quer a{float:left;margin:25px 15px 0 0;font-size:14px;color:#71a8cf;display:block;}
+.pf_quer a:hover{color:#ff0000;}
+
+
+.p_z_h{float:right;text-align:right;margin-right:25px;width:900px;border-bottom:1px dashed #dbdbdb;display:inline;}
+.p_z_h p{font-size:14px;margin:15px 0 10px 0;}
+.p_z_h a{color:#71a8cf;}
+.p_z_h a:hover{color:#ff6600;text-decoration:none;}
+.p_z_h span{color:#f00;}
+
+
+
+.loading{text-align:center;padding-top:10px;border:#fc0 solid 2px;height:50px;background:#FFF;margin-bottom:8px;position:relative;}
+.loading p{color:#bbb;}
+.loading img{margin-bottom:3px;}
+.new_tj{background:#fff;border:#eee solid 1px;padding:40px 0 40px 0;text-align:center;color:#bbb;margin-bottom:10px;}
+.new_tj span{color:#f90;}

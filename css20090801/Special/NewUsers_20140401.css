@@ -1,0 +1,33 @@
+﻿body{ margin:0 auto; font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span20{ height:20px; line-height:20px; display:block; clear:both;}
+.left{ float:left;}
+.right{ float:right;}
+
+#frame{ width:100%; margin:0 auto;}
+.banner{ width:100%; margin:0 auto; text-align:center; display:block;}
+.banner1{ background:url(/FrontEnd/images20090801/special/NewUsers_20140401/yhq_fudai_02.jpg) no-repeat center; height:80px;}
+.banner2{ background:url(/FrontEnd/images20090801/special/NewUsers_20140401/yhq_fudai_03.jpg) no-repeat center; height:80px;}
+.banner3{ background:url(/FrontEnd/images20090801/special/NewUsers_20140401/yhq_fudai_04.jpg) no-repeat center; height:80px;}
+.banner4{ background:url(/FrontEnd/images20090801/special/NewUsers_20140401/yhq_fudai_05.jpg) no-repeat center; height:80px;}
+.banner5{ background:url(/FrontEnd/images20090801/special/NewUsers_20140401/yhq_fudai_06.jpg) no-repeat center; height:80px;}
+.banner6{ background:url(/FrontEnd/images20090801/special/NewUsers_20140401/yhq_fudai_07.jpg) no-repeat center; height:80px;}
+.banner7{ background:url(/FrontEnd/images20090801/special/NewUsers_20140401/yhq_fudai_08.jpg) no-repeat center; height:80px;}
+.banner8{ background:url(/FrontEnd/images20090801/special/NewUsers_20140401/yhq_fudai_09.jpg) no-repeat center; height:80px;}
+.banner9{ background:url(/FrontEnd/images20090801/special/NewUsers_20140401/yhq_fudai_10.jpg) no-repeat center; height:80px;}
+.banner10{ background:url(/FrontEnd/images20090801/special/NewUsers_20140401/yhq_fudai_11.jpg) no-repeat center; height:80px;}
+.banner11{ background:url(/FrontEnd/images20090801/special/NewUsers_20140401/yhq_fudai_12.jpg) no-repeat center; height:80px;}
+.banner12{ background:url(/FrontEnd/images20090801/special/NewUsers_20140401/yhq_fudai_13.jpg) no-repeat center; height:80px;}
+.banner13{ background:url(/FrontEnd/images20090801/special/NewUsers_20140401/yhq_fudai_14.jpg) no-repeat center; height:80px;}
+.banner14{ background:url(/FrontEnd/images20090801/special/NewUsers_20140401/yhq_fudai_15.jpg) no-repeat center; height:80px;}
+.banner15{ background:url(/FrontEnd/images20090801/special/NewUsers_20140401/yhq_fudai_16.jpg) no-repeat center; height:80px;}
+.banner16{ background:url(/FrontEnd/images20090801/special/NewUsers_20140401/yhq_fudai_17.jpg) no-repeat center; height:179px;}
+
+.icon{width:267px;height:59px;top:75px;position:relative; margin:0 auto;}
+.icon a{width:267px; height:59px; display:block; background:url(/FrontEnd/images20090801/special/NewUsers_20140401/button.gif) no-repeat top;}
+.icon a:hover{ background-position:bottom;}

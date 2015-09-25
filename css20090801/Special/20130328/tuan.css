@@ -1,0 +1,40 @@
+body{ margin:0 auto; font-size:12px;font-family:Arial, Helvetica, sans-serif;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.all_style{ background:#fef0c6;}
+img{vertical-align:top;}
+.span10{ height:10px; line-height:10px; display:block; clear:both;}
+p, h1, h2, h3, h4, h5, li, ul, dl, dt, dd, b,img,div{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+
+#frame{ background-color:#acffda; background:url(/FrontEnd/images20090801/Special/20130328/tuan/group_img_03.gif) repeat-x;}
+*html  #frame{ width:950px; margin:0 auto; background-color:#ffe7d7; overflow:visible;}
+.content{ width:950px; margin:0 auto; background-color:#acffda; }
+.top1{ background:url(/FrontEnd/images20090801/Special/20130328/tuan/group_img_05.jpg) no-repeat; height:65px;}
+.top2{ background:url(/FrontEnd/images20090801/Special/20130328/tuan/group_img_07.jpg) no-repeat; height:65px;}
+.top3{ background:url(/FrontEnd/images20090801/Special/20130328/tuan/group_img_08.jpg) no-repeat; height:65px;}
+.top4{ background:url(/FrontEnd/images20090801/Special/20130328/tuan/group_img_09.jpg) no-repeat; height:65px;}
+.top5{ background:url(/FrontEnd/images20090801/Special/20130328/tuan/group_img_10.jpg) no-repeat; height:65px;}
+.top6{ background:url(/FrontEnd/images20090801/Special/20130328/tuan/group_img_11.gif) no-repeat; height:65px;}
+.top7{ background:url(/FrontEnd/images20090801/Special/20130328/tuan/group_img_12.gif) no-repeat; height:24px; font-size:14px; font-weight:bold; color:#ff1451; padding:52px 0 0 250px;}
+.top8{ background:url(/FrontEnd/images20090801/Special/20130328/tuan/group_img_14.gif) no-repeat; height:76px; position:relative;}
+.top9{ background:url(/FrontEnd/images20090801/Special/20130328/tuan/group_img_15.gif) no-repeat; height:76px;}
+.top10{ background:url(/FrontEnd/images20090801/Special/20130328/tuan/group_img_16.gif) no-repeat; height:76px;}
+.top11{ background:url(/FrontEnd/images20090801/Special/20130328/tuan/group_img_17.gif) no-repeat; height:76px;}
+.top12{ background:url(/FrontEnd/images20090801/Special/20130328/tuan/group_img_18.gif) no-repeat; height:76px; position:relative;}
+.top13{ background:url(/FrontEnd/images20090801/Special/20130328/tuan/group_img_19.gif) no-repeat; height:62px;}
+
+.link{width:202px;height:48px;left:225px;top:18px; position:absolute;}
+.link a{width:202px; height:48px; display:block; background:url(/FrontEnd/images20090801/Special/20130328/tuan/baoquan_03.gif) no-repeat top;}
+.link a:hover{ background-position:bottom;}
+
+.link01{width:202px;height:48px;left:688px;top:0px;position:absolute;}
+.link01 a{width:202px; height:48px; display:block; background:url(/FrontEnd/images20090801/Special/20130328/tuan/baoquan_06.gif) no-repeat top; }
+.link01 a:hover{ background-position:bottom;}
+
+.link02{width:202px;height:48px;left:67px;top:10px;position:absolute;}
+.link02 a{width:202px; height:48px; display:block; background:url(/FrontEnd/images20090801/Special/20130328/tuan/baoquan_11.gif) no-repeat top;}
+.link02 a:hover{ background-position:bottom;}
+
+.link03{width:202px;height:48px;left:405px;top:8px;position:absolute;}
+.link03 a{width:202px; height:48px; display:block; background:url(/FrontEnd/images20090801/Special/20130328/tuan/baoquan_14.gif) no-repeat top;}
+.link03 a:hover{ background-position:bottom;}

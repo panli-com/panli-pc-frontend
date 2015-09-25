@@ -1,0 +1,72 @@
+body{height:100%;color:#333;font-size:12px;margin:0;padding:0;font-family:Verdana, Arial, Helvetica, sans-serif;background-color:#f9fafa;}
+img{border:none;}
+dl,dd,dt,h2,h3,p{margin:0;padding:0;}
+input{color:#4d4d4d;font-family:Arial, Helvetica, sans-serif;}
+
+.top{width:950px;margin:auto;height:85px;margin-top:5px}
+.logo{float:left;margin-top:7px;}
+.hf{float:left;border-left:#ddd solid 2px;margin:12px 0 0 15px;padding:11px 0 2px 15px;height:44px;display:inline;}
+.T_right{float:right;margin:10px 10px 0 0;display:inline}
+.T_right a{color:#bbb;text-decoration:none;}
+.T_right a:hover{color:#F90;text-decoration:underline}
+.T_right span{color:#bbb;margin:0 5px;}
+
+.infos{width:960px;margin:0 auto;background:url(http://sf.panli.com/FrontEnd/images20090801/Oauth/fbg.gif) no-repeat 0 top;padding-top:10px;}
+.infos_mid{background:url(http://sf.panli.com/FrontEnd/images20090801/Oauth/fbg.gif) repeat-y -960px 0;padding-top:40px;overflow:hidden;height:510px;}
+
+.info_l{width:428px;border-right:2px solid #f3f3f3;padding-left:50px;float:left;height:460px;}
+.info_l h2,.info_r h2{font-size:20px;font-family:"微软雅黑";margin-bottom:20px;font-weight:normal;}
+.info_l .m1{background-color:#f8f8f8;width:360px;margin-bottom:20px;padding:4px;color:#4d4d4d;}
+.info_l .m1 p,.info_r .m1 p{font-size:14px;line-height:24px;padding-left:6px;}
+.info_l .m1 p .tubiao,.info_r .m1 .tubiao{background:url(http://sf.panli.com/FrontEnd/images20090801/Oauth/facebook.gif) no-repeat 4px 3px;padding-left:26px;display:inline-block;height:24px;}
+.info_l .m1 p i,.info_r .m1 p i{color:#299028;font-family:"微软雅黑";font-style:normal;font-weight:bold;}
+
+.m_info{border-collapse:collapse;} 
+.m_info tr{position:relative;z-index:2;}
+.m_info td{font-size:14px;}
+.m_info .wid1{width:84px;padding-left:10px;}
+.m_info .wid2{width:90px;padding-left:10px;}
+.m_info .wid3{width:60px;}
+.m_info .wid4{width:70px;}
+.m_info .weizhi{position:relative;top:-18px;z-index:4;}
+
+
+.m_info .info_tips{width:250px;float:left;height:34px;}
+.m_info p{padding-top:2px;float:left;width:250px;}
+.m_info input{border:#c1c1c1 solid 1px;padding:7px 5px 6px 5px;float:left;width:240px;background:url(http://sf.panli.com/FrontEnd/images20090801/Oauth/input_bg.gif) repeat-x 0 0;height:18px;}
+/*验证码*/
+.m_info .yzm{width:130px;margin-right:10px;}
+.m_info img{width:100px;height:30px;float:left;cursor: pointer;vertical-align:middle;margin-top:1px;}
+/*验证码*/
+.m_info .hui{ font-size:12px;color:#ccc;}
+.m_info .red{ font-size:12px;color:#f00;}
+.m_info .succeed{background:url(http://sf.panli.com/FrontEnd/images20090801/Oauth/succeed.jpg) no-repeat 0 8px;float:left;width:16px;height:16px;padding:0 0 8px 0;position:relative;top:-18px;z-index:4;}
+
+.queding1{border-top:1px dashed #e5e5e5;margin:20px 20px 0 0;padding:20px 0 0 93px;width:270px;}
+.queding2{border-top:1px dashed #e5e5e5;margin:20px 20px 0 0;padding:20px 0 0 100px;width:300px;}
+
+.queding1 .qd{background:url(http://sf.panli.com/FrontEnd/images20090801/Oauth/queding.gif) no-repeat 0 0;height:38px;width:111px;border:none;font-size:18px;color:#FFF;line-height:38px;cursor:pointer;font-family:"微软雅黑";}
+.queding1 .qd_{background:url(http://sf.panli.com/FrontEnd/images20090801/Oauth/queding.gif) no-repeat 0 -39px;height:38px;width:111px;border:none;font-size:18px;color:#FFF;line-height:38px;cursor:pointer;font-family:"微软雅黑";}
+.queding2 .qd2{background:url(http://sf.panli.com/FrontEnd/images20090801/Oauth/queding2.gif) no-repeat 0 0;height:38px;width:141px;border:none;font-size:18px;color:#FFF;line-height:38px;cursor:pointer;font-family:"微软雅黑";}
+.queding2 .qd2_{background:url(http://sf.panli.com/FrontEnd/images20090801/Oauth/queding2.gif) no-repeat 0 -39px;height:38px;width:141px;border:none;font-size:18px;color:#FFF;line-height:38px;cursor:pointer;font-family:"微软雅黑";}
+
+.info_r{width:440px;padding-left:40px;float:left;}
+.info_r .m1{background-color:#f8f8f8;width:390px;margin-bottom:20px;padding:4px;color:#4d4d4d;}
+
+.border_bottom{background:url(http://sf.panli.com/FrontEnd/images20090801/Oauth/fbg.gif) no-repeat -1920px bottom;height:10px;clear:both;margin:-10px 0 -10px 0;z-index:2;position:relative;}
+
+.join input{background:url(http://sf.panli.com/FrontEnd/images20090801/Oauth/go2.gif) no-repeat;height:41px;width:90px;border:none;font-size:14px;color:#FFF;line-height:30px;padding-bottom:11px;cursor:pointer;}
+.join .by{background-position:0 bottom;color:#D1500A}
+.tishi{margin:12px 0 0 5px;}
+.tishi h3{font-size:14px;}
+.tishi p{color:#999;margin-top:7px;line-height:20px}
+.tishi p a{color:#71A8CF;margin-right:3px;}
+.tishi p a:hover{color:#F90;text-decoration:none;}
+
+.foot{height:60px;margin:auto;width:950px;text-align:center;padding-top:22px;color:#aaa;margin-top:5px;}.foot a{color:#aaa}.foot a:hover{color:#F60}.foot p{margin-bottom:8px;}
+
+.sm{color:#d77127;font-size:12px;height:22px;line-height:22px;width:318px;margin:-24px 0 0px 0;float:left;display:inline;position:absolute;background:#fdffd3 url(http://sf.panli.com/FrontEnd/images20090801/Oauth/deng.gif) no-repeat 3px center;border:#f1daa8 solid 1px;padding-left:18px;white-space:nowrap;}
+.sm span{background:#d77127;color:#FFF;padding:0 1px;}
+
+.facebook{ background:url(http://sf.panli.com/FrontEnd/images20090801/Oauth/facebook.gif) no-repeat left 0;color:#333;font-size:12px;color:#71a8cf;text-decoration:none;margin-left:6px;padding:2px 0 5px 22px;}
+.facebook:hover{color:#f90;text-decoration:underline;}

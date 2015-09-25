@@ -1,0 +1,37 @@
+ h1, h2, h3, h4, h5, li, ul, dl, dt, dd, b,img,div{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal; }
+.bannertop01{ width:950px;height:50px;padding:0px;margin:auto;text-align:center;}
+.bannertop02{ width:950px;height:80px;padding:0px;margin:auto;text-align:center;}
+
+.bannertop03{ width:950px;height:100px;padding:0px;margin:auto;text-align:center; position:relative; }
+.fregister{position: absolute; width:176px; height:44px;  left:740px; top:18px;}
+.fregister a{ background:url(/FrontEnd/Images20090801/Special/20110616/btn.gif) no-repeat top; width:176px; height:44px;  display:block; }
+.fregister a:hover{ background-position:bottom;}
+
+.allstyle{ font-family:Verdana, Arial, Helvetica, sans-serif; font-size:14px; color:#7c7c7c; text-align:left;}
+.allstyle a{ color:#5db7f1; text-decoration:underline; }
+.allstyle a:hover{ color:#ff7e30; text-decoration:underline; }
+
+.content_hd{ width:950px; height:605px; margin:0px; padding:0px;margin:auto;text-align:center;}
+.leftbg{width:80px; height:605px; float:left; background:url(/FrontEnd/Images20090801/Special/20110616/leftbg.gif) repeat-y;}
+.rightbg{width:80px; height:605px; float:right;background:url(/FrontEnd/Images20090801/Special/20110616/rightbg.gif) repeat-y;}
+.textm{ width:780px; height:605px;float:left; background:#ffffff; text-align:left; text-indent:10px; }
+.textm ul{ margin:0px; padding:0px; }
+.lititle{ width:auto; height:24px; margin:15px auto; _margin:13px auto; }
+.liw01{width:780px; height:22px; margin:0px auto 5px auto;}
+.lidiy{width:auto; height:140px;margin:0px auto 5px auto; _margin:0px auto; }
+.lidiytext{ width:780px; height:22px; font-weight:bold;margin:11px auto 5px auto;}
+.textspecial{font-weight: normal; }
+.liwenzi{width:780px; height:22px; margin:0px auto 5px auto; text-align:right;}
+
+.panlihelper{width:950px;height:150px; background:url(/FrontEnd/Images20090801/Special/20110616/panlihelper.gif) no-repeat;padding:0px;margin:auto;text-align:right; position:relative;}
+.startbtn{position: absolute; width:300px; height:25px;  left:558px; top:105px;}
+.bottom_s{ width:950px;height:160px; background:url(/FrontEnd/Images20090801/Special/20110616/bottombg.gif) no-repeat;padding:0px;margin:auto;text-align:center; margin-bottom:5px;position:relative;}
+.lxfs{ width:650px; height:25px;position:absolute; left:150px; top:40px;text-align:left; }
+.lefttext{ float:left;}
+.righttext{float:right;
+
+
+
+
+
+

@@ -1,0 +1,64 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{font-family:Verdana,Arial, Helvetica, sans-serif; font-size:12px; margin:0px;padding:0px; color:#5E5E5E; }
+img{border:0px;}
+
+ul,li,dl,dt,dd,p{ list-style-type:none;  margin:0px;padding:0px; border:0px;}
+.new_other{ width:950px; height:auto; display:table; margin:auto; text-align:center; background:#fff; padding-bottom:10px;}
+
+.new_other a:link,.new_other a:visited{ color:#333; text-decoration:none;}
+.new_other a:hover{ color:#FF4200; text-decoration:underline;}
+.guidance{ width:950px; height:15px; line-height:15px; padding-bottom:5px; padding-top:5px;text-align:left;color:#5E5E5E;  margin:auto; background:#fff; text-indent:5px;}
+.free_tip{width:918px; height:auto; line-height:25px; vertical-align:middle; margin:5px;float:left; border:1px solid #bcddff; background:#eff9ff; text-align:left; display: inline; padding-left:20px;}
+.free_tip span{ font-size:14px; font-weight:bold;}
+
+.free_header{ width:938px; height:27px; display: inline; font-size:14px;float:left;vertical-align:middle; margin:0px 5px;text-align:left;}
+.free_left{ width:90px; height:27px; line-height:27px; vertical-align:middle; text-align:center; color:#fff; background: url(http://sf.panli.com/FrontEnd/images20090801/s_header_current_bg.gif) repeat-x;float:left; }
+.free_right{ width:848px; height:27px; line-height:27px; vertical-align:middle; text-align:left; background: url(http://sf.panli.com/FrontEnd/images20090801/s_panel_header_bg.gif) repeat-x;float:left;text-indent:5px;}
+.logo_main{width:938px; height:auto; display: inline; font-size:14px;float:left;vertical-align:middle; margin:0px 5px;text-align:left; background:#fffbe7; padding-bottom:5px;}
+.logo_main  a:link,.logo_main a:visited{ color:#FE8200; text-decoration:none;}
+.logo_main  a:hover{ color:#FE8200; text-decoration: underline;}
+.logo11{ width:116px; height: auto; display:table; margin:7px 10px; float:left;}
+.logo11 dt{ width:114px; height:90px; line-height:90px; vertical-align:middle; text-align:center; background:#fff; border:1px solid #FFD591;display:table;position:relative;overflow:hidden; }
+.logo11 dt p{+position:absolute;top:50%;  vertical-align:middle;display:table-cell;}
+.logo11 dt img{+position:relative;top:-50%;left:-50%;vertical-align:middle;display:table-cell;}
+.logo11 dd{ width:114px; height:25px; text-align:center; line-height:25px; vertical-align:middle; color:#FE8200; font-size:14px; font-weight:bold; display: block; }
+.logo22{ width:198px; height:auto;  display:table; margin:7px 8px;float:left;}
+.logo22 dt{ width:196px; height:90px; line-height:90px;  vertical-align:middle;  text-align:center; background:#fff; border:1px solid #FFD591;display:table;position:relative;overflow:hidden; }
+.logo22 dt p{+position:absolute;top:50%;  vertical-align:middle;display:table-cell;}
+.logo22 dt img{+position:relative;top:-50%;left:-50%;vertical-align:middle;display:table-cell;}
+.logo22 dd{ width:196px; height:25px; text-align:center; line-height:25px; vertical-align:middle; color:#FE8200; font-size:14px; font-weight:bold; }
+.logo44{ width:334px; height: auto; display:table; margin:7px 8px;float:left;}
+.logo44 dt{ width:332px; height:90px;line-height:90px; vertical-align:middle;  text-align:center; background:#fff;border:1px solid #FFD591;display:table;position:relative;overflow:hidden;}
+.logo44 dt p{+position:absolute;top:50%;  vertical-align:middle;display:table-cell;}
+.logo44 dt img{+position:relative;top:-50%;left:-50%;vertical-align:middle;display:table-cell;}
+.logo44 dd{ width:332px; height:25px; text-align:center; line-height:25px; vertical-align:middle; color:#FE8200;font-size:14px; font-weight:bold; }
+.hot_main{width:938px; height:auto; display:inline;  float:left; vertical-align:middle;  margin:0px 5px;text-align:left; background:#fffbe7; padding-bottom:5px;}
+.phb_left{ width:248px; height:auto; display:table; font-size:14px; background:#fff;font-weight:bold; border:1px solid #CCCECC; margin:20px; float:left; position:relative;display: block!important;}
+.phb_left dt{width:248px; height:30px; line-height:30px; vertical-align:middle;display:table-cell; text-align:left; border-bottom:2px solid #CCCECC; text-indent:10px; background:#f3f3f3;display: block!important;}
+.phb_left dd{width:248px; height:30px; line-height:30px; vertical-align:middle;display:table-cell; text-align:left; border-bottom:1px  dashed #cdcdcd; text-indent:10px; background:url(http://sf.panli.com/FrontEnd/images20090801/dot2.gif) no-repeat 220px;display: block!important;cursor:pointer;}
+.phb_right{ width:268px; height:auto; display:table;font-size:12px; background:#fff; border:1px solid #CCCECC; margin:20px; float:right;}
+.phb_right dt{width:268px; height:30px; line-height:30px; vertical-align:middle;display:table-cell; text-align:left; border-bottom:2px solid #CCCECC; text-indent:10px; background:#f3f3f3;font-weight:bold;font-size:14px;display: block!important; }
+.phb_right dd{width:268px; height:30px; line-height:30px; vertical-align:middle;display:table-cell; text-align:left; border-bottom:1px  dashed #cdcdcd; text-indent:10px; display: block!important;_height:25px; _padding-top:8px;}
+.phb_hot{ width:170px; height:18px; display: block; float:left; text-align:left;}
+.phb_xingji{width:74px; height:18px;display: block; float:left; padding-top:7px; _height:25px; _padding-top:8px; }
+
+
+.t_w_w{ color:#fe8e01; padding-left:3px;}
+.t_w_w a:link,t_w_w a:visited{color:#fe8e01;text-decoration:none;}
+.t_w_w a:hover{ color:#fe8e01; text-decoration: underline;}
+
+
+.w_hot_left{ text-align:left; width:288px; height:22px; line-height:22px; vertical-align: middle; float:left; border-bottom:2px solid #fe8200; border-top:2px solid #fe8200; border-left:2px solid #fe8200; text-indent:8px; color:#fe8200;font-size:14px; font-weight:bold; background:#fff url(http://sf.panli.com/FrontEnd/images20090801/dot1.gif) no-repeat 218px;position:absolute; top:35px; left:28px; z-index:100; }
+.w_hot_right{width:250px; height:auto; display:table; float:right;background:#fff;text-align:center; position:absolute; top:-2px; left:288px; z-index:100; }
+
+.hot_shop_1{width:248px; height:22px; float:left; border-top:2px solid #fe8200; border-right:2px solid #fe8200;}
+.hot_shop_2{width:246px; height:auto; display:table; float:left; border-left:2px solid #fe8200; border-bottom:2px solid #fe8200; border-right:2px solid #fe8200;}
+
+.w_hot_t{ width:240px; height:20px; line-height:20px; display:table-cell; display: block!important;vertical-align:middle; margin:2px auto; background:#fcf1e4; color:#fe8200;font-size:14px; font-weight:bold;text-align:center;}
+.w_hot_web{width:240px; height:30px; line-height:30px;vertical-align:middle;  display:table-cell; display: block!important;margin:5px auto; 
+border-bottom:1px  dashed #cdcdcd; font-weight:normal; text-align:left;  _height:25px; _padding-top:5px;}
+
+.w_hot_web img{ width:88px; height:22px; vertical-align: middle; margin-left:5px; margin-right:25px;}
+.w_hot_white{ width:288px; height:144px;float:left;border-right:2px solid #fe8200; }

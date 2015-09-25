@@ -1,0 +1,23 @@
+body{ margin:0 auto;}
+#frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+a{ color:#555; text-decoration:none;}
+a:hover{ color:#ff5400; text-decoration:underline;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+
+.back06{ position:relative;}
+.back07{ position:relative;}
+.back09{ position:relative;}
+.back10{ background:url(/FrontEnd/images20090801/Special/2012072/default/index_img_13.jpg) no-repeat; height:59px;}
+.icon{width:177px;height:48px; left:590px; top:53px;position:absolute;}
+.icon a{width:177px; height:48px; display:block; background:url(/FrontEnd/images20090801/Special/2012072/default/icon_03.gif) no-repeat top;}
+.icon a:hover{ background-position:bottom;}
+.icon1{width:177px;height:48px; left:200px; top:5px;position:absolute;}
+.icon1 a{width:177px; height:48px; display:block; background:url(/FrontEnd/images20090801/Special/2012072/default/icon_03.gif) no-repeat top;}
+.icon1 a:hover{ background-position:bottom;}
+.icon2{width:177px;height:48px; left:450px; top:22px;position:absolute;}
+.icon2 a{width:177px; height:48px; display:block; background:url(/FrontEnd/images20090801/Special/2012072/default/icon_03.gif) no-repeat top;}
+.icon2 a:hover{ background-position:bottom;}

@@ -1,0 +1,51 @@
+body{ margin:0 auto;font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto; margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span20{ height:20px; line-height:20px; display:block; clear:both;}
+.span25{ height:25px; line-height:25px; display:block; clear:both;}
+
+#frame{ background-color:#eb3d5c; margin:0 auto;}
+.banner_top{ width:100%; margin:auto;}
+.banner1{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/banner1.gif) no-repeat center; height:65px;}
+.banner2{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/banner2.jpg) no-repeat center; height:65px;}
+.banner3{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/banner3.jpg) no-repeat center; height:65px;}
+.banner4{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/banner4.jpg) no-repeat center; height:65px;}
+.banner5{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/banner5.jpg) no-repeat center; height:65px;}
+.banner6{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/banner6.gif) no-repeat center; height:51px;}
+
+.content{ width:960px; margin:auto;}
+.products{ background-color:#c31131; width:940px; padding:10px 10px 0 10px; overflow:hidden;}
+.clear{ clear:both;}
+.products .none{ border:none; padding:0; margin-right:17px;}
+.products li{ width:170px; background-color:#fff; float:left; display:block; text-align:center; padding:5px; margin:0 6px 10px 2px;  position:relative;}
+h3{ display:block; font-size:15px; color:#555; text-decoration:none; padding:10px 0; font-weight:bold;}
+h3 a{ color:#555; text-decoration:none;} h3 a:hover{ color:#eb3d5c;}
+.collection{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/button1.gif) no-repeat; width:90px; height:28px; line-height:28px; float:left; text-align:center; font-size:15px; margin:0 9px 0 6px;}
+.collection a{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/button1.gif) no-repeat; width:90px; height:28px; line-height:28px; display:block; color:#fff; text-decoration:none;}
+.collection a:hover{ background-position:bottom; color:#fff;}
+.buy{background:url(/FrontEnd/images20090801/Special/2013ShopTop10/button2.gif) no-repeat; width:60px; height:28px; line-height:28px; float:left; text-align:center; font-size:15px;}
+.buy a{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/button2.gif) no-repeat; width:60px; height:28px; line-height:28px; display:block; color:#cc1234; text-decoration:none;}
+.buy a:hover{ background-position:bottom; color:#cc1234;}
+.lipin_img{ float:left; padding:5px 0 15px 20px;}.text{ float:left; padding:5px 0 15px 30px;}
+.dianpu{position:relative;}
+.icon{width:382px;height:45px; position:absolute;}
+.icon a{width:382px; height:45px; display:block; background:url(/FrontEnd/images20090801/Special/2013ShopTop10/dianpu.gif) no-repeat top;}
+.icon a:hover{ background-position:bottom;}
+.fuceng{ width:154px; height:235px; top:48%; left:85%; position: fixed; z-index:500;}
+
+
+.icon1,.icon2,.icon3,.icon4,.icon5,.icon6,.icon7,.icon8,.icon9,.icon10{width:32px; height:30px;position:absolute; left:14px;}
+.icon1{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/icon.png) no-repeat top;}
+.icon2{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/icon.png) no-repeat 0 -30px;}
+.icon3{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/icon.png) no-repeat 0 -60px;}
+.icon4{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/icon.png) no-repeat 0 -90px;}
+.icon5{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/icon.png) no-repeat 0 -120px;}
+.icon6{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/icon.png) no-repeat 0 -150px;}
+.icon7{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/icon.png) no-repeat 0 -180px;}
+.icon8{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/icon.png) no-repeat 0 -210px;}
+.icon9{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/icon.png) no-repeat 0 -240px;}
+.icon10{ background:url(/FrontEnd/images20090801/Special/2013ShopTop10/icon.png) no-repeat bottom;}

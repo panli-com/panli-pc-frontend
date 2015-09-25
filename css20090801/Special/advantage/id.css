@@ -1,0 +1,79 @@
+body{ margin:0 auto; font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span20{ height:20px; line-height:20px; display:block; clear:both;}
+.left{ float:left;}
+.right{ float:right;}
+
+#frame{ width:100%; margin:0 auto; background:url(/FrontEnd/images20090801/special/advantage/back.gif) fixed;}
+.banner{ width:100%; margin:0 auto; text-align:center;}
+.banner1{ background:url(/FrontEnd/images20090801/special/advantage/tao_banner1.jpg) no-repeat center; height:80px;}
+.banner2{ background:url(/FrontEnd/images20090801/special/advantage/tao_banner2.jpg) no-repeat center; height:80px;}
+.banner3{ background:url(/FrontEnd/images20090801/special/advantage/tao_banner3.jpg) no-repeat center; height:80px;}
+.banner4{ background:url(/FrontEnd/images20090801/special/advantage/tao_banner4.jpg) no-repeat center; height:80px;}
+.banner5{ background:url(/FrontEnd/images20090801/special/advantage/tao_banner5.jpg) no-repeat center; height:104px;}
+
+.con_top{ background:url(/FrontEnd/images20090801/special/advantage/tao_img_03.gif) no-repeat; width:988px; height:53px; margin:0 auto;}
+.content{ width:960px; margin:0 auto;}
+.amy1{ background:url(/FrontEnd/images20090801/special/advantage/tao_img_06.jpg) no-repeat; height:145px;}
+.amy2{ background:url(/FrontEnd/images20090801/special/advantage/tao_img_08.gif) no-repeat; height:145px;}
+.amy3{ background:url(/FrontEnd/images20090801/special/advantage/tao_img_09.gif) no-repeat; height:145px;}
+.amy4{ background:url(/FrontEnd/images20090801/special/advantage/tao_img_10.gif) no-repeat; height:139px;}
+.ceng{ background:url(/FrontEnd/images20090801/special/advantage/tao_img_11.gif) no-repeat; height:24px;}
+.jineng_one{ background-color:#fcfafa; padding:25px; overflow:hidden;}
+.sale li{ float:left; padding:30px 3px 25px 3px;}
+.sale_img{ text-align:center;}
+.app_store{position:relative;}
+.anquang li{ float:left; padding:20px 3px 0 3px;}
+.team{ width:440px; float:left;}
+.team_con{ border:solid 3px #dfdbce; background-color:#fff; margin-top:15px; padding:12px; overflow:hidden; clear:both; width:410px;}
+.panli_img{ float:left;}
+.panli_title{ float:left; display:block; margin-left:15px; color:#f75e34; font-weight:bold; background:url(/FrontEnd/images20090801/special/advantage/tao_img_65.gif) no-repeat left center; padding-left:40px; font-size:16px;}
+.panli_title a{ color:#f75e34; text-decoration:none;} 
+.text{ display:block; margin-left:15px; width:270px; float:left; font-size:14px; line-height:20px; color:#555; text-indent:4ex; margin-top:6px;}
+.text a{ text-decoration:none; color:#555;}
+.text span{ color:#f75e34;}	
+.xian{ height:24px; clear:both; background:url(/FrontEnd/images20090801/special/advantage/tao_img_71.gif) no-repeat center;}
+.huiyuan{ width:440px; float:right;}
+.shopp_img{ float:left;}
+.shopp_title{ width:270px; float:left; display:block; margin-left:15px; color:#f75e34; font-weight:bold; background:url(/FrontEnd/images20090801/special/advantage/tao_img_65.gif) no-repeat left center; padding-left:40px; font-size:14px;}
+.shopp_title span{ float:right; width:50px; display:block;} .shopp_title span a{ color:#f75e34; text-decoration:none;}
+
+.shopp_text{ display:block; margin-left:15px; width:310px; float:left; font-size:12px; line-height:16px; color:#555; text-indent:4ex; margin-top:4px;}
+.shopp_text a{ text-decoration:none; color:#555;} 
+.yuuli{ display:block; width:310px; float:left; margin-left:15px; font-size:12px; color:#999;}
+.news{ margin-top:4px; display:block; float:left; width:410px;}
+.news li{ float:left; font-size:12px; color:#555; width:202px;}
+.news li a{ text-decoration:none; color:#555;}
+.news li a:hover{ color:#f75e34;}
+.jiaru{ text-align:center; padding:20px;}
+.zhuce{ position:relative; height:100px;}
+
+.tubiao{ height:60px;}
+.fenxiang{position:relative; float:left; top:21px; left:630px;}
+.button_icon{position:relative;top:15px; float:right;}
+.button_icon a{display:inline;float: left;width:30px;height:30px; margin: 0 7px;background: url(/FrontEnd/images20090801/special/advantage/icon.gif) no-repeat;text-decoration: none;}
+.button_icon a.Share1 {background-position: -0px 0px;}
+.button_icon a.Share2 {background-position: -40px 0px;}
+.button_icon a.Share3 {background-position: -80px 0px;}
+.button_icon a.Share4 {background-position: -120px 0px;}
+.button_icon a.Share5 {background-position: -160px 0px;}
+.button_icon a.Share1:hover{background-position:-0px -30px;}
+.button_icon a.Share2:hover{ background-position:-40px -30px;}
+.button_icon a.Share3:hover{background-position:-80px -30px;}
+.button_icon a.Share4:hover{background-position:-120px -30px;}
+.button_icon a.Share5:hover{background-position:-160px -30px;}
+
+.icon{width:232px;height:51px;left:365px;top:5px;position:absolute;}
+.icon a{width:232px; height:51px; display:block; background:url(/FrontEnd/images20090801/special/advantage/zhuce.gif) no-repeat top;}
+.icon a:hover{ background-position:bottom;}
+.icon1{width:141px;height:46px;left:615px;top:5px;position:absolute;}
+.icon1 a{width:141px; height:46px; display:block; background:url(/FrontEnd/images20090801/special/advantage/button1.gif) no-repeat top;}
+.icon1 a:hover{ background-position:bottom;}
+.icon2{width:141px;height:46px;left:615px;top:62px;position:absolute;}
+.icon2 a{width:141px; height:46px; display:block; background:url(/FrontEnd/images20090801/special/advantage/button2.gif) no-repeat top;}
+.icon2 a:hover{ background-position:bottom;}

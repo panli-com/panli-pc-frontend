@@ -1,0 +1,312 @@
+﻿@charset "utf-8";
+/* CSS Document */
+ul, ol {
+	list-style: none outside none;
+}
+img {
+	border: medium none;
+}
+html, body, table, td, th, img, form, input, ul, ol, li, dl, dt, dd, p, h1, h2, h3, h4, h5, h6, textarea {
+	margin: 0;
+	padding: 0;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif, Tahoma, Geneva, sans-serif;
+	color: #929292;
+	font-weight: normal;
+}
+body {
+	background: #ededed;
+}
+a {
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif, Tahoma, Geneva, sans-serif;
+	cursor: pointer;
+	color: #555;
+}
+a:hover {
+	color: #ff0000;
+}
+input, select {
+	vertical-align: middle;
+	border: none;
+}
+.f_l {
+	float: left;
+}
+.f_r {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+.pink {
+	color: #E50065;
+}
+.red {
+	color: #a90000;
+}
+.green {
+	color: #81b92b;
+	font-weight: bold;
+}
+.gray {
+	color: #333;
+	font-weight: bold;
+}
+.clearfix:before, .clearfix:after {
+	content: "";
+	display: table;
+}
+.clearfix:after {
+	clear: both;
+	overflow: hidden;
+}
+.clearfix {
+	clear: both;
+	zoom: 1;
+}
+em {
+	font-style: normal;
+}
+/*===公用===*/
+.box {
+	border-bottom: dashed 1px #aaa;
+}
+.box_w {
+	border-top: dashed 1px #fff;
+}
+/*---顶部---*/
+.header {
+	width: 100%;
+	background: url(/FrontEnd/images20090801/beimeidaigou/head_bg.png) repeat-x;
+	height: 102px;
+	border-bottom: 5px solid #6aab32;
+}
+.head {
+	height: 92px;
+	width: 965px;
+	margin: 0px auto;
+	padding-top: 10px;
+}
+.logohead
+{
+    float:left;
+    }
+.logoRight
+{
+    float:right;
+    display:inline;
+    margin-top:15px;
+    }
+/*banner*/
+.banner {
+	width: 100%;
+	height: 325px;
+	overflow: hidden;
+    position:relative;
+	border-bottom: 1px solid #e7e7e7;
+}
+.ban_img {
+	width: 100%;
+	margin: 0px auto;
+	position: relative;
+	height: 325px;
+    text-align:center;
+}
+.ban_img li{
+     z-index:1;
+     left:0px;
+     position:absolute;
+     width:100%;
+     text-align:center;
+}
+.ban_img div{
+	width: 970px;
+	margin: 0px auto;
+	height: 325px;
+    position:relative;
+}
+.ban_img a.register {
+	background: url(/FrontEnd/images20090801/beimeidaigou/btn1.png) 0px 0px no-repeat;
+	height: 44px;
+	width: 188px;
+	display: block;
+	position: absolute;
+	top: 221px;
+	left: 14px;
+}
+.ban_img a.register:hover {
+	background: url(/FrontEnd/images20090801/beimeidaigou/btn1.png) 0px -46px no-repeat;
+}
+/*border:1px solid #f00;
+*/
+.ban_icon {
+	position: absolute;
+	bottom: 7px;
+	left: 50%;
+	width: 35px;
+    margin-left:-17px;
+    z-index:15;
+}
+.ban_icon li {
+	margin: 0px 3px;
+	float: left;
+    background: url(/FrontEnd/images20090801/beimeidaigou/icon_01.png) -16px 0px no-repeat;
+	width: 10px;
+	height: 10px;
+    cursor:pointer;
+}
+.ban_icon li.up {
+	background: url(/FrontEnd/images20090801/beimeidaigou/icon_01.png) 0px 0px no-repeat;
+}
+/*---content---*/
+.main {
+	border-top: 1px solid #fff;
+	width: 100%;
+}
+.con_info {
+	width: 970px;
+	margin: 0px auto;
+}
+.serve_list {
+	background: url(/FrontEnd/images20090801/beimeidaigou/img_08.jpg) 0px 20px no-repeat;
+	padding: 0px 0px 50px;
+	height: 141px;
+	width: 970px;
+	position: relative;
+}
+.serve_list a {
+	position: absolute;
+	display: block;
+	height: 129px;
+	width: 314px;
+	top: 16px;
+	left: 651px;
+}
+.icons li {
+	margin: 35px 27px;
+	padding-top: 57px;
+	float: left;
+	background: url(/FrontEnd/images20090801/beimeidaigou/img_02.jpg) no-repeat;
+	width: 253px;
+	height: 195px;
+}
+.icons li span {
+	margin: 0px auto;
+	width: 56px;
+	height: 54px;
+	display: block;
+	background: url(/FrontEnd/images20090801/beimeidaigou/icon_02.png) 0px 0px no-repeat;
+}
+.icons li span.green {
+	background: url(/FrontEnd/images20090801/beimeidaigou/icon_02.png) -62px 0px no-repeat;
+}
+.icons li span.red {
+	background: url(/FrontEnd/images20090801/beimeidaigou/icon_02.png) -124px 0px no-repeat;
+}
+.icons li p {
+	margin: 25px auto 0px;
+	width: 153px;
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: bold;
+	color: #fdbe13;
+}
+.icons li p.green {
+	color: #8dd66d;
+	width: 163px;
+}
+.icons li p.red {
+	color: #f95428;
+	width: 160px;
+}
+.writeView {
+	background: url(/FrontEnd/images20090801/beimeidaigou/img_04.jpg) 28px 26px no-repeat;
+	width: 970px;
+	height: 470px;
+	position: relative;
+}
+.writeView div {
+	position: absolute;
+	width: 270px;
+	height: 70px;
+}
+.list_01 {
+	top: 63px;
+	left: 48px;
+}
+.list_02 {
+	top: 190px;
+	left: 79px;
+}
+.list_03 {
+	top: 319px;
+	left: 48px;
+}
+.list_04 {
+	top: 63px;
+	left: 654px;
+}
+.list_05 {
+	top: 190px;
+	left: 632px;
+}
+.list_06 {
+	top: 325px;
+	left: 654px;
+}
+.writeView img {
+	float: left;
+	margin-right: 10px;
+}
+.writeView p {
+	float: left;
+	color: #2f2f2f;
+	line-height: 20px;
+	width: 175px;
+}
+.writeView p span {
+	color: #ff6000;
+	font-weight: bold;
+}
+.btn {
+	padding: 72px 0px 60px;
+	background: url(/FrontEnd/images20090801/beimeidaigou/img_03.jpg) 230px 0px no-repeat;
+}
+.btn a {
+	display: block;
+	background: url(/FrontEnd/images20090801/beimeidaigou/btn.jpg) 0px 0px no-repeat;
+	width: 231px;
+	height: 57px;
+	margin: 0px auto;
+}
+.btn a:hover {
+	display: block;
+	background: url(/FrontEnd/images20090801/beimeidaigou/btn.jpg) 0px -60px no-repeat;
+}
+.partner {
+	padding: 45px 0px 5px;
+	background: url(/FrontEnd/images20090801/beimeidaigou/title_bg.jpg) no-repeat;
+	width: 970px;
+	text-align: center;
+}
+/*---foot---*/
+.buttom {
+	display: block;
+	clear: both;
+	background: url(/FrontEnd/images20090801/beimeidaigou/page_img_149.gif) repeat-x;
+	height: 137px;
+	padding-top: 30px;
+	margin-top: 20px;
+}
+.copy {
+	width: 950px;
+	margin: 0 auto;
+	text-align: center;
+	color: #555;
+	line-height: 30px;
+	font-size: 14px;
+}

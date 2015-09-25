@@ -1,0 +1,48 @@
+body{ margin:0 auto;}
+#frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;position:relative;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal; font-size:12px; color:#555;}
+ul,li{list-style-type:none;}
+.left{ float:left;}
+.right{ float:right;}
+#frame img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+
+.luck_top{ background:url(/FrontEnd/images20090801/Special/2012072/luckdraw/luck_img_03.jpg) no-repeat; width:950px; height:103px;}
+.luck_top01{ background:url(/FrontEnd/images20090801/Special/2012072/luckdraw/luck_img_05.jpg) no-repeat; width:950px; height:103px;}
+.luck_img{ background:url(/FrontEnd/images20090801/Special/2012072/luckdraw/luck_img_10.jpg) no-repeat; width:950px; height:35px;}
+.luck_r{ width:458px;}
+.name{ background:url(/FrontEnd/images20090801/Special/2012072/luckdraw/luck_img_09.gif) no-repeat; width:750px; height:45px; line-height:45px; padding-left:200px;}
+.luck_back{ background:url(/FrontEnd/images20090801/Special/2012072/luckdraw/luck_img_11.jpg) no-repeat; width:492px; height:429px;position:relative;}
+.luck_title{ background:url(/FrontEnd/images20090801/Special/2012072/luckdraw/luck_img_12.jpg) no-repeat; width:458px; height:40px; line-height:37px; text-indent:1.6ex; color:#fff; font-size:16px;}
+.luck_title span{ color:#fff600; font-size:24px;}
+.icon{width:105px;height:101px; left:210px; top:155px;position:absolute;}
+.icon a{width:105px; height:101px; display:block; background:url(/FrontEnd/images20090801/Special/2012072/luckdraw/draw_s_03.png) no-repeat top;}
+.icon a:hover{ background-position:bottom;}
+
+.jpin{position:relative;}
+.icon01{width:367px;height:50px;left:25px;top:135px;position:absolute;}
+.icon01 a{width:367px; height:50px; display:block; background:url(/FrontEnd/images20090801/Special/2012072/luckdraw/icon_03.gif) no-repeat top;}
+.icon01 a:hover{ background-position:bottom;}
+
+
+
+
+.tc_dialog{background:#fff;width:400px;position:fixed;z-index:900;_position:absolute;left:50%; margin-left:-200px;top:50%;margin-top:-75px;_margin-top:0;border:#4a8cc6 solid 1px;}
+.tc_name{background:#20458A url(/FrontEnd/images20090801/Special/2012072/luckdraw/bgx.png) repeat-x 0 0;height:27px;border-bottom:#10498a solid 1px;margin-bottom:20px;}
+.tc_name h2{font-size:14px;color:#fff;float:left;line-height:27px;padding-left:10px;}
+.tc_name a{float:right;background:url(/FrontEnd/images20090801/Special/2012072/luckdraw/close3.gif) repeat-x 0 0;height:16px;width:16px;text-indent:-100000000000px;margin:5px 10px 0 0;display:inline;}
+.tc_nr{font-size:14px;line-height:24px;margin:0 40px;padding-bottom:15px;}
+.tc_nr span{color:#f00;}
+.tc_caozuo{text-align:center;background:#f3f3f3;padding-top:8px;border-top:#ccc solid 1px;height:35px;}
+.tc_caozuo a{
+display:inline-block;min-width:81px;_width:81px;height:28px;margin: 0;
+margin:0 5px;
+text-align: center;
+vertical-align: top;
+line-height: 28px;font-size:14px;
+white-space: nowrap;
+font-family: Tahoma,SimSun,Arial;text-decoration:none;
+background:url(/FrontEnd/images20090801/Special/2012072/luckdraw/hui_4.gif) repeat-x 0 0;color:#333;
+}
+.tc_caozuo a:hover{background-position:0 -29px;}

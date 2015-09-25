@@ -1,0 +1,37 @@
+/* CSS Document */
+.bgg{background:url(http://sf.panli.com/FrontEnd/images20090801/special/vip120912/bg.png) repeat 0 0;padding-top:10px;margin-top:-14px;}
+.footbg{background:url(http://sf.panli.com/FrontEnd/images20090801/special/vip120912/footbg.png) repeat-x 0 bottom;padding-bottom:20px;}
+.banner_bg{height:299px;background:url(http://sf.panli.com/FrontEnd/images20090801/special/vip120912/bg_line.jpg) repeat-x 0 0;border-bottom:1px solid #fff;}
+.banner{height:299px;margin:auto;background:url(http://sf.panli.com/FrontEnd/images20090801/special/vip120912/banner.jpg) no-repeat center 0;}
+
+
+.mid_bg{height:254px;background:url(http://sf.panli.com/FrontEnd/images20090801/special/vip120912/mid_bg.jpg) no-repeat center 0;margin:auto;margin-top:20px;}
+.mid{width:950px;margin:auto;}
+.mid_time{width:500px;float:right;margin:40px 50px 20px 0;display:inline;}
+.mid p{width:490px;height:40px;line-height:40px;font-family:"Microsoft YaHei";font-size:18px;color:#333;border-bottom:1px dashed #ccc;text-align:center;margin-bottom:14px;padding-left:5px;}
+.mid h2{width:370px;line-height:36px;font-family:"Microsoft YaHei";font-size:18px;color:#333;font-weight:normal;padding-left:5px;}
+.button{height:48px;padding-top:10px;}
+.button a{float:left;width:150px;height:48px;background:url(http://sf.panli.com/FrontEnd/images20090801/special/vip120912/button.gif) no-repeat 0 0;margin-right:10px;display:inline;color:#fff;text-decoration:none;text-align:center;font-size:14px;line-height:40px;}
+.button a:hover{background-position:0 -51px;color:#FF0;}
+
+.tequan{height:393px;background:url(http://sf.panli.com/FrontEnd/images20090801/special/vip120912/tequan.jpg) no-repeat center 0;margin:auto;margin-top:20px;}
+.tequans{width:950px;margin:auto;}
+.title{width:950px;height:62px;}
+.title h2{width:690px;line-height:60px;height:62px;text-align:right;font-family:"Microsoft YaHei";font-size:24px;color:#8f0d92;font-weight:normal;float:left;}
+.title a{font-size:14px;color:#666;float:right;margin:24px 20px 0 0;display:inline;text-decoration:none;font-weight:bold;}
+.title a:hover{text-decoration:underline;color:#F09;}
+
+.tq{height:253px;margin-top:20px;padding-left:19px;width:930px;}
+.tq li{float:left;width:292px;height:253px;margin-right:18px;display:inline;}
+.tq li a{float:left;width:272px;height:233px;padding:10px;color:#666;text-decoration:none;font-size:14px;}
+.tq1{background:url(http://sf.panli.com/FrontEnd/images20090801/special/vip120912/t1.gif) no-repeat 0 0;}
+.tq2{background:url(http://sf.panli.com/FrontEnd/images20090801/special/vip120912/t2.gif) no-repeat 0 0;}
+.tq3{background:url(http://sf.panli.com/FrontEnd/images20090801/special/vip120912/t3.gif) no-repeat 0 0;}
+.tq1:hover{background-position:0 -257px;}
+.tq2:hover{background-position:0 -257px;}
+.tq3:hover{background-position:0 -257px;}
+
+.tq li a span{float:left;margin-top:140px;text-align:center;width:272px;line-height:24px;}
+.tq li a:hover span{color:#000;cursor:pointer;}
+
+.shuoming p{float:right;padding:20px 20px 0 0;font-size:14px;font-weight:bold;color:#999;}

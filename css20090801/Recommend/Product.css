@@ -1,0 +1,454 @@
+
+.weizhi
+{
+    width: 948px;
+    height: 28px;
+    border: #CCC dashed 1px;
+    margin: auto;
+    line-height: 28px;
+    background: #FDFDE1;
+    margin-bottom: 10px;
+}
+.weizhi b
+{
+    margin-right: 5px;
+}
+.weizhi p
+{
+    margin-left: 10px;
+    color: #999;
+}
+.weizhi a
+{
+    color: #999;
+    text-decoration: none;
+}
+.weizhi a:hover
+{
+    color: #FF6600;
+    text-decoration: underline;
+}
+.weizhi span
+{
+    margin: 0 5px;
+}
+.weizhi i
+{
+    font-style: normal;
+    color: #D4631F;
+}
+
+.list
+{
+    margin: 0 auto;
+    width: 950px;
+}
+.zuo
+{
+    float: left;
+    width: 210px;
+    margin-bottom: 10px;
+}
+.you
+{
+    border: #BCBCBC solid 1px;
+    float: right;
+    width: 728px;
+    background: url(http://sf.panli.com/FrontEnd/images20090801/Recommend/panli.gif) no-repeat right top;
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.ranking
+{
+    border: #BCBCBC solid 1px;
+    width: 208px;
+    overflow: hidden;
+    background: #F6F6F6;
+    margin-bottom: 10px;
+}
+.ranking h2
+{
+    border-bottom: #BCBCBC solid 1px;
+    height: 57px;
+    background: #FFF;
+}
+.ranking h2 img
+{
+    margin: 10px 0 0 10px;
+}
+.ph
+{
+    padding: 15px 0;
+    float: left;
+}
+
+.ph dl dt
+{
+    display: none;
+}
+
+.ph .img
+{
+    margin: 0;
+    width: 82px;
+}
+.ph .img img
+{
+    height: 80px;
+    width: 80px;
+}
+.ph .img a
+{
+    height: 80px;
+    width: 80px;
+}
+.xiangxi
+{
+    float: right;
+    width: 100px;
+}
+.xiangxi h1
+{
+    font-size: 12px;
+    height: 38px;
+    line-height: 18px;
+    width: 105px;
+    overflow: hidden;
+    font-weight: 100;
+    font-family: "simsun";
+    margin-bottom: 5px;
+}
+.xiangxi h1 b
+{
+    color: #f60;
+    margin-right: 5px;
+}
+.xiangxi h1 a
+{
+    color: #f90;
+    text-decoration: none;
+}
+.xiangxi h1 a:hover
+{
+    color: #F60;
+    text-decoration: underline;
+}
+.xiangxi label
+{
+    color: #F00;
+    font-size: 16px;
+    display: block;
+    height: 25px;
+    font-weight: bold;
+}
+.xiangxi p
+{
+    color: #aaa;
+}
+.xiangxi span
+{
+    color: #f90;
+}
+.ph dl
+{
+    width: 230px;
+    margin-left: 9px;
+}
+.ph dt
+{
+    height: 90px;
+    float: left;
+    border-bottom: #CCC dashed 1px;
+    width: 190px;
+    overflow: hidden;
+}
+.ph dd
+{
+    height: 32px;
+    float: left;
+    border-bottom: #CCC dashed 1px;
+    width: 190px;
+    overflow: hidden;
+}
+
+.ph dd p a
+{
+    color: #666;
+    text-decoration: none;
+}
+.ph dd p a:hover
+{
+    text-decoration: underline;
+    color: #f60;
+}
+.ph dd p
+{
+    margin-top: 8px;
+    float: right;
+    width: 170px;
+    overflow: hidden;
+    height: 16px;
+    line-height: 18px;
+}
+.ph dd b, .ph dd span
+{
+    display: block;
+    float: left;
+    font-weight: bold;
+    font-size: 10px;
+    background: url(http://sf.panli.com/FrontEnd/images20090801/free/ph.gif) no-repeat;
+    height: 13px;
+    width: 16px;
+    text-align: center;
+    color: #FFF;
+    line-height: 12px;
+    margin-top: 9px;
+}
+.ph dd b
+{
+    background-position: 0 -31px;
+}
+
+.lately
+{
+    clear: both;
+    background: #efefef;
+    border: #BCBCBC solid 1px;
+    float: left;
+    width: 208px;
+}
+.lately h2
+{
+    background: #FFF;
+    height: 35px;
+    border-bottom: #bcbcbc solid 1px;
+}
+.lately h2 img
+{
+    margin: 8px 0 0 10px;
+}
+.lately ul
+{
+    float: left;
+    margin: 15px 0 0 8px;
+    display: inline;
+    padding-bottom: 5px;
+}
+.lately li
+{
+    float: left;
+    height: 98px;
+    margin: 0 10px 0 2px;
+    display: inline;
+}
+.lately li img
+{
+    height: 80px;
+    width: 80px;
+}
+.lately li a
+{
+    float: left;
+    border: #ddd solid 1px;
+    padding: 3px;
+    background: #FFF;
+}
+.lately li a:hover
+{
+    border: #ccc solid 2px;
+    padding: 2px;
+}
+
+.product
+{
+    width: 695px;
+    height: 325px;
+    margin: 15px 0 0 15px;
+}
+.img
+{
+    width: 320px;
+    float: left;
+    display: inline;
+}
+.img a
+{
+    height: 310px;
+    float: left;
+    width: 310px;
+    border: #cdcdcd solid 1px;
+}
+.img img
+{
+    height: 310px;
+    width: 310px;
+}
+.parameter
+{
+    margin: 5px 0 0 0;
+    width: 365px;
+    float: right;
+}
+.you h1
+{
+    font-size: 20px;
+    font-weight: normal;
+    font-family: "simhei";
+    height: 57px;
+    background: url(http://sf.panli.com/FrontEnd/images20090801/Recommend/xuxian.gif) repeat-x bottom;
+    margin: 0 15px;
+    line-height: 57px;
+}
+.pl
+{
+    border-bottom: #ddd solid 1px;
+    height: 60px;
+}
+.pl p
+{
+    margin: 0 0 8px 5px;
+}
+.pl dl
+{
+    height: 32px;
+    margin-left: 5px;
+}
+.pl dl dt
+{
+    color: #F00;
+    font-size: 20px;
+    font-weight: bold;
+    float: left;
+    font-family: Arial;
+}
+.pl dl dd
+{
+    color: #aaa;
+    float: left;
+    margin: 7px 0 0 20px;
+    display: inline;
+}
+.pl dl dd a
+{
+    color: #aaa;
+    text-decoration: none;
+}
+.pl dl dd a:hover
+{
+    text-decoration: underline;
+    color: #F60;
+}
+.pl dl dd span
+{
+    color: #f90;
+}
+
+.product ul
+{
+    border-bottom: #ddd solid 1px;
+    font-size: 14px;
+    padding: 10px 0 15px 5px;
+}
+.product ul li
+{
+    line-height: 28px;
+    font-size: 12px;
+}
+.product ul li a
+{
+    color: #3399FF;
+    margin-right: 5px;
+}
+.product ul li a:hover
+{
+    color: #f60;
+}
+.product ul span
+{
+    color: #f90;
+}
+.shopping
+{
+    margin: 0 5px;
+}
+.shopping p
+{
+    font-size: 12px;
+    color: #aaa;
+    line-height: 20px;
+    margin-top: 15px;
+}
+.shopping a
+{
+    float: left;
+    background: url(http://sf.panli.com/FrontEnd/images20090801/Recommend/Product/shopping.gif) no-repeat;
+    height: 64px;
+    width: 172px;
+    margin-top: 15px;
+}
+.shopping a:hover
+{
+    background-position: 0 -66px;
+}
+
+.reason
+{
+    border: #f9ebc4 solid 1px;
+    background: #fefbf3;
+    margin: 0 15px 12px 15px;
+    padding: 10px;
+}
+.reason h2
+{
+    padding-left: 25px;
+    font-size: 14px;
+    background: url(http://sf.panli.com/FrontEnd/images20090801/Recommend/Product/qi.gif) no-repeat left 2px;
+    height: 20px;
+    line-height: 20px;
+    margin-bottom: 8px;
+}
+.reason p
+{
+    color: #d4631f;
+    line-height: 20px;
+    text-indent: 25px;
+}
+
+.lm h3
+{
+    font-size: 14px;
+    margin-left: 10px;
+    float: left;
+    display: inline;
+}
+.lm
+{
+    margin: 0 15px 10px 15px;
+    background: #999;
+    color: #FFF;
+    line-height: 27px;
+    height: 27px;
+}
+.lm span
+{
+    float: right;
+    display: inline;
+    margin-right: 10px;
+}
+.lm span a
+{
+    color: #ddd;
+}
+.lm span a:hover
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+.miaoshu
+{
+    margin: 15px 20px 15px 20px;
+    line-height: 22px;
+    color: #333;
+}

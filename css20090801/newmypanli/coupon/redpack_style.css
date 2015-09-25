@@ -1,0 +1,216 @@
+*{
+	padding:0;
+	margin:0;
+}
+ol,ul,li{
+	list-style: none;
+}
+body,html
+{
+    width:100%;
+    height:100%;
+	font-family: "微软雅黑"
+}
+.redpack_main{
+	width:780px;
+	overflow: hidden;
+}
+.redpacket_top{
+	background-image: url(/FrontEnd/images20090801/newmypanli/coupon/newcoupon/redoage_bg.jpg);
+	width:780px;
+	height:405px;
+	position: relative;
+	overflow: hidden;
+	
+}
+
+.redpageck_center{
+	clear: both;
+	width: 720px;
+	height:350px;
+	background-color: #fff;
+	padding:14px 30px 0;
+	
+	position: relative;
+	z-index: 2;
+}
+.yun{
+	width:780px;
+	height:94px;
+	background-image: url(/FrontEnd/images20090801/newmypanli/coupon/newcoupon/yun.jpg);
+}
+
+.qianwan_btn{
+	font-size: 14px;
+	margin-top:210px;
+	margin-left:30px;
+	color:#004d94;
+	width:416px;
+}
+.redpage_code{
+	width:304px;
+	position: relative;
+	float: left;
+	
+
+}
+.saoyisao{
+	width:304px;
+	height:20px;
+	background-image: url(/FrontEnd/images20090801/newmypanli/coupon/newcoupon/saoyisao_03.png);
+}
+.redpage_erweima{
+	width:304px;
+	height:304px;
+}
+.click_invite{
+	width:330px;
+	float:right;
+	position: relative;
+	
+}
+.click_invite_top{
+	width:328px;
+	height:22px;
+	background: url(/FrontEnd/images20090801/newmypanli/coupon/newcoupon/dianji_03.png) no-repeat;
+}
+.click_invite_img{
+	padding:18px;
+	width:280px;
+	height:260px;
+}
+.click_invite_img img{
+	width:100%;
+	height:auto;
+}
+.redpageck_footer{
+	width: 750px;
+	background-color:#96dcff;
+	padding:24px 0 36px 30px;
+	font-size: 18px;
+}
+.redpage_rule{
+	width:106px;
+	height:26px;
+	background-image: url(/FrontEnd/images20090801/newmypanli/coupon/newcoupon/rulewenzi_03.png);
+	margin-bottom:8px;
+}
+.red_page_RULE{
+	overflow: hidden;
+	
+	color: #004d94;
+}
+.red_page_RULE dt{
+	width:22px;
+	float: left;
+	line-height: 36px;
+
+
+
+}
+.red_page_RULE dd{
+	width:688px;
+	float: left;
+	line-height: 36px;
+	
+}
+.red_page_state{
+	color: #49aae8;
+	line-height: 36px;
+	cursor: pointer;
+}
+.redpage_shuzi{
+	width:44px;
+	height:44px;
+	background:url(/FrontEnd/images20090801/newmypanli/coupon/newcoupon/shuzi_03.png);
+	border-radius: 50%;
+	position: absolute;
+	top:-64px;
+	z-index: 99;
+
+}
+.shuzi2{
+	background-image: url(/FrontEnd/images20090801/newmypanli/coupon/newcoupon/shuzi2_03.png);
+}
+.redpage_opcity
+{
+    width:100%;
+    height:100%;
+    position:fixed;
+    left:0;
+    top:0;
+    z-index:999;
+    
+    
+}
+.hongbao_img
+{
+    width:542px;
+    height:695px;
+    position:absolute;
+    left:50%;
+    top:100%;
+    margin-left:-271px;
+    margin-top:-347px;
+   opacity:0;
+   
+}
+
+.redpage_cha
+{
+  width:42px;
+  height:42px;
+  position:absolute;
+  top:0;
+  right:0;
+ border-radius:50%;
+ cursor:pointer;
+ z-index:99;
+}
+.hongbaoimg_top
+{
+    width:542px;
+    height:224px;
+    background:url(/FrontEnd/images20090801/newmypanli/coupon/newcoupon/hongbaotyre_03.png)
+    }
+    .hongbaoimg_btn
+{
+    width:542px;
+    height:470px;
+    background:url(/FrontEnd/images20090801/newmypanli/coupon/newcoupon/hongbaobtn_03.png);
+    overflow:hidden;
+    }
+ .bangding_click
+    {
+        width:354px;
+        height:66px;
+        background:#e9bd0f;
+        display:block;
+        margin:328px 0 0 110px;
+        cursor:pointer;
+        border-radius:15px;
+        color:#cb2420;
+        font-size:22px;
+        line-height:66px;
+        text-align:center;
+         }
+.new_img
+{
+    width:32px;
+    height:12px;
+    position:absolute;
+    right:36px;
+    top:6px;
+    z-index:99;
+} 
+.am_xz
+{
+    position:relative;
+   
+}
+.am_xz a{ cursor:pointer;}
+
+
+
+
+        

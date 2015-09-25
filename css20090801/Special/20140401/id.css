@@ -1,0 +1,35 @@
+body{ margin:0 auto; font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;border:none}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span20{ height:20px; line-height:20px; display:block; clear:both;}
+.left{ float:left;}
+.right{ float:right;}
+
+#frame{ width:100%; margin:0 auto;background-color:#e12840;}
+.banner{ width:100%; margin:0 auto; text-align:center;}
+.content{ width:979px; margin:0 auto;}
+.banner1{ background:url(cssImg/tg_fudai_03.jpg) no-repeat center; height:78px;}
+.banner2{ background:url(cssImg/tg_fudai_05.jpg) no-repeat center; height:78px;}
+.banner3{ background:url(cssImg/tg_fudai_06.jpg) no-repeat center; height:78px;}
+.banner4{ background:url(cssImg/tg_fudai_07.jpg) no-repeat center; height:78px;}
+.banner5{ background:url(cssImg/tg_fudai_08.jpg) no-repeat center; height:128px;}
+
+.banner6{ background:url(cssImg/tg_fudai_10.gif) no-repeat center; height:152px;}
+.banner7{ background:url(cssImg/tg_fudai_12.gif) no-repeat center; height:67px;}
+.banner8{ background:url(cssImg/tg_fudai_13.gif) no-repeat center; height:375px;float:left; width:100%;}
+.zhuce{height:25px; padding:30px 0 0 205px;}
+.baotuan{ position:relative; left:98px; top:110px;width:266px;}
+.fudai{ padding:10px 20px 0 80px; display:block;}
+.fudai li{ float:left; text-align:center; display:block;color:#555; font-size:15px;}
+.one{ padding:0 0 0 5px;}.two{ padding:0 26px;}.three{ padding:0 26px;}.four{ padding:0 0 0 18px;}
+.fudai li span{ display:block; margin-top:5px;}
+
+.button{ margin:0 auto; height:100px;}
+.copy{ text-align:right; color:#fff; height:40px; font-size:14px;}
+.icon1{width:380px;height:54px; left:300px; top:30px;position:relative;}
+.icon1 a{width:380px; height:54px; display:block; background:url(cssImg/button.gif) no-repeat top;}
+.icon1 a:hover{ background-position:bottom;}

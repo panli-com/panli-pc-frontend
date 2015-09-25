@@ -1,0 +1,155 @@
+body{font-size:12px;margin:0;padding:0;font-family:Verdana, Arial, Helvetica, sans-serif;color:#333}p,h1,h2,h3,h4,h5,li,ul,dd,dt,dl,form{margin:0;padding:0;}img{border:none;}ul li{list-style:none;}
+.Panli_overlay{
+	moz-opacity:0.56; /* Moz + FF 透明度20% */
+	opacity: 0.56;  /*支持CSS3的浏览器（FF 1.5也支持）透明度20%*/
+	filter:alpha(opacity=56); /* IE 透明度20% */
+	position:fixed;bottom:0;top:0;left:0;right:0;background:#000;height:100%;width:100%;_position:absolute; z-index:800;
+	display:none;
+}
+.top{width:950px;margin:auto;margin-top:10px;height:80px;}
+.logo{width:450px;float:left;margin-right:-1000px;}
+.logo a{float:left;}
+.logo p{float:left;border-left:#eee solid 2px;padding:10px 0 5px 12px;margin-left:13px;display:inline;}
+.top_r{float:right;width:580px;}
+.nav{background:#F2F2F2 url(http://sf.panli.com/FrontEnd/images20090801/help/hui.gif) no-repeat left top;height:22px;float:right;}
+.nav li{float:left;border-right:#aaa solid 1px;height:14px;line-height:15px;overflow:hidden;padding:0 12px;margin-top:4px;}
+.nav .wu{border:none;}
+.nav ul{float:right;background:url(http://sf.panli.com/FrontEnd/images20090801/help/hui.gif) no-repeat right bottom;height:22px;}
+.nav a{text-decoration:none;color:#aaa;}
+.nav a:hover{text-decoration:underline;color:#F00;}
+
+.login{float:right;height:30px;font-family:"simsun";width:580px;margin-top:20px;}
+.login a{color:#333;text-decoration:none;}
+.login a:hover{text-decoration:underline;color:#FF6600;}
+.login p{float:right;margin-top:4px;}
+.login ul{float:right;}
+.login li{float:left;margin-left:7px;display:inline;}
+.login li a{display:block;line-height:22px;height:22px;}
+.login .che a{background:url(http://sf.panli.com/FrontEnd/images20090801/help/mypanli.gif) no-repeat;width:80px;text-align:center;}
+.login .che a span{color:#58b318;}
+.login .che a:hover{text-decoration:none;}
+.login .kefu a{background:url(http://sf.panli.com/FrontEnd/images20090801/help/kefu.gif) no-repeat left;padding-left:15px;}
+
+.center{background:url(http://sf.panli.com/FrontEnd/images20090801/help/bj.gif) repeat-y left;width:948px;margin:auto;border:#F7CF1F solid 1px;}
+.search{background:url(http://sf.panli.com/FrontEnd/images20090801/help/sou.gif) repeat-x 0 -62px;height:61px;margin:-1px -1px 0 -1px;width:950px;position:relative;}
+.cz{background:url(http://sf.panli.com/FrontEnd/images20090801/help/sou.gif) no-repeat left 0;height:39px;float:left;width:300px;text-align:right;padding-top:22px;font-size:14px;color:#D07500;font-weight:bold;}
+.gjc{background:url(http://sf.panli.com/FrontEnd/images20090801/help/sou.gif) no-repeat right -124px;float:right;width:650px;height:61px;}
+.s1,.s1_{border:#E9B74C solid 1px;padding:5px;width:350px;color:#bbb;margin-top:15px;float:left;}
+.s2,.s2_{background:url(http://sf.panli.com/FrontEnd/images20090801/help/ok.gif) no-repeat 0 top;width:65px;height:27px;border:none;color:#eee;margin:15px 0 0 5px;float:left;cursor:pointer;}
+.s1_{color:#333;}
+.s2_{background-position:0 bottom;color:#FFF;}
+.left{margin:0 0 0 13px;width:179px;float:left;display:inline;padding-bottom:25px;}
+.left h2{float:left;height:44px;margin-top:15px;}
+.left h2 a{display:block;background:url(http://sf.panli.com/FrontEnd/images20090801/help/sort.gif) no-repeat;width:179px;height:44px;}
+.left h2 a:hover{background-position:0 -46px;}
+.left .n2 a{background:url(http://sf.panli.com/FrontEnd/images20090801/help/ask.gif) no-repeat;}
+.left .n3 a{background:url(http://sf.panli.com/FrontEnd/images20090801/help/thrift.gif) no-repeat;}
+.left .n4 a{background:url(http://sf.panli.com/FrontEnd/images20090801/help/xuzhi.gif) no-repeat;}
+.left .n5 a{background:url(http://sf.panli.com/FrontEnd/images20090801/help/lianxi.gif) no-repeat;}
+.left .n3,.left .n4,.left .n5{margin-bottom:-7px;position:relative}
+
+.left ul{width:179px;margin-top:10px;float:left;}
+.left ul a{display:block;height:28px;text-decoration:none;padding-left:20px;color:#3D96D8;background:url(http://sf.panli.com/FrontEnd/images20090801/help/k.gif) no-repeat 10px 11px;}
+.left ul li{height:26px;width:179px;border-bottom:#EBE9DD solid 1px;float:left;line-height:26px;}
+.left ul a:hover{color:#f00;text-decoration:none;font-size:14px}
+.left ul .xt{background:#FFF url(http://sf.panli.com/FrontEnd/images20090801/help/k.gif) no-repeat 9px -19px;border:#EBE9DD solid 1px;border-right:none;height:26px;width:173px;margin:-1px -20px -1px 0;color:#f00;font-size:14px;padding-left:19px;position:relative;}
+
+.right{width:710px;float:right;margin-right:15px;display:inline;padding-bottom:20px}
+.weizhi{border-bottom:#ccc solid 1px;height:55px;}
+.weizhi p{float:left;font-size:12px;margin:28px 0 0 0;display:inline;color:#bbb;}
+.weizhi p a{color:#3D96D8;text-decoration:none;}
+.weizhi p a:hover{color:#F00;text-decoration:underline;}
+.weizhi p span{margin:0 5px;}
+.weizhi p b{color:#333;font-weight:100;}
+.weizhi div{float:right;margin:28px 5px 0 0;display:inline;padding-left:22px;background:url(http://sf.panli.com/FrontEnd/images20090801/help/yanshi.gif) no-repeat left;height:19px;line-height:19px;}
+.weizhi div a{color:#609CDB;font-size:14px;}
+.weizhi div a:hover{color:#F00;text-decoration:none;}
+.tu{height:210px;width:710px;margin-top:10px;}
+.index h1{font-size:14px;margin-top:5px;height:15px;}
+.index h1 a{float: right; font-size: 12px;font-weight:100;margin-right:10px;color:#aaa;text-decoration:none;}
+.index h1 a:hover{text-decoration:underline;color:#f00;}
+
+.wenti{border-bottom:#ccc dashed 1px;float:left;height:185px;width:354px;margin-top:25px;}
+.wu{border:none;}
+.wenti h2{font-weight:100;font-size:12px;padding-left:10px;background:url(http://sf.panli.com/FrontEnd/images20090801/help/sanjiao.jpg) no-repeat left 2px;height:20px;}
+.wenti h2 a{color:#7ab33c;text-decoration:none;padding:1px;}
+.wenti h2 a:hover{background:#F60;color:#FFF;}
+.wenti ul{padding-left:8px;}
+.wenti ul b{color:#F90;margin-right:5px;}
+.wenti ul li{line-height:22px;}
+.wenti ul li a{color:#333;text-decoration:none;}
+.wenti ul li a:hover{color:#FF6600;text-decoration:underline;}
+.yj{background:url(http://sf.panli.com/FrontEnd/images20090801/help/yj.gif) no-repeat;height:4px;overflow:hidden;width:950px;margin:-1px;position:relative;}
+
+
+.content{line-height:24px;padding:0px 15px 20px 15px;font-size:14px;color:#666;}
+.bt{height:35px;margin-top:25px;}
+.bt h1{color:#333;font-family:"simhei";font-size:20px;font-weight:normal;text-align:center;color:#333}
+.fy a{font-size:14px;color:#3D96D8;cursor:pointer;}
+.fy a:hover{color:#F90;text-decoration:none;}
+.fy{text-align:right;height:40px;color:#3D96D8;padding:0 10px;line-height:24px;}
+.fy span{margin:0 10px;}
+.fy dd{float:right;}
+.fy dt{float:right;margin-right:15px;display:inline;}
+ .fy dt a{display:block;height:24px;width:86px;background:url(http://sf.panli.com/FrontEnd/images20090801/help/db.gif) no-repeat;}
+
+.relational{background:#FFF4EE;border:#FBE8CE solid 1px;margin:0 0 0 10px;float:left;width:690px;display:inline;padding-bottom:10px;}
+.relational h2{font-size:12px;margin:10px;}
+.relational ul{float:left;margin-left:10px;}
+.relational li{float:left;width:170px;font-size:14px;line-height:24px}
+.relational li a{color:#F90;}
+.relational li a:hover{text-decoration:none;color:#F00;}
+.two li{width:680px;}
+
+
+.fenlei li{float:left;height:24px;width:170px;font-size:14px;}
+.fenlei ul{margin:10px 0 0 28px;float:left;display:inline;}
+.fenlei h2{background:#F3F3F3 url(http://sf.panli.com/FrontEnd/images20090801/help/y.gif) no-repeat 8px 6px;height:25px;line-height:27px;margin-top:15px;font-size:14px;font-weight:100;color:#7AB33C;padding-left:28px;overflow:hidden;float:left;width:680px;}
+.fenlei li a{color:#666;text-decoration:none;}
+.fenlei li a:hover{color:#FF9900;text-decoration:underline;}
+
+.ask h2{font-size:14px;font-weight:100;background:#f3f3f3;line-height:25px;height:25px;margin-top:15px;color:#7AB33C;padding-left:10px;}
+.ask ul{margin:10px 0 0 20px;}
+.ask li{font-size:14px;line-height:24px;}
+.ask li b{margin-right:5px;color:#FF9900;}
+.ask li a{color:#333;text-decoration:none;}
+.ask li a:hover{color:#F60;text-decoration:underline;}
+
+.tj{background:#F7FEE0;border:#D9EEB5 dashed 1px;line-height:28px;height:28px;margin-top:15px;padding-left:10px;font-size:14px;}
+.tj b{color:#FF0000;margin:0 3px;}
+.tj span{margin:0 5px;}
+.jieguo ul{margin:5px 10px 0 10px;}
+.jieguo li h1{font-size:14px;font-weight:100;height:25px;line-height:25px;}
+.jieguo li h1 a{color:#3399FF;padding:1px;}
+.jieguo li h1 a:hover{color:#FFF;background:#FF9900;text-decoration:none;}
+.jieguo li p{line-height:24px;font-size:14px;color:#666}
+.jieguo li{border-bottom:#CCC dashed 1px;padding:15px 0 10px 0;}
+
+.page-top, .page-bottom {float:right;}
+.page-bottom {float:right;height:25px;margin:15px 10px 0 0;display:inline;}
+.page-bottom a, .page-bottom .page-cur, .page-bottom .page-start, .page-bottom .page-end {
+border:1px solid #AAAAAA;color:#666666;display:inline;float:left;height:20px;line-height:20px;margin-left:2px;padding:0 5px;text-decoration:none;}
+.page-bottom .page-start, .page-bottom .page-end {border:1px solid #DDDDDD;color:#CCC;font-family:"simsun";}
+.page-bottom a:hover {background:#FFEDE1;border:1px solid #FF9900;}
+.page-bottom .page-cur {background:#FFEDE1;border:1px solid #FF6600;color:#FF0000;}
+.page-bottom .page-break {float:left;margin:0 3px 0 5px;}
+.page-bottom .page-skip {color:#999999;display:inline;float:left;height:22px;line-height:22px;margin-left:5px;}
+.ts{border:1px solid #CCCCCC;}
+#jumpto,#ajaxjumpto {border:1px solid #aaa;width:20px;margin:0 3px;}
+.page_button {background:transparent url(http://sf.panli.com/FrontEnd/images20090801/go.gif) no-repeat scroll 0 0;border:medium none;cursor:pointer;height:22px;margin:0 0 0 5px;width:22px;}
+
+.left .n6 a{background:url(http://sf.panli.com/FrontEnd/images20090801/help/gongju.gif) no-repeat;}
+.left .n6{margin-bottom:-7px;position:relative}
+.gongju dl{float:left;width:345px;height:140px;}
+.gongju dl dt{float:left;width:100px;}
+.gongju dl dd{float:left;width:210px;}
+.gongju h2{margin-top:10px;height:27px;font-size:14px;font-weight:100;}
+.gongju h2 a{color:#3399FF;padding:1px;text-decoration:none;}
+.gongju h2 a:hover{color:#FFf;background:#FF9900;}
+.gongju{float:right;width:700px;margin-right:20px;display:inline;padding-top:20px;}
+.gongju p{color:#666;line-height:20px;}
+
+
+.foot{height:60px;margin:auto;width:950px;text-align:center;padding-top:22px;color:#999}.foot a{color:#999}.foot a:hover{color:#F60}.foot p{margin-bottom:8px;}
+
+.Operation_cg{display:none;background:url(http://sf.panli.com/FrontEnd/images20090801/icon/use/ok.gif) no-repeat 0 0;height:51px;width:238px;position:fixed;z-index:900;_position:absolute;left:50%; margin-left:-119px;top:50%;margin-top:-25px;_margin-top:0;padding:15px 0 0 50px;font-size:14px;}

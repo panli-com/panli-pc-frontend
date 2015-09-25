@@ -1,0 +1,105 @@
+.hd_banner_01{ width:950px;height:60px;padding:0px;margin:auto;text-align:center;}
+.hd_banner_02{ width:950px;height:50px;padding:0px;margin:auto;text-align:center;}
+.hd_banner_03{ width:950px;height:32px;padding:0px;margin:auto;text-align:center;}
+.hd_1{width:564px; height:32px; padding:0px; margin:auto;}
+.hd_2{width:91px; height:32px; padding:0px; margin:auto;}
+.hd_3{width:295px; height:32px; padding:0px; margin:auto;}
+.hd_banner_04{ width:950px;height:34px;padding:0px;margin:auto;text-align:center;}
+.hd_banner_05{ width:950px;height:151px;padding:0px;margin:auto;text-align:center;}
+.hd_4{width:67px; height:151px; padding:0px; margin:auto;}
+.hd_5{width:256px; height:151px; padding:0px; margin:auto;}
+.hd_6{width:24px; height:151px; padding:0px; margin:auto;}
+.hd_7{width:25px; height:151px; padding:0px; margin:auto;}
+.hd_8{width:66px; height:151px; padding:0px; margin:auto;}
+
+.hd_banner_06{ width:950px;height:33px;padding:0px;margin:auto;text-align:center;}
+.hd1_1{width:114px; height:33xp; padding:0px; margin:auto;}
+.hd1_2{width:161px; height:33px; padding:0px; margin:auto;}
+.hd1_3{width:136px; height:33px; padding:0px; margin:auto;}
+.hd1_4{width:128px; height:33px; padding:0px; margin:auto;}
+.hd1_5{width:129px; height:33px; padding:0px; margin:auto;}
+.hd1_6{width:174px; height:33px; padding:0px; margin:auto;}
+.hd1_7{width:108px; height:33px; padding:0px; margin:auto;}
+
+.hd2_1{width:130px; height:33px; padding:0px; margin:auto;}
+.hd2_2{width:132px; height:33px; padding:0px; margin:auto;}
+.hd2_3{width:147px; height:33px; padding:0px; margin:auto;}
+
+
+.hd_banner_07{ width:950px;height:17px;padding:0px;margin:auto;text-align:center;}
+.hd3_1{width:109px; height:33xp; padding:0px; margin:auto;}
+.hd3_2{width:174px; height:33px; padding:0px; margin:auto;}
+.hd3_3{width:128px; height:33px; padding:0px; margin:auto;}
+.hd3_4{width:184px; height:33px; padding:0px; margin:auto;}
+.hd3_5{width:64px; height:33px; padding:0px; margin:auto;}
+.hd3_6{width:163px; height:33px; padding:0px; margin:auto;}
+
+
+.hd4_1{width:149px; height:33xp; padding:0px; margin:auto;}
+.hd4_2{width:94px; height:33px; padding:0px; margin:auto;}
+.hd4_3{width:186px; height:33px; padding:0px; margin:auto;}
+.hd4_4{width:146px; height:33px; padding:0px; margin:auto;}
+.hd4_5{width:174px; height:33px; padding:0px; margin:auto;}
+.hd4_6{width:107px; height:33px; padding:0px; margin:auto;}
+
+
+
+
+
+.hd_banner_08{ width:950px;height:70px;padding:0px;margin:auto;text-align:center;}
+
+.hd_banner_09{ width:950px;height:53px;padding:0px;margin:auto;text-align:center;}
+.hd5_1{width:142px; height:33xp; padding:0px; margin:auto;}
+.hd5_2{width:153px; height:33px; padding:0px; margin:auto;}
+.hd5_3{width:18px; height:33px; padding:0px; margin:auto;}
+
+.hd_banner_10{ width:950px;height:89px;padding:0px;margin:auto;text-align:center;}
+
+
+.hd_banner_11{ width:950px;height:76px;padding:0px;margin:auto;text-align:center;}
+.hd6_1{width:249px; height:76px; padding:0px; margin:auto;}
+.hd6_2{width:451px; height:76px; padding:0px; margin:auto;}
+.hd6_3{width:250px; height:76px; padding:0px; margin:auto;}
+
+.hd_banner_12{ width:950px;height:55px;padding:0px;margin:auto;text-align:center;}
+.hd_banner_13{ width:950px;height:26px;padding:0px;margin:auto;text-align:center;}
+.hd7_1{width:222px; height:26px; padding:0px; margin:auto;}
+.hd7_2{width:91px; height:26px; padding:0px; margin:auto;}
+.hd7_3{width:26px; height:26px; padding:0px; margin:auto;}
+.hd_banner_14{ width:950px;height:47px;padding:0px;margin:auto;text-align:center;}
+.hd8_1{width:476px; height:47px; padding:0px; margin:auto;}
+.hd8_2{width:474px; height:47px; padding:0px; margin:auto;}
+
+
+
+
+.linkone{
+	display:block;
+	width:451px;
+	height:76px;
+	background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120216/baotuan_32_1.jpg) no-repeat;
+}
+.linkone:hover{background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120216/baotuan_32_1.jpg) no-repeat 0 -76px;}
+.linktwo{
+	display:block;
+	width:451px;
+	height:76px;
+	background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120216/baotuan_40_1.jpg) no-repeat;
+}
+.linktwo:hover{background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120216/baotuan_40_1.jpg) no-repeat 0 -76px;}
+.linkthree{
+	display:block;
+	width:132px;
+	height:33px;
+	background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120216/baotuan_13_1.jpg) no-repeat;
+}
+.linkthree:hover{background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120216/baotuan_13_1.jpg) no-repeat 0 -33px;}
+
+
+
+.r{float:right;}
+.l{float:left;}
+.c{clear:both;}
+.d{width:950px; height: aout;
+	margin:0px auto;
+	padding:0px;}

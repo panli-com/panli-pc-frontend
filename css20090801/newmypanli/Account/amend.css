@@ -1,0 +1,73 @@
+.fill{float:right;width:720px;margin:25px 23px 0 0;display:inline;border-bottom:30px;}
+.buzhou{height:70px;}
+.biao input{border:#a7d0e4 solid 1px;font-size:14px;padding:5px;width:250px;float:left;}
+.biao .z{width:150px;text-align:right;font-size:14px;padding-right:5px;}
+.biao table{border-collapse:collapse;width:800px;}
+.biao td{padding:7px 0;}
+.biao span{float:left;width:131px;height:28px;border:#eee solid 1px;}
+.biao img{height:28px;width:131px;cursor:pointer;}
+.biao a{float:left;margin:7px 0 0 10px;color:#71a8cf;}
+.biao a:hover{color:#FF0000;text-decoration:none;}
+.biao p{float:left;margin:8px 0 0 10px;color:#bbb;}
+.tijiao{padding:15px 0 0 155px;height:80px;}
+.tijiao input{background:url(/FrontEnd/images20090801/newmypanli/anniu_2.gif) no-repeat 0 0;width:139px;padding-bottom:13px;height:47px;border:0;color:#eee;font-size:16px;cursor:pointer;float:left;}
+.tijiao .by{background-position:0 -52px;color:#FFF;}
+.tijiao a{float:left;margin:10px 0 0 20px;display:inline;color:#bbb;}
+.tijiao a:hover{color:#FF0000;text-decoration:none}
+
+input.red{background:#FFF4F4;border:#FF0000 solid 1px;}
+p.red{color:#f00;}
+.biao .lv{color:#97CE73;}
+
+.fs{background:url(/FrontEnd/images20090801/newmypanli/Change/yx.gif) no-repeat 100px 7px;padding-left:160px;height:90px;}
+.fs h2{font-size:14px;font-weight:100;line-height:30px;height:35px;}
+.fs p{color:#999;}
+.fs p a{color:#71a8cf;}
+.fs p a:hover{color:#FF0000;text-decoration:none;}
+.tishi{border:#eee solid 1px;background:#f9f9f9;width:540px;height:100px;margin-left:85px;padding:10px 10px;}
+.tishi h2{font-size:12px;color:#666; padding-left:20px;background:url(/FrontEnd/images20090801/tanhao.gif) no-repeat left;line-height:20px;font-weight:100;}
+.tishi li{line-height:20px;color:#aaa;padding-left:10px;background:url(/FrontEnd/images20090801/newmypanli/fk.gif) no-repeat left;}
+.tishi ul{margin:10px 0 0 20px;}
+.tishi a{color:#71a8cf;padding:0 2px;}
+.tishi a:hover{color:#FF0000;text-decoration:none;}
+
+.queren{background:url(/FrontEnd/images20090801/newmypanli/Change/qr.gif) no-repeat 70px 7px;padding-left:185px;height:190px;}
+.queren h2{color:#333;font-size:14px;line-height:30px;height:35px;}
+.queren p{line-height:24px;color:#666;}
+.queren input{background:url(/FrontEnd/images20090801/newmypanli/go.gif) no-repeat 0 0;width:109px;height:30px;color:#fff;text-decoration:none;font-size:14px;text-align:center;line-height:30px;margin-top:15px;border:0;cursor:pointer;}
+
+.succeed{background:url(/FrontEnd/images20090801/biaoqing/b5.gif) no-repeat 100px 7px;padding-left:230px;height:130px;margin-bottom:20px;}
+.succeed h2{color:#73B051;font-size:20px;line-height:35px;height:40px;font-family:Arial;padding-top:5px;}
+.succeed p{line-height:24px;}
+.succeed a{color:#71a8cf;text-decoration:none}
+.succeed a:hover{color:#f00;text-decoration:underline;}
+
+
+.cai{padding-left:100px;}
+.cai h2{font-size:14px;font-weight:100;height:22px;}
+.cai a{border:#eee solid 1px;display:block;width:490px;height:55px;text-decoration:none;color:#999;padding-left:35px;background:#f9f9f9 url(/FrontEnd/images20090801/newmypanli/Change/zs.gif) no-repeat 15px 10px;float:left;margin-bottom:10px;}
+.cai a:hover{background:#FFFBEC url(/FrontEnd/images20090801/newmypanli/Change/zs.gif) no-repeat 15px -49px;border:#ffe0a3 solid 1px;}
+.cai a span{display:block;color:#71a8cf;font-size:14px;height:24px;line-height:24px;padding-top:3px;}
+.cai a b{font-weight:100;}
+
+.shixiao{background:url(/FrontEnd/images20090801/biaoqing/b7.gif) no-repeat 50px 0;height:105px;padding-left:180px;border-bottom:#ddd dashed 1px;margin-bottom:20px;}
+.shixiao h2{font-size:18px;padding-top:20px;font-weight:100;height:35px;color:#f00;}
+.shixiao p{font-size:14px;color:#666;}
+.shixiao a,.so a{color:#71a8cf;padding:0 2px;}
+.shixiao a:hover,.so a:hover{color:#FF0000;text-decoration:none;}
+.so h2{font-size:12px;height:20px;}
+.so li{line-height:22px;padding-left:10px;background:url(/FrontEnd/images20090801/newmypanli/fk.gif) no-repeat left;color:#bbb;}
+.so{padding-left:180px;}
+
+
+
+.s_huocc{background:url(/FrontEnd/images20090801/newmypanli/sz.gif) no-repeat 0 0;height:75px;padding-left:85px;border-bottom:1px dashed #ddd;margin-bottom:20px;}
+.s_huocc h2{font-size:16px;line-height:24px;font-family:"微软雅黑";color:#ED6C00;}
+.s_huocc li{line-height:20px;color:#666;}
+.s_huocc li a{color:#71A8CF;padding-left:3px;}
+.s_huocc li a:hover{color:#FF0000;text-decoration:none;}
+
+
+
+
+

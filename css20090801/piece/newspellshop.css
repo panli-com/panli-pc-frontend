@@ -1,0 +1,112 @@
+.clear{clear:both;}
+.shopBuyBg{padding:12px 0;}
+.shopBuy{ width:950px; margin: 0 auto 0 auto;position:relative;}
+.shopBuyDetailsTbg,.shopBuyDetailsBbg{ background:url(/FrontEnd/images20090801/piece/Spellshop/bg.gif) no-repeat;}
+.DetailsC_ConImgMin li.on em,.DetailsC_Input,.DetailsC_Input_,.DetailsCTao_nav li.on em{ background:url(/FrontEnd/images20090801/piece/Spellshop/tuanx.gif) no-repeat;}
+.shopBuyDetails{ width:690px; float:left;}
+.shopBuyDetailsTbg{ font-size:0px; height:5px;}
+.shopBuyDetailsC{ width:688px; border-left:solid 1px #dfdfdf;border-right:solid 1px #dfdfdf; background-color:#fff; padding-bottom:25px;}
+.shopBuyDetailsBbg{ font-size:0px; height:5px; background-position:0 -9px;}
+.DetailsC_ConTitle{height:72px;width:573px;float:left;background:url(/FrontEnd/images20090801/piece/Spellshop/d_bj.gif) no-repeat 0 0;margin-left:14px;}
+.DetailsC_ConTitle table{text-align:left;}
+.DetailsC_ConTitle table th{font-weight:normal;color:#878787;padding:9px 30px;}
+.DetailsC_ConTitle table a{color:#71a8cf;}
+.DetailsC_ConTitle table a:hover{color:#f00;text-decoration:none;}
+.DetailsC_Con{padding-top:15px;margin-left:15px;}
+.a_dp img{border:1px solid #d7d7d7;float:left;}
+
+.shopBuyGoodsTitle em,.Buy_Num a,.BuyYes_Submits,.BuyYes_Submits_{ background:url(/FrontEnd/images20090801/piece/Spellshop/tuanx.gif) no-repeat;}
+.shopBuyGoods{ width:250px; float:right; border:solid 1px #f25203; background-color:#ff6600; padding-bottom:3px;}
+.shopBuyGoodsTitle{ height:42px; border-top:solid 1px #ff8b3d; color:#fff; line-height:42px;}
+.shopBuyGoodsTitle em{ display: inline; float:left; margin:14px 7px 0 60px; width:15px; height:15px; background-position:-53px -20px;  }
+.shopBuyGoodsYes{ width:242px; margin:0 auto; background-color:#f4f4f4;}
+.BuyYesTop{ overflow-y:scroll; max-height:308px;_height:expression(this.scrollHeight > 333 ? "333px" : "auto");width:240px;}
+.BuyYes_Total{ height:30px; line-height:30px; padding:0 10px; color:#333; font-weight:900;}
+.BuyYes_Total span{ float:right;color:#ff6600;}
+.BuyYes_Total em{ float:left; font-style:normal;}
+.BuyYesUl{ background-color:#fff; padding:0 7px;}
+.BuyYesUl li{ background-color:#fff; border-bottom:dashed 1px #e6e6e6;height:62px; padding:7px 0; }
+.BuyYesUl li img{ width:60px; height:60px; border:solid 1px #cecece; float:left;}
+.BuyYes_title{ float:left; display:inline; margin-left:8px; width:60px; line-height:20px; color:#757575;  height: 60px; overflow: hidden;}
+.BuyYes_Num{ width:72px; float:right; overflow:hidden;}
+.BuyYes_Num span{ float:right; text-align:right; color:#757575;}
+.Buy_Num{ height:20px; width:70px; display:inline;  margin-top:23px; float:left;border:solid 1px #dbdbdb;}
+.Buy_Num a{display:block; float:left;width:20px; height:20px; text-indent:999em; overflow:hidden; text-decoration:none;}
+.Buy_Num a.Buy_NumLeft{ background-position:-85px -8px; border-right:solid 1px #dbdbdb;}
+.Buy_Num a.Buy_NumRight{ background-position:-104px -8px ; border-left:solid 1px #dbdbdb;}
+.Buy_Num a.Buy_NumLeft:hover{ background-position:-85px -29px;}
+.Buy_Num a.Buy_NumRight:hover{ background-position:-104px -29px ;}
+.Buy_Num a.Buy_NumRight.Hui,.Buy_Num a.Buy_NumRight.Hui:hover{background-position:-12px -8px ; cursor:not-allowed;}
+.Buy_Num a.Buy_NumLeft.Hui,.Buy_Num a.Buy_NumLeft.Hui:hover{background-position:-12px -28px; cursor:not-allowed; }
+.Buy_Num input{ width:22px; float:left; height:14px; padding:3px; border:none; background:none; color:#333; text-align:center; outline: none;}
+.BuyYes_Submit{ height:66px; border-top:dashed 1px #e6e6e6;}
+.BuyYes_Submits,.BuyYes_Submits_{ color:#fff; width:141px; height:39px;cursor:pointer; display:inline; margin:13px auto 0 auto; border:none; background-position:-284px 0; float:left; margin-left:50px;font-size:14px;}
+.BuyYes_Submits_{background-position:-284px -44px;}
+.shopBuyGoodsNo{width:242px; margin:0 auto; text-align:center;background-color:#fff; height:90px; line-height:90px; color:#666666;}
+.BuyYesUlLoad{ height:62px; background:url(/FrontEnd/images20090801/piece/Spellshop/loading.gif) no-repeat center;}
+
+.searchresult{background:#f3f3f3;height:35px;border:#ddd solid 1px;width:655px;margin:auto;margin-top:10px;}
+.searchresult2{height:35px;border-left:#fff solid 1px;border-top:#fff solid 1px;overflow:hidden;position:relative;float:left;}
+.searchresult2 span{background:url(/FrontEnd/images20090801/piece/Spellshop/t_sj.gif) no-repeat 0 0;width:7px;height:8px;float:none;
+display:inline-block;
+font-size: 12px;
+text-indent: -9999px;
+vertical-align: middle;
+margin-left:4px;
+position:absolute;
+top:15px;
+
+}
+.searchresult2 .o1{background-position:-19px 0;}
+.searchresult2 .o2{background-position:-40px 0;}
+.searchresult2 .o3{background-position:-60px 0;}
+
+
+.searchresult ul{margin:0;float:left;display:inline;}
+.searchresult ul li{background:url(/FrontEnd/images20090801/icon/number/d.gif) repeat-y right 0;float:left;font-size:12px;border-right:#ddd solid 0px;line-height:24px;font-family:"simsun";height:24px;margin-top:6px;_overflow:hidden;}
+.searchresult ul li a{text-decoration:none;line-height:35px;padding:0 25px 0 15px;float:left;height:35px;position:relative;margin-top:-6px;margin-bottom:-1000px;margin-right:-1px;margin-left:-1px;color:#333;}
+.searchresult ul li a:hover{background:#e3e3e3;color:#333;}
+.sou_right{float:right;padding-right:10px;padding-top:3px;}
+.sou_right input{float:left;margin:4px 0px 0px 5px;font-size:12px;border:#b4b4b4 solid 1px;padding:2px 3px;width:200px;outline:none;}
+.sou_right .grey{color:#bbb;}
+.sou_right button{background:url(/FrontEnd/images20090801/piece/Spellshop/tuanss.gif) no-repeat 0px 0px;border:0px;cursor:pointer;display: inline;float: left;font-size: 12px;height:20px;margin:4px 0px 0px 5px;text-align:center;width:37px;white-space:nowrap;}
+
+
+.shangpin{padding-top:15px;}
+.shangpin ul{width:680px;overflow:hidden;margin-right:-100px;}
+.shangpin li{float:left;width:210px;height:270px;margin-left:15px;display:inline;overflow:hidden;}
+.sp_pic{height:215px; position:relative;}
+.sp_pic a{height:200px;width:200px;display:table-cell;overflow:hidden;vertical-align:middle;text-align:center;border:1px solid #DDDDDD;font-family:Arial;*display:block;*font-size:180px;}
+.sp_pic a img{vertical-align:middle;}
+.sp_pic span{height:20px; display:block; position:absolute; right:8px; bottom:13px; background-color:#000;color:#fff; padding:0 5px; line-height:20px; background-color:rgba(0,0,0,0.2);*background-color: #555;}
+
+.sp_info a{background:url(/FrontEnd/images20090801/piece/Spellshop/pindannn.gif) no-repeat 0 0;float:left;width:151px;height:35px;margin-left:25px;display:inline;}
+.sp_info a:hover{background-position:0 -43px;}
+
+
+
+/* 翻页 */
+.page-top, .page-bottom {float:left;}
+.page-bottom {float:left;height:35px;margin:20px 0 0 20px;display:inline;}
+.page-bottom a, .page-bottom .page-cur, .page-bottom .page-start, .page-bottom .page-end {
+border:1px solid #AAAAAA;color:#666666;display:inline;float:left;height:20px;line-height:20px;margin-left:2px;padding:2px 8px;text-decoration:none;background-color:#fff;-moz-border-radius:4px;
+-webkit-border-radius:4px;border-radius:4px;margin-right:2px;}
+.page-bottom .page-start, .page-bottom .page-end {border:1px solid #DDDDDD;color:#CCC;font-family:"simsun";}
+.page-bottom a:hover {background:#FFEDE1;border:1px solid #FF9900;}
+.page-bottom .page-cur {background:#8dc74d;border:1px solid #5c9b22;color:#fff;}
+.page-bottom .page-break {float:left;margin:0 3px 0 5px;}
+.page-bottom .page-skip {color:#999999;display:inline;float:left;height:22px;line-height:22px;margin-left:5px;}
+.ts{border:1px solid #CCCCCC;}
+#jumpto,#ajaxjumpto {border:1px solid #aaa;width:20px;margin:0 3px;}
+.page_button {background:transparent url(/FrontEnd/images20090801/go.gif) no-repeat scroll 0 0;border:medium none;
+cursor:pointer;height:22px;margin:0 0 0 5px;width:22px;}
+/* 翻页 */
+
+
+
+.succeed{background:url(/FrontEnd/images20090801/biaoqing/b7.gif) no-repeat 150px 50px;padding:60px 0 200px 270px;}
+.succeed h2{font-family:"Microsoft YaHei";font-size:18px;color:#93C400;font-weight:200;height:30px;}
+.succeed li{float:left;font-size:14px;margin-right:20px;display:inline;}
+.succeed li a{color:#71a8cf;}
+.succeed ul{height:30px;padding-top:10px;}
+.succeed li a:hover{color:#F00;text-decoration:none;}

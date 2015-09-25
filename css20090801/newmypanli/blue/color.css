@@ -1,0 +1,51 @@
+
+.admin{border:#DFDFDF solid 1px;margin:auto;width:948px;background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/blue/left.jpg) repeat-y 1px 0;margin-bottom:10px;}
+.ding{border-bottom:#DFDFDF solid 1px;background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/yj.gif) no-repeat 0 top;height:53px;width:950px;margin:-1px -1px 0 -1px;position:relative;}
+.shouye{float:left;width:182px;border-right:#DFDFDF solid 1px;height:53px;}
+.shouye a{background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/blue/shouye.gif) no-repeat;width:179px;display:block;height:51px;margin:2px 0 0 2px;}
+.shouye a:hover{background-position:0 bottom;}
+
+.gonggao img{margin:13px 0 0 15px;float:left;display:inline;}
+.gonggao{float:left;width:520px;}
+.gonggao ul{float:left;margin:18px 0 0 10px;display:inline;height:20px;overflow:hidden;line-height:20px;width:460px;}
+.gonggao ul li{float:left;width:460px;display:inline;}
+.gonggao ul a{color:#333;text-decoration:none;}
+.gonggao ul a:hover{color:#FF9900;text-decoration:underline;}
+.gonggao ul span{color:#FF9900;margin:0 5px;}
+.gonggao ul span a{color:#3399ff;text-decoration:underline;}
+.gonggao ul span a:hover{text-decoration:none;}
+
+.shezhi{margin:20px 0 0 0;float:right;width:230px;color:#aaa;}
+.shezhi span{margin:0 10px;}
+.shezhi a{color:#aaa;}
+.shezhi a:hover{color:#F90;text-decoration:none;}
+.shezhi p{float:left;}
+.shezhi ul{float:left;}
+.shezhi li{float:left;height:12px;width:12px;margin-right:5px;cursor:pointer;display:inline;overflow:hidden;}
+.shezhi .mypanliS1{background:#FEDF73;border:#FFFFFF solid 1px;}
+.shezhi .mypanliS2{background:#ddd;border:#FFFFFF solid 1px;}
+.shezhi .mypanliS3{background:#88B6EA;border:#5582cb solid 1px;}
+
+.left{float:left;width:179px;display:inline;margin:1px 0 0 1px;}
+.left h2{background:#d6e6f2;font-size:14px;font-weight:100;height:22px;line-height:22px;color:#333;padding-left:15px;float:left;width:164px;}
+.left ul li{line-height:24px;border-bottom:#d9e8f0 solid 1px;width:160px;height:24px;float:left;}
+.left ul{margin:10px 0 0 10px;float:left;display:inline;padding-bottom:10px;}
+.left ul li a{text-decoration:none;display:block;color:#3366cc;background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/blue/sj.gif) no-repeat 10px -18px;padding-left:20px;height:24px;line-height:24px;}
+.left ul li a span{color:#FF0000}
+.left ul li a:hover{color:#F00;text-decoration:underline}
+.left ul .xz{background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/blue/xz.gif) no-repeat 0 -3px;border-bottom:none;height:26px;line-height:26px;margin:-1px 0 0 0;width:171px;position:relative;}
+.left ul .xz a{color:#FF6600;background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/blue/sj.gif) no-repeat 10px 7px}
+.left ul .xz b{float:right;background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/blue/xz.gif) no-repeat right 0;height:32px;width:5px;position:relative;margin-top:-27px;}
+
+
+.yj{background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/blue/yj.gif) no-repeat right 0;height:5px;width:950px;margin:0 -1px -1px -1px;position:relative;overflow:hidden;clear:both}
+.qb h2{background:#96b6da;font-size:14px;font-weight:100;color:#FFF;line-height:25px;height:25px;padding-left:10px;}
+
+.weizhi{float:left;margin:20px 0 0 20px;display:inline;color:#999}
+.weizhi a{color:#3399FE;text-decoration:none;}
+.weizhi a:hover{color:#FF0000;text-decoration:underline;}
+.weizhi span{margin:0 5px;}
+.weizhi b{font-weight:100;color:#333}
+
+
+

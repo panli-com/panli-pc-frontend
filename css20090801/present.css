@@ -1,0 +1,65 @@
+ 
+body{height:100%;}
+.pic_bj{margin:auto;width:950px;background:#FFaa00 url(http://sf.panli.com/FrontEnd/images20090801/present/pic.jpg) no-repeat;height:282px;}
+.pic_bj ul{float:right;color:#fff;display:inline;margin:69px 22px 0 0;width:290px;height:170px;}
+.pic_bj ul li{line-height:18px;width:290px;margin-bottom:6px;float:left}
+.pic_bj ul li b{background:url(http://sf.panli.com/FrontEnd/images20090801/present/shuzi.gif) no-repeat;float:left;display:block;width:18px;line-height:18px;height:18px;text-align:center;color:#F60;}
+.pic_bj ul li p{float:right;width:268px;}
+
+.present{border-left:#ffaa00 solid 1px;border-right:#ffaa00 solid 1px;width:948px;margin:auto;background:#FFf;padding-top:20px;margin-bottom:10px;}
+.sort{background:#ffa500 url(http://sf.panli.com/FrontEnd/images20090801/present/h.gif) no-repeat right bottom;height:34px;width:920px;margin:0 auto 20px auto;clear:both}
+.sort h2{float:left;background:url(http://sf.panli.com/FrontEnd/images20090801/present/h.gif) no-repeat left top;height:34px;}
+.sort h2 img{margin:7px 0 0 10px;}
+
+
+.present ul{float:left;}
+.present h1{font-size:12px;line-height:20px;float:left;margin-top:7px;height:20px;overflow:hidden;text-align:center;width:226px;}
+.present h1 a{color:#333;text-decoration:none;cursor:pointer;}
+.present h1 a:hover{color:#f00;text-decoration:underline;}
+.present li{height:330px;width:226px;float:left;margin:0 45px 0 45px;display:inline;}
+.pic{float:left;}
+.pic a{border:#CCCCCC solid 1px;float:left;padding:2px;width:220px;height:220px;cursor:pointer;}
+.pic img{height:220px;width:220px;}
+.pic a:hover{border:#F9C577 solid 2px;float:left;padding:1px;cursor:pointer;}
+
+.present dl{float:left;margin:5px 0 0 0;width:226px;color:#999;line-height:25px;}
+.present dd{float:left;width:100px;}
+.present dt{float:left;width:120px;}
+.present dl span{color:#F90;}
+
+
+.overlay{
+	moz-opacity:0.56; /* Moz + FF 透明度20%*/ 
+	opacity: 0.56; /* 支持CSS3的浏览器（FF 1.5也支持）透明度20%*/
+	filter:alpha(opacity=56); /* IE 透明度20% */ 
+	position:fixed;bottom:0;top:0;left:0;right:0;background:#000;height:100%;width:100%;_position:absolute;z-index:1000
+}
+.dialog{background:#ffa500 url(http://sf.panli.com/FrontEnd/images20090801/present/yj_.gif) no-repeat bottom;width:770px;height:454px;position:fixed;z-index:300;_position:absolute;left:50%; margin-left:-385px;top:50%;margin-top:-227px;z-index:1001}
+.windowname{background:url(http://sf.panli.com/FrontEnd/images20090801/present/yj.gif) no-repeat left top;margin-top:-2px;position:relative;height:32px;overflow:hidden;width:770px;}
+.windowname a{float:right;background:url(http://sf.panli.com/FrontEnd/images20090801/present/close.gif) no-repeat 0 -14px;height:14px;width:21px;display:inline;margin:10px 10px 0 0;}
+.windowname a:hover{background-position:0 0;}
+.inlay{height:411px;background:#FFF url(http://sf.panli.com/FrontEnd/images20090801/present/yj.gif) no-repeat right top;margin:0 10px;float:left;width:750px;display:inline;overflow:hidden}
+.inlay h1{font-size:20px;font-family:"simhei";font-weight:normal;height:40px;margin:20px 18px 0 18px;color:#666;background:url(http://sf.panli.com/FrontEnd/images20090801/present/dian.gif) repeat-x left bottom;}
+
+.present_pic a{float:left;border:#CCC solid 1px;height:310px;width:310px;}
+.present_pic{float:left;margin:22px 0 0 18px;display:inline;}
+.present_pic img{height:310px;width:310px;}
+.present_tc{float:right;width:380px;margin:20px 18px 0 0;display:inline;border-bottom:#CCC solid 1px;height:313px}
+.present_tc ul{border-bottom:#CCC solid 1px;height:125px;padding-left:5px}
+.present_tc ul li{line-height:38px;font-size:14px;}
+.present_tc ul li span{color:#f90;}
+.present_tc h2{font-size:14px;background:url(http://sf.panli.com/FrontEnd/images20090801/present/pin.gif) no-repeat left 0;padding-left:20px;margin:22px 0 0 0;height:28px;}
+.ms{line-height:20px;color:#666;height:120px;overflow:hidden;padding-left:5px;}
+
+.yao{float:left;margin:190px 0 0 55px;display:inline}
+.yao a{display:block;background:url(http://sf.panli.com/FrontEnd/images20090801/present/zc.gif) no-repeat 0 -73px;height:70px;width:209px;}
+.yao a:hover{background-position:0 0;}
+
+.pic .wan{width:75px;background:url(http://sf.panli.com/FrontEnd/images20090801/present/wan.png) no-repeat;height:74px;float:right;margin:0 0 -74px 0;z-index:5;position:relative;top:3px;right:3px;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,src="/images20090801/present/wan.png");_background:none;}
+
+.jifen{float:right;margin:215px -277px 0 100px;display:inline;width:300px;}
+.jifen a{color:#FFFF99;font-size:14px;}
+.jifen a:hover{color:#FF0000;text-decoration:none;}
+.jifen span{display:block;height:40px;text-align:right}
+.jifen p{margin-left:45px;color:#d36b30;font-size:14px;}
+

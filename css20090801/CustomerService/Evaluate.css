@@ -1,0 +1,55 @@
+.center{background:#f8f8f8;padding:10px 0;margin-top:-10px;position:relative;z-index:2;}
+.Evaluate{width:948px;margin:auto;border:#dddddd solid 1px;background:#fff;position:relative;z-index:1;}
+.banner{background:url(/FrontEnd/images20090801/CustomerService/Evaluate/Evaluate_bj.jpg) no-repeat 0 0;width:950px;height:173px;margin:-1px -1px 0 -1px;position:relative;z-index:2;}
+.banner a{background:url(/FrontEnd/images20090801/CustomerService/Evaluate/anniu.gif) no-repeat 0 0;width:165px;color:#fff;height:38px;float:left;line-height:34px;text-align:center;font-size:14px;text-decoration:none;display:inline;margin:100px 0 0 43px;}
+.banner a:hover{background-position:0 -39px;color:#fff;}
+
+.Evaluate_jb{background:url(/FrontEnd/images20090801/CustomerService/Evaluate/jb.jpg) repeat-x 0 0;height:50px;margin:1px;padding-top:20px;}
+.Evaluate_h2{margin:auto;width:865px;border-bottom:#ddd solid 1px;height:30px;}
+.Evaluate_h2 h2{float:left;font-size:14px;line-height:30px;color:#333;}
+.Page{float:right;padding-top:3px;margin-bottom:15px;}
+.Page span{float:left;margin:3px 0 0 0;padding-right:5px;}
+.Page dl{float:left;}
+.Page dl dt{float:left;}
+.Page dl dd{float:left;}
+.Page dl a{background:url(/FrontEnd/images20090801/see_fy.gif) no-repeat 0 0;float:left;height:17px;line-height:16px;text-align:center;width:50px;text-decoration:none;padding-top:2px;margin-left:5px;display:inline;}
+.Page dl a:hover{background-position:0 -23px;color:#333;}
+.Page dl dt a{padding-left:7px;}
+.Page dl dd a{padding-right:7px;background-position:right 0;}
+.Page dl dd a:hover{background-position:right -23px;}
+
+.Evaluate_box{width:950px;background:url(/FrontEnd/images20090801/CustomerService/Evaluate/Evaluate_yj.gif) no-repeat 0 bottom;margin:0 -1px -1px -1px;position:relative;z-index:2;padding-bottom:20px;}
+.Evaluate_box ul{margin:auto;width:865px;}
+.Evaluate_box ul li{padding-bottom:15px;float:left;}
+.Evaluate_info{background:url(/FrontEnd/images20090801/CustomerService/Evaluate/fx_bj.gif) no-repeat 0 bottom;width:865px;height:30px;float:left;}
+.Evaluate_info h3{float:left;background:url(/FrontEnd/images20090801/cowry/fx_info.gif) no-repeat left center;height:26px;line-height:26px;padding-left:25px;font-weight:100;font-size:14px;}
+.Evaluate_nr{border:#e6e6e6 1px solid;border-top:0;background:#f9f9f9;padding:10px 15px 15px 15px;float:left;width:835px;}
+.Evaluate_nr table{border-collapse:collapse;width:825px;margin:0;}
+.Evaluate_nr table td{margin:0;}
+.sp_info{width:580px;padding-right:20px;border-right:#ddd solid 1px;}
+.ping{font-size:14px;line-height:22px;padding-bottom:10px;}
+.huifu{border:#ddd dashed 1px;background:#fff;padding:10px;}
+.huifu h3{font-size:12px;font-weight:100;color:#f57805;height:18px;}
+.huifu p{line-height:18px;color:#5493ab;}
+.yd_info{padding-left:20px;line-height:24px;color:#999;}
+
+.p{clear:both;height:50px;width:865px;margin:auto;}
+.page-bottom {float:right;height:45px;margin:0;display:inline;}
+.page-bottom a, .page-bottom .page-cur, .page-bottom .page-start, .page-bottom .page-end {
+border:1px solid #AAAAAA;color:#666666;display:inline;float:left;height:20px;line-height:20px;margin-left:2px;padding:0 5px;text-decoration:none;}
+.page-bottom .page-start, .page-bottom .page-end {border:1px solid #DDDDDD;color:#CCC;font-family:"simsun";}
+.page-bottom a:hover {background:#FFEDE1;border:1px solid #FF9900;}
+.page-bottom .page-cur {background:#FFEDE1;border:1px solid #FF6600;color:#FF0000;}
+.page-bottom .page-break {float:left;margin:0 3px 0 5px;}
+.page-bottom .page-skip {color:#999999;display:inline;float:left;height:22px;line-height:22px;margin-left:5px;}
+.ts{border:1px solid #CCCCCC;}
+#jumpto,#ajaxjumpto{border:1px solid #aaa;width:20px;margin:0 3px;}
+.page_button{background:transparent url(/FrontEnd/images20090801/go.gif) no-repeat scroll 0 0;border:medium none;
+cursor:pointer;height:22px;margin:0 0 0 5px;width:22px;}
+
+
+
+
+
+
+

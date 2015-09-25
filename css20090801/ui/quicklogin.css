@@ -1,0 +1,41 @@
+body{height:100%;color:#333;font-size:12px;margin:0;padding:0;}
+p,ul,li,h2{margin:0;padding:0;}
+ul li{list-style:none;}
+.quicklogin_overlay{
+	moz-opacity:0.56; /* Moz + FF 透明度20%*/ 
+	opacity: 0.56; /* 支持CSS3的浏览器（FF 1.5也支持）透明度20%*/
+	filter:alpha(opacity=56); /* IE 透明度20% */ 
+	position:fixed;bottom:0;top:0;left:0;right:0;background:#000;height:100%;width:100%;_position:absolute;z-index:800;display:none;
+}
+.quicklogin_dialog{position:fixed;_position:absolute;text-indent:888;left:50%;width:373px;margin-left:-181px;top:50%;margin-top:-160px;z-index:850;display:none;}
+.quicklogin_top{background:url(http://sf.panli.com/FrontEnd/images20090801/ui/quicklogin/top.png) no-repeat bottom;height:10px;width:373px;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,src="/images20090801/ui/quicklogin/top.png"); _background:none;}
+.quicklogin_center{background:#FFF;border-left:#fa0 solid 3px;border-right:#fa0 solid 3px;height:290px;padding-top:10px;font-size:14px}
+.quicklogin_bottom{background:url(http://sf.panli.com/FrontEnd/images20090801/ui/quicklogin/bottom.png) no-repeat;height:10px;width:373px;filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true,src="/images20090801/ui/quicklogin/bottom.png"); _background:none;}
+.quicklogin_center h2{margin:0 0 25px 18px;}
+.quicklogin_go{border-bottom:#CCC solid 1px;width:335px;height:200px;margin-left:16px;overflow:hidden;}
+.quicklogin_go table{border-collapse:collapse;}
+.quicklogin_go table td{padding:5px 0;}
+.quicklogin_go table .quicklogin_l{width:87px;text-align:right;padding-right:3px;}
+.quicklogin_go table input{border:#A7D0E4 solid 1px;padding:7px 5px 6px 5px;float:left;width:220px;}
+.quicklogin_go table .quicklogin_on{background:#F4FDFF}
+.quicklogin_go .quicklogin_wrong{color:#FF0000;font-size:12px;height:20px;line-height:20px;width:318px;margin:-15px 0 0px 91px;float:left;display:inline;position:absolute}
+.quicklogin_go table .quicklogin_y{width:110px;margin-right:10px;display:inline;}
+.quicklogin_go table img{width:100px;height:30px;float:left}
+.quicklogin_go dl{margin:5px 0 0 90px;height:30px;}
+.quicklogin_go dd{float:left;}
+.quicklogin_go dt{float:left;margin-right:0px;display:inline;width:100px;}
+.quicklogin_go dt input{margin-right:3px;float:left;}
+.quicklogin_go dt label{line-height:20px;height:20px;overflow:hidden;}
+.quicklogin_go dd a{color:#71A8CF;text-decoration:none;border-bottom:#71A8CF solid 1px;float:left;line-height:14px;padding-top:2px}
+.quicklogin_go dd a:hover{color:#f90;text-decoration:none;border-bottom:none;}
+.quicklogin_join{margin:2px 0 0 90px;}
+.quicklogin_join input{background:url(http://sf.panli.com/FrontEnd/images20090801/ui/quicklogin/go.gif) no-repeat;height:41px;width:102px;border:none;font-size:14px;color:#FFF;line-height:30px;padding-bottom:11px;cursor:pointer;}
+.quicklogin_join .quicklogin_by{background-position:0 bottom;color:#D1500A}
+
+.quicklogin_tishi{margin:12px 0 0 18px;}
+.quicklogin_tishi p{color:#999;margin-top:7px;line-height:20px}
+.quicklogin_tishi p a{color:#71A8CF;margin-right:3px;}
+.quicklogin_tishi p a:hover{color:#F90;text-decoration:none;}
+
+.quicklogin_close{cursor:pointer;float:right;background:url(http://sf.panli.com/FrontEnd/images20090801/ui/quicklogin/close.gif) no-repeat 0 0;height:15px;width:19px;margin:0 15px 0 0;display:inline;overflow:hidden;}
+.quicklogin_close:hover{background-position:0 -15px;}

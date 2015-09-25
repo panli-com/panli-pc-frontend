@@ -1,0 +1,158 @@
+body{font-size:12px;margin:0;padding:0;font-family:Arial,Verdana , Helvetica, "simsun";}p,h1,h2,h3,h4,h5,li,ul,dd,dt,dl,form{margin:0;padding:0;}img{border:none;}ul li{list-style:none;}
+a{color:#333;}a:hover{color:#FF0000;}textarea{resize: none;}
+input,a { outline:none;}
+.Panli_overlay{
+	moz-opacity:0.56; /* Moz + FF 透明度20% */
+	opacity: 0.56;  /*支持CSS3的浏览器（FF 1.5也支持）透明度20%*/
+	filter:alpha(opacity=56); /* IE 透明度20% */
+	position:fixed;bottom:0;top:0;left:0;right:0;background:#000;height:100%;width:100%;_position:absolute; z-index:800;
+	display:none;
+}
+
+.gs_background {
+    background: #F0F0F0;
+    padding: 10px 0;
+    margin-top: -12px;
+}
+
+.center {
+    background: #fff url(/FrontEnd/images20090801/Tools/Estimates/background_middle.gif?v=1.1) repeat-y 0 0;
+    width: 958px;
+    margin: auto;
+}
+
+.bottom_ {
+    background: url(/FrontEnd/images20090801/Tools/Estimates/background_bottom.gif?v=1.1) no-repeat 0 bottom;
+    width: 958px;
+    padding-bottom: 60px;
+}
+
+
+.dashed {
+    background: url(/FrontEnd/images20090801/Tools/Estimates/dashed.gif) no-repeat;
+    height: 1px;
+    margin: 10px 0 0 15px;
+}
+
+.font p {
+    padding: 25px 0 0 30px;
+}
+
+.font a {
+    padding: 0 5px 0 5px;
+    color: #0764b5;
+    text-decoration: none;
+}
+
+    .font a:hover {
+        color: #ff4200;
+        text-decoration: underline;
+    }
+
+.font span {
+    padding: 0 5px 0 5px;
+}
+
+.font b {
+    color: #999;
+    font-weight: normal;
+}
+/* 主内容区*/
+.est_main {  width:922px;  margin:0 auto; padding-bottom:20px; }
+.content1 { width:902px; height:390px; margin:0 auto; padding-right:20px;}
+/*广告区*/
+.est_ad {width:430px; height:370px; background: url(/FrontEnd/images20090801/Tools/Estimates/estimate_ad1.png); float:left;}
+
+/*信息区*/
+#est_mesg { width:470px; height:330px; float:right; padding-top:40px; font-size:14px;}
+.est_head { font-size:24px; font-family:'Microsoft YaHei'; margin-bottom:10px; }
+.kuang { width:110px; padding:5px 0; height:18px; line-height:18px; color:#000; z-index:2; padding-left:5px; border:none; background:none; float:left;}
+.sel_address {width:140px; height:18px; line-height:18px; border:1px solid #ccc; padding:5px; cursor:pointer; }
+#sel_addr { width:150px; height:30px; float:left; position:relative; margin-bottom:5px;}
+
+/*输入框*/
+.est_error{display:none;}
+.est_ul .est_li { display:block; padding-top:8px;  height:50px; margin-top:0px; }
+.est_ul .est_li.est_height{height:40px;}
+.label_list{float:left; display:inline; line-height:30px; padding-right:10px;  }
+.label_list input{ float:left; display:inline;}
+.est_ul .est_li .d { margin-top:8px;}
+.est_ul .est_li_head { display:block; width:70px; height:30px; line-height:30px; color:#4d4d4d; float:left;}
+.est_ul .est_li_kuang { position:relative; width:150px; height:28px; text-align:right;color:#999; text-align:right; padding:0; border:1px solid #cacaca;  float:left;}
+.danwei { height:30px; line-height:30px; padding-right:8px;display:inline; width:24px; height:14px; float:right; z-index:3; }
+.est_errors .est_error {padding-bottom:3px; display:inline; float:left; background:url(/FrontEnd/images20090801/Tools/Estimates/error_bg.png) no-repeat 0 2px; padding-left:14px; color:#f00; font-size:12px;}
+.est_errors .est_li_kuang,.est_errors .sel_address{ background-color:#ffd9d9; border-color:#f98487; margin-bottom:5px; }
+.est_li_all{float:left;}
+
+
+
+/*常用重量提示*/
+ #est_li3 {position:relative;}
+.show_tips { position:relative; font-size:12px;width:132px;text-align:center;  color:#369; margin-left:15px; height:30px; line-height:30px; display:block; float:left; text-decoration:underline;}
+.show_tips_active {position:relative; width:132px;  font-size:12px; color:#369; margin-left:15px; height:30px; line-height:30px; display:inline; float:left; text-decoration:underline;}
+.weight_tips { display:none;  z-index:2;  position:absolute; top:30px; left:0px; width:240px;border:1px solid #d7d7d7; background:#f6f7f6; padding:10px 0px;}
+.weight_tips ul {width:212px;float:left; margin-bottom:10px; margin-left:15px;}
+.weight_tips li {display:block; width:106px; height:44px; font-size:14px;  font-weight:normal; line-height:20px; color:#666; float:left;}
+.weight_tips li span {display:block; margin-left:46px; text-align:left;}
+.weight_tips li.a1 { background:url(/FrontEnd/images20090801/Tools/Estimates/tips_bg1.png) no-repeat 0 4px; }
+.weight_tips li.a2 { background:url(/FrontEnd/images20090801/Tools/Estimates/tips_bg2.png) no-repeat 0 4px; }
+.weight_tips li.a3 { background:url(/FrontEnd/images20090801/Tools/Estimates/tips_bg1.png) no-repeat 0 -40px; }
+.weight_tips li.a4 { background:url(/FrontEnd/images20090801/Tools/Estimates/tips_bg2.png) no-repeat 0 -40px; }
+.weight_tips li.a5 { background:url(/FrontEnd/images20090801/Tools/Estimates/tips_bg1.png) no-repeat 0 -84px; }
+.weight_tips li.a6 { background:url(/FrontEnd/images20090801/Tools/Estimates/tips_bg2.png) no-repeat 0 -84px; }
+.weight_tips li.a7 { background:url(/FrontEnd/images20090801/Tools/Estimates/tips_bg1.png) no-repeat 0 -128px; }
+.weight_tips li.a8 { background:url(/FrontEnd/images20090801/Tools/Estimates/tips_bg2.png) no-repeat 0 -128px; }
+.weight_tips p {font-size:12px; display:block; clear:both; font-weight:normal; color:#ff6600; margin:14px 14px 0 14px; line-height:18px;}
+.show_tips_active .weight_tips{display:block;}
+.show_tips_active .show_name{ display:block;text-align:center; font-weight:900; width:130px;  z-index:3; position:absolute; border:1px solid #d7d7d7; border-bottom:2px #f6f7f6; background-color:#f6f7f6;}
+/*选择地区 */
+#est_li4 {position:relative;} 
+.area {display:none; position:absolute; top:29px; left:0px; z-index:2; width:404px; height:160px; border:1px solid #cacaca; background:#f6f7f6; padding:8px; overflow:hidden;}
+.area ul { border-bottom:1px dashed #cacaca; height:80px; margin-bottom:6px;}
+.area li {display:block; float:left; height:26px; font-size:12px; color:#336699; margin-right:15px; cursor:pointer; }
+.area .active { color:#f00;}
+.area p { height:24px; font-size:12px; color:#616262; line-height:25px;}
+.area span {color:#999; }
+
+
+/*按钮*/
+.space_btn { display:block; width:70px; height:36px; float:left; }
+#btn{ display:block; text-align:center; line-height:36px; float:left; text-decoration:none; font-size:14px; width:140px; height:52px; background:url(/FrontEnd/images20090801/button/anniu.gif) no-repeat; color:#fff; font-size:14px;}
+#btn:hover{ background-position:0 -52px;}
+#btn:active { border:none;}
+
+
+/*结果表格*/
+#est_res { width:920px;  margin:0 auto;}
+#est_res table { border-collapse: collapse; display:table; }
+.est_list,.res_list_show {width:874px; margin:0 auto; text-align:center; }
+.est_list thead th ,.res_list_show thead th { font-size:14px; font-weight:normal; background-color:#f1f1f1; height:38px; border:solid 1px #ddd;}
+.est_list td,.res_list_show td { border:solid 1px #ddd; line-height:32px; }
+
+
+
+.res_list_blank{ height:200px;width:872px; margin:0 auto; background:url(/FrontEnd/images20090801/Tools/Estimates/nodata_bg.png) no-repeat 50% 50%;border:solid 1px #ddd;  border-top:none;}
+.loading{ height:200px; width:872px;margin:0 auto; background:url(/FrontEnd/images20090801/Tools/Estimates/loadings.gif) no-repeat 50% 50%;border:solid 1px #ddd; border-top:none;}
+
+.res_list_blank,.loading{display:none;}
+.res_list_hide .res_list{display:none; }
+.res_list_hide .res_list_blank,.res_list_hide .loading{display:block;}
+
+
+
+
+.a { color:red;}
+
+
+
+/*表格提示*/
+#est_res ul {margin:20px 36px;}
+#est_res li { line-height:26px; background:url(/FrontEnd/images20090801/Tools/Estimates/d.png) no-repeat 0 12px; text-indent:20px; color:#666;}
+#est_res a {color:#71a8cf;}
+
+.t1{width:120px;}
+.t2{width:152px;}
+.t3{width:107px;}
+.t4{width:129px;}
+.t5{width:130px;}
+.t6{width:107px;}

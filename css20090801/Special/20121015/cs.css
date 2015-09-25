@@ -1,0 +1,50 @@
+@charset "utf-8";
+body,div,table,ul,li,ol,dl,dd,p,input,img,div{margin:0px; padding:0px;}
+body{text-align:center;font-family:"微软雅黑";}
+img{border:none;}
+.center { width:100%; height:1150px; background:url(/FrontEnd/images20090801/special/20121015//bg.jpg);}
+#topimg,#centertext,#footbg{ margin:0 auto; width:948px;clear:both;}
+#topimg img{display:block;}
+#centertext{height:708px; background-color:#fff; padding-top:17px;}
+#footbg{background-image:url(/FrontEnd/images20090801/special/20121015//footbg.jpg); height:4px; background-repeat:repeat-x;}
+.cneter-cj{margin:0 auto; width:916px; height:460px; overflow:hidden;+position:relative;}
+.cneter-cj .left{float:left; display:inline; margin-left:13px; width:458px; height:460px;overflow:hidden;+position:relative;}
+#aDiv{ float:left;
+	       display:inline;
+		   position:relative;
+	} 
+.jt,.jtlogin{
+	position:absolute; width:143px; height:173px; background-image:url(/FrontEnd/images20090801/special/20121015//cjb.png); cursor:pointer; background-repeat:no-repeat; margin:130px 0 0 170px; +margin:130px 0 0 -740px;
+  background-position:5px 35px;
+	_filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src=image/cjb.png);
+	_background-image:none;}
+.cneter-cj .right{width:416px; float:left; margin-left:20px; *display:inline; height:300px; }
+.cneter-cj .right .right-text{height:300px; width:416px;}
+.right-text-left,.right-text-center,.right-text-right{ height:300px; float:left;}
+.right-text-left{width:16px; background:url(/FrontEnd/images20090801/special/20121015//xianleft.jpg) repeat-y;}
+.right-text-center{width:383px;}
+.right-text-center ul{width:359px; margin:0 auto;}
+.right-text-center ul li{ text-indent:1.8em; list-style:none; width:359px; text-align:left; line-height:27px; font-size:13px; color:#555555; font-weight:900;}
+.li1{background:url(/FrontEnd/images20090801/special/20121015//num_01.jpg) no-repeat;}
+.li1 span{width:355px; height:19px; font-size:12px; color:#6e6e6e; line-height:19px; display:block; font-weight:normal; background-color:#ffeec7; margin-top:3px;}
+.li2{background:url(/FrontEnd/images20090801/special/20121015//num_02.jpg) no-repeat; margin-top:5px;}
+.li2 a{color:#ff3c00;}
+.li3{background:url(/FrontEnd/images20090801/special/20121015//num_03.jpg) no-repeat;}
+.right-text-right{width:17px; background:url(/FrontEnd/images20090801/special/20121015//xianright.jpg) repeat-y;}
+.img-sm{margin-top:20px;}
+.zc-zccg{ width:359px; height:47px; display:block; margin:0 auto; font-size:20px; color:#ff3c00; line-height:47px; background-color:#ffeeb5; text-align:left;}
+.zc-zccg img{margin:0 20px; float:left;}
+
+
+.bottom-lp{width:897px; height:190px; margin:0 auto; background:url(/FrontEnd/images20090801/special/20121015//jp.jpg) no-repeat; clear:both; margin-top:10px;}
+.bottom-lp-left{ margin-left:100px;}
+.bottom-lp-left,.bottom-lp-right{float:left;display:inline; margin-top:65px; cursor:pointer; }
+.bottom-lp-center{float:left;display:inline; margin-top:25px; width:664px; overflow:hidden;}
+.bottom-lp ul{ width:2000px;}
+.bottom-lp ul li{ float:left; display:inline; list-style:none;  width:130px; margin:0 18px; font-size:14px; color:#555;}
+.bottom-lp ul li span{width:128px; height:118px;border:solid 1px #bdbdbd; display:block; margin-bottom:8px;}
+.bottom-lp ul li span img{margin-top:1px;}
+
+.ptext{width:897px; margin:15px auto 0 auto; color:#666; font-size:13px; text-align:right;}
+/* CSS Document */
+

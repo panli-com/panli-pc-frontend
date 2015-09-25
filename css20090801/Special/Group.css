@@ -1,0 +1,488 @@
+﻿p, h1, h2, h3, h4, h5, li, dd, dt, dl
+{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+img
+{
+    border: 0px;
+}
+.t_a1
+{
+    width: 950px;
+    height: 50px;
+    text-align: center;
+    margin: 0 auto;
+    border: 0px;
+}
+.t_a2
+{
+    width: 950px;
+    height: 100px;
+    text-align: center;
+    margin: 0 auto;
+    border: 0px;
+}
+.t_a_s
+{
+    width: 950px;
+    height: 50px;
+    position: relative;
+    text-align: center;
+    margin: 0 auto;
+    border: 0px;
+}
+.t_main
+{
+    width: 950px;
+    height: 1000px;
+    text-align: center;
+    margin: 0 auto;
+    border: 0px;
+}
+.t_mail_left
+{
+    width: 50px;
+    height: 1000px;
+    float: left;
+}
+.t_mail_middle
+{
+    width: 840px;
+    height: 1000px;
+    float: left;
+    font: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #666666;
+}
+.t_guizhe
+{
+    width: 455px;
+    height: auto;
+    float: left;
+    margin: 15px 5px; *margin:5px 2px;}
+.t_guizhe h1
+{
+    width: 455px;
+    height: 22px;
+    background: url(http://sf.panli.com/FrontEnd/images20090801/special/Group/t_youhuiquan1_13.jpg) left no-repeat;
+    margin: 0px;
+    list-style: none;
+    font-size: 14px;
+    font-weight: normal;
+    color: #c23400;
+    text-align: left;
+    padding-top: 8px;
+    text-indent: 15px;
+}
+.t_guizhe ul
+{
+    width: 455px;
+    height: auto;
+    margin: 10px 0px;
+}
+.t_guizhe ul li
+{
+    width: 455px;
+    height: 20px;
+    line-height: 20px;
+    padding-top: 2px;
+    text-align: left;
+    font-size:12px;
+}
+.t_head
+{
+    text-indent: 20px;
+    display: block;
+}
+#t_head2
+{
+    height: 5px;
+}
+.t_xx
+{
+    width: 350px;
+    height: 35px;
+    margin: auto;
+    padding-top: 10px;
+}
+.t_xx ul
+{
+    width: 350px;
+    height: 30px;
+    text-align: left;
+}
+.t_xx ul li
+{
+    width: 175px;
+    height: 25px;
+    float: left;
+}
+.t_lingqu
+{
+    width: 340px;
+    height: auto;
+    margin: 10px 5px;
+    float: right;
+    text-align: center;
+}
+.t_xiangxi
+{
+    width: 340px;
+    height: 120px;
+    text-align: left;
+    margin-bottom: 30px;
+    text-indent: 10px;
+}
+.t_mail_right
+{
+    width: 60px;
+    height: 1000px;
+    float: right;
+}
+.t_bottom
+{
+    width: 950px;
+    height: 72px;
+    margin: 0 auto;
+    margin: 0px auto 10px auto;
+    text-align: center;
+}
+.t_lingqu a:link, .t_lingqu a:visited
+{
+    font-size: 14px;
+    text-decoration: underline;
+    color: #71a8d1;
+}
+.t_lingqu a:hover
+{
+    font-size: 14px;
+    text-decoration: underline;
+    color: #ff4200;
+}
+.t_tieshi
+{
+    width: 800px;
+    height: auto;
+    float: left;
+    margin: 5px 5px;
+}
+.t_tieshi h1
+{
+    width: 800px;
+    height: 22px;
+    background: url(http://sf.panli.com/FrontEnd/images20090801/special/Group/t_youhuiquan1_13.jpg) left no-repeat;
+    margin: 0px;
+    list-style: none;
+    font-size: 14px;
+    font-weight: normal;
+    color: #c23400;
+    text-align: left;
+    padding-top: 6px;
+    text-indent: 15px;
+}
+.t_tieshi ul
+{
+    width: 780px;
+    height: auto;
+    margin: 10px 5px;
+}
+.t_tieshi ul li
+{
+    width: 300px;
+    height: 80px;
+    line-height: 80px;
+    margin: 10px 15px;
+    float: left;
+}
+.t_hot
+{
+    width: 800px;
+    height: auto;
+    float: left;
+    margin: 5px 5px;
+}
+.t_line
+{
+    width: 800px;
+    height: 22px;
+    background: url(http://sf.panli.com/FrontEnd/images20090801/special/Group/t_youhuiquan1_13.jpg) left no-repeat;
+    margin: 0px;
+    list-style: none;
+    font-size: 14px;
+    font-weight: normal;
+    color: #c23400;
+    text-align: left;
+    padding-top: 6px;
+    text-indent: 15px;
+}
+.t_h_m
+{
+    float: left;
+    width: 750px;
+    margin: 5px 0 0 10px; *margin:5px 0px 0px 5px;display:inline;}
+.list
+{
+    background: url(images/bai_yj.gif) no-repeat right bottom;
+}
+.list ul
+{
+    margin: 10px 10px 22px 20px;
+    height: 115px;
+    border-bottom: #eaeaea solid 1px; *margin:5px 10px 15px 20px;}
+.list ul li
+{
+    float: left;
+}
+.l_left
+{
+    width: 115px;
+}
+.l_left a
+{
+    height: 100px;
+    width: 100px;
+    display: table-cell;
+    overflow: hidden;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid #DDDDDD;
+    font-family: Arial; *display:block;*font-size:91px;}
+.l_left img
+{
+    vertical-align: middle;
+}
+.l_center
+{
+    width: 350px;
+    padding-right: 40px;
+}
+.l_center h1{font-size:14px;font-weight:100;line-height:20px;height:45px;text-align:left;}
+.l_center h1 img{height:17px;width:29px;margin:0 0 -3px 0;margin-right:3px;}
+.l_center h1 a{color:#71a8cf;}
+.l_center h1 a:hover{color:#F90;text-decoration:none;}
+.yh
+{
+    height: 26px;
+    font-family: "simsun";
+    line-height: 20px;
+    overflow: hidden;
+}
+.yh span
+{
+    font-family: Arial;
+    font-size: 15px;
+    color: #FF0000;
+    font-weight: bold;
+    float: left;
+    margin: -1px 0 -8px 0;
+}
+.yh i
+{
+    font-style: normal;
+    text-decoration: line-through;
+}
+.yh p
+{
+    float: left;
+    width: 240px;
+}
+.yh label
+{
+    float: left;
+}
+.yh p b
+{
+    font-weight: 100;
+    color: #f90;
+}
+.jindu
+{
+    background: url(http://sf.panli.com/FrontEnd/images20090801/special/Group/jindu.gif) no-repeat;
+    height: 31px;
+    width: 346px;
+    margin-bottom: 10px;
+    font-family: Tahoma,Helvetica,Arial, '宋体' ,sans-serif;
+}
+.dang
+{
+    width: 311px;
+    background: #fff;
+    height: 15px;
+    line-height: 14px;
+    margin: 1px 0 0 1px;
+    float: left;
+    display: inline;
+    overflow: hidden;
+}
+.dang table
+{
+    border-collapse: collapse;
+    width: 100%;
+    height: 15px;
+}
+.dang table td p span
+{
+    font-size: 11px;
+    display: block;
+}
+.dang table td
+{
+    width: 20%;
+    text-align: center;
+    white-space: nowrap;
+    padding: 0;
+    margin: 0;
+    border-right: #eee solid 1px;
+    overflow: hidden;
+    table-layout: fixed;
+    position: relative;
+    z-index: 40;
+}
+.dang table td a
+{
+    height: 15px;
+    display: block;
+    text-decoration: none;
+    color: #aaa;
+}
+.dang table td a:hover
+{
+    color: #FF9900;
+}
+.jd
+{
+    width: 311px;
+    background: #F4F4F4;
+    height: 13px;
+    line-height: 13px;
+    margin: 1px 0 -50px 1px;
+    float: left;
+    display: inline;
+    overflow: hidden;
+}
+.jd table
+{
+    border-collapse: collapse;
+    width: 100%;
+    height: 13px;
+    table-layout: fixed;
+}
+.jd table td
+{
+    width: 20%;
+    text-align: center;
+    white-space: nowrap;
+    padding: 0;
+    margin: 0;
+    border-right: #e3e3e3 solid 1px;
+    height: 13px;
+    overflow: hidden;
+    table-layout: visible;
+    position: relative;
+    z-index: 4;
+}
+.jd table td p
+{
+    background: #95db69;
+    height: 13px;
+    float: left;
+    position: relative;
+    overflow: hidden;
+    z-index: 2;
+    margin-right: 1px;
+}
+.jd table td span
+{
+    display: block;
+    text-align: center;
+    line-height: 14px;
+    height: 13px;
+    margin: 0px 0 -13px 0;
+    _margin: 1px 0 -15px 0;
+    position: relative;
+    font-size: 12px;
+    z-index: 5;
+    font-family: "simsun";
+}
+.fd
+{
+    height: 13px;
+}
+.jindu img
+{
+    float: right;
+    clear: both;
+    margin: 1px 13px 0 0;
+    display: inline;
+}
+.jd table td .lv
+{
+    color: #73A859;
+}
+.jd table td .h
+{
+    color: #ccc;
+}
+.l_right
+{
+    color: #666;
+    border-left: #eee solid 1px;
+    height: 100px;
+    padding: 0px 0 5px 20px;
+    line-height: 22px;
+}
+.l_right p span
+{
+    color: #FF0000;
+}
+.l_right p
+{
+    height: 22px;
+}
+.l_right i
+{
+    height: 27px;
+    display: block;
+    font-style: normal;
+    color: #bbb;
+    font-family: Arial;
+}
+.l_right b
+{
+    display: block;
+    font-weight: 100;
+    height: 22px;
+}
+.l_right b span
+{
+    font-family: "simsun";
+}
+.l_right a
+{
+    cursor: pointer;
+    background: url(http://sf.panli.com/FrontEnd/images20090801/special/Group/gz.gif) no-repeat;
+    color: #cb970b;
+    font-size: 14px;
+    text-decoration: none;
+    width: 139px;
+    display: block;
+    height: 32px;
+    text-align: center;
+    line-height: 32px;
+}
+.l_right a:hover
+{
+    background-position: 0 -46px;
+    color: #FFF;
+}
+.o_c
+{
+    color: #ff4200;
+    display: inline;
+}
+.l_right .hui,.l_right .hui:hover{background-position:0 -93px;color:#FFFFFF;cursor:default;}
+.title{position:absolute;display:none;background:#FFFFCC;border:#D8EB6D solid 1px;color:#666;float:left;height:25px;line-height:25px;padding:0 10px;z-index:100;}
+.title span{color:#f00;}

@@ -1,0 +1,83 @@
+ h1, h2, h3, h4, h5, li, ul, dl, dt, dd, b, img, div, p{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal; }
+.allstyle{ width:100%; height:100%;  background:#d4e9ff; margin:-15px 0 0; padding:0px; font-family:Verdana, 宋体, Helvetica, sans-serif; } 
+.bannertop{ width:950px;height:50px;padding:0px;margin:0px auto;text-align:center;}
+.bannertop2{ width:950px;height:83px;padding:0px;margin:auto;text-align:center;}
+.content{ width:934px; height:auto; background:#ffffff; margin:0px auto; border:8px solid #5588bc; overflow:hidden;}
+.leftsidebar{ width:200px;height:auto; float:left;background:#ffffff; }
+.linkweb{ width:188px; height:188px; margin:0px auto; padding:0px;}
+.linkweb ul{ margin:0px; padding:0px;}
+.linktit{ width:182px; height:10px; color:#4d6d97; font-size:16px; padding:15px 0px;_padding:15px 0px 8px 0px;text-align:left; font-weight:bold; float:left; text-indent:6px; }
+.linkwebpic{ width:84px; height:35px; border:1px dashed #b2b2b2; margin:4px; _margin:4px 3px;float:left;}
+.linkwebpic img{padding:0px; border:0px;}
+/*Panli優惠活動left*/
+.menu01{ width:200px; height:51px; margin:-1px 0px; position:relative;  }
+.menu01 a{width:217px; height:51px; left:0px; top:0px; position:absolute; background:url(/FrontEnd/images20090801/special/20110504/taiwan/menu01pic.gif) no-repeat top; }
+.menu02{ width:200px; height:51px; margin:-1px 0px; position:relative;   }
+.menu02 a{width:217px; height:51px;background:url(/FrontEnd/images20090801/special/20110504/taiwan/menu02pic.gif) no-repeat top; left:0px; top:0px; position:absolute;  }
+.menu03{ width:200px; height:51px; margin:-1px 0px; position:relative;   }
+.menu03 a{width:217px; height:51px;background:url(/FrontEnd/images20090801/special/20110504/taiwan/menu03pic.gif) no-repeat top; left:0px; top:0px; position:absolute;  }
+.menu04{ width:200px; height:51px; margin:-1px 0px; position:relative;   }
+.menu04 a{width:217px; height:51px;background:url(/FrontEnd/images20090801/special/20110504/taiwan/menu04pic.gif) no-repeat top; left:0px; top:0px; position:absolute;  }
+/*為什麼要用Panli代購left*/
+
+.leftsidebar .on a{width:217px; height:51px;background:url(/FrontEnd/images20090801/special/20110504/taiwan/menu01pic.gif) no-repeat bottom; left:0px; top:0px; position:absolute; }
+.tiptit{ width:192px; margin:15px 4px 5px 4px;  line-height:22px; color:#6ab322; text-align:left; font-size:12px;}
+.tipcontent{ width:192px; margin:5px 4px; height:auto;  line-height:22px; color:#717171;text-align:left; font-size:12px; margin-bottom:10px;}
+.tipcontent a { color:#389fc8; text-decoration:underline;}
+.tipcontent a:hover{ color:#f49600; text-decoration:underline;}
+/*right01*/
+.contentright01{ width:724px; height:auto; border:5px solid #77b7ff;float:right; background:#ffffff; color:#656565;}
+.contentright01 a{ color:#389fc8; text-decoration:underline;}
+.contentright01 a:hover{ color:#f49600; text-decoration:underline;}
+.hdjs01{ width:694px; height:auto; line-height:25px; text-align: left; font-size:14px; margin:25px 15px 0px 15px; }
+.spcial_r{width:619px; text-indent:75px;line-height:25px;text-align: left;margin:0px 15px 20px 15px; font-size:14px;}
+.spcial_o{ color:#f49600;}
+.textmain{width:672px; height:auto; line-height:25px; border:1px dotted #b2b2b2; margin:15px; font-size:14px; padding:15px 10px;
+text-align:left  }
+.texttit{ font-size:16px; padding-bottom:8px; margin-bottom:8px; border-bottom:1px solid #bebebe; color:#5a779e; font-weight:bold; }
+.textblue{ color:#5a779e; }
+.textjf{ color:#6ab322; }
+.tablejf{ color:#aaaaaa; font-size:12px;width:650px; height:75px; margin-bottom:20px; }
+.zsyhq{width:420px; height:auto; line-height:25px; text-indent:5px; border-collapse:collapse;}
+.zsyhq tr td{border:1px solid #d2d2d2; text-indent:5px;}
+.zsyhqname{ background:#f1f0f0; line-height:35px;}
+.tip{  font-size:12px;line-height:25px;  color:#aaaaaa;margin-top:10px;}
+/*right02*/
+.contentright02{ width:724px; height:auto; border:5px solid #77b7ff;float:right; background:#ffffff; color:#656565;}
+.texttop{ width:642px; height:auto; line-height:30px; text-align: left; font-size:14px; margin:25px 15px 0px 15px; border:1px dashed #cccccc; background:#f2fdff; padding:15px 25px  }
+.textxq{ width:684px; height:auto; line-height:25px; text-align: left; font-size:14px; color:#5a779e; text-indent:25px;margin:20px; }
+h5{ width:684px; height:auto; line-height:25px; font-size:16px; padding-bottom:6px; margin-bottom:6px; border-bottom:1px solid #bebebe; color:#5a779e; font-weight:bold; margin:10px 20px;  }
+.fuwu{width:684px; height:auto; line-height:28px; text-align: left; font-size:14px;margin:5px 20px 15px 20px;}
+/*right03*/
+.contentright03{ width:724px; height:100%; padding:5px 0px;  border:5px solid #77b7ff;float:right; background:#ffffff; color:#656565;}
+.contentright03 a { color:#389fc8; text-decoration:underline;}
+.contentright03 a:hover{ color:#f49600; text-decoration:underline;}
+.liucheng{ width:720px; height:360px;margin:40px auto; text-align:center;}
+.lcxx{width:300px; height:30px;margin:0px auto 40px auto; ; text-align:center; font-size:14px; }
+/*right04*/
+.contentright04{ width:724px; height:100%; padding:5px 0px;  border:5px solid #77b7ff;float:right; background:#ffffff; color:#656565;}
+.contentright04 a { color:#389fc8; text-decoration:underline;}
+.contentright04 a:hover{ color:#f49600; text-decoration:underline;}
+.allproblem{width:684px; height:auto; line-height:22px; text-align: left; font-size:12px;margin:10px 20px 15px 20px; border-bottom:1px dashed #a2a2a2; padding:5px 0px 20px 0px;}
+.allproblem span ,.allproblem_top span{color:#5a779e; font-weight:bold;}
+.allproblem img{ margin:10px 0px 20px 0px;}
+.allproblem_top{width:684px; height:auto; line-height:22px; text-align: left; font-size:12px;margin:10px 20px 0px 20px;padding-top:5px }
+.allproblem_bottom{width:684px; height:auto; line-height:22px; text-align: left; font-size:12px; margin:0px 20px 15px 20px;border-bottom:1px dashed #a2a2a2; padding-bottom:20px;}
+.yftable{ width:650px; height:auto; line-height:25px; margin:5px 20px;border-collapse:collapse; font-size:12px;}
+.yftable tr td{border:1px solid #d2d2d2; text-indent:5px;}
+.nametop{ background:#f1f0f0; font-weight:bold;line-height:18px;}
+.textnomal{ font-weight:normal; color:#b9b9b9;}
+.overnotice{width:684px; height:auto; line-height:25px; text-align: left; font-size:14px;margin:20px 20px; font-weight:bold; text-indent:25px;}
+/*立即注册按钮*/
+.registerbtn{ width:298px;height:48px; margin:30px auto;text-align:center;}
+.registerbtn a{ background:url(/FrontEnd/images20090801/special/20110504/taiwan/registerbtn.gif) no-repeat top; width:298px;height:48px; display:block;}
+.registerbtn a:hover{ background-position:bottom;}
+.clear{clear: both;}
+
+
+
+
+
+
+
+

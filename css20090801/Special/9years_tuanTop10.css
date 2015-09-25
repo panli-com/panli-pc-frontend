@@ -1,0 +1,55 @@
+body{ margin:0 auto; font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span30{ height:30px; line-height:30px; display:block; clear:both;}
+.left{ float:left;}
+.right{ float:right;}
+
+#frame{ width:100%; margin:0 auto; background:url(/FrontEnd/images20090801/special/9years_tuanTop10/back.gif) fixed;}
+.banner{ width:100%; margin:0 auto; text-align:center;}
+.banner1{ background:url(/FrontEnd/images20090801/special/9years_tuanTop10/top_tuangou1.jpg) no-repeat center; height:80px;}
+.banner2{ background:url(/FrontEnd/images20090801/special/9years_tuanTop10/top_tuangou2.jpg) no-repeat center; height:80px;}
+.banner3{ background:url(/FrontEnd/images20090801/special/9years_tuanTop10/top_tuangou3.jpg) no-repeat center; height:80px;}
+.banner4{ background:url(/FrontEnd/images20090801/special/9years_tuanTop10/top_tuangou4.jpg) no-repeat center; height:80px;}
+.banner5{ background:url(/FrontEnd/images20090801/special/9years_tuanTop10/top_tuangou5.jpg) no-repeat center; height:80px;}
+.banner6{ background:url(/FrontEnd/images20090801/special/9years_tuanTop10/top_tuangou6.jpg) no-repeat center; height:80px;}
+.banner7{ background:url(/FrontEnd/images20090801/special/9years_tuanTop10/top_tuangou7.jpg) no-repeat center; height:80px;}
+.banner8{ background:url(/FrontEnd/images20090801/special/9years_tuanTop10/top_tuangou8.gif) no-repeat center; height:96px;}
+
+.content{ background:url(/FrontEnd/images20090801/special/9years_tuanTop10/xian.gif) repeat-y center; padding:20px 0 25px 0;}
+.tuan_dianpu{ width:960px; margin:0 auto;}
+.tuan_dianpu li{ border:solid 5px #b4ebe6; margin:0 0 15px 0; display:block;}
+.content1{ background:url(/FrontEnd/images20090801/special/9years_tuanTop10/xian1.jpg) repeat-y center; padding:25px 0 20px 0; overflow:hidden;}
+.top_daren{ width:960px; margin:0 auto;}
+.top_title{ text-align:center; padding-bottom:20px;}
+
+.top_left{ width:420px; background-color:#f8f8f8; padding:20px 30px; float:left;}
+.top_left li{ font-size:15px; height:36px; line-height:36px; display:block; color:#555; text-align:center;}
+.top_left li a{ color:#555;text-decoration:none;}
+.top_left li a:hover{ color:#ec0069;}
+.top_left span{ font-size:14px; width:30px;float:left; display:block; padding-left:5px;}
+.top_left .clock{ color:#555; width:200px; float:left; display:block;}
+.top_left .huise{ background-color:#ededed;}
+.top_left .xuxian{ border:none;}
+.top_left .tubiao{ float:left; width:40px; display:block; margin-top:9px; clear:both;}
+
+.top_right{ width:420px; background-color:#ececec; padding:20px 30px; float:left;}
+.top_right li{ font-size:15px; height:36px; line-height:36px; display:block; color:#555; text-align:center;}
+.top_right li a{ color:#555;text-decoration:none;}
+.top_right li a:hover{ color:#ec0069;}
+.top_right span{ font-size:14px; width:30px;float:left; display:block; padding-left:5px;}
+.top_right .clock{ color:#555; width:200px; float:left; display:block;}
+.top_right .huise{ background-color:#e3e2e2;}
+.top_right .xuxian{ border:none;}
+.top_right .tubiao{ float:left; width:40px; display:block; margin-top:9px; clear:both;}
+
+.button{ height:100px; position:relative; clear:both;}
+.copy{ text-align:right; color:#fff; font-size:14px;}
+.fuceng{ width:236px; height:166px; top:75%; left:83%; position: fixed; z-index:500;}
+.icon{width:242px;height:52px;left:360px;top:30px;position:absolute;}
+.icon a{width:242px; height:52px; display:block; background:url(/FrontEnd/images20090801/special/9years_tuanTop10/button.gif) no-repeat top;}
+.icon a:hover{ background-position:bottom;}

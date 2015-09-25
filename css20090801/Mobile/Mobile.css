@@ -1,0 +1,54 @@
+    .head{ height:70px; padding-top:15px;}
+    .logo{text-decoration:none; margin:0;}
+    .logor{ border-left:solid 2px #666; color:#666; font-size:26px; line-height:26px; padding-left:20px; margin:15px; }
+    .backIndex{color:#fd6e70; text-decoration:none; font-size:22px; margin-top:15px;}
+    .banner{ background:url(http://sf.panli.com/FrontEnd/images20090801/Mobile/20150818/m_02.jpg) no-repeat center; height:444px;}
+    .ercode,.appstore,.googlestore,.pcstore,.tappstore,.tgooglestore,.tpcstore{ background:url(http://sf.panli.com/FrontEnd/images20090801/Mobile/20150818/d.png) no-repeat; display:block;}
+    .ercode{  height:49px; width:49px; background-position:0 -297px; margin:297px 0 0 50px; position:relative; }
+    .appstore{ height:49px; width:199px;background-position:0 -150px;margin:297px 0 0 15px; border-left:solid #444 1px;}
+    .googlestore{ height:49px; width:199px;background-position:0 -199px;margin:297px 0 0 15px;border-left:solid #444 1px;}
+    .pcstore{ height:49px; width:199px;background-position:0 -248px;margin:297px 0 0 15px;border-left:solid #444 1px;}
+    .ercode:hover{ background:none;}
+    .ercode:hover em{ background:url(http://sf.panli.com/FrontEnd/images20090801/Mobile/20150818/code2.png) no-repeat center; height:99px; width:99px; display:block; position:absolute; right:0px; bottom:0px; }
+    .type1,.type2,.type3,.type4{ height:560px; margin-top:80px;}
+    .type1 .fr{ width:630px; height:163px; background:url(http://sf.panli.com/FrontEnd/images20090801/Mobile/20150818/m_05.gif) no-repeat center; margin-top:150px; }
+    .type2 .fl{width:604px; height:166px; background:url(http://sf.panli.com/FrontEnd/images20090801/Mobile/20150818/m_09.gif) no-repeat center; margin-top:137px; }
+    .type3 .fr{width:584px; height:160px; background:url(http://sf.panli.com/FrontEnd/images20090801/Mobile/20150818/m_13.gif) no-repeat center;margin-top:137px; }
+    .type4 .fl{ width:594px; height:160px; background:url(http://sf.panli.com/FrontEnd/images20090801/Mobile/20150818/m_15.gif) no-repeat center;margin-top:140px;}
+    .type1 .fl,.type2 .fr,.type3 .fl,.type4 .fr{ width:272px; height:551px; position:relative;}
+    
+    .padding50{ padding:0 50px 40px 50px;}
+    .absolute{ position:absolute;}
+    
+    .overhead{ background-color:#fff; height:70px; padding-top:20px; position:fixed; z-index:200; left:0px; top:-120px; width:100%;   box-shadow: 0 1px 3px rgba(0,0,0,0.4);  border: solid 1px #ddd;_display:none;
+  -webkit-transition: top 0.2s ease-in;
+          transition: top 0.2s ease-in;}
+    .overhead .logo img{ height:48px; }
+    .top_Show{top:0;}
+    .tpcstore{ height:49px; width:200px; background-position:0 -100px; margin-left:47px;}
+    .tgooglestore{ height:49px; width:200px; background-position:0 -50px;margin-left:47px;}
+    .tappstore{ height:49px; width:200px;margin-left:47px;}
+    
+    .list1{ left:0px; top:0px; height:551px; z-index:1; transition:all 1s ease-in;-webkit-transition:all 1s ease-in;}
+    .list2{ left:160px; top:33px;  height:490px;transition:all 1s ease-in;-webkit-transition:all 1s ease-in;}
+    .list3{top:0; right:95px;}
+    .type3 img{position:absolute;transition:all 1s ease-in;-webkit-transition:all 1s ease-in; }
+    .list4{ top:0; left:105px; height:551px; z-index:2  }
+    .list5{ top:33px; left:0px;height:490px;z-index:0}
+    .list6{ top:33px; left:230px;height:490px;z-index:1}
+    .list7{ top:0px; right:95px;}
+     .list8,.hongbao{ top:30px; right:-18px;}
+     .list_31{ right:312px; top:90px;opacity: 0;}
+     .list_32{ right:20px; top:168px;opacity: 0;}
+     .list_33{ right:-20px; top:300px;opacity: 0;}
+     .list_34{ right:310px; top:310px;opacity: 0;}
+     .list_35{ right:66px; top:400px;opacity: 0;}
+     .hongbao{ width:515px;height:416px; }
+     .hongbao span{ display:block; position:absolute; height:45px; width:45px; background:url(http://sf.panli.com/FrontEnd/images20090801/Mobile/20150818/h2.png) no-repeat center;   background-size: cover;transition:all 1s ease-in;-webkit-transition:all 1s ease-in; }
+     @keyframes avatar{0%{opacity:0;-webkit-transform:scale(1.3);transform:scale(1.3)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}
+     @-webkit-keyframes avatar{0%{opacity:0;-webkit-transform:scale(1.3);transform:scale(1.3)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}
+     .scroll .list_31 {-webkit-animation-duration: 1000ms;animation-duration: 1000ms; -webkit-animation: avatar 1000ms ease 0ms 1 forwards; -webkit-animation-timing-function: ease; animation-timing-function: ease; -webkit-animation-delay: 0ms; animation-delay: 0ms; -webkit-animation-iteration-count: 1; animation-iteration-count: 1; -webkit-animation-direction: initial; animation-direction: initial; -webkit-animation-fill-mode: forwards; animation-fill-mode: forwards; animation-play-state: initial; -webkit-animation-play-state: initial; -webkit-animation-name: avatar; animation-name: avatar;}
+     .scroll .list_32 {-webkit-animation-duration: 1000ms;animation-duration: 1000ms; -webkit-animation: avatar 1000ms ease 300ms 1 forwards; -webkit-animation-timing-function: ease; animation-timing-function: ease; -webkit-animation-delay: 300ms; animation-delay: 300ms; -webkit-animation-iteration-count: 1; animation-iteration-count: 1; -webkit-animation-direction: initial; animation-direction: initial; -webkit-animation-fill-mode: forwards; animation-fill-mode: forwards; animation-play-state: initial; -webkit-animation-play-state: initial; -webkit-animation-name: avatar; animation-name: avatar;}
+     .scroll .list_33 {-webkit-animation-duration: 1000ms;animation-duration: 1000ms; -webkit-animation: avatar 1000ms ease 600ms 1 forwards; -webkit-animation-timing-function: ease; animation-timing-function: ease; -webkit-animation-delay: 600ms; animation-delay: 600ms; -webkit-animation-iteration-count: 1; animation-iteration-count: 1; -webkit-animation-direction: initial; animation-direction: initial; -webkit-animation-fill-mode: forwards; animation-fill-mode: forwards; animation-play-state: initial; -webkit-animation-play-state: initial; -webkit-animation-name: avatar; animation-name: avatar;}
+     .scroll .list_34{-webkit-animation-duration: 1000ms;animation-duration: 1000ms; -webkit-animation: avatar 1000ms ease 900ms 1 forwards; -webkit-animation-timing-function: ease; animation-timing-function: ease; -webkit-animation-delay: 900ms; animation-delay: 900ms; -webkit-animation-iteration-count: 1; animation-iteration-count: 1; -webkit-animation-direction: initial; animation-direction: initial; -webkit-animation-fill-mode: forwards; animation-fill-mode: forwards; animation-play-state: initial; -webkit-animation-play-state: initial; -webkit-animation-name: avatar; animation-name: avatar;}
+     .scroll .list_35 {-webkit-animation-duration: 1000ms;animation-duration: 1000ms; -webkit-animation: avatar 1000ms ease 1200ms 1 forwards; -webkit-animation-timing-function: ease; animation-timing-function: ease; -webkit-animation-delay: 1200ms; animation-delay: 1200ms; -webkit-animation-iteration-count: 1; animation-iteration-count: 1; -webkit-animation-direction: initial; animation-direction: initial; -webkit-animation-fill-mode: forwards; animation-fill-mode: forwards; animation-play-state: initial; -webkit-animation-play-state: initial; -webkit-animation-name: avatar; animation-name: avatar;}

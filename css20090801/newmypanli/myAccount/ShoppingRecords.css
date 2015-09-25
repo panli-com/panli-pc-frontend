@@ -1,0 +1,86 @@
+.records{float:right;width:720px;margin-right:22px;display:inline;padding-bottom:20px;}
+.jilu{margin-top:30px;border-bottom:#CCC solid 1px;height:53px;}
+.jilu ul{margin-left:10px;}
+.jilu li{float:left;margin-right:5px;display:inline;}
+.jilu a{display:block;background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/myAccount/record.gif) no-repeat 0 0;width:230px;height:53px;cursor:pointer;}
+.jilu .j1:hover{background-position:0 -58px;}
+.jilu .j2{background-position:-235px 0;}
+.jilu .j2:hover{background-position:-235px -58px;}
+.jilu .j3{background-position:-470px 0;}
+.jilu .j3:hover{background-position:-470px -58px;}
+.jilu .on a,.jilu .on .j1:hover{background-position:0 -113px;height:57px;margin:-3px 0 -2px 0;position:relative;}
+.jilu .on .j2,.jilu .on .j2:hover{background-position:-235px -113px;height:57px;margin:-3px 0 -2px  0;position:relative;}
+.jilu .on .j3,.jilu .on .j3:hover{background-position:-470px -113px;height:57px;margin:-3px 0 -2px  0;position:relative;}
+
+.riqi{margin-top:20px;height:35px;}
+.riqi ul{float:right;display:inline;margin-right:10px;}
+.riqi li{float:left;display:inline;}
+
+.rili input{border:none;width:122px;float:left;margin:0;font-size:14px;font-family:Arial;padding:3px 0 3px 5px;background:#FFF;height:18px;}
+.rili{border:#cbcbcb solid 1px;width:150px;background:#FFF;height:24px;float:left;display:inline;margin-right:10px;}
+.rili button{background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/RmbAccount/guojia.gif) no-repeat right;border:none;width:17px;height:16px;cursor:pointer;float:left;margin:3px 1px 0 1px;display:inline;}
+.riqi label{float:left;color:#999;margin-top:5px;font-size:14px;width:70px;line-height:20px;}
+.chakan{background:#666;color:#FFF;border:#333 solid 1px;height:26px;margin:0;width:45px;font-size:14px;cursor:pointer;}
+
+.biao{background:#f2f2f2;padding:0 6px 6px 6px;}
+.biao table{background:#FFF;width:100%;border-collapse:collapse;font-size:12px;line-height:20px;}
+.biao table th{background:#f0f0f0;height:38px;font-size:14px;font-weight:100;text-align:left;padding:0 0 0 10px;}
+.biao table th span{font-size:12px;color:#FF0000;}
+
+
+.d{background:#fafbfb;}
+.w1 span{color:#aaa;}
+.biao table td.w4{color:#FF0000;}
+.biao table td.w2{color:#666;}
+.biao table td{border:#e9e9e9 solid 1px;padding:8px 0 8px 10px;}
+.w1{width:100px;line-height:18px;font-size:12px}
+.biao table td.w2{width:60px;text-align:center;padding:0;font-size:12px}
+.biao table td.w3{width:330px;font-size:12px;}
+.biao table td.w4{width:90px;font-size:12px;}
+.biao table .w3 a{color:#599ed5;text-decoration:underline;}
+.biao table .w3 a:hover{color:#FF0000;text-decoration:none;}
+.biao table .w3 span{float:left;width:43px;margin-top:2px;}
+.biao table .w3 p{float:left;width:280px;}
+.biao table td.w5{font-size:12px}
+.biao table .chong b{color:#41af11;font-weight:100;}
+.biao table .chong .w2,.biao table .chong .w4,.biao table .chong .w5{color:#41af11;font-weight:100;color:#41af11;}
+.biao table .chong .w3{font-size:12px;}
+
+.page-top, .page-bottom {float:right;}
+.page-bottom {float:right;height:25px;margin:15px 0 0 0;display:inline;}
+.page-bottom a, .page-bottom .page-cur, .page-bottom .page-start, .page-bottom .page-end {
+border:1px solid #AAAAAA;color:#666666;display:inline;float:left;height:20px;line-height:20px;margin-left:2px;padding:0 5px;text-decoration:none;}
+.page-bottom .page-start, .page-bottom .page-end {border:1px solid #DDDDDD;color:#CCC;font-family:"simsun";}
+.page-bottom a:hover {background:#FFEDE1;border:1px solid #FF9900;}
+.page-bottom .page-cur {background:#FFEDE1;border:1px solid #FF6600;color:#FF0000;}
+.page-bottom .page-break {float:left;margin:0 3px 0 5px;}
+.page-bottom .page-skip {color:#999999;display:inline;float:left;height:22px;line-height:22px;margin-left:5px;}
+.ts{border:1px solid #CCCCCC;}
+#jumpto,#ajaxjumpto{border:1px solid #aaa;width:20px;margin:0 3px;}
+.page_button{background:transparent url(http://sf.panli.com/FrontEnd/images20090801/go.gif) no-repeat scroll 0 0;border:medium none;
+cursor:pointer;height:22px;margin:0 0 0 5px;width:22px;}
+
+.tishi{background:#FDFDE1 url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/tixing.gif) no-repeat 10px 5px;border:#CCC dashed 1px;color:#FF9900;height:28px;line-height:28px;padding-left:30px;margin-top:25px;}
+.tuikuan{border-bottom:#CCC solid 1px;height:35px;margin:20px 0;}
+.tuikuan ul{margin:0 0 0 10px;}
+.tuikuan ul li{float:left;margin-right:10px;}
+.tuikuan ul li a{background:#eeeeee;display:block;border:#CCC solid 1px;border-bottom:none;line-height:29px;height:29px;color:#999;font-size:14px;text-decoration:none;padding:0 50px;margin-top:5px;float:left;position:relative;margin-bottom:-1px;}
+.tuikuan ul .ting a{background:#FFF;margin:3px 0 -1px 0;color:#339933;height:32px;line-height:32px;font-weight:bold;position:relative;}
+
+.tui table td.w1{width:100px}
+.tui table td.w2{width:120px;color:#FF0000;text-align:left;padding-left:10px;}
+.tui table td.w3{width:100px;}
+.tui table td.w4{width:180px;color:#333;}
+.tui table td.w5{width:100px;}
+
+.tui_ table td.w1{width:80px}
+.tui_ table td.w2{width:120px;color:#FF0000;text-align:left;padding-left:10px;}
+.tui_ table td.w3{width:100px;}
+.tui_ table td.w4{width:180px;color:#333;}
+.tui_ table td.w5{width:120px;color:#339933}
+.tui_ table td.w5 span{color:#f90}
+.tui_ table td.w6{width:100px;}
+.tui_ table td.w6 a{color:#3399FF;text-decoration:underline;}
+.tui_ table td.w6 a:hover{color:#f00;text-decoration:none;}
+
+

@@ -1,0 +1,32 @@
+﻿p,h1,h2,h3,h4,h5,ul,li,dl,dt,dd,b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal; }
+.atop1{ width:950px;height:50px; margin:0px auto; }
+.atop2{ width:950px;height:90px; margin:0px auto; position:relative; }
+.hurryregister{ width:164px; height:57px; position:absolute; top:35px; left:550px;}
+.hurryregister a{ width:164px; height:57px; background:url(/FrontEnd/images20090801/special/20100826/register01.gif ) no-repeat top; display:block;}
+.hurryregister a:hover{background-position: bottom}
+.atop3{ width:950px; height:80px;margin:0px auto; position:relative;}
+.daojishi{ width:400px; height:20px; position:absolute; bottom:19px; left:112px;_top:40px;  font-family:微软雅黑,Arial, Helvetica, sans-serif; font-size:20px; color:#393939; font-weight:bold; text-align:left; }
+.daojishi span{color:#af0268;}
+.atop4{ width:950px; height:100px;margin:0px auto; position:relative;}
+.paypalcz{ width:350px; height:38px; position:absolute; bottom:6px; left:308px;}
+.paypalcz ul{ overflow:auto; zoom:1;}
+.paypalcz ul .chongzhi{width:147px; height:38px; float:left;}
+.paypalcz ul .chongzhi  a{ width:147px; height:38px; background:url(/FrontEnd/images20090801/special/20100826/chongzhi.gif ) no-repeat top; display:block;}
+.paypalcz ul .chongzhi  a:hover{background-position: bottom}
+.paypalcz ul .zhuce{width:147px; height:38px; float:right;}
+.paypalcz ul .zhuce  a{ width:147px; height:38px; background:url(/FrontEnd/images20090801/special/20100826/register03.gif ) no-repeat top; display:block;}
+.paypalcz ul .zhuce  a:hover{background-position: bottom}
+.atop5{ width:950px; height:110px;margin:0px auto; position:relative;}
+.freeregister{ width:210px; height:64px; position:absolute; top:38px; left:340px;}
+.freeregister a{ width:210px; height:64px; background:url(/FrontEnd/images20090801/special/20100826/register02.gif ) no-repeat top; display:block;}
+.freeregister a:hover{background-position: bottom}
+.atop6{ width:950px; height:50px;margin:0px auto; position:relative;}
+.gngw{ width:500px; height:38px; position:absolute; bottom:6px; left:108px;}
+.gngw ul{ overflow:auto; zoom:1;}
+.gngw ul .nchongzhi{width:147px; height:38px; float:left;}
+.gngw ul .nchongzhi  a{ width:147px; height:38px; background:url(/FrontEnd/images20090801/special/20100826/chongzhi.gif ) no-repeat top; display:block;}
+.gngw ul .nchongzhi  a:hover{background-position: bottom}
+.gngw ul .wchongzhi{width:147px; height:38px; float:right;}
+.gngw ul .wchongzhi  a{ width:147px; height:38px; background:url(/FrontEnd/images20090801/special/20100826/chongzhi.gif  ) no-repeat top; display:block;}
+.gngw ul .wchongzhi  a:hover{background-position: bottom}
+.atop7{ width:950px;height:50px; margin:0px auto 5px auto; }

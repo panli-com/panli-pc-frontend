@@ -1,0 +1,55 @@
+/* CSS Document */
+body{padding:0; margin:0;font-family:ËÎÌו;font-size:12px;color:#000;}
+p, h1, h2, h3, h4, h5, li, ul, dl, dt, dd, b,img.div{ list-style-type:none;margin:0px;padding:0px;border:0px;font-weight:normal;}
+img{border:0;}
+
+.all{margin:auto;width:950px;}
+.a_banner{background:url(/FrontEnd/images20090801/Crawl/assistant/banner.jpg?v=1.1) no-repeat 0 0;height:193px;padding-bottom:10px;}
+.a_banner img{float:right;padding:1px 1px 0 0;border:0;}
+.a_button{padding:115px 0 0 300px;}
+.a_button a{background:url(/FrontEnd/images20090801/Crawl/assistant/button.gif) no-repeat;width:165px;height:57px;display:block;}
+.a_button a:hover{background-position:0 -57px;}
+.a_content{background:url(/FrontEnd/images20090801/Crawl/assistant/mid.gif) repeat-y 0 0;width:950px;margin-bottom:10px;}
+.a_top{background:url(/FrontEnd/images20090801/Crawl/assistant/top.gif) no-repeat 0 0;border-bottom:1px solid #c2d3db;}
+.a_top p{color:#999;padding:12px 0 8px 25px;}
+.a_top a{color:#3c6699;text-decoration:none;}
+.a_top a:hover{color:#ff0000;text-decoration:underline;}
+.a_xia{padding:0 20px;}
+.a_tu{float:left;width:579px;}
+.a_tu dl{padding-bottom:20px;}
+.a_tu dl dt{font-size:14px;padding:5px 0 0 40px;}
+.a_tu dl .a_one{background:url(/FrontEnd/images20090801/Crawl/assistant/one.gif) no-repeat 0 0;height:27px;}
+.a_tu dl .a_two{background:url(/FrontEnd/images20090801/Crawl/assistant/two.gif) no-repeat 0 0;height:27px;}
+.a_tu dl .a_three{background:url(/FrontEnd/images20090801/Crawl/assistant/three.gif) no-repeat 0 0;height:27px;}
+.a_tu dl .a_three a{color:#71a8cf;}
+.a_tu dl .a_three a:hover{color:#ff0000;text-decoration:none;}
+.line1{background:url(/FrontEnd/images20090801/Crawl/assistant/l3.gif) no-repeat 0 0;width:1px;height:951px;float:left;padding-right:25px;}
+.line2{background:url(/FrontEnd/images20090801/Crawl/assistant/l1.gif) no-repeat 0 0;width:1px;height:1363px;float:left;padding-right:25px;}
+.a_wenti{background:url(/FrontEnd/images20090801/Crawl/assistant/wenti.gif) no-repeat 0 0;height:23px;padding:0 0 5px 250px;margin-top:15px;}
+.a_right{float:right;width:305px;}
+.a_right a{color:#999999;margin-top:25px;}
+.a_right a:hover{color:#ff0000;text-decoration:none;}
+.a_right dl{padding:13px 0 8px 0;border-bottom:1px dashed #dcdcdc;}
+
+.a_right dl dt{height:45px;background:url(/FrontEnd/images20090801/Crawl/assistant/q.jpg) no-repeat 0 0;height:36px;font-size:14px;width:260px;line-height:20px;padding-left:50px;color:#21659a;}
+.a_right dl dd{line-height:20px;color:#656666;margin-top:8px;}
+.a_di{clear:both;background:url(/FrontEnd/images20090801/Crawl/assistant/bottom.gif) no-repeat 0 bottom;height:3px;width:950px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

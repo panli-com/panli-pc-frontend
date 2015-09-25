@@ -1,0 +1,59 @@
+        .wc .favorable{padding:10px 14px;border:solid 1px #ffdebe; background:url(/FrontEnd/images20090801/Register/lipin.gif) no-repeat 20px center #f9ffd0;  line-height:14px; font-size:14px; margin-top:20px; width:360px; display:block; }
+        .favorable a{text-decoration:underline; color:#ff8739; display:inline;float:left; margin-left:35px;}
+        .Popups{width:474px; height:317px; position:absolute; z-index:801; left:50%; top:50%; margin:-159px 0 0 -237px; position:fixed; }
+        .fTest{ position:absolute; border:solid 3px #ffa500; width:474px; background-color:#fff; height:317px; font-family:SimSun;}
+        .fTest-Title{ height:40px; background-color:#fef5e2; line-height:40px;border-bottom:solid 1px #f2c777;}
+        .fTest-Title h6{ float:left;margin:0px; padding:0px 0 0 15px; font-size:14px; font-weight:900; color:#ff6600;   }
+        .fclose{ width:19px; height:15px;background:url(/FrontEnd/images20090801/Register/close.gif) no-repeat; display:inline; float:right; margin-right:10px; margin-top:13px; }
+        .fclose:hover{ background-position:0px -15px;}
+        .fTestInput{ margin-top:10px; margin-left:30px;}
+        .fTestInput li{margin-top:12px;}
+        .fTestInput span{ display:inline; float:left; width:50px; line-height:34px; color:#999; text-align:right;}
+        .fTestCode span{width:85px;}
+        .fTestInput em{ display:inline; float:left; height:34px; font-style:normal; padding:0 2px; line-height:34px; color:#999;}
+        .fTestE{font-size:12px;color:#ff3939; height:34px; line-height:34px; float:left;padding-left:18px;background:no-repeat left center;}
+        .fTestError{ background-image:url(/FrontEnd/images20090801/Register/cuowu.gif);}
+        .fInput{ display:inline;float:left; margin-right:10px; padding:0px; position:relative;}
+        .fInput input{ margin:0px;  border:solid 1px #d3d3d3; background-color:#f5f5f5; padding:10px 15px; height:12px; line-height:12px;color:#3f3f3f; outline:none; clear:both; }
+        .fInput input:focus{ box-shadow:inset 0 0 5px rgba(96,193,39,0.5); }
+        .floatWidth{width:283px; color:#999;}
+        .fInputCode{width:273px;}
+        .fInputCode input{width:240px;}
+        .fInputCountry{width:98px;}
+        .fInputCountry input{width:65px;}
+        .fInputPhone{width:165px;}
+        .fInputPhone input{width:132px;}
+        .fSubmit{padding:10px 14px; min-width:70px;_width:70px;white-space:nowrap; text-align:center;font-size:14px; color:#fff; text-decoration:none; background-color:#60c127; border-radius:5px; float:left;}
+        .fSubmit:hover{ background-color:#44af05; color:#fff; }
+        .fText{color:#999; height:24px; line-height:24px;}
+        .fTextPhone{ line-height:34px; color:#ff3600; font-size:14px;}
+        .fTishi{ height:32px; line-height:32px; float:left;border:solid 1px #f9dfb2; padding:0 8px 0 30px; color:#999; background:url(/FrontEnd/images20090801/icon/common/deng.gif) no-repeat 10px center #ffffe0;}
+        .fBottom{ width:100%;height:79px;border-top:dashed 1px #ddd; position:absolute; bottom:0px; overflow:hidden;}
+        .fBottomN{ padding-left:40px; background-color:#f4f4f4; border-top:solid 1px #fff; height:78px;}
+        .fBtopText{ display:block; margin-top:15px; color:#999;}
+        .fBtopText a{color:#71a8cf;}
+        .fBButton{margin-top:10px; }
+        .fBButton .fSend{ display:inline; float:left; height:21px; line-height:21px;  border:solid 1px #d0d0d0; text-decoration:none; color:#666; padding:0 5px; border-radius:3px; background-color:#fefefe; }
+        .fSucceed{height:23px; line-height:23px; padding-left:26px; color:#999;float:left; display:inline; margin-left:5px; background:url(/FrontEnd/images20090801/Register/oks.gif) no-repeat 7px center; }
+        .fSucceedLipin{margin-top:60px;}
+        .fSucceedLipin li{ height:122px; padding:15px 0 0 22px;float:left; width:452px;}
+        
+        /*.fSucceedD{ border-bottom:dashed 1px #e5e5e5;}*/
+        .fSucceedS{ border-top:solid 1px #FFF; background-color:#f9f9f9; display:none;}
+        .fImgLeft{ float:left; display:inline; }
+        .fTextRight{ float:left; display:inline; margin-left:15px;width:330px;}
+        .fTextRight .fTextT{font-size:14px;color:#7b7b7b; line-height:25px;}
+        .fTextRight .fTextT span{font-weight:900; color:#ff3600;}
+         .fTextRight a{font-size:14px; color:#71a8cf; display:inline; float:left; margin-top:3px;}
+         .fTextRight a:hover{color:#f60;}
+         .clear{clear:both;}
+         .floatL{float:left;}
+         
+         .AreaSelect{position:absolute; width:95px; height:200px;overflow:scroll; overflow-x:hidden; border:solid 1px #ddd; top:33px;left:0px; background-color:#fff; }
+.AreaSelect a{padding-left:5px; height:25px; line-height:25px; display:block; border-bottom:dashed 1px #ddd; text-decoration:none; color:#333; background-color:#fff; }
+.AreaSelect a:hover{background-color:#eee; }
+#PopupsOver{ background-color:#000; width:100%; height:500%; position:absolute; left:0px; top:0px; position:fixed;z-index:800; opacity:0.5;filter:alpha(opacity=50); }
+input.redborder{border:solid 1px #f60;}
+.error{ background-image:url(/FrontEnd/images20090801/Register/cuowup.png); }
+.getCoupon-titles{width:100%; font-weight:900; line-height:18px; color:#199809; font-size:12px; margin:0 auto; }
+.am_shuju li .a_x_t4{background:url(/FrontEnd/images20090801/newmypanli/u22x_r1_c1.png) no-repeat left 8px;height:24px;}

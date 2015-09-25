@@ -1,0 +1,66 @@
+ h1, h2, h3, h4, h5, li, ul, dl, dt, dd, b,img,div{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal; }
+.bannertop{ width:950px;height:50px;padding:0px;margin:auto;text-align:center;}
+.bannertop2{ width:950px;height:55px;padding:0px;margin:auto;text-align:center;}
+.bannertop1{ width:950px;height:70px;padding:0px;margin:auto;text-align:center; position:relative;}
+.lkdownload{position: absolute; width:187px; height:61px; left:637px; top:7px; }
+.lkdownload a{ background:url(/FrontEnd/images20090801/Crawl/Download/downbtn.gif) no-repeat top;  width:187px; height:61px; display:block; }
+.lkdownload a:hover{ background-position:bottom;}
+.contentmain{width:950px;display:block;margin:10px auto; text-align:center; background:#fff; font-family:Arial, Helvetica, sans-serif;}
+.leftm{width:550px; height:auto; float:left;margin:0px;}
+
+.whathelper{ width:550px;height:350px;  background:#f2f2f2;}
+.whathelper h4{ width:440px; height:55px; margin:0px auto 10px 20px; padding:10px;}
+.allspecail{width:508px;height:233px;background:#fff;border:1px solid #d4d4d4; margin:auto; font-size:14px; text-align:left; padding-top:15px;}
+.allspecail ul{ margin-bottom:20px;  }
+.wz01{ width:480px;  line-height:22px; margin:6px auto auto 15px; color:#ff7c18;}
+.wz01 b{ font-weight:bold;}
+.wz02{ width:480px; line-height:22px; margin:6px auto auto 15px; color:#545454;}
+.helperstep{width:548px; height:auto;background:#fff;border:1px solid #d4d4d4;font-size:14px; margin-top:10px; margin-bottom:10px;}
+.helperstep h3{ width:548px; height:45px;background:#f2f2f2;border-bottom:1px solid #d4d4d4;text-align:left;}
+.helperstep h3 img{ width:220px; height:28px;margin:10px auto auto 20px;}
+
+.helperstep ul{ width:548px; margin:auto; text-align:center; }
+.libt{ width:518px; height:32px; background:url(/FrontEnd/images20090801/Crawl/Download/stepbg.jpg) no-repeat;font-size:14px; margin:20px auto auto auto;  padding-top:10px;color:#FFFFFF;text-indent:20px; text-align:left}
+.libt span{ color:#ffef38;}
+.lipic{ width: auto; height:auto; display:block; margin:5px auto 5px auto; text-align:center;}
+.lipic img{border:1px solid #CCCCCC}
+.liwz{ width:518px; height:22px; margin:20px auto 10px auto; color:#545454; text-align:left;}
+.liwz a:link,.liwz a:visited{color:#509bde; text-decoration:underline;}
+.liwz a:hover{color:#ff4200; text-decoration:underline;}
+
+.sharehelper{ width:388px; height: auto;float:right;background:#fff;border:1px solid #d4d4d4;font-size:14px;}
+.sharehelper h3{ width:388px; height:45px;background:#f2f2f2;border-bottom:1px solid #d4d4d4;text-align:left;}
+.sharehelper h3 img{width:140px; height:28px;margin:10px auto auto 20px;}
+.sharehelper p{ width:368px; line-height: 22px; text-indent:20px; color:#ff7c18; text-align:left; margin:18px auto 10px 15px;}
+
+.sharecode{ width:360px;height:auto;text-align:left;margin:0px auto 15px 15px;font-size:14px; }
+.sharecode h4{width:368px; line-height:25px; margin-bottom:5px;color:#545454;font-size:14px;}
+.sharecode table{width:360px; height:30px; margin-bottom:10px;}
+.lef{ width:275px;text-align:left;}
+.rig{ width:78px; text-align:left;}
+.inputcode{ height:22px; width:270px;}
+.tip{ width:368px;height:auto;text-align:left; margin:15px auto 15px 15px;font-size:12px;}
+.tip ul{ margin:auto;}
+.tip01{ color:#939393;line-height:20px;}
+.tip02{ color:#90a907;line-height:20px;}
+
+
+
+.helperproblem{ width:388px; height: auto; float:right; background:#fff;border:1px solid #d4d4d4;font-size:14px; font-size:14px; margin-top:10px; padding-bottom:10px;}
+.helperproblem h3{ width:388px; height:45px;background:#f2f2f2;border-bottom:1px solid #d4d4d4;text-align:left; margin-bottom:15px;}
+.helperproblem h3 img{ width:120px; height:28px;margin:10px auto auto 20px;}
+.allproblem{width:368px; height: auto;margin:5px auto 15px 12px; font-size:14px; text-align:left; }
+.problem ul{ margin:0px;  }
+.p01{ width:368px;  line-height:22px; margin:6px 0px auto 0px; color:#ff7c18;}
+.p02{ width:368px; line-height:22px; margin:6px 0px auto 0px; color:#545454;}
+.p01 b,.p02 b{ font-weight:bold;}
+
+
+.sharelogin{ width:388px; height: auto;float:right;background:#fff;border:1px solid #d4d4d4;font-size:14px; }
+.sharelogin h3{ width:388px; height:45px;background:#f2f2f2;border-bottom:1px solid #d4d4d4;text-align:left;}
+.sharelogin h3 img{ width:140px; height:28px;margin:10px auto auto 20px;}
+.sharefriends{ width:365px; height:60px; margin:30px auto; text-align:center;}
+
+.clear{ clear:both;}
+
+.btn{width:75px;height:28px;}

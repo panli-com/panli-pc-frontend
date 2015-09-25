@@ -1,0 +1,54 @@
+﻿
+p, h1, h2, h3, h4, h5, li, ul, dd, dt, dl { list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal; }
+
+img{border:0px;}
+.t_a1 { width:950px; height:50px; text-align:center; margin:0 auto; border:0px;}
+.jifen_a2 { width:950px; height:80px; text-align:center; margin:0 auto; border:0px;}
+.jifen_a3 { width:950px; height:70px; text-align:center; margin:0 auto; border:0px;}
+.jifengz{ width:950px;height: auto; margin:auto; background:url(/FrontEnd/images20090801/Special/20100629/jifen77.jpg) repeat-y;}
+
+.jfleft{ width:359px; height:350px; margin-left:25px;  _margin-left:15px;  margin-top:10px; float:left; }
+.jfright{ width:500px; height: auto;   display:block; margin-right:40px; _margin-right:20px; margin-top:10px; float:right; font-size:12px;font-family:Arial, Helvetica, sans-serif;color:#5e5e5e;}
+.jfright dt{ width:496px; height:42px; margin-bottom:10px;}
+.jfright dd{  width:460px; margin: auto;  padding:5px 0px;  border-bottom:1px dashed #efe5bb; text-align:left; color:#CC0000;}
+.jfright dd a{ color:#09a8e9 ; text-decoration:underline;}
+.jfright dd a:hover{ color:#ff4200 ; text-decoration:underline;}
+.sp1{ text-indent:18px;}
+
+.t_main{ width:950px; height:auto; margin:auto;  overflow:hidden; background:url(/FrontEnd/images20090801/Special/20100629/jifen10.jpg) repeat-y; font-family:Arial, Helvetica, sans-serif;color:#5e5e5e; font-size:14px; }
+
+.t_content{ width:880px; height:100%; text-align:center; margin:10px auto;  }
+.t_content h2{ width:880px; height:74px; }
+.line11{ width:830px; height:auto; margin:10px auto 30px auto;  }
+.singer{ width:223px; height:auto; margin:10px 15px 10px 30px; _margin:10px 20px;  float:left; }
+.ppic{width:223px; height:223px; padding:2px; border:1px solid #7a7a7a;}
+.pname{ padding:10px 0px; text-align:center; font-weight:bold; color:#ff1200; border:0px;}
+.pname a:link,.pname a:visited{color:#ff1200; text-decoration:none; }
+.pname a:hover{color:#ff1200; text-decoration:underline;}
+.pinfo{padding:10px 0px; padding-bottom:20px; text-align:left; }
+.pinfo span{ color:#ffc000;}
+.pinfo h3{ float:left; font-size:12px; }
+.pinfo h4{ float:right; font-size:12px;}
+.t_bottom{ width:950px; height:65px;  margin:0px auto; text-align:center; margin-bottom:5px;}
+.clear{ clear:both;}
+
+.t_aaa{width:950px; height:50px; text-align:center; margin:0 auto; border:0px; position:relative; }
+.djs{  position: absolute; left:520px;top:3px; font-size:14px; font-weight:bold; color:#848484; border:1px solid #ffffa4; width:auto; height:25px; background:#fcfcd3; padding:3px 15px; padding-bottom:0px; text-align:center; font-family:sans-serif, Arial,Verdana, Helvetica;}
+.djs span{ color:#ff9000; padding:4px;}
+
+
+.lj_addpanel_dialog{background:#fff;width:490px;height:300px;position:fixed;z-index:900;_position:absolute;left:50%; margin-left:-250px;top:50%;margin-top:-155px;_margin-top:0;border:#ffa500 solid 5px;}
+.lj_chenggong{background:url(/FrontEnd/images20090801/biaoqing/b2.gif) no-repeat 20px 50px;padding:0 10px 0 140px;}
+.lj_chenggong h2,.lj_baoqian h2{font-family:"simhei";font-size:20px;font-weight:normal;color:#6BB643;height:30px;padding-top:50px;}
+.lj_guan{float:right;background:url(/FrontEnd/images20090801/Special/20100629/close_.gif) no-repeat 0 0;height:15px;width:19px;margin-top:10px;}
+.lj_guan:hover{background-position:0 -15px;}
+.lj_chenggong p,.lj_baoqian p{line-height:24px;padding-right:10px;margin-bottom:15px;font-size:14px;}
+.lj_chenggong p span,.lj_baoqian p span{color:#FF9900;}
+.lj_chenggong p a,.lj_baoqian ul a{color:#51A9CE;padding:0 2px;}
+.lj_chenggong p a:hover,.lj_baoqian ul a:hover{color:#FF0000;text-decoration:none;}
+.lj_chakan{background:url(/FrontEnd/images20090801/newmypanli/anniu.gif) no-repeat 0 0;width:193px;float:left;color:#FFF;text-decoration:none;height:35px;font-size:14px;text-align:center;line-height:35px; cursor:pointer}
+.lj_chakan:hover{background-position:0 -52px;}
+
+.lj_baoqian{background:url(/FrontEnd/images20090801/biaoqing/b8.gif) no-repeat 20px 50px;padding:0 10px 0 140px;}
+.lj_baoqian ul li{color:#999;line-height:20px;padding-left:10px;background:url(/FrontEnd/images20090801/newmypanli/fk.gif) no-repeat left 8px;}
+.lj_baoqian ul{height:80px;}

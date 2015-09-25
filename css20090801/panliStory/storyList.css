@@ -1,0 +1,30 @@
+h6, h4, h3{ margin:0px; padding:0px;}
+.clear{ clear:both;}
+.alink{ text-decoration:none; color:#71a8cf;}
+a.alink:hover{color:#f00;}
+.floatLeft{float:left;}.floatRight{float:right;}
+.fonticon{ font-family:'SimSun';}
+.storybg{background-color:#f3f3f3; margin-top:-12px; padding:10px 0;}
+.story{ width:950px; margin:0 auto; border:solid 1px #e7e7e7; background-color:#fff;}
+.storytop{ height:40px; padding-left:28px; line-height:40px; color:#999999;border-bottom:solid 1px #e7e7e7;}
+.storytop a,.storytop span{ padding:0 4px;}
+.storytop s{text-decoration:none;}
+.storyTitle{border-bottom:dashed 1px #e8e8e8; display:block; height:50px; margin:0 20px; color:#333;  line-height:50px; font-weight:900; margin-top:20px; font-weight:900; font-size:18px; text-align:center; font-family:"Microsoft YaHei"; }
+.StoryList{ margin:0 30px; padding:10px 15px; border-bottom:dashed 1px #e8e8e8; overflow:hidden;}
+.ListTitle{ height:40px; line-height:40px;}
+.ListTitle h6{ float:left; color:#73bad1; font-size:14px;font-weight:normal;}
+.ListTitle h6 a{ color:#333; text-decoration:none;}
+.ListTitle h6 a:hover{ color:#f00;}
+.Storydata{ float:right; color:#ccc;}
+.StoryList p{ margin:5px 0; line-height:22px; color:#999}
+.page{ margin:43px 0; padding-left:300px; }
+.pageborder{display:inline; float:left; width:26px; height:26px; border:solid 1px #e7e7e7; text-align:center; line-height:26px; text-decoration:none; color:#909090; margin:0 3px; }
+.leftpage{margin-right:14px;}
+.rightpage{margin-left:14px;}
+.page a.on{ background-color:#a0d458; border-color:#6bab31; color:#fff;}
+
+.storycontitle{border-bottom:dashed 1px #e8e8e8; display:block; height:90px;width:900px; margin:0 20px; margin-top:5px; text-align:center; color:#999; width:900px;}
+.storycontitle h3{ font-size:20px; text-align:center; display:block;font-family:"Microsoft YaHei";  color:#333; height:60px; line-height:60px; width:930px;text-align:center;}
+.storycontitle span{ padding:10px;}
+.storyContext{ margin-top:20px; padding:0 45px; font-size:14px; line-height:26px; color:#333;}
+.conpage{padding:70px 45px; color:#535353; font-size:14px;}

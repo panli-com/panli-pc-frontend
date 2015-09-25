@@ -1,0 +1,30 @@
+﻿p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal; }
+.atop1{ width:950px;height:50px; margin:0px auto; }
+.atop2{ width:950px;height:78px; margin:0px auto; position:relative; }
+.contentall{ width:950px; height:520px;margin:0px auto;}
+.cleft{width:65px; height:520px; float:left;}
+.contentmain{ width:530px; height:520px; float:left; background-color:#ffffff; font-family:Arial, Helvetica, sans-serif; font-size:14px; color:#424242;}
+.contentmain p{ width:528px; line-height:24px; text-align:left;}
+.contentmain p a{ color:#0285ba; text-decoration:underline;}
+.contentmain p a:hover{color:#ff4200; text-decoration:underline;}
+.pred{ color:#f73800; font-weight:bold;}
+.pprey{ color:#717171;}
+.p1{ text-indent:20px; }
+.hurrylogin{ font-size:14px; font-weight:normal;}
+.pfeng{ padding:5px 0px;}
+.redindex{ text-indent:20px; color:#f73800;}
+.bbstip{ color:#3f9d3a; font-size:16px; font-weight:bold; padding-top:10px;}
+.cright{width:80px; height:520px;float:left;}
+.luckyright{width:60px; height:520px;float:left;}
+.bottom1{ width:950px;height:97px; margin:0px auto; }
+.bottom2{ width:950px;height:125px; margin:0px auto; }
+.bottom3{ width:950px;height:72px; margin:0 auto 10px; }
+
+.luckyc{width:215px; height:520px;float:left; background: url(/FrontEnd/images20090801/special/20100727/allfreelucy.jpg?v=1) no-repeat; font-size:14px; font-family:Arial, Helvetica, sans-serif;  }
+.luckyc ul{ width:205px; height:505px; margin:15px 0px 0px 5px;*margin:15px 0px 0px 5px;}
+.luckyc ul li {width:205px; height:20px; *height:18px; padding-top:4px; *padding-top:3px; border-bottom:1px #c5c3c3 dashed;  color:#6a6a6a; overflow:hidden; }
+.luckyc ul li h5{ width:70px; height:20px;  *height:18px; float:left; text-align:left;}
+.luckyc ul li p{width:85px; height:20px; *height:18px; float:left;text-align:left; }
+.luckyc ul li span{width:45px;height:20px; *height:18px; float:left; color:#ff7316;text-align:right; }
+
+.daojishi{ width:370px; height:25px; position:absolute; top:-2px; left:468px; font-family:微软雅黑,Arial, Helvetica, sans-serif; font-size:16px; color:#666666; font-weight:bold; text-align:center; }

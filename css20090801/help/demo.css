@@ -1,0 +1,187 @@
+.demo_all{background:#fafafa;margin-top:-12px;}
+.d_body{width:950px;margin:auto;background:url(/FrontEnd/images20090801/help/demo/line.gif) repeat-y -951px 0;}
+.d_top{background:url(/FrontEnd/images20090801/help/demo/line.gif) no-repeat left 0;width:950px;}
+.nav_top{height:45px;padding-top:35px;padding-left:14px;float:left;}
+.nav_top2{height:60px;padding-top:45px;padding-left:17px;float:left;}
+.nav_top3{height:45px;padding-top:35px;padding-left:19px;float:left;}
+.nav_top a, .nav_top2 a{
+	float:left;
+	background:url(/FrontEnd/images20090801/help/demo/button.gif) no-repeat left -34px;
+	height:33px;
+	text-align:center;	
+	text-decoration: none;
+	color:#727272;
+	margin:0 8px;
+	font-size:14px;
+}
+.nav_top3 a{
+	float:left;
+	background:url(/FrontEnd/images20090801/help/demo/button.gif) no-repeat left -34px;
+	height:33px;
+	text-align:center;	
+	text-decoration: none;
+	color:#727272;
+	margin:0 3px;
+	font-size:14px;
+}
+.nav_top a:hover{color:#727272;}
+.nav_top2 a:hover{color:#727272;}
+.nav_top3 a:hover{color:#727272;}
+.nav_top span, .nav_top2 span, .nav_top3 span {
+	background:url(/FrontEnd/images20090801/help/demo/button.gif) no-repeat right -34px;
+	line-height:33px;
+	height:33px;
+	float:left;
+	cursor:pointer;
+	margin-left:18px;
+	padding-right:18px;
+}
+.nav_top2 .one{
+	background:url(/FrontEnd/images20090801/help/demo/button.gif) no-repeat right -34px;
+	line-height:33px;
+	height:33px;
+	float:left;
+	cursor:pointer;
+	margin-left:18px;
+	padding-right:18px;
+}
+.nav_top .on, .nav_top2 .on, .nav_top3 .on{
+	float:left;
+	background:url(/FrontEnd/images20090801/help/demo/button.gif) no-repeat left 0;
+	height:33px;
+	text-align:center;	
+	text-decoration: none;
+	color:#fff;
+	font-size:14px;
+}
+.nav_top .on:hover{color:#fff;}
+.nav_top2 .on:hover{color:#fff;}
+.nav_top3 .on:hover{color:#fff;}
+.nav_top .on span, .nav_top2 .on span, .nav_top3 .on span{
+	background:url(/FrontEnd/images20090801/help/demo/button.gif) no-repeat right 0;
+	line-height:33px;
+	height:33px;
+	float:left;
+	cursor:pointer;
+	margin-left:18px;
+	padding-right:18px;
+}
+
+.nav_top2 .te{padding-top:10px;margin-top:-20px;float:left;width:200px;}
+.nav_top2 .te a span{width:150px;}
+.nav_top2 .jian{margin-left:25px;}
+.nav_top p, .nav_top2 p, .nav_top3 p{background:url(/FrontEnd/images20090801/help/demo/jiantou.gif) no-repeat 0 0;float:left;width:20px; height:24px;margin-top:5px;}
+.qieh{float:right;padding:40px 25px 0 0;}
+.qieh p{float:left;font-size:14px;color:#4a759e;padding:2px 5px 0 0;}
+.qieh select{font-size:14px;color:#4a759e;width:92px;}
+.diy_1{padding:12px 0 15px 0;text-align:center;}
+.diy_next{position:absolute;z-index:10;display:none;}
+.diy_next dt{top:250px;left:40px;height:95px;width:102px;float:left;position:absolute;z-index:10;}
+.diy_next dd{top:250px;left:805px;height:95px;width:102px;float:left;position:absolute;z-index:10;}
+.diy_next a{cursor:pointer;}
+
+
+.diy_2{padding:0 0 15px 22px;}
+.dd{background:url(/FrontEnd/images20090801/help/demo/line.gif) no-repeat right 0;width:950px;height:15px;}
+.buzou1{background:url(/FrontEnd/images20090801/help/demo/step1.gif) no-repeat 0 0;height:25px;margin-left:22px;clear:both;line-height:25px;}
+.buzou2{background:url(/FrontEnd/images20090801/help/demo/step2.gif) no-repeat 0 0;height:25px;margin-left:22px;clear:both;line-height:25px;}
+.buzou3{background:url(/FrontEnd/images20090801/help/demo/step3.gif) no-repeat 0 0;height:25px;margin-left:22px;clear:both;line-height:25px;}
+.buzou1 ul li, .buzou2 ul li, .buzou3 ul li{float:left;}
+.buzou1 ul li a, .buzou2 ul li a, .buzou3 ul li a{text-decoration:none;color:#808080;padding:0 35px 0 35px;float:left;height:25px;}
+.buzou1 .step, .buzou2 .step, .buzou3 .step{color:#fff;}
+.buzou1 ul li a:hover{color:#808080;}
+.buzou2 ul li a:hover{color:#808080;}
+.buzou3 ul li a:hover{color:#808080;}
+.buzou1 .step:hover{color:#fff;}
+.buzou2 .step:hover{color:#fff;}
+.buzou3 .step:hover{color:#fff;}
+
+.zou1{background:url(/FrontEnd/images20090801/help/demo/step4.gif) no-repeat 0 0;height:25px;margin-left:22px;clear:both;line-height:25px;}
+.zou2{background:url(/FrontEnd/images20090801/help/demo/step5.gif) no-repeat 0 0;height:25px;margin-left:22px;clear:both;line-height:25px;}
+.zou1 ul li, .zou2 ul li{float:left;}
+.zou1 ul li a, .zou2 ul li a{text-decoration:none;color:#808080;padding:0 35px 0 35px;float:left;height:25px;}
+.zou1 .step, .zou2 .step{color:#fff;}
+.zou1 ul li a:hover{color:#808080;}
+.zou2 ul li a:hover{color:#808080;}
+.zou1 .step:hover{color:#fff;}
+.zou2 .step:hover{color:#fff;}
+
+
+.yi1{background:url(/FrontEnd/images20090801/help/demo/step11.gif) no-repeat 0 0;height:22px;margin-left:35px;clear:both;line-height:22px;}
+.yi2{background:url(/FrontEnd/images20090801/help/demo/step12.gif) no-repeat 0 0;height:22px;margin-left:35px;clear:both;line-height:22px;}
+.yi1 ul li, .yi2 ul li{float:left;}
+.yi1 ul li a, .yi2 ul li a{text-decoration:none;color:#808080;padding:0 10px;float:left;height:22px;}
+.yi1 .step, .yi2 .step{color:#fff;}
+.yi1 ul li a:hover{color:#808080;}
+.yi2 ul li a:hover{color:#808080;}
+.yi1 .step:hover{color:#fff;}
+.yi2 .step:hover{color:#fff;}
+
+
+.bu1{background:url(/FrontEnd/images20090801/help/demo/step6.gif) no-repeat 0 0;height:25px;margin-left:22px;clear:both;line-height:25px;}
+.bu2{background:url(/FrontEnd/images20090801/help/demo/step7.gif) no-repeat 0 0;height:25px;margin-left:22px;clear:both;line-height:25px;}
+.bu3{background:url(/FrontEnd/images20090801/help/demo/step8.gif) no-repeat 0 0;height:25px;margin-left:22px;clear:both;line-height:25px;}
+.bu4{background:url(/FrontEnd/images20090801/help/demo/step9.gif) no-repeat 0 0;height:25px;margin-left:22px;clear:both;line-height:25px;}
+.bu5{background:url(/FrontEnd/images20090801/help/demo/step10.gif) no-repeat 0 0;height:25px;margin-left:22px;clear:both;line-height:25px;}
+.bu1 ul li, .bu2 ul li, .bu3 ul li, .bu4 ul li, .bu5 ul li{float:left;}
+.bu1 ul li a, .bu2 ul li a, .bu3 ul li a, .bu4 ul li a, .bu5 ul li a{text-decoration:none;color:#808080;padding:0 35px 0 35px;float:left;height:25px;}
+.bu1 .step, .bu2 .step, .bu3 .step, .bu4 .step, .bu5 .step{color:#fff;}
+.bu1 ul li a:hover{color:#808080;}
+.bu2 ul li a:hover{color:#808080;}
+.bu3 ul li a:hover{color:#808080;}
+.bu4 ul li a:hover{color:#808080;}
+.bu5 ul li a:hover{color:#808080;}
+.bu1 .step:hover{color:#fff;}
+.bu2 .step:hover{color:#fff;}
+.bu3 .step:hover{color:#fff;}
+.bu4 .step:hover{color:#fff;}
+.bu5 .step:hover{color:#fff;}
+
+.last_pic{text-align:center;padding-top:150px;}
+.last_next{height:240px;width:320px;margin:auto;text-align:center;padding-top:70px;}
+.last_left a{
+	cursor:pointer;
+	background:url(/FrontEnd/images20090801/help/demo/button2.gif) no-repeat 0 0;
+	font-size:16px;
+	color:#FFFFFF;
+	width:164px;
+	height:65px;
+	line-height:50px;
+	text-decoration:none;
+	float:left;
+	display:inline;
+	padding-left:8px;
+}
+.last_left a:hover{background-position:0 -67px;color:#fff;}
+.last_right a{font-size:16px;color:#71a8cf;}
+.last_right a:hover{color:#ff0000;text-decoration:none;}
+.last_left{float:left;}
+.last_right{float:left;margin:15px 0 0 30px;display:inline;}
+
+.shangb{height:80px;}
+.shangb2{height:110px;}
+
+
+
+
+
+
+
+.tj1{background:url(/FrontEnd/images20090801/help/demo/step13.gif) no-repeat 0 0;height:25px;margin-left:22px;clear:both;line-height:25px;}
+.tj2{background:url(/FrontEnd/images20090801/help/demo/step14.gif) no-repeat 0 0;height:25px;margin-left:22px;clear:both;line-height:25px;}
+.tj3{background:url(/FrontEnd/images20090801/help/demo/step15.gif) no-repeat 0 0;height:25px;margin-left:22px;clear:both;line-height:25px;}
+.tj4{background:url(/FrontEnd/images20090801/help/demo/step16.gif) no-repeat 0 0;height:25px;margin-left:22px;clear:both;line-height:25px;}
+.tj1 ul li, .tj2 ul li, .tj3 ul li, .tj4 ul li{float:left;}
+.tj1 ul li a, .tj2 ul li a, .tj3 ul li a, .tj4 ul li a{text-decoration:none;color:#808080;padding:0 35px 0 35px;float:left;height:25px;}
+.tj1 .step, .tj2 .step, .tj3 .step, .tj4 .step{color:#fff;}
+.tj1 ul li a:hover{color:#808080;}
+.tj2 ul li a:hover{color:#808080;}
+.tj3 ul li a:hover{color:#808080;}
+.tj4 ul li a:hover{color:#808080;}
+.tj1 .step:hover{color:#fff;}
+.tj2 .step:hover{color:#fff;}
+.tj3 .step:hover{color:#fff;}
+.tj4 .step:hover{color:#fff;}
+
+
+

@@ -1,0 +1,50 @@
+ h1, h2, h3, h4, h5, li, ul, dl, dt, dd, b,img,div{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal; }
+.bannertop{ width:950px;height:50px;padding:0px;margin:auto;text-align:center;}
+.bannertop2{ width:950px;height:95px;padding:0px;margin:auto;text-align:center;position:relative;}
+.bannertop3{ width:950px;height:160px;padding:0px;margin:auto;text-align:center; margin-bottom:5px;}
+.wycz{position: absolute;width:127px; height:33px; left:678px; top:31px; }
+.wycz a{ background:url(/FrontEnd/images20090801/special/20110504/default/cz_btn.gif) no-repeat top;  width:127px; height:33px; display:block; }
+.wycz a:hover{ background-position:bottom;}
+
+.bannertop1{ width:950px;height:100px;padding:0px;margin:auto;text-align:center; position:relative;}
+.registerfree{position: absolute;width:172px; height:46px; left:535px; top:25px; }
+.registerfree a{ background:url(/FrontEnd/images20090801/special/20110504/default/register_btn.gif) no-repeat top;  width:172px; height:46px; display:block; }
+.registerfree a:hover{ background-position:bottom;}
+
+.paypalcz{position: absolute;width:417px; height:54px; left:266px; top:46px; }
+.paypalcz a{ background:url(/FrontEnd/images20090801/special/20110504/default/paypalcz_btn.gif) no-repeat top;  width:417px; height:54px; display:block; }
+.paypalcz a:hover{ background-position:bottom;}
+
+.nom01{ width:950px; height:410px; padding:0px;margin:auto;text-align:center;}
+.nom01leftbg{ width:100px; height:410px; background:#c30206 url(/FrontEnd/images20090801/special/20110504/default/leftbg.gif) repeat-y; float:left;}
+.nom01rightbg{ width:100px; height:410px; background:#c30206 url(/FrontEnd/images20090801/special/20110504/default/rightbg.gif) repeat-y;float:right;}
+
+.nom01main{ width:750px; height:410px;  float:left; background:#ffffff;}
+.nom01main ul{ margin:0px;}
+
+.nom01tit{ width:710px; height:45px; background:url(/FrontEnd/images20090801/special/20110504/default/titbg.gif) no-repeat; color:#ffffff;  margin:0px; padding-top:10px;}
+.nom01titleft{float:left; font-size:16px; font-weight:bold; margin-left:52px;_margin-left:30px; margin-top:7px; text-align:left;}
+.coloryellow{ color:#fff883;}
+.nom01titright{float:right; color:#00a8ff; font-size:14px;margin-top:7px;}
+.nom01titright a{ color:#4a98e8; text-decoration:underline;}
+.nom01titright a:hover{color:#de1212; text-decoration:underline;}
+
+.nom01text{ width:660px; height:22px; line-height:22px; *line-height:20px; _line-height:20px;margin-bottom:5px; color:#616161; font-size:14px; text-align:left;padding-left:50px; }
+.colorred{color:#de1212;}
+
+.nom01text02{ width:655px; height:44px;line-height:22px; margin-bottom:10px;  _margin-bottom:5px;font-size:14px; padding-left:55px;}
+.textn01{ width:130px; height:44px; color:#38b516;text-align:left; float:left;}
+.textn02{ width:525px; height:44px; color:#616161; text-align:left; float:left; }
+.textn012{ width:70px; height:44px; color:#38b516;text-align:left; float:left;}
+.textn013{ width:42px; height:44px; color:#38b516;text-align:left; float:left;}
+.textn023{ width:613px; height:44px;color:#616161; text-align:left; float:left; }
+.bk{ width:585px; height:40px;}
+.dykl{ width:250px; height:20px; text-indent:5px; }
+.dykr{ width:335px; height:20px; text-indent:5px;  }
+.bk a{ color:#4a98e8; text-decoration:underline;}
+.bk a:hover{color:#de1212; text-decoration:underline;}
+
+.bk span{ color:#9c9b9b;}
+.nom02tit{ width:710px; height:45px; background:url(/FrontEnd/images20090801/special/20110504/default/titbg.gif) no-repeat; color:#ffffff;  text-align:left;margin-top:15px; *margin-top:10px;_margin-top:10px; padding-top:10px; }
+
+.tipc{color:#9c9b9b;}

@@ -1,0 +1,16 @@
+body{ margin:0 auto; font-size:12px;font-family:Arial, Helvetica, sans-serif;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.all_style{ background:#fef0c6;}
+img{vertical-align:top;}
+.span10{ height:10px; line-height:10px; display:block; clear:both;}
+p, h1, h2, h3, h4, h5, li, ul, dl, dt, dd, b,img,div{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+
+#frame{ background:url(/FrontEnd/images20090801/Special/20130328/member/zhuce_img_03.gif) repeat-x;}
+*html  #frame{ width:950px; margin:0 auto; overflow:visible;}
+.content{ width:950px; margin:0 auto;}
+.mfzc{position:relative;}
+
+.link{width:407px;height:63px;left:275px;top:40px; position:absolute;}
+.link a{width:407px; height:63px; display:block; background:url(/FrontEnd/images20090801/Special/20130328/member/mfzc_03.gif) no-repeat top;}
+.link a:hover{ background-position:bottom;}

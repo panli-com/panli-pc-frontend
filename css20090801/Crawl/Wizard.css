@@ -1,0 +1,27 @@
+﻿.all{background:url(/FrontEnd/images20090801/Crawl/Wizard/all.gif) repeat;width:950px;margin:auto;margin-bottom:10px;}
+.all h1{font-size:16px;color:#8c8c8c;padding-top:30px;text-align:center;}
+.all a{color:#349a45;}
+.all a:hover{color:#ffa500;}
+.title{background:url(/FrontEnd/images20090801/Crawl/Wizard/t1.gif) repeat-x;height:81px;}
+.tu{padding:25px 0 0 45px;}
+.t3{padding:0 244px;}
+.top{background:url(/FrontEnd/images20090801/Crawl/Wizard/top.gif) no-repeat;height:14px;}
+.mid{width:930px;padding-left:16px;clear:both;padding-top:5px;}
+.left{float:left;padding-top:35px;}
+.left img{padding-left:8px;margin-top:-6px;position:relative;margin-bottom:-10px;float:left;}
+.right{float:right;width:260px;display:block;}
+.qa{background:#dedede;height:120px;float:left;width:950px;}
+.zi{padding-top:18px;}
+.zi h2{font-size:14px;color:#1b944d;padding-bottom:8px;font-family:"宋体";}
+.zi p{font-size:13px;color:#555;font-family:"宋体";line-height:21px;}
+.button{clear:both;}
+.one{padding-bottom:15px;}
+.two ul li{padding:12px 0 22px 0;cursor:pointer;width:250px;}
+.two ul li h2{background:url(/FrontEnd/images20090801/Crawl/Wizard/yellow.gif) no-repeat;height:22px;font-family:"宋体";font-size:12px;color:#118e44;padding:4px 0 0 30px;}
+.two ul li p{font-family:"宋体";color:#727272;padding-top:2px;}
+.two .on{background:url(/FrontEnd/images20090801/Crawl/Wizard/one.gif) no-repeat right 0;margin-left:-12px;padding-left:12px;position:relative;}
+.yeye{background:url(/FrontEnd/images20090801/Crawl/Wizard/model.gif) no-repeat 15px 0;height:379px;width:231px;padding-left:15px;}
+.yeye img{margin-top:20px;margin-left:-10px;}
+.shang{background:url(/FrontEnd/images20090801/Crawl/Wizard/top.gif) no-repeat 0 top;height:14px;width:666px;}
+.zhong{background:url(/FrontEnd/images20090801/Crawl/Wizard/mid.gif) repeat-y;width:666px;height:560px;}
+.xia{background:url(/FrontEnd/images20090801/Crawl/Wizard/bottom.gif) no-repeat 0 top;height:13px;width:666px;overflow:hidden;}

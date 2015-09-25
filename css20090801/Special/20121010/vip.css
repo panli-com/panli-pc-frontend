@@ -1,0 +1,76 @@
+body{ margin:0 auto;}
+.frame{ width:950px;height:auto; font-family:Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal; font-family:Arial, Helvetica, sans-serif;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.left{ float:left;}
+.right{ float:right;}
+.span20{ height:20px; line-height:20px; display:block; clear:both;}
+.span30{ height:30px; line-height:30px; display:block; clear:both;}
+
+#frame{ background:url(/FrontEnd/images20090801/Special/20121010/vip/vip_back_03.gif) fixed; margin:0 auto; height:373px;}
+.banner_top{ width:950px; margin:auto;}
+#back01{ background:url(/FrontEnd/images20090801/Special/20121010/vip/vip_cc_03.gif) left fixed;margin:0 auto; clear:both;}  
+.content{ width:950px; margin:0 auto;  background:url(/FrontEnd/images20090801/Special/20121010/vip/back_03.gif) fixed; overflow:hidden;}
+*html .content{width:950px; margin:0 auto; background:url(/FrontEnd/images20090801/Special/20121010/vip/back_03.gif) fixed; visibility:inherit;}
+
+.news{ width:680px;}
+.news_l{ background:url(/FrontEnd/images20090801/Special/20121010/vip/vip_t_12.gif) no-repeat; width:41px; height:150px;float:left;}
+.news dd{ background:url(/FrontEnd/images20090801/Special/20121010/vip/vip_img_13.gif) repeat-x; width:635px; height:150px; float:left;}
+.news_r{ background:url(/FrontEnd/images20090801/Special/20121010/vip/vip_img_15.gif) no-repeat; width:4px; height:150px;float:left;}
+.news_con{  padding:8px 20px;}
+.news_con li{ font-size:12px; line-height:26px; border-bottom:dashed 1px #8a8a8a; display:block; color:#555;}
+.news_con li a{ color:#555;text-decoration:none;}
+.news_con li a:hover{ color:#ec0069;}
+.news_con span{ color:#ec0069; width:85px;float:left; display:block;}
+.news_con .clock{ color:#555; width:70px; float:left; display:block; height:23px; overflow:hidden;}
+.news_con .xuxian{ border:none;}
+
+.shopp{ clear:both;}
+.shopp_title{ background:url(/FrontEnd/images20090801/Special/20121010/vip/vip_title_20.gif) no-repeat bottom; width:540px; height:16px; text-align: center; padding-top:40px; color:#fff; font-size:14px;}
+.shopp_con{ width:520px; background-color:#ec0069; padding:12px 10px 5px 10px;}
+.shopp_back{ background-color:#fff; padding:15px 35px;}
+.ranking{ height:18px; background-color:#fff5d3; padding:7px 5px;}
+.r_one{ margin-top:5px;}
+.r_one li{ line-height:34px; height:34px; border-bottom:dashed 1px #8a8a8a; color:#555; font-size:14px; display:block;}
+.r_one .one{ width:140px; text-align:left; padding-left:5px; display:block; float:left;}
+.r_one .daren{ width:205px; text-align:left; display:block; float:left;}
+.r_one .money{ width:95px; text-align:left; display:block; float:left;}
+.r_one .own{ border:none;background-color:#fff5d3; height:31px; font-size:16px; color:#ec0069; font-weight:bold; padding:2px 0;}
+.r_one .icon_kk{ background:url(/FrontEnd/images20090801/Special/20121010/vip/icon_img_03.gif) no-repeat; width:113px; height:29px; line-height:29px; text-align:center; color:#fff; display:block; font-size:12px; font-weight:normal;}
+.r_one .icon_kk a{ color:#fff; text-decoration:none;}
+.r_one .icon_kk a:hover{ color:#fff6d7; text-decoration:underline;}
+.text{ font-size:12px; color:#fff; text-align:center; margin-top:10px;}
+
+.plan{ width:380px;}
+.plan_t{ background:url(/FrontEnd/images20090801/Special/20121010/vip/vip_img_22.gif) no-repeat; height:26px; display:block; padding:70px 0 0 30px;}
+.plan_b{ background:url(/FrontEnd/images20090801/Special/20121010/vip/vip_img_36.gif) no-repeat; height:34px;}
+.plan dd{ background:url(/FrontEnd/images20090801/Special/20121010/vip/vip_img_31.gif) repeat-y; width:380px;}
+.explain{ padding:15px 30px; line-height:27px; color:#555; font-size:14px; height:390px;*height:425px;_height:430px; }
+.explain span{ color:#ec0069;}
+.explain .shuoming{ background:url(/FrontEnd/images20090801/Special/20121010/vip/back_icon_03.gif) repeat-x; height:31px; display:block; font-size:12px; color:#7e7e7e; line-height:16px; padding:4px; margin:6px 0;}
+
+.award{ height:308px;}
+.award_left{ background:url(/FrontEnd/images20090801/Special/20121010/vip/vip_anniu_03.gif) no-repeat; width:7px; height:308px; float:left;}
+.award_rig{ background:url(/FrontEnd/images20090801/Special/20121010/vip/vip_anniu_06.gif) no-repeat; width:7px; height:308px;float:left;} 
+.award dd{ background:url(/FrontEnd/images20090801/Special/20121010/vip/vip_anniu_05.gif) repeat-x;width:934px; height:308px; float:left;}
+.award_con{ padding:20px 23px;}
+.award_title{ text-align:center;}
+.the_l{ width:270px; margin:0 10px;}
+.the_title{ text-align:center;}
+.the_con{ width:270px; border:solid 1px #ffb1d4; margin-top:10px; font-size:14px; text-align:center;}
+.the{ background-color:#fff6d7; border-right:solid 1px #ffb1d4;border-top:solid 1px #ffb1d4; border-bottom:solid 1px #ffb1d4;border-left:solid 1px #ffb1d4; color:#ec0069;}
+.the_0{ background-color:#fff6d7; border-right:solid 1px #ffb1d4;border-top:solid 1px #ffb1d4; border-bottom:solid 1px #ffb1d4; color:#ec0069;}
+.the_1{ background-color:#fff6d7; border-right:solid 1px #ffb1d4;border-top:solid 1px #ffb1d4; border-bottom:solid 1px #ffb1d4; width:100px; color:#ec0069;}
+.the_2{ background-color:#fff6d7; border-right:solid 1px #ffb1d4;border-top:solid 1px #ffb1d4; border-bottom:solid 1px #ffb1d4; width:90px; color:#ec0069;}
+.the_3{ background-color:#fff; border-right:solid 1px #ffb1d4;border-bottom:solid 1px #ffb1d4; color:#555;}
+.the_4{ border-left:solid 1px #ffb1d4; border-right:solid 1px #ffb1d4;border-bottom:solid 1px #ffb1d4; color:#555;}
+.text_img{ padding-left:10px;}
+
+.vip_more{position:relative; clear:both; height:90px;}
+.icon{width:380px;height:55px;left:285px;top:30px;position:absolute;}
+.icon a{width:380px; height:55px; display:block; background:url(/FrontEnd/images20090801/Special/20121010/vip/vip_anniu_10.gif) no-repeat top;}
+.icon a:hover{ background-position:bottom;}
+.copy{ text-align:right; padding-bottom:10px;}

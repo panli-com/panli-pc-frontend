@@ -1,0 +1,65 @@
+.fill{width:720px;float:right;margin:20px 23px 0 0;display:inline;padding-bottom:20px;}
+.cj_top{height:70px;background:url(/FrontEnd/images20090801/newmypanli/cowry/bj.gif) no-repeat 0 bottom;}
+.jihui{background:url(/FrontEnd/images20090801/icon/use/g_5.gif) no-repeat 0 0;height:48px;padding-left:60px;}
+.jihui h1{font-size:20px;color:#63B145;font-family:"simhei";font-weight:normal;line-height:30px;}
+.jihui p{font-size:14px;}
+.wanbi{background:url(/FrontEnd/images20090801/icon/use/t4.gif) no-repeat 0 0;height:48px;padding-left:60px;}
+.wanbi h1{font-size:20px;color:#333;font-family:"simhei";font-weight:normal;line-height:30px;}
+.wanbi p{font-size:14px;color:#999;}
+
+.choujiang{background:#F6F3E9 url(/FrontEnd/images20090801/newmypanli/cowry/bj.gif) no-repeat right bottom;height:200px;margin-bottom:40px;}
+.info{text-align:right;line-height:22px;height:25px;font-size:12px;padding:5px 10px 0 0;font-size:14px}
+.info span{color:#FF0000;}
+.info a{color:#71A8CF;}
+.info a:hover{text-decoration:none;color:#F00;}
+.zuo{float:left;width:28px;margin:50px 0 0 10px;display:inline;}
+.you{float:right;width:28px;margin:50px 10px 0 0;display:inline;}
+.zuo a,.you a{background:url(/FrontEnd/images20090801/newmypanli/cowry/fy.gif) no-repeat 0 0;height:28px;float:left;width:28px;}
+.you a{background-position:0 -60px;}
+.zuo a:hover{background-position:0 -30px;}
+.you a:hover{background-position:0 -90px;}
+
+.zhong{width:625px;height:146px;float:left;display:inline;margin:5px 0 0 10px;overflow:hidden;}
+.zhong ul{width:1290px;height:110px;float:left;}
+.zhong ul li{float:left;width:129px;}
+.zhong ul li span{float:left;height:100px;width:100px;padding:3px;border:#ddd solid 1px;background:#FFF;}
+.huode{border:#ff0000 solid 3px;width:106px;height:106px;position:relative;margin:0 0 -110px 256px;}
+
+.kaishi{position:relative;margin:0 0 -100px 0;float:left;width:600px;}
+.kaishi input{background:url(/FrontEnd/images20090801/newmypanli/cowry/kaishi.gif) no-repeat 0 0;width:156px;height:38px;border:0;cursor:pointer;float:left;display:inline;margin-left:285px;}
+.kaishi .by{background-position:-157px 0;}
+.sm{border-top:#CCC dashed 1px;}
+.sm h2{font-size:12px;padding-top:10px;line-height:30px;}
+.sm h3{font-weight:100;line-height:24px;font-size:12px;}
+.sm h3 span{color:#333;}
+.sm li{padding:0 0 10px 0;}
+.sm li p{color:#bbb;padding-left:44px;line-height:22px;}
+.sm li p a{color:#71A8CF;}
+.sm li p a:hover{color:#FF0000;text-decoration:none;}
+.more{padding:10px 0 0 45px;font-size:14px;}
+.more a{color:#71A8CF;}
+.more a:hover{text-decoration:none;color:#F00;}
+
+
+.choujiang_overlay{
+	moz-opacity:0.30; /* Moz + FF 透明度20% */
+	opacity: 0.30;  /*支持CSS3的浏览器（FF 1.5也支持）透明度20%*/
+	filter:alpha(opacity=30); /* IE 透明度20% */
+	position:fixed;bottom:0;top:0;left:0;right:0;background:#fff;height:100%;width:100%;_position:absolute; z-index:800;
+	margin-right:-10000px;
+}
+.choujiang_dialog{background:#fff;width:400px;height:280px;position:fixed;z-index:900;_position:absolute;left:50%; margin-left:-118px;top:50%;margin-top:-140px;_margin-top:0;border:#ffa500 solid 8px;}
+.jieguo{height:30px;background:#FEF5E2;border-bottom:#F2C777 solid 1px;}
+.jieguo h2{font-size:14px;float:left;margin:8px 0 0 10px;display:inline;color:#FF6600;}
+.jieguo a{float:right;background:url(/FrontEnd/images20090801/icon/common/close_2.gif) no-repeat 0 0;height:15px;width:19px;margin:8px 5px 0 0;display:inline;}
+.jieguo a:hover{background-position:0 -15px;}
+.jiangpin h2{font-size:22px;height:35px;line-height:30px;}
+.jiangpin h2 span{color:#f00;}
+.jiangpin{background:url(/FrontEnd/images20090801/biaoqing/c4.gif) no-repeat 15px 45px;padding:50px 0 0 95px;}
+.jiangpin p{line-height:22px;color:#999;padding-left:2px;}
+.jiangpin p a{color:#71A8CF;}
+.jiangpin p a:hover{text-decoration:none;color:#FF9900;}
+.caozuo{padding:10px 0 0 2px;}
+.caozuo a{background:url(/FrontEnd/images20090801/button/109an.gif) no-repeat 0 0;width:109px;float:left;height:40px;color:#eee;text-decoration:none;text-align:center;line-height:30px;margin-right:12px;display:inline;}
+.caozuo a:hover{color:#FFF;background-position:0 -40px;}
+

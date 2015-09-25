@@ -1,0 +1,47 @@
+.am_vneir{float:right;width:720px;margin:25px 30px 10px 0;display:inline;padding-bottom:10px;border-bottom:1px dashed #ddd;}
+.v_pic{float:left;margin-right:15px;}
+.pic p{line-height:22px;}
+.pic a{color:#71a8cf;}
+.pic a:hover{color:#ff0000;}
+.pic b{color:#0033ff;}
+.pic span{color:#ff3300;font-weight:bold;}
+.v_left h1{font-size:14px;padding-bottom:5px;}
+.yj{z-index:100;border-bottom:#cadbea 1px solid;position:relative;width:160px;clear:both;overflow:hidden;}
+
+.v_biao{padding:10px 0 28px 28px;}
+.v_biao table{border-collapse:collapse;width:725px;font-family:Arial;}
+.hui{background:#f9f9f9;}
+.v_biao table th{border-bottom:#CCC solid 1px;height:25px;background:#999;color:#FFF;text-align:left;padding-left:10px;padding-top:3px;}
+.v_biao table th span{font-weight:100;}
+.v_biao table td{border-bottom:#ddd solid 1px;padding:12px 0 12px 10px;}
+.w1{width:150px;}
+.w2{width:150px;color:#339900;}
+.w3{width:200px;}
+
+.page-top, .page-bottom {float:right;}
+.page-bottom {float:right;height:25px;margin:0 0px 0 0;display:inline;}
+.page-bottom a, .page-bottom .page-cur, .page-bottom .page-start, .page-bottom .page-end {
+border:1px solid #AAAAAA;color:#666666;display:inline;float:left;height:20px;line-height:20px;margin-left:2px;padding:0 5px;text-decoration:none;}
+.page-bottom .page-start, .page-bottom .page-end {border:1px solid #DDDDDD;color:#CCC;font-family:"simsun";}
+.page-bottom a:hover {background:#FFEDE1;border:1px solid #FF9900;}
+.page-bottom .page-cur {background:#FFEDE1;border:1px solid #FF6600;color:#FF0000;}
+.page-bottom .page-break {float:left;margin:0 3px 0 5px;}
+.page-bottom .page-skip {color:#999999;display:inline;float:left;height:22px;line-height:22px;margin-left:5px;}
+.ts{border:1px solid #CCCCCC;}
+#jumpto {border:1px solid #aaa;width:20px;margin:0 3px;}
+.page_button{background:transparent url(/FrontEnd/images20090801/go.gif) no-repeat scroll 0 0;border:medium none;
+cursor:pointer;height:22px;margin:0 0 0 5px;width:22px;}
+.p{height:25px;padding:10px 20px 0 0;}
+
+.v_xuanz{padding:0 0 0 27px;}
+
+.mei{padding:100px 0 350px 240px;background:url(/FrontEnd/images20090801/biaoqing/b7.gif) no-repeat 100px 100px;margin-left:55px;}
+.mei h2{font-size:16px;height:30px;color:#333;line-height:30px;padding-top:10px;}
+.mei h2 a{color:#FF9900;font-size:12px;color:#f90;}
+.mei p{line-height:20px;color:#808080;}
+.mei p a{color:#339AFF;}
+.mei span{color:#ff0000;}
+.mei a:hover{color:#FF0000;text-decoration:none}
+
+
+

@@ -1,0 +1,28 @@
+    .Track_message{width:550px;border:1px #38913d solid;position:fixed;z-index:900;_position:absolute;left:50%;margin-left:-180px;top:50%;margin-top:-165px;_margin-top:0;background:#fff;height:330px;}
+.Track_tou h1{float:left;font-size:14px;font-weight:normal;color:#666;padding:15px 0 0px 15px;}
+.Track_close{height:19px;width:25px;float:right;padding:15px 15px 0 0;}
+.Track_close a{background:url(/FrontEnd/images20090801/icon/common/dialog_closer.gif) no-repeat;cursor:pointer;float:right;height:19px;width:25px;}
+.Track_close a:hover{background-position:-60px;}
+.Track_tou{background:url(/FrontEnd/images20090801/icon/common/m1.gif) repeat-x 0 0;height:60px;}
+.Track_con,.Track_cons{ margin:20px 40px 0 40px; line-height:22px;}
+.Track_con p{ margin-top:15px;}
+.Track_con input{ width:160px; height:20px; float:left;}
+.Track_con select{width:163px; height:25px;float:left;}
+.Track_con textarea{width:250px;float:left;}
+.Track_con p em{ float:left; font-style:normal; display:inline; margin:60px 0 0 5px;}
+.Track_con span{ display:inline; float:left; width:90px;}
+.clear{ clear:both; display:block; line-height:0px; font-size:0px; height:0px; }
+a.Submit,a.SubmitOk{display: inline; float:left;
+width: 100px;
+height: 32px;
+line-height: 32px;
+text-align:center;
+color: #fff;
+font-size: 14px;
+text-decoration: none;
+background: url(/FrontEnd/images20090801/button/97an.gif) no-repeat;}
+a.Submit:hover,a.SubmitOk:hover{background-position: 0 -34px;}
+a.SubmitOk{ float:none; display:block; margin: 50px auto;}
+
+.tkOK{ font-size:14px; text-align:center;}
+.tkTishi{ line-height:30px;}

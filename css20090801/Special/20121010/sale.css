@@ -1,0 +1,23 @@
+﻿body{ margin:0 auto;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+
+.banner_top{ width:950px; margin:auto;}
+.back1{ background:url(/FrontEnd/images20090801/Special/20121010/sale/zx_img_03.jpg) no-repeat; height:60px;}
+.back2{ background:url(/FrontEnd/images20090801/Special/20121010/sale/zx_img_05.jpg) no-repeat; height:60px;}
+.back3{ background:url(/FrontEnd/images20090801/Special/20121010/sale/zx_img_06.jpg) no-repeat; height:60px;}
+.back4{ background:url(/FrontEnd/images20090801/Special/20121010/sale/zx_img_07.jpg) no-repeat; height:60px;}
+.back5{ background:url(/FrontEnd/images20090801/Special/20121010/sale/zx_img_08.jpg) no-repeat; height:60px;}
+.back6{ background:url(/FrontEnd/images20090801/Special/20121010/sale/zx_img_10.gif) no-repeat; height:87px;}
+.back7{ background:url(/FrontEnd/images20090801/Special/20121010/sale/zx_img_12.jpg) no-repeat; height:87px;}
+.img01{ position:relative; background:url(/FrontEnd/images20090801/Special/20121010/sale/zx_img_13.jpg) no-repeat; height:130px;}
+.icon{width:272px;height:60px;left:185px;top:15px;position:absolute;}
+.icon a{width:272px; height:60px; display:block; background:url(/FrontEnd/images20090801/Special/20121010/sale/tijiao_03.png) no-repeat top;}
+.icon a:hover{ background-position:bottom;}
+.icon2{width:252px;height:60px;left:515px;top:15px;position:absolute;}
+.icon2 a{width:252px; height:60px; display:block; background:url(/FrontEnd/images20090801/Special/20121010/sale/tijiao_05.png) no-repeat top;}
+.icon2 a:hover{ background-position:bottom;}

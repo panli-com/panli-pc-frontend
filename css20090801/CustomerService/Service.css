@@ -1,0 +1,63 @@
+.center{background:url(/FrontEnd/images20090801/CustomerService/bj.jpg) repeat-x 0 bottom;padding-bottom:8px;}
+.service{background:url(/FrontEnd/images20090801/CustomerService/s_box.gif) repeat-y 0 0;width:956px;margin:auto;}
+.s_box{background:url(/FrontEnd/images20090801/CustomerService/s_bj.gif) no-repeat 0 bottom;}
+
+.s_top{background:url(/FrontEnd/images20090801/CustomerService/s_yj.gif) repeat-x 0 top;height:90px;}
+.s_wel{background:url(/FrontEnd/images20090801/CustomerService/s_yj.gif) no-repeat 0 -91px;width:450px;height:60px;float:left;padding:30px 0 0 30px;}
+.s_time{background:url(/FrontEnd/images20090801/CustomerService/s_yj.gif) no-repeat right -182px;width:450px;height:90px;float:right;}
+.huanying{background:url(/FrontEnd/images20090801/CustomerService/service.jpg) no-repeat left 0;padding-left:70px;height:60px;}
+.huanying h1{height:35px;}
+.huanying p{color:#009933;line-height:24px;padding-left:3px;}
+.weizhi{line-height:24px;color:#666;font-family:"simsun";}
+.weizhi span{margin:0 5px;}
+.weizhi a{color:#6BAACB}
+.weizhi a:hover{color:#FF0000;text-decoration:none;}
+
+.s_time label{background:url(/FrontEnd/images20090801/CustomerService/beijing.gif) no-repeat 0 0;height:21px;width:77px;float:left;}
+.s_time span{float:left;font-size:18px;font-family:Arial;font-weight:bold;line-height:22px;width:100px;color:#aaa;padding-left:5px;}
+.s_time b{width:10px;width:15px;height:19px;font-size:16px;font-family:Arial;background:#777;color:#FFF;float:left;display:inline;text-align:center;margin-left:1px;overflow:hidden;font-weight:100;line-height:19px;}
+.s_time i{height:10px;background:url(/FrontEnd/images20090801/CustomerService/mh.gif) no-repeat 0 0;width:3px;margin:5px 2px 0 3px;float:left;display:inline;}
+.shijian{margin:50px 0 0 120px;height:35px;}
+.shijian strong{font-weight:100;float:left;}
+.s_time p{line-height:24px;color:#bbb;text-align:right;padding-right:35px;}
+
+.pick{border-top:#ddd solid 2px;margin:15px 30px 0 30px;height:290px;border-bottom:#eee solid 1px;}
+.pick ul{margin-top:40px;}
+.pick li{float:left;width:230px;padding-right:50px;border-right:#e3e3e3 dashed 1px;height:160px;margin-right:18px;display:inline;}
+.pick li p{line-height:20px;height:85px;color:#444;}
+.pick li h2{font-size:14px;line-height:30px;height:30px;}
+.pick li span{color:#999;}
+.pick li a{background:url(/FrontEnd/images20090801/CustomerService/s_an.gif) no-repeat 0 0;width:185px;height:42px;display:block;}
+.pick .s1{background:url(/FrontEnd/images20090801/CustomerService/s_an.gif) no-repeat 0 0;}
+.pick .s1:hover{background-position:0 -42px;}
+.pick .s2{background-position:0 -126px;}
+.pick .s2:hover{background-position:0 -168px;}
+.pick .s3{background-position:0 -210px;}
+.pick .s3:hover{background-position:0 -252px;}
+.pick .s_hui,.pick .s_hui:hover{background-position:0 -84px;}
+
+.s_contact{margin:10px 30px 0 30px;height:60px;}
+.s_contact h2{font-size:12px;color:#bbb;line-height:20px;}
+.s_contact p{font-size:12px;color:#bbb;line-height:18px;}
+.s_contact p span{margin:0 10px;}
+.s_contact p a{color:#6BAACB;}
+.s_contact p a:hover{color:#FF0000;text-decoration:none;}
+
+.tishi{background:#FFFFE6 url(/FrontEnd/images20090801/icon/common/deng.gif) no-repeat 10px center;border:#FDE8BB solid 1px;line-height:28px;padding-left:28px;margin-top:20px;color:#f90;margin-bottom:20px;}
+.s_case{border-top:#ddd solid 2px;margin:15px 30px 0 30px;height:300px;border-bottom:#eee solid 1px;background:url(/FrontEnd/images20090801/CustomerService/shili.gif) no-repeat 650px 60px;}
+.s_case h3{font-size:14px;font-weight:100;line-height:30px;height:30px;color:#385B83;}
+.s_case li{padding-bottom:40px;}
+.s_case p{line-height:28px;font-size:12px;}
+.s_case p span{font-family:"simsun";margin:0 5px;}
+.s_case p a{color:#6BAACB;}
+.s_case p a:hover{color:#FF0000;text-decoration:none;}
+
+.z{width:150px;text-align:right;line-height:30px;vertical-align:top;}
+.liuyan{border-top:#ddd solid 2px;margin:15px 30px 0 30px;height:350px;border-bottom:#eee solid 1px;}
+.z b{color:#FF0000;padding-right:3px;}
+.liuyan table td{margin:0;padding:5px 0;}
+.liuyan td input{background:#FFF;border:#85B6CD solid 1px;font-size:14px;padding:5px;width:300px;margin:0;}
+.liuyan textarea{border:#85B6CD solid 1px;height:80px;width:400px;margin:0;padding:5px;}
+.tijiao input{background:url(/FrontEnd/images20090801/button/109an.gif) no-repeat 0 0;border:0;width:109px;height:39px;padding-bottom:10px;color:#eee;font-size:14px;cursor:pointer;}
+.tijiao .by{background-position:0 -40px;color:#fff;}
+.tijiao{padding:8px 0 0 154px;}

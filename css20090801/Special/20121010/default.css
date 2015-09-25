@@ -1,0 +1,28 @@
+﻿body{ margin:0 auto;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span20{ height:20px; line-height:20px; display:block; clear:both;}
+
+#frame{ background-color:#f66100; margin:0 auto; height:auto; width:950px;}
+.banner_top{ width:950px; margin:auto;}
+
+
+.img{ position:relative;}
+.icon{width:280px;height:279px;left:33px;top:10px;position:absolute;}
+.icon a{width:280px; height:279px; display:block; background:url(/FrontEnd/images20090801/Special/20121010/default/back_03.gif) no-repeat top;}
+.icon a:hover{ background:url(/FrontEnd/images20090801/Special/20121010/default/back_img_03.gif) no-repeat bottom;}
+.icon1{width:242px;height:242px;left:637px;top:34px;position:absolute;}
+.icon1 a{width:242px; height:242px; display:block; background:url(/FrontEnd/images20090801/Special/20121010/default/back_06.gif) no-repeat top;}
+.icon1 a:hover{ background:url(/FrontEnd/images20090801/Special/20121010/default/back_img_06.gif) no-repeat bottom;}
+
+.img01{ position:relative;}
+.icon2{width:266px;height:266px;left:82px;top:39px;position:absolute;}
+.icon2 a{width:266px; height:266px; display:block; background:url(/FrontEnd/images20090801/Special/20121010/default/back_14.gif) no-repeat top;}
+.icon2 a:hover{ background:url(/FrontEnd/images20090801/Special/20121010/default/back_img_14.gif) no-repeat bottom;}
+.icon3{width:210px;height:209px;left:567px;top:2px;position:absolute;}
+.icon3 a{width:210px; height:209px; display:block; background:url(/FrontEnd/images20090801/Special/20121010/default/back_11.gif) no-repeat top;}
+.icon3 a:hover{background:url(/FrontEnd/images20090801/Special/20121010/default/back_img_11.gif) no-repeat bottom;}

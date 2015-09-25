@@ -1,0 +1,59 @@
+body{font-size:12px;margin:0;padding:0;font-family:Verdana, Arial, Helvetica, "simsun";}
+p,h1,h2,h3,h4,h5,li,ul,dd,dt,dl,form{margin:0;padding:0;}img{border:none;}ul li{list-style:none;}
+a{color:#71A8CF;}a:hover{color:#FF0000; text-decoration: none;}textarea{resize: none;}input{ outline:none;}
+
+
+.fill{float: right; width: 720px; margin-right: 22px; padding-bottom: 20px; display: inline;}
+.tishi{background: #FFFDDF; border: 1px solid #EEEEEE; color: #ceaa48; margin-top: 25px; height: 44px; line-height: 44px; overflow: hidden;}
+.tishi .ts_left{float: left; padding: 7px 0;}
+.ts_left p{font-size: 12px; line-height: 18px; overflow: hidden; padding-left: 6px;}
+.ts_left p span{width: 4px; height: 4px; background: #ceaa48; border-radius: 50%; float: left; margin: 7px 6px;}
+.tishi a{float: right; padding-right: 12px;}
+.tishi a:hover{text-decoration: none;}
+.expired, .expiring{background:#FFF url(/FrontEnd/images20090801/newmypanli/voucher/yj.gif) no-repeat left bottom;height:40px;width:720px;position:relative;margin-top:25px;}
+.expired{margin-top: 13px; overflow: hidden; font-size: 12px;line-height: 32px;}
+.expired p{float: left; color: #333333;}
+.expired p span{color: #FF0000;}
+.expired a{float: right;}
+.expired a:hover{text-decoration: none;}
+
+.expiring li{float:left;font-size:14px;display:inline;margin-right:5px;color:#666;background:url(/FrontEnd/images20090801/newmypanli/voucher/jilu.gif) no-repeat right -4px;height:32px;line-height:32px;width:178px;text-align:center;margin-top:4px;cursor:pointer;}
+.expiring .o{background-position:0 0;line-height:36px;height:36px;color:#69af51;font-weight:bold;margin:1px 5px 0 0;}
+.expiring p{float: right; height: 36px; line-height: 36px;}
+.expiring p span{color: #FF0000;}
+.jilu{background:url(/FrontEnd/images20090801/newmypanli/voucher/yj.gif) no-repeat right bottom;padding-bottom:5px;}
+.biao{border-left:#e3e3e3 solid 1px;border-right:#e3e3e3 solid 1px;padding:20px 0 20px 15px;}
+.biao table{border-collapse:collapse;width:690px;font-family:Arial;}
+.biao table th{border-bottom:#CCC solid 1px;height:25px;background:#999;color:#FFF;text-align:center; padding:2px 0;}
+.biao table td{border-bottom:#ddd solid 1px;padding:8px 0; text-align: center;}/*overflow: hidden; text-overflow: ellipsis; white-space: nowrap;*/
+
+.biao table .guoqi_hui, .biao table .guoqi_hui a{color: #bbbbbb;}
+.biao table .used_hui, .biao table .used_hui a{color: #6E6E6E;}
+.w1{width:105px;}
+.w2{width:52px;}
+.w3{width:110px;}
+.w4{width:132px;}
+.biao table td.w5,.biao table th.w5{width:76px; padding-left:10px;padding-right:10px;}
+.w6{width:130px;}
+.w7{width: 58px;}
+.biao table td a{position: relative;}
+.biao table td .two_dimension{position: absolute; bottom: -205px; left: 50%; margin-left: -68px;display: none; text-align: center; width: 136px; height: 186px; font-size: 12px; color: #000000; padding-top: 18px; z-index: 600; background: url(/FrontEnd/images20090801/newmypanli/voucher/dimenson.png) no-repeat;}
+.two_dimension span{line-height: 16px; text-align: center;}
+.two_dimension i{display: inline-block; width: 99px; height: 99px; margin: 6px 19px; background: url(/FrontEnd/images20090801/newmypanli/voucher/dimen_pic.png) no-repeat;}
+.page-top, .page-bottom {float:right;}
+.page-bottom {float:right;height:25px;margin:15px 20px -30px 0;display:inline;}
+.page-bottom a, .page-bottom .page-cur, .page-bottom .page-start, .page-bottom .page-end {
+border:1px solid #AAAAAA;color:#666666;display:inline;float:left;height:20px;line-height:20px;margin-left:2px;padding:0 5px;text-decoration:none;}
+.page-bottom .page-start, .page-bottom .page-end {border:1px solid #DDDDDD;color:#CCC;font-family:"simsun";}
+.page-bottom a:hover {background:#FFEDE1;border:1px solid #FF9900;}
+.page-bottom .page-cur {background:#FFEDE1;border:1px solid #FF6600;color:#FF0000;}
+.page-bottom .page-break {float:left;margin:0 3px 0 5px;}
+.page-bottom .page-skip {color:#999999;display:inline;float:left;height:22px;line-height:22px;margin-left:5px;}
+.ts{border:1px solid #CCCCCC;}
+#ajaxjumpto {border:1px solid #aaa;width:20px;margin:0 3px;}
+.page_button{background:transparent url(/FrontEnd/images20090801/go.gif) no-repeat scroll 0 0;border:medium none;
+cursor:pointer;height:22px;margin:0 0 0 5px;width:22px;}
+
+.mei{padding:80px 0 100px 270px;line-height:30px;font-size:14px;background:url(/FrontEnd/images20090801/biaoqing/b7.gif) no-repeat 150px 65px;}
+.mei a{color:#71A8CF;}
+.mei a:hover{color:#F00;text-decoration:none;}

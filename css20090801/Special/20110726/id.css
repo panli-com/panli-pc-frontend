@@ -1,0 +1,110 @@
+ h1, h2, h3, h4, h5, li, ul, dl, dt, dd, b, img, div, p{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal; }
+
+.bannertop{ width:950px;height:50px;padding:0px;margin:0px auto;text-align:center;}
+.bannertop2{ width:950px;height:80px;padding:0px;margin:auto;text-align:center;}
+.content{ width:934px; height:auto; background:#ffffff; margin:0px auto; border:8px solid #5588bc; overflow:hidden;}
+.leftsidebar{ width:200px;height:auto; float:left;background:#ffffff; }
+.tipt{ width:182px; height:40px; margin:10px auto;_margin:10px auto; }
+.linktit{ width:191px; height:30px;margin:10px auto 5px 5px; *margin:4px auto 3px 4px; float:left;*float:none;}
+
+.linkweb{ width:180px; height:100%;margin:10px auto 10px auto; _margin:0px auto; }
+.linkweb ul{ margin:0px; padding:0px;}
+.sfenlei{ width:176px; height:30px; margin:3px auto;_margin:1px auto; float:left; }
+.linkwebpic{ width:84px; height:35px; border:1px dashed #b2b2b2; margin:2px; _margin:1px;float:left;}
+.linkwebpic img{padding:0px; border:0px;}
+.goods_pic{width:80px; height:80px; border:1px dashed #b2b2b2; margin:2px 3px;float:left;}
+.goods_pic img{padding:0px; border:0px;}
+.more_t{width:180px; height:22px; margin:5px auto; text-align:right; font-size:12px;float:left;}
+.more_t a { color:#389fc8; text-decoration:underline;}
+.more_t a:hover{ color:#f49600; text-decoration:underline;}
+
+/*右边导航开始*/
+/*Panli優惠活動left*/
+.rightsidebar{width:724px; height:50px; margin:0px;}
+.rightsidebar ul{ margin:0px; padding:0px;}
+.menu_01{width:200px; height:49px; float:left; border-bottom:1px solid #77b7ff; background:#e8f6ff;}
+.menu_01 a{width:115px; height:20px; background: url(/FrontEnd/images20090801/special/20110726/dh01.gif) no-repeat bottom; display:block; margin:15px auto;}
+.menu_02{width:214px; height:49px; float:left; border:1px solid #77b7ff; border-top:0px; background:#e8f6ff;}
+.menu_02 a{width:166px; height:20px; background:#e8f6ff url(/FrontEnd/images20090801/special/20110726/dh02.gif) no-repeat bottom; display:block; margin:15px auto;}
+.menu_03{width:175px; height:49px; float:left; border:1px solid #77b7ff; border-top:0px;border-left:0px; background:#e8f6ff;}
+.menu_03 a{width:110px; height:20px; background:#e8f6ff url(/FrontEnd/images20090801/special/20110726/dh03.gif) no-repeat bottom; display:block; margin:15px auto;}
+.menu_04{width:132px; height:49px; float:left; border-bottom:1px solid #77b7ff; background:#e8f6ff;}
+.menu_04 a{width:70px; height:20px; background:#e8f6ff url(/FrontEnd/images20090801/special/20110726/dh04.gif) no-repeat bottom; display:block; margin:15px auto;}
+/*為什麼要用Panli代購left*/
+.menu_012{width:200px; height:50px; float:left;}
+.menu_012 a{width:115px; height:20px; background:#ffffff url(/FrontEnd/images20090801/special/20110726/dh01.gif) no-repeat top; display:block; margin:15px auto;}
+.menu_022{width:214px; height:50px; float:left; color:#ffffff; border-left:1px solid #77b7ff; border-right:1px solid #77b7ff }
+.menu_022 a{width:166px; height:20px; background:#ffffff url(/FrontEnd/images20090801/special/20110726/dh02.gif) no-repeat top; display:block; margin:15px auto;}
+/*left3*/
+.menu_033{width:175px; height:50px; float:left; border-right:1px solid #77b7ff;  background:#ffffff;}
+.menu_033 a{width:110px; height:20px; background:url(/FrontEnd/images20090801/special/20110726/dh03.gif) no-repeat top; display:block; margin:15px auto;}
+/*left4*/
+.menu_044{width:132px; height:50px; float:left;  background:#ffffff;}
+.menu_044 a{width:70px; height:20px; background: url(/FrontEnd/images20090801/special/20110726/dh04.gif) no-repeat top; display:block; margin:15px auto;}
+/*右边导航结束*/
+
+
+
+.tiptit{ width:192px; margin:15px 4px 5px 4px;  line-height:22px; color:#6ab322; text-align:left; font-size:12px;}
+.tipcontent{ width:192px; margin:5px 4px; height:auto;  line-height:22px; color:#717171;text-align:left; font-size:12px; margin-bottom:10px;}
+.tipcontent a { color:#389fc8; text-decoration:underline;}
+.tipcontent a:hover{ color:#f49600; text-decoration:underline;}
+/*right01*/
+.contentright01{ width:724px; height:1160px; border:5px solid #77b7ff;float:right; background:#ffffff; color:#656565;}
+.contentright01 a{ color:#389fc8; text-decoration:underline;}
+.contentright01 a:hover{ color:#f49600; text-decoration:underline;}
+.hdjs01{ width:694px; height:auto; line-height:25px; text-align: left; font-size:14px; margin:25px 15px 0px 15px; }
+.strong01{ font-weight:bold;}
+.spcial_r{width:619px; text-indent:75px;line-height:25px;text-align: left;margin:0px 15px 20px 15px; font-size:14px;}
+.spcial_o{ color:#f49600;}
+.textmain{width:672px; height:auto; line-height:25px; border:1px dotted #b2b2b2; margin:15px; font-size:14px; padding:15px 10px;
+text-align:left  }
+.texttit{ font-size:16px; padding-bottom:8px; margin-bottom:8px; border-bottom:1px solid #bebebe; color:#5a779e; font-weight:bold; }
+.textblue{ color:#5a779e; font-weight:bold; }
+.textjf{ color:#6ab322; }
+.tablejf{ color:#aaaaaa; font-size:12px;width:650px; height:75px; margin-bottom:20px; }
+.bigtext{ font-size:16px; font-weight:bold;}
+.tip{  font-size:12px;line-height:25px;  color:#aaaaaa;margin:3px auto 15px auto;}
+.banquan{ width:672px; height:25px; text-align:right;}
+/*right02*/
+.contentright02{ width:724px; height:1160px; border:5px solid #77b7ff;float:right; background:#ffffff; color:#656565;}
+.texttop{ width:642px; height:auto; line-height:30px; text-align: left; font-size:14px; margin:20px 15px 0px 15px; border:1px dashed #cccccc; background:#f2fdff; padding:10px 25px; }
+.textxq{ width:684px; height:auto; line-height:25px; text-align: left; font-size:14px; color:#5a779e; text-indent:25px;margin:20px; }
+h5{ width:684px; height:auto; line-height:25px; font-size:16px; padding-bottom:6px; margin-bottom:6px; border-bottom:1px solid #bebebe; color:#5a779e; font-weight:bold; margin:10px 20px;  }
+.fuwu{width:684px; height:auto; line-height:28px; text-align: left; font-size:14px;margin:5px 20px 15px 20px;}
+/*right03*/
+.contentright03{ width:724px; height:1160px; padding:0px 0px 5px 0px;  border:5px solid #77b7ff;float:right; background:#ffffff; color:#656565;}
+.contentright03 a { color:#389fc8; text-decoration:underline;}
+.contentright03 a:hover{ color:#f49600; text-decoration:underline;}
+.textzizhugou{ width:642px; height:auto; line-height:30px; text-align: left; font-size:14px; margin:30px 15px 0px 15px; border:1px dashed #e1e1e1; background:#f7feea; padding:10px 25px; font-weight:bold;  }
+.textdg{ width:642px; height:auto; line-height:30px; text-align: left; font-size:14px; margin:30px 15px 0px 15px; border:1px dashed #e1e1e1; background:#fff9f0; padding:10px 25px; font-weight:bold;  }
+.liucheng{ width:720px; height:360px;margin:30px auto; text-align:center;}
+.zizhugou_lc{ width:614px; height:290px;margin:30px auto; text-align:center;}
+.lcxx{width:610px; height:30px;margin:0px auto 30px auto; ; text-align:right; font-size:14px; }
+/*right04*/
+.contentright04{ width:724px; height:100%; padding:0px 0px 5px 0px;  border:5px solid #77b7ff;float:right; background:#ffffff; color:#656565;}
+.contentright04 a { color:#389fc8; text-decoration:underline;}
+.contentright04 a:hover{ color:#f49600; text-decoration:underline;}
+.allproblem{width:684px; height:auto; line-height:22px; text-align: left; font-size:12px;margin:10px 20px 15px 20px; border-bottom:1px dashed #a2a2a2; padding:5px 0px 20px 0px;}
+.text_s01{color:#5a779e; font-weight:bold;}
+.allproblem img{ margin:10px 0px 20px 0px;}
+.allproblem_top{width:684px; height:auto; line-height:22px; text-align: left; font-size:12px;margin:10px 20px 0px 20px;padding-top:5px }
+.allproblem_bottom{width:684px; height:auto; line-height:22px; text-align: left; font-size:12px; margin:0px 20px 15px 20px;border-bottom:1px dashed #a2a2a2; padding-bottom:20px;}
+.yftable{ width:650px; height:auto; line-height:25px; margin:5px 20px;border-collapse:collapse; font-size:12px;}
+.yftable tr td{border:1px solid #d2d2d2; text-indent:5px;}
+.nametop{ background:#f1f0f0; font-weight:bold;line-height:18px;}
+.textnomal{ font-weight:normal; color:#b9b9b9;}
+.overnotice{width:684px; height:auto; line-height:25px; text-align: left; font-size:14px;margin:20px 20px; font-weight:bold; text-indent:25px;}
+/*立即注册按钮*/
+.registerbtn{ width:298px;height:48px; margin:30px auto;text-align:center;}
+.registerbtn a{ background:url(/FrontEnd/images20090801/special/20110726/registerbtn.gif) no-repeat top; width:298px;height:48px; display:block;}
+.registerbtn a:hover{ background-position:bottom;}
+.clear{clear: both;}
+
+
+
+
+
+
+
+

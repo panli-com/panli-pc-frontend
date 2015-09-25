@@ -1,0 +1,32 @@
+body{ margin:0 auto; font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span20{ height:20px; line-height:20px; display:block; clear:both;}
+.left{ float:left;}
+.right{ float:right;}
+
+#frame{ background:url(cssImg/back.gif) fixed;}
+.banner_top{ width:960px; margin:0 auto; text-align:center;} 
+.banner_top li{ position:relative;}
+.button{ position:relative; height:66px; margin:25px 0;}
+.copy{ text-align:right; padding-bottom:10px;}
+
+.icon1{width:232px;height:46px;left:200px;top:35px;position:absolute;}
+.icon1 a{width:232px; height:46px; display:block; background:url(cssImg/button_03.gif) no-repeat top;}
+.icon1 a:hover{ background-position:bottom;}
+
+.icon2{width:342px;height:46px;left:70px;top:5px;position:absolute;}
+.icon2 a{width:342px; height:46px; display:block; background:url(cssImg/button_07.gif) no-repeat top;}
+.icon2 a:hover{ background-position:bottom;}
+
+.icon3{width:342px;height:46px;left:550px;top:5px;position:absolute;}
+.icon3 a{width:342px; height:46px; display:block; background:url(cssImg/button_10.gif) no-repeat top;}
+.icon3 a:hover{ background-position:bottom;}
+
+.icon4{width:599px;height:66px;left:182px;top:0px;position:absolute;}
+.icon4 a{width:599px; height:66px; display:block; background:url(cssImg/button_15.gif) no-repeat top;}
+.icon4 a:hover{ background-position:bottom;}

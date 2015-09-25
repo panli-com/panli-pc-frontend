@@ -1,0 +1,12 @@
+body{ margin:0 auto;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+
+.frame li{ width:950px;position:relative;}
+.icon02{width:503px;height:59px;left:223px;top:0px;position:absolute;}
+.icon02 a{width:503px; height:59px; display:block; background:url(cssImg/icon_03.gif) no-repeat top;}
+.icon02 a:hover{ background-position:bottom;}

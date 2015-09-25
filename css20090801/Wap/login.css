@@ -1,0 +1,19 @@
+.login{width:250px;margin:auto;padding:10px 0 55px 0;}
+.login dd{height:35px;}
+.login dt{line-height:30px;font-size:14px;}
+.login dl{margin-bottom:15px;}
+.login dl input{background:#fff;border:#63A3C5 solid 1px;padding:6px 3px;width:242px;font-size:14px;}
+.login dl .h{color:#bbb;}
+.tijiao input{background:url(/FrontEnd/images20090801/Wap/ok.gif) no-repeat 0 0;height:38px;width:100px;border:0;font-size:14px;padding-bottom:3px;color:#fff;}
+.tijiao{padding-top:15px;float:left;padding-right:50px;}
+.zhuce input{background:url(/FrontEnd/images20090801/Wap/ok2.gif) no-repeat 0 0;height:38px;width:100px;border:0;font-size:14px;padding-bottom:3px;color:#fff;}
+.zhuce{padding-top:15px;float:left;}
+.wrong{width:170px;margin:50px auto 50px auto;background:#fbffdf url(/FrontEnd/images20090801/Wap/cuo.gif) no-repeat 20px 30px;border:#ffc55f solid 1px;padding:30px 10px 30px 70px;}
+.wrong p{font-size:14px;line-height:24px;padding-bottom:15px;}
+.fanhui{height:38px;}
+.fanhui a{background:url(/FrontEnd/images20090801/Wap/fanhui.gif) no-repeat 0 0;height:38px;width:100px;border:0;font-size:14px;color:#333;text-align:center;text-decoration:none;float:left;line-height:35px;}
+
+
+.login dl .yzm{width:110px;float:left;}
+.login img {float:left;width:125px;height:28px;margin-left:5px;cursor:pointer;}
+.login dl .h{color:#bbb;}

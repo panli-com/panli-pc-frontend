@@ -1,0 +1,21 @@
+﻿body{ margin:0 auto;}
+p, h1, h2, h3, h4, h5, ul,li, dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px;}
+ul,li{list-style-type:none;}
+
+
+.frame{ background-color:#f9f9f9; max-width:720px; margin:auto;}
+.apple_iwatch1{ width:100%; background:url(iwatch_app_01.jpg) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.apple_iwatch2{ width:100%; background:url(iwatch_app_02.jpg) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.apple_iwatch3{ width:100%; background:url(iwatch_app_03.jpg) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.apple_iwatch4{ width:100%; background:url(iwatch_app_04.jpg) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.apple_iwatch5{ width:100%; background:url(iwatch_app_05.jpg) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.apple_iwatch6{ width:100%; background:url(iwatch_app_06.gif) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.apple_iwatch7{ width:100%; background:url(iwatch_app_07.gif) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.apple_iwatch8{ width:100%; background:url(iwatch_app_08.gif) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.apple_iwatch9{ width:100%; background:url(iwatch_app_09.gif) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.apple_iwatch10{ width:100%; background:url(iwatch_app_10.gif) center no-repeat; background-size:18rem 11.25rem; height:11.25rem; }
+.apple_iwatch11{ width:100%; background:url(iwatch_app_11.gif) center no-repeat; background-size:18rem 11.25rem; height:11.25rem; }
+.share_icon{ text-align:right;  padding-right:2rem; }
+.share_icon span{ display:inline-block; height:1.8rem; margin:0.4rem 0.25rem; width:1.8rem; background:url(share_icon.png) no-repeat;background-size:6.25rem 1.8rem;}
+.share_icon span.sina{ background-position:-2.25rem 0;}
+.share_icon span.facebook{ background-position: -4.5rem 0;}

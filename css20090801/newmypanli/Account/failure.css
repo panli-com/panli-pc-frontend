@@ -1,0 +1,40 @@
+.fill{float:right;width:720px;margin:20px 20px 0 0;display:inline;}
+.wenti{background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/sb_bj.gif) no-repeat;width:710px;height:31px;}
+.sb_top{border-bottom:#ddd solid 1px;height:140px;}
+.sb_top h2{height:45px;}
+.sb_top p{color:#999;line-height:20px;padding:10px 10px 0 5px;}
+.wenti ul{margin-left:10px;}
+.wenti li{float:left;width:330px;line-height:31px;font-size:14px;padding-left:20px;background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/b_tubiao.gif) no-repeat left;}
+.wenti li a{color:#5EAEE1;}
+.wenti li a:hover{color:#F90;text-decoration:none;}
+
+.biao li{float:left;width:145px;height:35px;}
+.l{width:170px;text-align:right;vertical-align:top;padding:5px 5px 0 0;}
+.l b{color:#F00;}
+.biao{margin-top:20px;}
+.biao table{border-collapse:collapse;}
+.biao table td{padding-bottom:10px;}
+.t{border:#83A0BE solid 1px;padding:4px 3px;float:left;margin:0;font-size:12px;}
+.riqi input{border:none;width:170px;float:left;margin:0;padding:4px 3px;border:0;}
+.riqi{border:#83A0BE solid 1px;width:198px;background:#FFF;height:24px;overflow:hidden;float:left;}
+.riqi button{background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/RmbAccount/guojia.gif) no-repeat right;border:none;width:17px;height:16px;cursor:pointer;float:left;margin:3px 1px 0 1px;display:inline;}
+.biao p{color:#bbb;margin:6px 0 0 10px;display:inline;float:left;}
+.biao .red,.red{color:#FF0000;}
+
+.tijiao{border-top:#ddd solid 1px;padding-top:20px;padding-left:175px;height:60px;}
+.tijiao input{background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/anniu.gif) no-repeat;height:50px;width:193px;border:none;font-size:14px;color:#FFF;line-height:28px;padding-bottom:15px;cursor:pointer;float:left;}
+.tijiao .by{background-position:0 -52px;color:#FFF;}
+.tijiao a{font-size:14px;float:left;color:#5fafe1;margin:10px 0 0 20px;display:inline;}
+.tijiao a:hover{color:#F00;text-decoration:none;}
+.b_2{border-top:#ddd solid 1px;margin:0;padding:25px 0 15px 0;display:none;}
+.b_2 span{float:left;margin:5px 0 0 5px;font-size:14px;display:inline;color:#FF9900;font-weight:100;font-family:"simsun";}
+
+.hui{height:55px;}
+.hui label{float:left;height:25px;margin-right:10px;line-height:25px;width:50px;}
+.biao .hui em{padding-left:60px;}
+.gray{background:#f9f9f9;border:#ddd solid 1px;}
+.biao i{float:left;font-style:normal;width:60px;margin:6px 0 0 5px;display:inline;}
+.gao{height:30px;width:500px;}
+.biao em{font-style:normal;color:#bbb;}
+.gnfk input{clear:both;}
+input.red{border:#FF0000 solid 1px;background:#FFF0F0;}

@@ -1,0 +1,44 @@
+body{ margin:0 auto;font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto; margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span12{ height:12px; line-height:12px; display:block; clear:both;}
+
+#frame{ background:url(cssImg/back.gif) repeat-x; margin:0 auto; height:322px;}
+.banner_top{ width:960px; margin:auto;}
+.banner01{ background:url(cssImg/banner1.jpg) no-repeat; width:960px; height:70px;}
+.banner02{ background:url(cssImg/banner2.jpg) no-repeat; width:960px; height:70px;}
+.banner03{ background:url(cssImg/banner3.jpg) no-repeat; width:960px; height:70px;}
+.banner04{ background:url(cssImg/banner4.jpg) no-repeat; width:960px; height:70px;}
+.banner05{ background:url(cssImg/banner5.jpg) no-repeat; width:960px; height:42px;}
+
+#back{ background-color:#fef1e4; margin:0 auto;} 
+.content{ width:960px; margin:0 auto;}
+.top{ background:url(cssImg/xian_top.gif) no-repeat; width:960px; height:4px;}
+.center{ background:url(cssImg/xian_center.gif) repeat-y; width:948px; padding:0 6px; overflow:hidden;}
+*html .center{ background:url(cssImg/xian_center.gif) repeat-y; width:948px; padding:0 6px; visibility:hidden;}
+
+.zhuce{ background:url(cssImg/text.gif) no-repeat; width:960px; height:115px; display:block;position:relative;}
+.button{left:690px;top:12px;position:absolute;}
+.pro_img li{ float:left;position:relative; display:block;}
+.lengqu{ background:url(cssImg/pro_qz.jpg) no-repeat; width:296px; height:291px; display:block; padding-right:35px;}
+.chongzhi{ background:url(cssImg/pro_qq.gif) no-repeat; width:296px; height:291px; display:block;padding-right:35px;}
+.more{ background:url(cssImg/pro_88.jpg) no-repeat; width:296px; height:291px; display:block;}
+.button1{left:52px;top:218px;position:absolute;}
+.button1 a{width:194px; height:52px; display:block; background:url(cssImg/lingqu.gif) no-repeat top;}
+.button1 a:hover{ background-position:bottom;}
+.button2{left:52px;top:218px;position:absolute;}
+.button2 a{width:194px; height:52px; display:block; background:url(cssImg/chongzhi.gif) no-repeat top;}
+.button2 a:hover{ background-position:bottom;}
+.button3{left:52px;top:218px;position:absolute;}
+.button3 a{width:194px; height:52px; display:block; background:url(cssImg/more.gif) no-repeat top;}
+.button3 a:hover{ background-position:bottom;}
+
+.shuoming{ padding:20px 0 0 15px}
+.text{ padding:15px 15px; font-size:14px; line-height:24px; color:#555;font-family:"Microsoft YaHei",微软雅黑;}
+.xiaoxi{ padding:12px 15px; float:left; display:block;}
+.icon span{ padding:5px 10px 5px 0; float:left; display:block;}
+.banquan{ text-align:center; font-size:12px; color:#555; padding:20px 0;}

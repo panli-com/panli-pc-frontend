@@ -1,0 +1,62 @@
+.fill{float:right;width:715px;margin-right:22px;display:inline;padding:25px 0 20px 0;}
+.address{background:#e3e3e3;margin-bottom:20px;position:relative;float:left}
+.address .box{border:#ddd solid 1px;background:#FFF;position:relative;top:-4px;left:-4px;float:left}
+.address table{width:695px;border-collapse:collapse;margin-left:10px;font-family:Tahoma,Helvetica,Arial,'simsun',sans-serif;line-height:18px;float:left;*display:inline;}
+.address td{padding:5px 2px;margin:0;border:none;border-bottom:#e3e3e3 dashed 1px;}
+.address table .z{width:65px;color:#666;text-align:right;}
+.address table .c{width:250px;}
+.chaozuo{background:#f3f3f3;border-top:#e3e3e3 solid 1px;margin:-1px 0 0 0;position:relative;z-index:1;height:26px;line-height:26px;padding:0 10px;float:left;width:695px;}
+.chaozuo ul li{float:left;padding-left:10px;}
+.chaozuo ul{float:right;}
+.chaozuo ul li a{color:#aaa;}
+.chaozuo ul li a:hover{text-decoration:none;color:#F00;}
+.address table a{color:#71A8CF;}
+.address table a:hover{text-decoration:none;color:#F00;}
+.address table span{margin-left:10px;}
+.address p{color:#bbb;margin:2px 0 0 3px;float:left;display:inline;}
+.address .red{color:#FF0000;}
+.address input.red{border:#FF0000 solid 1px;background:#FFF3F0;}
+.chaozuo ul li .z_x{padding-left:18px;background:url(/FrontEnd/images20090801/newmypanli/x_z.gif) no-repeat left;}
+.address table{line-height:22px;}
+.address table td input{border:#7F9DB9 solid 1px;font-size:12px;padding:2px;float:left;}
+.address table th{text-align:left;font-weight:100;padding:5px 0;font-size:13px;color:#7F9DB9;}
+.address table select{font-size:12px;height:20px;float:left;}
+
+.s1 .box{border:#70BE58 solid 1px;}
+.s1 .chaozuo{background:#EBFADE;}
+
+.s2{background:#ccc}
+.s2 .box{border:#e1eaf2 solid 1px;background:#f0f8ff;}
+.s2 .chaozuo{background:#D1E9F1;}
+.s2 ul li a{color:#3399CC;}
+.cj{clear:both;margin-left:285px;float:left;display:none}
+.cj a{background:url(/FrontEnd/images20090801/newmypanli/anniu_2.gif) no-repeat 0 0;display:block;width:139px;height:50px;line-height:35px;font-size:14px;color:#eee;text-align:center;text-decoration:none;}
+.cj a:hover{background-position:0 -52px;color:#FFF;}
+.queren{height:30px;}
+.queren li{float:left;margin-right:10px;display:inline;}
+
+.nought{text-align:center;border-bottom:#CCC dashed 1px;padding:50px 0 20px 0;clear:both;margin-bottom:20px;}
+
+
+.lanmu h1{font-size:16px;background:url(/FrontEnd/images20090801/icon/common/qi32.gif) no-repeat left;padding-left:35px;}
+.lanmu{border-bottom:#ddd solid 1px;margin-bottom:20px;height:30px;line-height:30px;}
+.y1 input{width:70px;}
+.y2 input{width:130px;}
+.y3 input{width:240px;}
+.y2 label{width:60px;}
+.y3 label{width:85px;}
+.box li{float:left;}
+.box label{float:left;text-align:right;line-height:22px;}
+.box input{float:left;}
+.box table{color:#999}
+.s1 .box table{color:#666}
+.box em{float:left;font-style:normal;overflow:hidden;}
+.quyu em{width:274px;}
+.cs em{width:240px;}
+.y1 em{width:76px;}
+.y2 em{width:136px;}
+.y3 em{width:240px;}
+.dz{width:597px;}
+.quyu input{width:268px; background:#fff url(/FrontEnd/images20090801/icon/common/rr.gif) no-repeat 250px center;cursor:pointer;}
+.cs label{width:83px;}
+.cs input{width:240px;}

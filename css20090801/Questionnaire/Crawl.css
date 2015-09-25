@@ -1,0 +1,22 @@
+﻿.placard{margin:auto;width:950px;background:url(http://sf.panli.com/FrontEnd/images20090801/Crawl/yj.gif) repeat-y right 0;margin-bottom:10px}
+.yj_top{background:url(http://sf.panli.com/FrontEnd/images20090801/Crawl/yj.gif) no-repeat left top;padding-top:20px;}
+.ren h1{font-size:14px;border-bottom:#eee solid 1px;height:30px;margin:0 90px 0 90px;padding-top:40px;}
+.yj_bottom{background:url(http://sf.panli.com/FrontEnd/images20090801/Crawl/yj.gif) no-repeat -952px bottom;_height:30px;min-height:30px;}
+.yuanyin{margin:0 90px;background:#f9f9f9;padding:20px 0 0 10px;}
+.xx{height:30px;}
+.xx li{float:left;width:200px;}
+.xx li input{vertical-align:middle; margin-top:-2px; margin-bottom:1px;}
+.yuanyin textarea{width:740px;height:120px;border:#bbb solid 1px;font-size:14px;padding:5px;margin:0 0 10px 0;}
+.yuanyin .hui{color:#ccc;}
+.yzm{height:50px;display:inline-table;}
+.yzm input{border:#bbb solid 1px;font-size:14px;padding:5px;margin:0;float:left;width:100px;margin-right:10px;}
+.yzm img{height:28px;width:131px;float:left;cursor:pointer;}
+.tijiao{padding-top:15px;border-top:#eee solid 1px;margin:0 90px 0 90px;padding-left:10px;height:50px;}
+.tijiao input{background:url(/FrontEnd/images20090801/button/109an.gif) no-repeat 0 0;width:109px;border:0;height:30px;font-size:14px;color:#eee;cursor:pointer;position:inherit;left:0;}
+.tijiao .by{background-position:0 -40px;color:#fff;}
+.chenggong{padding-left:330px;background:url(http://sf.panli.com/FrontEnd/images20090801/biaoqing/b1.gif) no-repeat 210px 90px;height:250px;padding-top:100px;}
+.chenggong h1{font-size:14px;line-height:30px;height:30px;}
+.chenggong p{font-size:14px;height:30px;}
+.chenggong p span{color:#f00;}
+.chenggong a{color:#71A8CF;}
+.chenggong a:hover{color:#FF0000;text-decoration:none;}

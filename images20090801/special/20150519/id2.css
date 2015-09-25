@@ -1,0 +1,17 @@
+﻿body{ margin:0 auto;}
+p, h1, h2, h3, h4, h5, ul,li, dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px;}
+ul,li{list-style-type:none;}
+
+
+.frame{ background-color:#049eca;}
+.yaoqing_banner1{ width:100%; background:url(images/yaoqing_banner_01.gif) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.yaoqing_banner2{ width:100%; background:url(images/yaoqing_banner_02.jpg) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.yaoqing_banner3{ width:100%; background:url(images/yaoqing_banner_03.gif) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.yaoqing_banner4{ width:100%; background:url(images/yaoqing_banner_04.gif) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.yaoqing_banner5{ width:100%; background:url(images/yaoqing_banner_05.jpg) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.yaoqing_banner6{ width:100%; background:url(images/yaoqing_banner_06.jpg) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.yaoqing_banner7{ width:100%; background:url(images/yaoqing_banner_07.gif) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.yaoqing_banner8{ width:100%; background:url(images/yaoqing_banner_08.gif) center no-repeat; background-size:18rem 5rem; height:5rem; }
+.yaoqing_banner9{ width:100%; background:url(images/yaoqing_banner_09.gif) center no-repeat; background-size:18rem 5.75rem; height:5.75rem; }
+.yaoqing_banner10{ width:100%; background:url(images/yaoqing_banner_10.gif) center no-repeat; background-size:18rem 8rem; height:8rem; }
+.yaoqing_banner11{ width:100%; background:url(images/yaoqing_banner_11.gif) center no-repeat; background-size:18rem 8rem; height:8rem; }

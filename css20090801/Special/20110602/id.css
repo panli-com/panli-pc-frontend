@@ -1,0 +1,28 @@
+ h1, h2, h3, h4, h5, li, ul, dl, dt, dd, b,img,div{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal; }
+.bannertop{ width:950px;height:50px;padding:0px;margin:auto;text-align:center;}
+.bannertop3{ width:950px;height:80px;padding:0px;margin:auto;text-align:center; }
+
+.maincontent{ width:950px; height:550px; padding:0px;margin:auto;text-align:center; font-family:Verdana, Arial, Helvetica, sans-serif}
+.contentleft{ width:50px; height:550px; background:#fff4e1 url(/FrontEnd/images20090801/Special/20110602/bgleft.gif) repeat-y; float:left;}
+.contentright{ width:328px; height:550px; background:#fff4e1 url(/FrontEnd/images20090801/Special/20110602/bgright.jpg) no-repeat;float:right;}
+
+.content{ width:572px; height:550px; float:left; background:#ffffff; margin:0px; padding:0px; font-size:14px; color:#636363;}
+.content ul{ margin:0px; padding:0px;}
+.content a{ color: #58bae7; text-decoration:underline;}
+.content a:hover{ color:#FF6600; text-decoration:underline;}
+.tit,.stit{ width:572px;line-height:25px;margin:6px auto;   text-align:left;font-weight:bold;}
+.stit{ text-indent:30px;}
+.fengexian{ width:572px; line-height:1px; height:1px; background-color:#CCCCCC; margin:20px auto; *margin:10px auto;}
+.textwz{width:572px;line-height:25px;margin:6px auto;text-align:left;}
+.buzhou{ width:563px; height:42px;text-align:left;margin:15px auto;}
+
+.sp_bottom{ width:950px;height:300px; background:url(/FrontEnd/images20090801/Special/20110602/bgbottom.gif) no-repeat;padding:0px;margin:auto;text-align:center; position:relative;margin-bottom:5px;}
+.startbtn{position: absolute; width:457px; height:62px;  left:246px; top:80px;}
+.startbtn a{ background:url(/FrontEnd/images20090801/Special/20110602/btn.gif) no-repeat top; width:457px; height:62px; display:block; }
+.startbtn a:hover{ background-position:bottom;}
+
+
+
+
+
+

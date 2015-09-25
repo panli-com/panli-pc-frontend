@@ -1,0 +1,58 @@
+.fill{width:720px;float:right;margin:20px 22px 0 0;display:inline;padding-bottom:20px; height:500px;}
+
+.geren{height:220px;}
+.Avatar{float:left;width:140px;}
+.info{float:right;width:565px;}
+.Avatar p{background:url(/FrontEnd/images20090801/newmypanli/tx.gif) no-repeat 0;height:133px;width:133px;padding:7px 0 0 7px;margin-bottom:10px;}
+.Avatar span{width:137px;text-align:center;float:left;color:#999;}
+.Avatar a{background:url(/FrontEnd/images20090801/button/hui_4.gif) no-repeat 0 0;height:28px;width:81px;float:left;text-align:center;line-height:28px;text-decoration:none;text-decoration:none;font-size:14px;margin-left:28px;display:inline;color:#666;margin-bottom:10px;}
+.Avatar a:hover{background-position:0 -29px;color:#333;}
+
+.ziliao{background:url(/FrontEnd/images20090801/icon/common/ren.gif) no-repeat 0 0;border-bottom:#ccc solid 1px;height:30px;margin-bottom:20px;padding-left:30px;}
+.ziliao h1{font-size:20px;font-family:"simhei";font-weight:normal;line-height:30px;}
+.info table{border-collapse:collapse;width:100%;margin-bottom:15px;}
+.info table td{border-bottom:#ddd dotted 1px;padding:11px 0;line-height:18px;}
+.info table th{border-bottom:#ddd solid 1px;padding:11px 0;}
+.info table th.r{color:#46A341;}
+.info .z{width:60px;text-align:right;font-weight:100;}
+.info .r{text-align:left;padding-left:10px;}
+.xiugai{padding-left:70px;height:50px;}
+.xiugai input{background:url(/FrontEnd/images20090801/button/139an.gif) no-repeat 0 -140px;border:0;height:45px;padding-bottom:12px;width:139px;text-align:center;color:#eee;cursor:pointer;float:left;}
+.xiugai .xg_on{background-position:0 -46px;color:#FFF;}
+.xiugai a{float:left;margin:10px 0 0 20px;color:#71B7D5;font-size:14px;}
+.xiugai a:hover{text-decoration:none;color:#FF0000;}
+.info select{width:180px;margin:0;}
+.text,.text2,.text3{border:#7AABC0 solid 1px;font-size:14px;width:170px;padding:3px;float:left;}
+.text2{width:268px;}
+.info label{float:left;font-size:12px;width:60px;}
+
+
+.info .text3{width:268px; background:#fff url(/FrontEnd/images20090801/icon/common/rr.gif) no-repeat 250px center;cursor:pointer;}
+.tcbox{position:relative;float:left;}
+.country{position:absolute;background:#ffffd6;border:#7f9db9 solid 1px;width:515px;top:25px;left:-276px;float:left;padding:10px 0;}
+.zimu{border-bottom:#f60 solid 1px;height:24px;line-height:24px;width:500px;margin-left:10px;}
+.zimu li{float:left;}
+.zimu li a{float:left;background:#ffe1b0;margin-right:5px;display:inline;text-align:center;text-decoration:none;color:#b65616;}
+.zimu li .w35{width:26px;}
+.zimu li .w90{width:90px;}
+.zimu .c_on a{color:#fff;background:#f60;}
+.gj_name{padding:10px 0 0 10px;}
+.gj_name li{width:123px;float:left;line-height:22px;}
+.gj_name li a{text-decoration:none;color:#333;padding:1px;}
+.gj_name li a:hover{background:#FF6600;color:#fff;}
+.cs label{width:80px;}
+.cs input{width:240px;}
+.y1 input{width:65px;}
+.y2 input{width:125px;}
+.y3 input{width:240px;}
+.y2 label{width:50px;}
+.y3 label{width:80px;}
+.dz{width:616px;}
+.box table label{float:left;padding-left:20px;text-align:right;}
+.box table select{float:left;margin-right:10px;display:inline;}
+.box table input.red{border:#FF0000 solid 1px;background:#FFECEC;color:#f00;}
+.beizhu{border-top:#c6d9ed solid 1px;width:686px;margin-left:18px;padding-top:10px;height:80px;}
+.beizhu label{float:left;text-align:right;font-size:12px;width:62px;margin-top:5px;margin-right:-10px;}
+.beizhu textarea{border:#a8c0d6 solid 1px;height:60px;width:616px;padding:4px 3px;font-size:12px;margin:0;float:right;}
+.beizhu .mr{color:#bbb;}
+

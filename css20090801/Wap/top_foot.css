@@ -1,0 +1,17 @@
+body{background:url(/FrontEnd/images20090801/Wap/line_bj.gif) 0 0;font-size:12px;margin:0;padding:0;font-family:Verdana, Arial, Helvetica, sans-serif;}p,h1,h2,h3,h4,h5,li,ul,dd,dt,dl,form{margin:0;padding:0;}img{border:none;}ul li{list-style:none;}a{color:#333;}a:hover{color:#FF0000;}textarea{resize: none;}table,td,th{border-collapse:collapse;margin:0;padding:0;}
+.top{background:url(/FrontEnd/images20090801/Wap/top_bj.jpg) repeat-x 0 0;height:61px;}
+
+.logo{float:left;margin:10px -1000px 0 10px;display:inline;}
+.top_r{float:right;margin:0 10px 0 0;display:inline;}
+.top_r p{margin-top:35px;}
+
+.center{background:#fff;border-bottom:#ddd solid 1px;padding:10px 0;}
+.geren{background:#fff;border-bottom:#ddd solid 1px;padding-bottom:10px;}
+.weizhi{background:url(/FrontEnd/images20090801/Wap/weizhi.jpg) repeat-x 0 0;height:29px;}
+.weizhi h1{float:left;font-weight:100;font-size:14px;line-height:28px;padding-left:10px;}
+.weizhi h1 a{color:#3d81b0;text-decoration:none;}
+.weizhi h1 span{color:#999;padding:0 3px;}
+.weizhi p{float:right;line-height:28px;padding-right:10px;}
+.weizhi p a{color:#3d81b0;text-decoration:none;}
+.weizhi p span{padding:0 3px 0 0;}
+.foot{padding:15px 0;text-align:center;line-height:20px;color:#bbb;}

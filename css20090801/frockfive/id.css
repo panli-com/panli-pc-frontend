@@ -1,0 +1,12 @@
+body{ margin:0 auto;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+img{vertical-align:top;}
+
+.frame li{ width:950px;position:relative;}
+.link{width:472px;height:80px;left:240px;top:0px;position:absolute;}
+.link a{width:472px; height:80px; display:block; background:url(http://sf.panli.com/FrontEnd/images20090801/frockfive/back_img_03.jpg) no-repeat bottom;}
+.link a:hover{ background-position:top;}
+

@@ -1,0 +1,69 @@
+body,p,h1,h2,h3,h4,h5,ul,ol,li,dl,dt,dd,form,div,img,table,tr,td,form，input{margin: 0; padding: 0;}
+img,table,tr,td,input{border: 0; font-family:"Microsoft YaHei";}
+ul,ol, li{list-style: none;}
+em,i{font-style:normal;}
+body{height:100%;color:#fff;font-size:12px;margin:0;padding:0;font-family:"Microsoft YaHei";}
+.hide{display: none;}
+a{text-decoration:none;}
+
+.top{width:960px;margin:auto;height:85px;margin-top:5px}
+.logo{float:left;margin-top:7px;}
+.hy{float:left;border-left:#ddd solid 2px;margin:12px 0 0 15px;padding:11px 0 2px 15px;height:44px;display:inline;}
+.T_right{float:right;margin:10px 10px 0 0;display:inline}	
+.T_right a{color:#bbb;text-decoration:none;}
+.T_right a:hover{color:#F90;text-decoration:underline}
+.T_right span{color:#bbb;margin:0 5px;}
+
+.content{overflow: hidden; margin: 50px auto; width: 950px;}
+.left{float: left; width: 500px;}
+.left .ban01{background: url(/FrontEnd/images20090801/login/newLogin/ban01.jpg) no-repeat; height: 500px;}
+.right{float: left; margin-left: 90px; width: 360px;}
+.right .righttop{font-size: 14px; overflow: hidden; height: 44px;}
+.right .flgin, .right .wlgin{float: left; width: 112px; height: 44px; background: #687eb7; border-radius: 4px; line-height: 44px; position: relative; padding-left: 50px; cursor: pointer;}
+.right i{background: url(/FrontEnd/images20090801/login/newLogin/Facebook&Wechat.png) no-repeat; background-position: 0 0; width: 32px; height: 32px; position: absolute; left: 10px; top: 6px;}
+.right .wlgin{float: right; width: 130px; background: #8bc43f;}
+.right i.wicn{background-position: -38px 0;}
+
+.rightcenter .login a.lgmore{text-align: right; padding-right: 11px; font-size: 14px; color: #7aabe3; margin-top: 20px; line-height: 14px; display: block;}
+.login .lg_box{margin-top: 12px; border-top: solid 1px #dddddd; height: 318px;}
+.lg_box .lgtit, .reg_box .regtit{overflow: hidden; margin: 15px 0 18px; height: 20px;}
+.lgtit h2, .regtit h2{float: left; font-size: 20px; color: #000; line-height: 20px; font-weight: normal; padding-left: 10px;}
+.lgtit a, .regtit a{float: right; color: #7aabe3; font-size: 14px; padding-right: 10px;}
+
+.field{position: relative; margin-bottom: 25px; font-size: 14px; width: 360px;}
+.field input{ height: 38px; width: 334px; line-height: 40px; background: #fcfcfc; font-size: 14px; color: #000000; padding:0 12px; border: solid 1px #CCCCCC; border-radius: 4px; font-family:"Microsoft YaHei";}
+input:-ms-input-placeholder{color: #9e999d;}
+input:-moz-placeholder{color: #9e999d;}
+input:-webkit-input-placeholder{color: #9e999d;}
+.field .phcolor{color: #9e999d;}
+.field .pwdtxt{padding-right: 58px; width:288px;}
+.field .pwddisp{background: #f69922; display: block; height: 30px; width: 50px; text-align: center; line-height: 30px; color: #FFFFFF; border-radius: 4px; position: absolute;  right: 5px; top: 5px;  }
+.field input.safetxt{width: 164px; float: left; margin-right: 10px;}
+.field img{width: 160px; height: 40px; }
+.locktip{padding-top: 14px; background: url(/FrontEnd/images20090801/login/newLogin/icnprite.png) no-repeat; background-position: 0 0; width: 360px; height: 23px; overflow: hidden;}
+.locktip p{color: #ff6d6e; padding-left: 10px;}
+.locktip p a{color: #81ace3; text-decoration: underline;}
+
+.login dl, .register p{color: #000; overflow: hidden; height: 18px; margin-bottom: 30px; font-size: 16px;}
+.login dl dt{float: left; padding-left: 10px;}
+.login dl dt p, .register p{overflow: hidden; height: 18px; line-height: 18px;}
+.remember, .check{float: left; background: url(/FrontEnd/images20090801/login/newLogin/icnprite.png) no-repeat; background-position: -60px -40px; width: 18px; height: 18px; margin-right: 6px;}
+.remembered, .checked{background-position: -40px -40px;}
+.login dl dd{float: right; padding-right: 18px; height: 18px; line-height: 18px;}
+.login dl dd a.forget_pwd{color: #81ACE3; text-decoration: underline;}
+
+.register .reg_box{margin-top: 25px; border-top: solid 1px #dddddd; height: 348px;}
+.register p{margin-bottom: 20px; line-height: 18px;}
+.register p em{color: #79ace1; font-size: 12px;}
+.register p a{color: #79ACE1; text-decoration: underline; font-size: 16px;}
+
+.field .error{border-color: #ff999a;}
+.field .tips{position: absolute; left: 10px; top: 45px; color: #617073; font-size: 12px; height: 14px; line-height: 14px; padding-left: 19px;}
+.tips .erroricn, .tips .righticn{position: absolute; left: 0; top: 0; background: url(/FrontEnd/images20090801/login/newLogin/icnprite.png) no-repeat; background-position: 0 -40px; width: 14px; height: 14px;}
+.tips .righticn{background-position: -20px -40px;}
+
+.rightbottom .immedilgre{display: block; height: 44px; width: 100%; background: #f69922; line-height: 44px; text-align: center; color: #FFFFFF; border-radius: 4px; font-size: 18px; text-decoration:none;}
+
+@media screen and (max-height:760px){
+    .content{ margin:10px auto;}
+}

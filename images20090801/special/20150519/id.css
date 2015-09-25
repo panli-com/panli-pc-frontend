@@ -1,0 +1,40 @@
+﻿body{ margin:0 auto; font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span25{ height:25px; line-height:25px; display:block; clear:both;}
+.left{ float:left;}
+.right{ float:right;}
+
+#frame{ width:100%; background-color:#049eca;}
+.banner{ width:100%; height:640px;}
+.banner1{ background:url(cssImg/red_banner_02.gif) no-repeat center; height:80px;}
+.banner2{ background:url(cssImg/red_banner_03.jpg) no-repeat center; height:80px;}
+.banner3{ background:url(cssImg/red_banner_04.jpg) no-repeat center; height:80px;}
+.banner4{ background:url(cssImg/red_banner_05.jpg) no-repeat center; height:80px;}
+.banner5{ background:url(cssImg/red_banner_06.jpg) no-repeat center; height:80px;}
+.banner6{ background:url(cssImg/red_banner_07.gif) no-repeat center; height:80px;}
+.banner7{ background:url(cssImg/red_banner_08.gif) no-repeat center; height:80px;}
+.banner8{ background:url(cssImg/red_banner_09.gif) no-repeat center; height:80px;}
+
+.content_list{ width:960px; margin:0 auto;}
+.red_img1{ background:url(cssImg/red_banner_11.gif) no-repeat; height:120px;}
+.red_img2{ background:url(cssImg/red_banner_13.gif) no-repeat; height:120px;}
+.red_img3{ background:url(cssImg/red_banner_14.gif) no-repeat; height:120px;}
+.red_img4{ background:url(cssImg/red_banner_15.gif) no-repeat; height:140px;}
+.red_img5{ background:url(cssImg/red_banner_17.gif) repeat-y; height:405px;}
+.red_img6{ background:url(cssImg/red_banner_19.gif) no-repeat; height:38px;}
+.red_list{ width:732px; padding-top:6px; margin:0 auto;}
+.red_list li{ border-bottom:dotted 1px #c5c5c5; height:37px; line-height:37px; font-size:16px; color:#555; display:block; vertical-align:bottom;}
+.yaoqingren{ width:180px; float:left;}
+.red_list span{ width:50px; height:15px; text-align:center; padding:10px 0 0 30px; float:left; display:block;}
+.reward{ width:200px; text-align:center; float:left;}
+.number{ width:200px; text-align:center; float:right;}
+
+.canjia_button{width:203px;height:65px; margin:0 auto; position:relative; padding:40px 0;}
+.canjia_button a{width:203px; height:65px; display:block; background:url(cssImg/red_button.gif) no-repeat top;}
+.canjia_button a:hover{ background-position:bottom;}
+.copy{ font-size:16px; text-align:right; color:#005d77; padding:0 20px 40px 0;}

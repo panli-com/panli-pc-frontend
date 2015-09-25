@@ -1,0 +1,65 @@
+.hd_banner_01{ width:950px;height:63px;padding:0px;margin:auto;text-align:center;}
+.hd_banner_02{ width:950px;height:62px;padding:0px;margin:auto;text-align:center;}
+.hd_banner_03{ width:950px;height:13px;padding:0px;margin:auto;text-align:center;}
+.hd_banner_04{ width:950px;height:57px;padding:0px;margin:auto;text-align:center;}
+.hd_banner_05{ width:950px;height:173px;padding:0px;margin:auto;text-align:center;background:#ffffff;}
+.hd_1{width:89px; height:173px; padding:0px; margin:auto;}
+.hd_2{width:171px; height:173px; padding:0px; margin:auto;margin-right:30px;}
+ .hd2_1{width:169px; height:136px; padding:0px; margin:auto;}
+ .hd2_1 a img{width:169px;height:136px; border:1px solid #f06d98;margin:auto;}
+
+
+  
+  
+ .hd2_2{width:171px; height:22px;margin:auto; font-size:12px; text-align:center; color:#666; background:#ffffff;padding-top:10px; margin-top:2px;}
+.hd_3{width:171px; height:173px; padding:0px; margin:auto;margin-right:24px;}
+.hd_4{width:186px; height:173px; padding:0px; margin:auto;}
+  .hd4_1{width:186px; height:106px; padding:0px; margin:auto;}
+  .hd4_2{width:145px; height:47px; padding:0px; margin-left:30px; margin-right:11px; margin-bottom:20px;}
+.hd_5{width:78px; height:173px; padding:0px; margin:auto;}
+
+
+
+
+
+
+
+.hd_banner_06{ width:950px;height:27px;padding:0px;margin:auto;text-align:center;}
+   .hd6_1{ width:632px;height:27px;padding:0px;margin:auto;text-align:center;} 
+   .hd6_2{ width:90px;height:27px;padding:0px;margin:auto;text-align:center;} 
+   .hd6_3{ width:228px;height:27px;padding:0px;margin:auto;text-align:center;}
+    .hd6_4{ width:761px;height:27px;padding:0px;margin:auto;text-align:center;}
+    .hd6_5{ width:106px;height:27px;padding:0px;margin:auto;text-align:center;}
+    .hd6_6{ width:83px;height:27px;padding:0px;margin:auto;text-align:center;}
+   
+.hd_banner_07{ width:950px;height:26px;padding:0px;margin:auto;text-align:center;}
+.hd_banner_08{ width:950px;height:43px;padding:0px;margin:auto;text-align:center;}
+.hd_banner_09{ width:950px;height:30px;padding:0px;margin:auto;text-align:center;}
+.hd_banner_10{ width:950px;height:39px;padding:0px;margin:auto;text-align:center;}
+  .hd10_1{ width:468px;height:39px;padding:0px;margin:auto;text-align:center;} 
+  .hd10_2{ width:482px;height:39px;padding:0px;margin:auto;text-align:center;} 
+
+
+.linkone{
+	display:block;
+	width:145px;
+	height:47px;
+	background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120216/tophuodong_18_1.jpg) no-repeat;
+}
+.linkone:hover{background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120216/tophuodong_18_1.jpg) no-repeat 0 -47px;}
+
+
+.t_fen a:link,.t_fen a:visited{ color: #5e5e5e; text-decoration:none;}
+.t_fen a:hover{ color:#FF4200; text-decoration:underline;}
+
+
+
+
+
+
+.r{float:right;}
+.l{float:left;}
+.c{clear:both;}
+.d{width:950px; height: aout;
+	margin:0px auto;
+	padding:0px;}

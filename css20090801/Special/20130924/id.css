@@ -1,0 +1,41 @@
+body{ margin:0 auto;font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto; margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span12{ height:12px; line-height:12px; display:block; clear:both;}
+
+#frame{ background:url(/FrontEnd/images20090801/Special/20130924/back.gif) repeat-x;margin:0 auto; height:422px;}
+.banner_top{ width:960px; margin:auto;}
+.banner01{ background:url(/FrontEnd/images20090801/Special/20130924/banner01.jpg) no-repeat; width:960px; height:70px;}
+.banner02{ background:url(/FrontEnd/images20090801/Special/20130924/banner02.gif) no-repeat; width:960px; height:70px;}
+.banner03{ background:url(/FrontEnd/images20090801/Special/20130924/banner03.jpg) no-repeat; width:960px; height:70px;}
+.banner04{ background:url(/FrontEnd/images20090801/Special/20130924/banner04.jpg) no-repeat; width:960px; height:70px;}
+.banner05{ background:url(/FrontEnd/images20090801/Special/20130924/banner05.jpg) no-repeat; width:960px; height:82px;}
+.banner06{ background:url(/FrontEnd/images20090801/Special/20130924/banner06.gif) no-repeat; width:960px; height:60px;}
+.button{ padding:21px 0 0 55px;}
+
+#back{ background-color:#fef1e4; margin:0 auto;} 
+.content{ width:960px; margin:0 auto;}
+.top{ background:url(/FrontEnd/images20090801/Special/20130924/xian_top.gif) no-repeat; width:960px; height:4px;}
+.center{ background:url(/FrontEnd/images20090801/Special/20130924/xian_center.gif) repeat-y; width:948px; padding:0 6px; overflow:hidden;}
+*html .center{ background:url(/FrontEnd/images20090801/Special/20130924/xian_center.gif) repeat-y; width:948px; padding:0 6px; visibility:hidden;}
+.bottom{ background:url(/FrontEnd/images20090801/Special/20130924/xian_bottom.gif) no-repeat; width:960px; height:4px;}
+.title{ background:url(/FrontEnd/images20090801/Special/20130924/panli_cft_16.gif) repeat-x left; height:52px; width:948px;text-align:center;}
+.list{ margin-top:15px;}
+.clear{clear:both;}
+.list li{ float:left; margin:0 3px 10px 7px; display:block;}
+.img1{ background:url(/FrontEnd/images20090801/Special/20130924/zgwj.gif) no-repeat; width:304px; height:120px;}
+.img2{ background:url(/FrontEnd/images20090801/Special/20130924/ysbg.gif) no-repeat; width:304px; height:120px;}
+.img3{ background:url(/FrontEnd/images20090801/Special/20130924/wbzf.gif) no-repeat; width:304px; height:120px;}
+.img4{ background:url(/FrontEnd/images20090801/Special/20130924/aqsd.gif) no-repeat; width:304px; height:120px;}
+.img5{ background:url(/FrontEnd/images20090801/Special/20130924/sxsl.gif) no-repeat; width:304px; height:120px;}
+.img6{ background:url(/FrontEnd/images20090801/Special/20130924/panli_text.gif) no-repeat; width:304px; height:120px;}
+
+.shuoming{ padding:20px 0 0 15px}
+.text{ padding:15px 15px; font-size:14px; line-height:24px; color:#555;font-family:"Microsoft YaHei",微软雅黑;}
+.xiaoxi{ padding:12px 15px; float:left; display:block;}
+.icon span{ padding:5px 10px 5px 0; float:left; display:block;}
+.banquan{ text-align:center; font-size:12px; color:#555; padding:20px 0;}

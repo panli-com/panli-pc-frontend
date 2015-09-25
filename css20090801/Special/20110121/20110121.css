@@ -1,0 +1,37 @@
+﻿.kapian_dialog{background:#ffa500 url(http://sf.panli.com/FrontEnd/images20090801/AddItemPanel/yj_.gif) no-repeat bottom;width:555px;height:454px;position:fixed;z-index:900;_position:absolute;left:50%; margin-left:-277px;top:50%;margin-top:-227px;_margin-top:0;}
+.kapian_windowname{background:url(http://sf.panli.com/FrontEnd/images20090801/AddItemPanel/yj.gif) no-repeat left top;margin-top:-2px;position:relative;height:32px;overflow:hidden}
+.kapian_windowname h2{color:#FFF;font-size:14px;font-weight:100;float:left;line-height:32px;margin-left:10px;display:inline}
+.kapian_windowname a{cursor:pointer; float:right;background:url(http://sf.panli.com/FrontEnd/images20090801/AddItemPanel/close.gif) no-repeat 0 -14px;height:14px;width:21px;display:inline;margin:10px 10px 0 0;}
+.kapian_windowname a:hover{cursor:pointer; background-position:0 0;}
+.kapian_inlay{height:411px;background:#FFF url(http://sf.panli.com/FrontEnd/images20090801/AddItemPanel/yj.gif) no-repeat right top;margin:0 10px;float:left;width:535px;display:inline;overflow:hidden}
+.kapian_nr{padding:80px 0 0 40px;height:270px;}
+.kapian_tu{width:120px;float:left;background:url(http://sf.panli.com/FrontEnd/images20090801/special/20110121/kapian.gif) no-repeat left 0;height:112px;}
+.kapian_tu img{margin:4px 0 0 4px;float:left;display:inline;}
+.kapian_info{width:365px;float:right;}
+.kapian_info h1{font-weight:normal;font-size:20px;font-family:"simhei";color:#56b243;line-height:35px;height:40px;}
+.kapian_info li{line-height:24px;font-size:14px;}
+.kapian_info li a{color:#659dc7;}
+.kapian_info li a:hover{text-decoration:none;color:#FF0000;}
+.kapian_info li span{color:#FF0000;padding:0 3px;}
+.kapian_info ul{padding-bottom:10px;}
+.kapian_info dl{height:50px;}
+.kapian_info dt input{background:url(http://sf.panli.com/FrontEnd/images20090801/button/109an.gif) no-repeat 0 0;height:39px;font-size:14px;color:#eee;padding-bottom:10px;width:109px;border:0;cursor:pointer;}
+.kapian_info dt .kapian_by{background-position:0 -40px;color:#FFF;}
+.kapian_info dt{float:left;}
+.kapian_info dd{float:left;margin:10px 0 0 30px;display:inline;}
+.kapian_info dd input{vertical-align:middle; margin-top:-2px; margin-bottom:1px;}
+.kapian_info dd label{color:#999;}
+.kapian_js{font-family:Arial;border-top:#ddd solid 1px;padding-top:5px;width:480px;margin-left:25px;}
+.kapian_js h2{font-size:12px;font-weight:100;line-height:28px;}
+.kapian_js p{color:#999;}
+.kapian_ky h2{font-size:12px;line-height:25px;}
+.kapian_ky p a{color:#659dc7;}
+.kapian_ky p a:hover{text-decoration:none;color:#FF0000;}
+.kapian_ky p span{padding:0 10px;color:#bbb;}
+
+.Panli_overlay,.kapian_overlay{
+	moz-opacity:0.56; /* Moz + FF 透明度20% */
+	opacity: 0.56;  /*支持CSS3的浏览器（FF 1.5也支持）透明度20%*/
+	filter:alpha(opacity=56); /* IE 透明度20% */
+	position:fixed;bottom:0;top:0;left:0;right:0;background:#000;height:100%;width:100%;_position:absolute; z-index:800;display:none;
+}

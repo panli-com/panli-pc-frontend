@@ -1,0 +1,20 @@
+body{ margin:0 auto;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+
+.frame li{ width:950px;position:relative;}
+.link{width:220px;height:40px;left:152px;top:15px;position:absolute;}
+.link a{width:220px; height:40px; display:block; background:url(/FrontEnd/images20090801/Special/20121122/sale/button_03.gif) no-repeat top;}
+.link a:hover{ background-position:bottom;}
+
+.link01{width:220px;height:40px;left:578px;top:14px;position:absolute;}
+.link01 a{width:220px; height:40px; display:block; background:url(/FrontEnd/images20090801/Special/20121122/sale/button_07.gif) no-repeat top;}
+.link01 a:hover{ background-position:bottom;}
+
+.link02{width:240px;height:40px;left:158px;top:40px;position:absolute;}
+.link02 a{width:240px; height:40px; display:block; background:url(/FrontEnd/images20090801/Special/20121122/sale/button_11.gif) no-repeat top;}
+.link02 a:hover{ background-position:bottom;}

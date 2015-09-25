@@ -1,0 +1,110 @@
+.fill{float:right;width:720px;margin-right:22px;display:inline;}
+.circuit{background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/fillShoppingForm/circuit.gif) no-repeat bottom;height:100px;width:720px;margin-top:10px;}
+.circuit img{margin:9px 0 0 53px;}
+
+/*.write{margin:55px 0 0 15px;height:35px;}*/
+.write{margin:20px 0 0 15px;height:35px;}
+.write label{float:left;margin:7px 5px 0 0;font-size:14px;width:150px;text-align:right;}
+.address input,.address_ input{border:none;height:18px;width:340px;float:left;padding:7px 0 5px 0;background:none;margin-left:5px;}
+.address,.address_{
+background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/fillShoppingForm/address.gif) no-repeat;
+float:left;
+height:30px;
+width:350px;
+}
+.address_{background-position:0 -32px;}
+.address_ input{color:#ABABAB}
+.tijiao,.tijiao_{background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/fillShoppingForm/tj.gif) no-repeat top;height:30px;width:86px;border:none;margin-left:5px;float:left;display:inline;cursor:pointer;}
+.tijiao_{background-position:0 -32px;}
+.dhk{background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/fillShoppingForm/dhk.gif) no-repeat;width:350px;height:64px;color:#EFAA40;margin:0 0 0 170px;}
+.dhk p{margin:30px 0 0 10px;float:left;display:inline}
+.dhk p span{background:#EFAA40;padding:1px 2px;color:#FFFFFF;margin:0 1px;}
+.wrong{height:64px;}
+.wrong p{color:#FF0000;margin:10px 0 0 170px;float:left;border:#FCEBDC solid 1px;width:315px;line-height:30px;height:30px;padding-left:35px;background:#FEFDED url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/fillShoppingForm/wrong.gif) no-repeat 10px 5px;display:inline}
+.loading{height:59px;color:#8DDB68;margin-left:280px;padding-top:5px;}
+.loading img{display:block;}
+.loading p{margin-top:5px}
+/*.tishi{color:#60A1D7;margin:30px 0px 0 0px;border-top:#ddd dashed 1px;padding:25px 0 0 170px;}*/
+.tishi{color:#60A1D7;margin:30px 0px 60px 0px;border-top:#ddd dashed 1px;padding:25px 0 0 170px;}
+.tishi h2{font-size:14px;font-weight:100;color:#333;height:25px;padding-left:15px;background:url(http://sf.panli.com/FrontEnd/images20090801/AddItemPanel/deng.gif) no-repeat left;line-height:25px;}
+.tishi ul{margin:5px 0 0 5px;}
+.tishi li{line-height:24px;height:25px;padding-left:10px;background:url(http://sf.panli.com/FrontEnd/images20090801/AddItemPanel/d.gif) no-repeat left;}
+.tishi li span{color:#F90;margin:0 2px;}
+
+.wangzhi{border-bottom:#CCC dashed 1px;height:74px;margin:35px 14px 0 14px;}
+.wangzhi dl{height:39px;margin:0}
+.wangzhi dt{float:left;padding:0;line-height:30px;height:30px;margin-left:1px;font-size:14px;width:125px;text-align:right;}
+.wangzhi dd{float:left;margin:0;padding:0 0 0 2px;width:500px;}
+.wangzhi dd input{width:490px;}
+.wangzhi p{color:#60a1d7;margin-left:130px;line-height:16px}
+.wangzhi .alert{margin-left:130px;color:#F00;padding-left:20px;background:url(http://sf.panli.com/FrontEnd/images20090801/AddItemPanel/alert.jpg) no-repeat left 0;}
+.paimai{margin:45px -450px -50px 380px;float:left;display:inline;line-height:14px;}
+.paimai input{float:left;margin-right:3px;display:inline}
+.paimai b{float:left;font-weight:100;margin-top:4px;line-height:12px;}
+.fare{width:208px;height:180px;border:#CB8136 solid 1px;position:relative;background:#FFFFCC;left:110px;margin:-42px -200px -200px -10px;float:left;display:inline;overflow:hidden;}
+.fare div{height:20px;margin-top:7px;}
+.fare h2{font-size:12px;margin:0 0 0 7px;height:20px;color:#666;float:left;display:inline;}
+.fare p{color:#CB8136;line-height:20px;margin:0 5px 5px 7px;text-indent:24px;}
+.data table .fare a{float:right;background:url(http://sf.panli.com/FrontEnd/images20090801/AddItemPanel/cha.gif) no-repeat bottom;height:13px;width:15px;margin:0 7px 0 0}
+
+.data{margin:15px 0 0 0;font-family:Verdana, Arial, Helvetica, sans-serif;border:none;height:300px;}
+.data table{border-collapse:collapse;border:0;padding:0;margin:0;}
+.data table td{padding-bottom:13px;vertical-align:top;}
+.text,.text_k{background:#fff;border:#BADBEA solid 1px;padding:5px 5px 5px 5px;color:#333;float:left;margin:0;width:180px;}
+.text_k{width:490px;}
+.zuo{text-align:right;width:140px;vertical-align:top;font-size:14px;padding:5px 0 5px 0;}
+.data .k{width:490px;}
+.data span{color:#f90;margin:5px 0 0 5px;float:left;display:inline}
+.data textarea{border:#BADBEA solid 1px;width:490px;padding:5px;font-size:14px;height:70px;font-size:12px;}
+
+.data .still{color:#CCC;background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/fillShoppingForm/lizi.gif) no-repeat 60px 20px;}
+.hui,.data .hui{background:#F3F3F3;border:#CACACA solid 1px;padding:5px 5px 5px 5px;color:#ABABAB}
+.red,.data .red,.wen{background:#fff;border:#FF9900 solid 1px;padding:5px 5px 5px 5px;color:#f00}
+.data .wen{background:url(http://sf.panli.com/FrontEnd/images20090801/AddItemPanel/wen.gif) no-repeat 166px 4px;cursor:pointer;}
+.data table a{display:inline;float:left;background:url(http://sf.panli.com/FrontEnd/images20090801/AddItemPanel/jj.gif) no-repeat left top;height:18px;width:18px;margin:5px 0 0 5px;}
+.data table a:hover{background-position:left bottom}
+.data table .jian{background-position:right top;}
+.data table .jian:hover{background-position:right bottom;}
+
+.go{margin:3px 0 0 0;padding-left:140px;}
+.go .next,.go .next_,.go .next_no{background:url(http://sf.panli.com/FrontEnd/images20090801/AddItemPanel/go.gif) no-repeat top;height:39px;width:109px;border:none;cursor:pointer;float:left;}
+.go li{height:35px;font-size:14px}
+.go .next_{background-position:0 -40px;}
+.go .next_no{background-position:0 -80px;}
+.go a{text-decoration:none;color:#999;float:left;margin:10px 0 0 20px;display:inline;}
+.go a:hover{color:#FF9900;}
+
+.picking{height:30px;display:block;color:#60A1D7;font-size:14px;line-height:30px;}
+
+.img{float:right;margin:35px 77px -850px 0;height:150px;width:150px;border:1px solid #ddd;}
+.img img{width:150px;height:150px;}
+
+.succeed{height:90px;margin:50px 0 0 90px;background:url(http://sf.panli.com/FrontEnd/images20090801/welcome.jpg) no-repeat left 0;height:128px;}
+.succeed h2{font-size:24px;color:#80ab51;padding-left:110px;line-height:39px;height:50px;}
+.succeed p{margin:5px 0 0 112px;font-size:14px;}
+.succeed p span{color:#F90;margin:0 2px}
+.last{height:145px;background:#f9f9f9;border:#ECECEA solid 1px;margin:0 50px 30px 50px;}
+.last .img_2{margin:18px 0 0 20px;float:left;display:inline;height:110px;width:110px;border:1px solid #ddd;}
+.last .img_2 img{width:110px;height:110px;}
+.show{float:left;width:365px;margin:15px 0 0 20px;display:inline;}
+.show h2{font-size:14px;height:45px;line-height:22px;color:#5D99CF;font-weight:100;margin-top:5px;}
+.show li{line-height:22px;color:#aaa}
+.show li span{color:#F90}
+.lastnav{margin:15px 0 0 198px; }
+.lastnav a{float:left;text-decoration:none;color:#ddd;font-size:14px;background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/next.gif) no-repeat top;width:143px;height:44px;text-align:center;line-height:30px;margin-right:20px;display:inline;}
+.lastnav a:hover{background-position:0 bottom;color:#FFF}
+
+#itemUrlTip p a{color:#3399ff;}
+#itemUrlTip p a:hover{color:#f90;text-decoration:none;}
+
+
+.ppmgts2{background:url(/FrontEnd/images20090801/biaoqing/c7.gif) no-repeat 115px 55px;padding:60px 0 20px 200px;}
+.ppmgts2 h2{font-size:16px;height:30px;color:#ff0000;font-family:"Microsoft YaHei";}
+.ppmgts2 p{color:#7a7a7a;}
+.ppmgts2 a{color:#71a8cf;text-decoration:none;}
+.ppmgts2 a:hover{color:#ff0000;text-decoration:underline;}
+.tishi a{color:#71a8cf;}
+.tishi a:hover{color:#ff0000;}
+
+.wangzhi .newalert{margin-left:130px;color:#F00;padding-left:20px;background:url(/FrontEnd/images20090801/icon/use/tt1.gif) no-repeat left 0;}
+.wangzhi .newalert a{color:#71a8cf;}

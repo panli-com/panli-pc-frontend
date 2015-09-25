@@ -1,0 +1,29 @@
+body{ margin:0 auto;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span20{ height:20px; line-height:20px; display:block; clear:both;}
+
+#back{width:auto 0; background-color:#ff7300;}
+.banner_top{ width:960px; margin:0 auto;}
+.con_back{ background:url(cssImg/ten_fwf_09.gif) repeat-x; width:910px; height:238px; padding:30px 25px; clear:both;}
+.text{ float:left; width:573px;}
+.shopp{ float:right; width:305px;}
+.shopp_t{ background:url(cssImg/ten_fwf_12.gif) no-repeat; width:305px; height:42px;}
+.shopp_b{ background:url(cssImg/ten_fwf_35.gif) no-repeat; width:305px; height:4px;}
+.shopp dd{ background:url(cssImg/ten_fwf_17.gif) repeat-y; width:255px; padding:15px 25px 10px 27px; overflow:hidden;}
+.shopp_img li{ float:left; border:solid 1px #ff9f2d; padding:1px; margin:0 7px 10px 0;}
+.xize{ background-color:#ff811a; width:920px; height:265px; padding:20px; font-family:"Microsoft YaHei",微软雅黑; color:#fff; font-size:14px; line-height:22px; margin:15px 0;}
+.xize_title{ margin-bottom:10px;}
+.xize span{ color:#feff00;}
+.share{ background-color:#ff811a; width:960px; height:42px; margin-bottom:20px;}
+.xiaoxi{ padding:12px 15px; float:left; display:block;}
+.tubiao span{ padding:5px 10px 5px 0; float:left; display:block;}
+.button{position:relative;}
+
+.icon{width:319px; height:52px; left:153px; top:24px; position:absolute;}
+.icon a{width:319px; height:52px; background:url(cssImg/button.gif) no-repeat top; display:block;}
+.icon a:hover{ background-position:bottom;}

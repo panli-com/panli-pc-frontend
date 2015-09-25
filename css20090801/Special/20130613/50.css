@@ -1,0 +1,28 @@
+body{ margin:0 auto; font-size:12px;font-family:Arial, Helvetica, sans-serif;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.all_style{ background:#fef0c6;}
+img{vertical-align:top;}
+.span10{ height:10px; line-height:10px; display:block; clear:both;}
+p, h1, h2, h3, h4, h5, li, ul, dl, dt, dd, b,img,div{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+
+.content{ width:950px; margin:0 auto;}
+.remove1{ background:url(/FrontEnd/images20090801/Special/20130613/50/remove_03.jpg) no-repeat; height:90px;}
+.remove2{ background:url(/FrontEnd/images20090801/Special/20130613/50/remove_05.jpg) no-repeat; height:90px;}
+.remove3{ background:url(/FrontEnd/images20090801/Special/20130613/50/remove_06.jpg) no-repeat; height:90px;}
+.remove4{ background:url(/FrontEnd/images20090801/Special/20130613/50/remove_07.jpg) no-repeat; height:90px;}
+.remove5{ background:url(/FrontEnd/images20090801/Special/20130613/50/remove_08.jpg) no-repeat; height:58px;}
+.remove6{ background:url(/FrontEnd/images20090801/Special/20130613/50/remove_09.jpg) no-repeat; height:90px;position:relative;}
+.remove7{ background:url(/FrontEnd/images20090801/Special/20130613/50/remove_10.gif) no-repeat; height:90px;}
+.remove8{ background:url(/FrontEnd/images20090801/Special/20130613/50/remove_11.gif) no-repeat; height:90px;}
+.remove9{ background:url(/FrontEnd/images20090801/Special/20130613/50/remove_12.jpg) no-repeat; height:90px;}
+.remove10{ background:url(/FrontEnd/images20090801/Special/20130613/50/remove_13.jpg) no-repeat; height:90px;}
+.remove11{ background:url(/FrontEnd/images20090801/Special/20130613/50/remove_14.gif) no-repeat; height:90px;}
+.remove12{ background:url(/FrontEnd/images20090801/Special/20130613/50/remove_15.gif) no-repeat; height:120px;}
+.remove13{ background:url(/FrontEnd/images20090801/Special/20130613/50/remove_16.gif) no-repeat; height:120px;}
+.remove14{ background:url(/FrontEnd/images20090801/Special/20130613/50/remove_17.gif) no-repeat; height:120px;}
+.remove15{ background:url(/FrontEnd/images20090801/Special/20130613/50/remove_18.gif) no-repeat; height:189px;}
+
+.link{width:176px;height:89px;left:375px;top:2px; position:absolute;}
+.link a{width:176px; height:89px; display:block; background:url(/FrontEnd/images20090801/Special/20130613/50/button.png) no-repeat top;}
+.link a:hover{ background-position:bottom;}

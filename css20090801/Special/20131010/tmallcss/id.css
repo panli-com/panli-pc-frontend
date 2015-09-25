@@ -1,0 +1,29 @@
+body{ margin:0 auto;font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto; margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span20{ height:20px; line-height:20px; display:block; clear:both;}
+
+#frame{ background-color:#ca1d46; margin:0 auto;}
+.banner_top{ width:960px; margin:auto; }
+.banner_top li{ position:relative;}
+
+.panli{ width:960px; margin:0 auto;  overflow:hidden;}
+.title{ text-align:center; padding:20px 0;}
+.content li{ float:left; display:block; padding:6px;}
+.text{ text-align:center; padding:20px 0 30px 0; clear:both;}
+
+.icon{width:125px; height:33px; left:800px; top:2px; position:absolute;}
+.icon a{width:125px; height:33px; background:url(cssImg/button_03.gif) no-repeat top; display:block;}
+.icon a:hover{ background-position:bottom;}
+
+.icon1{width:125px; height:33px; left:800px; top:52px; position:absolute;}
+.icon1 a{width:125px; height:33px; background:url(cssImg/button_06.gif) no-repeat top; display:block;}
+.icon1 a:hover{ background-position:bottom;}
+
+.app{width:125px; height:33px; left:800px; top:2px; position:absolute;}
+.app a{width:125px; height:33px; background:url(cssImg/button_08.gif) no-repeat top; display:block;}
+.app a:hover{ background-position:bottom;}

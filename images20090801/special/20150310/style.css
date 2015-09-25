@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */  
+
+.hide{display: none;}
+.specialBody{background: #ffd478;  height:940px; overflow:hidden; }
+.banner{position: relative; height: 590px; margin-top: 150px;}
+.banner .num{position: absolute; bottom: -35px; left: 50%; margin-left: -220px; z-index: 10;}
+.banner .num li{width: 20px; height: 20px; border-radius: 50%; background: #fcbe5b; float: left; margin-left: 20px;}
+.banner .num li.current{background: #f39019;}
+.banner .sliderlist{position: absolute; left: 50%; margin-left: -370px; top: 0; width: 740px;}
+.banner .sliderlist img:first-child{width: 740px;}
+.banner .sliderlist .pa{position: absolute;  left: -324px; top: 20px; display:none; animation: fadeInTop 2s ease-in both; -webkit-animation: fadeInTop 2s ease-in both; -moz-animation: fadeInTop 2s ease-in both; width: 308px;}
+.banner .sliderlist .pb{position: absolute; left: -315px; bottom: 48px;display:none; animation: bfadeInBottom 2s ease-in both; -webkit-animation: bfadeInBottom 2s ease-in both; -moz-animation: bfadeInBottom 2s ease-in both; width: 289px;}
+.banner .sliderlist .pc{position: absolute; right: -305px; top: 20px;display:none; animation: fadeInTop 2s ease-in both; -webkit-animation: fadeInTop 2s ease-in both; -moz-animation: fadeInTop 2s ease-in both; width: 278px;}
+.banner .sliderlist .pd{position: absolute; right: -339px; bottom: 32px;display:none; animation: dfadeInBottom 2s ease-in both; -webkit-animation: dfadeInBottom 2s ease-in both; -moz-animation: dfadeInBottom 2s ease-in both; width: 318px;}
+.sliderlist .weixin , .sliderlist .face_book, .sliderlist  .weibo{position: absolute;display:none; right: 134px; bottom: 322px; border-radius: 50%; display: block; width: 60px; height: 60px; background: url(./btn_share_weixin.jpg) no-repeat center;
+		 background-size: 60px 60px; cursor: pointer; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./btn_share_weixin.jpg',  sizingMethod='scale');}
+.sliderlist  .face_book{background-image: url(./btn_share_facebook.jpg); bottom: 225px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./btn_share_facebook.jpg',  sizingMethod='scale'); background-size: contain;}
+.sliderlist .weibo{background-image: url(./btn_share_weibo.jpg); bottom: 128px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./btn_share_weibo.jpg',  sizingMethod='scale');}
+.sliderlist .weixin:hover{background-image: url(./btn_share_weixin_hover.jpg); filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./btn_share_weixin_hover.jpg',  sizingMethod='scale');}
+.sliderlist .face_book:hover{background-image: url(./btn_share_facebook_hover.jpg); filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./btn_share_facebook_hover.jpg',  sizingMethod='scale');}
+.sliderlist .weibo:hover{background-image: url(./btn_share_weibo_hover.jpg); filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='./btn_share_weibo_hover.jpg',  sizingMethod='scale');}
+
+/* fadeInTop*/
+@keyframes fadeInTop{
+	0%{ opacity: 0; top: 0;}
+	100%{opacity: 1; top: 20px;}
+}
+
+@-webkit-keyframes fadeInTop{
+	0%{ opacity: 0; top: 0;}
+	100%{opacity: 1; top: 20px;}
+}
+
+@-moz-keyframes fadeInTop{
+	0%{ opacity: 0; top: 0;}
+	100%{opacity: 1; top: 20px;}
+}
+
+/* fadeInBottom */
+@keyframes bfadeInBottom{
+	0%{ opacity: 0; bottom: 0;}
+	100%{opacity: 1; bottom: 48px;}
+}
+
+@-webkit-keyframes  bfadeInBottom{
+	0%{ opacity: 0; bottom: 0;}
+	100%{opacity: 1; bottom: 48px;}
+}
+@-moz-keyframes  bfadeInBottom{
+	0%{ opacity: 0; bottom: 0;}
+	100%{opacity: 1; bottom: 48px;}
+}
+
+@keyframes dfadeInBottom{
+	0%{ opacity: 0; bottom: 0;}
+	100%{opacity: 1; bottom: 32px;}
+}
+
+@-webkit-keyframes  dfadeInBottom{
+	0%{ opacity: 0; bottom: 0;}
+	100%{opacity: 1; bottom: 32px;}
+}
+@-moz-keyframes  dfadeInBottom{
+	0%{ opacity: 0; bottom: 0;}
+	100%{opacity: 1; bottom: 32px;}
+}
+
+
+.weixinCode{background:url(http://sf.panli.com/FrontEnd/images20090801/special/20150310/erweima.png) no-repeat; display:block;position: absolute; width:262px; height:315px; top: 267px;
+left: 440px; display:none; z-index:10;  }
+.weixin_close{ display:block;position: absolute; height:12px; width:12px; right:16px; top:12px; }

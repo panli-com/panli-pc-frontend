@@ -1,0 +1,42 @@
+﻿body{ margin:0 auto; font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span25{ height:25px; line-height:25px; display:block; clear:both;}
+.left{ float:left;}
+.right{ float:right;}
+
+#frame{ width:100%; margin:0 auto; background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_Old/back.gif) fixed; overflow:hidden;}
+.banner{ height:507px;}
+.banner1{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_Old/old_members_03.jpg) no-repeat center; height:80px;}
+.banner2{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_Old/old_members_05.jpg) no-repeat center; height:80px;}
+.banner3{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_Old/old_members_06.jpg) no-repeat center; height:80px;}
+.banner4{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_Old/old_members_07.jpg) no-repeat center; height:80px;}
+.banner5{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_Old/old_members_08.jpg) no-repeat center; height:84px;}
+.banner6{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_Old/old_members_09.gif) no-repeat center; height:103px;}
+.immediately{width:199px; margin:0 auto; padding:20px 0 0 750px;}
+
+.old_content{ width:960px; margin:0 auto; padding-top:40px;}
+.gratitude{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_Old/old_members_12.gif) no-repeat; height:212px; padding:30px 40px;}
+.letter_text{ padding:6px 0 0 35px;}
+.exposure_title{ text-align:center; padding:30px 0 15px 0; clear:both;}
+.exposure_list{ height:392px;}  .exposure_list li{ float:left;}
+.members{ background-color:#fff; border:solid 6px #29c0c3; padding:20px; overflow:hidden;}
+.members_yuuli{ width:450px;}
+.yuuli_img{ float:left; padding-right:15px;}
+.yuuli_title{ float:left; display:block; color:#f5453f; font-weight:bold; background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_Old/old_members_65.gif) no-repeat left center; padding-left:40px; font-size:16px; height:24px;}
+.yuuli_title a{ color:#fe554a; text-decoration:none;} 
+.yuuli_text a{ display:block; width:330px; float:left; font-size:12px; line-height:18px; color:#555; margin-top:2px; text-decoration:none;}
+.yuuli_hui{color:#999; width:330px; font-size:12px; margin-top:2px; display:block; float:left;}
+.xuxian{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_Old/xuxian.gif) repeat-x center; width:910px; height:30px; clear:both;}
+.old_upgrade li{ float:left; display:block; padding-bottom:20px;}
+.old_text{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_Old/old_members_57.gif) no-repeat center; height:32px; clear:both; padding-top:20px;}
+
+.old_button{ position:relative; height:100px; clear:both;}
+.icon{width:600px;height:65px;left:180px;top:20px;position:absolute;}
+.icon a{width:600px; height:65px; display:block; background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_Old/old_button.gif) no-repeat top;}
+.icon a:hover{ background-position:bottom;}
+.banquan{ text-align:right; color:#007885; padding-bottom:20px; font-size:14px;}

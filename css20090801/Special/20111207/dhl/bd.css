@@ -1,0 +1,33 @@
+.banner_01{ width:950px;height:67px;padding:0px;margin:auto;text-align:center;}
+.banner_02{ width:950px;height:78px;padding:0px;margin:auto;text-align:center;}
+.banner_03{ width:950px;height:83px;padding:0px;margin:auto;text-align:center;}
+.banner_04{ width:950px;height:55px;padding:0px;margin:auto;text-align:center;}
+.banner_05{ width:745px;height:41px;padding:0px;margin:auto;text-align:center;}
+.banner_06{ width:103px;height:41px;padding:0px;margin:auto;text-align:center;}
+.banner_07{ width:950px;height:48px;padding:0px;margin:auto;text-align:center;}
+.banner_08{ width:950px;height:21px;padding:0px;margin:auto;text-align:center;}
+.banner_09{ width:279px;height:60px;padding:0px;margin:auto;text-align:center;}
+.banner_10{ width:280px;height:60px;padding:0px;margin:auto;text-align:center;}
+.banner_11{ width:950px;height:27px;padding:0px;margin:auto;text-align:center;}
+.banner_12{ width:950px;height:41px;padding:0px;margin:auto;text-align:center;}
+.banner_13{ width:950px;height:60px;padding:0px;margin:auto;text-align:center;}
+.linkone{
+	display:block;
+	width:102px;
+	height:41px;
+	background:url(/FrontEnd/images20090801/special/20111207/dhl/DHLshengdan_06_1.jpg) no-repeat;
+}
+.linkone:hover{background:url(/FrontEnd/images20090801/special/20111207/dhl/DHLshengdan_06_1.jpg) no-repeat 0 -41px;}
+.linktwo{
+	display:block;
+	width:391px;
+	height:60px;
+	background:url(/FrontEnd/images20090801/special/20111207/dhl/DHLshengdan_28_1.jpg) no-repeat;
+}
+.linktwo:hover{background:url(/FrontEnd/images20090801/special/20111207/dhl/DHLshengdan_28_1.jpg) no-repeat 0 -60px;}
+.r{float:right;}
+.l{float:left;}
+.c{clear:both;}
+.d{width:950px; height:auto;
+	margin:0px auto;
+	padding:0px;}

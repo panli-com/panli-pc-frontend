@@ -1,0 +1,50 @@
+.about{background:url(http://sf.panli.com/FrontEnd/images20090801/about/yuan_top.gif) no-repeat left 0;width:950px;margin:auto;margin-bottom:10px}
+.full{background:url(http://sf.panli.com/FrontEnd/images20090801/about/yuan_top.gif) repeat-y right 0;min-height:300px;_height:300px;margin-top:5px;float:left;width:950px;}
+.left{width:200px;float:left;}
+.left h2{margin:15px 0 0 15px;height:35px;}
+.left ul{margin:0 0 0 10px;border-top:#EAEAEA solid 1px;}
+.left ul li{line-height:40px;height:40px;font-size:14px;border-bottom:#EAEAEA solid 1px;}
+.left ul li a{text-decoration:none;display:block;color:#333;padding-left:30px;background:url(http://sf.panli.com/FrontEnd/images20090801/about/jt.gif) no-repeat 8px -29px;}
+.left ul .tl a{color:#f90;background:url(http://sf.panli.com/FrontEnd/images20090801/about/jt.gif) no-repeat 8px 11px;}
+.left ul .tl{background:url(http://sf.panli.com/FrontEnd/images20090801/about/tl.gif) no-repeat left;width:201px;height:42px;margin:0 0 0 0;border:none;position:relative;top:-1px;}
+.left ul li a:hover{color:#F60;}
+.right{float:right;width:720px;}
+.right h1{text-align:center;font-size:20px;height:50px;border-bottom:#ccc solid 1px;line-height:50px;font-weight:normal;font-family:"simhei";margin-right:20px;}
+.detail{margin:20px 30px 20px 10px;line-height:22px;color:#333;}
+
+
+.bt_1{ width:700px; height:35px;  line-height:35px; }
+.hezuo_logo{ width:700px; height:auto; display:table; margin-top:10px; margin-bottom:20px;}
+.hezuo_logo ul{margin:10px 0 0 5px;padding-bottom:10px;float:left;}
+.hezuo_logo li{float:left;display:inline;margin:0 0 0 5px;height:50px; margin-bottom:15px;}
+.hezuo_logo li a{border:#ededed solid 2px; float:left; padding:1px;}
+.hezuo_logo li a:hover{border:#FFCC00 solid 3px;float:left;padding:0px;}
+.hezuo_logo li a img{height:50px;width:160px;}
+
+.wenzi_link{ width:690px; height:auto; display:table; margin-top:10px; margin-bottom:20px; border:#ededed solid 2px; margin-left:5px;}
+.wenzi_link ul{float:left; margin:8px; padding-bottom:10px;}
+.wenzi_link li{float:left;display:inline;margin:0 0 0 5px;height:20px; margin-bottom:5px;width:100px; text-align:left;}
+.wenzi_link li a{ color:#3399CC; text-decoration:none;}
+.wenzi_link li a:hover{ color:#3399CC; text-decoration:underline;}
+
+.shenqing_a{ width:700px; text-align:center; height:51px; margin:10px 0px;}
+.shenqing_a a{background:url(/news/images/shengqing.jpg) no-repeat 0 0; height:46px;width:166px;display:block; margin:auto; text-align:center;}
+.shenqing_a a:hover{background-position: 0 -56px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

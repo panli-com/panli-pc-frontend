@@ -1,0 +1,29 @@
+﻿body{ margin:0 auto; font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span25{ height:25px; line-height:25px; display:block; clear:both;}
+.left{ float:left;}
+.right{ float:right;}
+
+#frame{ width:100%; background-color:#7372f4;}
+.banner{ width:100%; height:765px;}
+.banner1{ background:url(/FrontEnd/images20090801//special/20150527/loss/cssImg/Vouchers_banner_02.jpg) no-repeat center; height:100px;}
+.banner2{ background:url(/FrontEnd/images20090801//special/20150527/loss/cssImg/Vouchers_banner_03.jpg) no-repeat center; height:100px;}
+.banner3{ background:url(/FrontEnd/images20090801//special/20150527/loss/cssImg/Vouchers_banner_04.jpg) no-repeat center; height:100px;}
+.banner4{ background:url(/FrontEnd/images20090801//special/20150527/loss/cssImg/Vouchers_banner_05.jpg) no-repeat center; height:100px;}
+.banner5{ background:url(/FrontEnd/images20090801//special/20150527/loss/cssImg/Vouchers_banner_06.jpg) no-repeat center; height:100px;}
+.banner6{ background:url(/FrontEnd/images20090801//special/20150527/loss/cssImg/Vouchers_banner_07.jpg) no-repeat center; height:90px;}
+.banner7{ background:url(/FrontEnd/images20090801//special/20150527/loss/cssImg/Vouchers_banner_08.jpg) no-repeat center; height:105px;}
+.banner8{ background:url(/FrontEnd/images20090801//special/20150527/loss/cssImg/Vouchers_banner_09.jpg) no-repeat center; height:70px;}
+.Receive{ position:relative; width:135px; height:105px; margin:0 auto; left:312px; display:block;}
+
+.content_list{ width:960px; margin:0 auto;}
+.red_img1{ background:url(/FrontEnd/images20090801//special/20150527/loss/cssImg/Vouchers_banner_12.gif) no-repeat center; height:77px; margin:25px 0;}
+.red_img2{ background:url(/FrontEnd/images20090801//special/20150527/loss/cssImg/Vouchers_banner_16.jpg) no-repeat; height:125px;}
+.red_img3{ background:url(/FrontEnd/images20090801//special/20150527/loss/cssImg/Vouchers_banner_18.jpg) no-repeat; height:125px;}
+
+.copy{ font-size:15px; text-align:right; color:#31306a; padding:20px 0 40px 0;}

@@ -1,0 +1,98 @@
+﻿.fill{float:right;width:720px;margin:25px 23px 0 0;display:inline;padding-bottom:30px;}
+
+.appraisal_top{border:#CDEBCE solid 1px;padding:10px 10px 10px 100px;margin-bottom:10px;background:#EDFAEE url(/FrontEnd/images20090801/newmypanli/Orderlist/shouhuo.gif) no-repeat 15px 15px;}
+.appraisal_top p{line-height:20px;}
+.appraisal_top p span{color:#F00;}
+.appraisal_top h3{font-weight:normal;font-size:20px;color:#339900;font-family:"simhei";line-height:30px;height:30px;}
+.appraisal_top a{color:#71a8cf;}
+.fanhui{padding-top:8px;}
+.appraisal_top a:hover{color:#F60;text-decoration:none;}
+
+.text{padding:30px 0 0 10px;float:left;width:710px;}
+.text h2{font-size:14px;height:25px;font-weight:}
+.text textarea{border:#8FB9CF solid 1px;height:80px;width:700px;float:left;padding:3px;}
+.text textarea.red{color:#FF0000;border:#FF0000 solid 1px;background:#FFF0F0;}
+
+.text textarea.gray{color:#999;}
+.wb{height:90px;}
+
+.yundan_top{background:#eee;border:#bbb solid 1px;margin-bottom:10px;height:30px;}
+.yundan_top h2{font-size:14px;font-weight:100;color:#333;margin-bottom:10px;border:#fff solid 1px;border-bottom:0;padding-left:10px;line-height:29px;}
+.ck_top{border-bottom:#ddd 1px solid;padding-left:60px;margin-bottom:10px;background:url(/FrontEnd/images20090801/icon/common/yd48.gif) no-repeat left 0px;height:60px;overflow:hidden;}
+.ck_top h1{line-height:22px;font-family:"simhei";HEIGHT:22px;font-size:20px;font-weight:normal;padding-top:5px;}
+.ck_top h2{line-height:22px;font-size:14px;color:#339900;font-weight:100;}
+
+.tishi{padding-left:10px;height:60px;line-height:24px;border-bottom:#ccc dashed 1px;margin-bottom:20px;color:#666;}
+.tishi span b{color:#FF6600;padding:0 3px;}
+
+.tijiao{padding-top:15px;}
+.tijiao input{background:url(/FrontEnd/images20090801/newmypanli/anniu_2.gif) no-repeat;height:50px;width:139px;border:none;font-size:14px;color:#FFF;padding-bottom:15px;cursor:pointer;}
+.tijiao .by{background-position:0 -52px;color:#fff;}
+
+.appraisal{padding:0 0 20px 10px;border-bottom:#ccc dashed 1px;}
+.appraisal h2{font-size:14px;line-height:28px;color:#333;height:30px;}
+
+
+.ping{height:30px;}
+.ping label{float:left;font-size:14px;line-height:24px;}
+.xing{background:url(/FrontEnd/images20090801/icon/common/star-matrix.gif) no-repeat 0 0;width:80px;height:16px;float:left;margin-top:2px;}
+.m1{background-position:0 -16px;}
+.m2{background-position:0 -32px;}
+.m3{background-position:0 -48px;}
+.m4{background-position:0 -64px;}
+.m5{background-position:0 -80px;}
+.o1{background-position:0 -96px;}
+.o2{background-position:0 -112px;}
+.o3{background-position:0 -128px;}
+.o4{background-position:0 -144px;}
+.o5{background-position:0 -160px;}
+.xing dd{width:16px;float:left;}
+.xing dd a{float:left;width:16px;height:16px;}
+.ping span{float:left;margin:4px 0 0 10px;}
+.ping .hong{color:#F00;}
+.ping .hui{color:#bbb;}
+
+
+
+.yijian{padding:20px 10px 15px 10px;border-bottom:#CCC solid 1px;margin-bottom:15px;}
+.yijian h2{font-size:14px;height:25px;}
+.yijian .my_pl{line-height:20px;color:#666;margin-bottom:10px;}
+.panli_huifu{background:#f3f3f3;padding:10px;}
+.panli_huifu h3{font-size:12px;color:#f60;height:20px;}
+.panli_huifu p{font-size:12px;color:#f60;line-height:20px;color:#7AABC0;}
+
+
+
+.pingjia{padding-left:10px;height:20px;line-height:20px;font-size:14px;color:#333;height:20px;}
+.pingjia a{color:#68A4D9;}
+.pingjia a:hover{color:#FF0000;text-decoration:none;}
+.caozuo{padding:15px 0 0 10px;height:40px;}
+.caozuo a{float:left;color:#eee;font-size:14px;background:url(/FrontEnd/images20090801/button/139an.gif) no-repeat 0 -140px;text-decoration:none;width:139px;height:45px;line-height:32px;text-align:center;margin-right:20px;display:inline;}
+.caozuo a:hover{background-position:0 -46px;color:#fff;}
+
+.appraisal_yg li{height:40px;border-bottom:#ddd dashed 1px;padding:25px 0 0 10px;}
+.appraisal_yg p{font-size:14px;height:25px;float:left;width:385px;font-family:Arial;}
+.appraisal_yg span{margin-right:10px;}
+.appraisal_yg i{font-style:normal;color:#68A4D9;}
+ .pj{float:left;width:200px;}
+
+.succeed{background:url(/FrontEnd/images20090801/biaoqing/b1.gif) no-repeat 0 0;padding-left:130px;height:300px;margin:50px 95px 0 95px;}
+.succeed h2{font-family:"simhei";color:#6baa38;font-size:20px;font-weight:normal;height:35px;}
+.ckjf{font-size:14px;line-height:22px;height:30px;}
+.ckjf a{color:#FF9900;padding:0 2px;}
+.ckjf a:hover{color:#F00;text-decoration:none;}
+.succeed p span{color:#FF0000;}
+.gzry{line-height:20px;color:#999;padding-bottom:20px;}
+.gzry a{color:#509ccc;}
+.gzry a:hover{color:#f00;text-decoration:none;}
+.ckpj a{font-size:14px;background:url(/FrontEnd/images20090801/newmypanli/next.gif) no-repeat 0 0;width:143px;height:46px;color:#eee;float:left;line-height:30px;text-align:center;text-decoration:none;}
+.ckpj a:hover{background-position:0 -47px;color:#FFF;}
+
+
+
+.afxg_tishi{color:#F90;line-height:18px;margin-bottom:20px;color:#333;padding:5px 10px;background:#E4F7DF;border:#8DCC84 solid 1px;font-family:"simsun";width:350px;}
+.afxg_tishi p{padding:2px 0;padding-left:10px;background:url(/FrontEnd/images20090801/icon/number/fk_1.gif) no-repeat left 10px;font-size:12px;}
+.afxg_tishi p span{color:#ff0000;}
+.afxg_tishi i{font-style:normal;font-weight:bold;}
+.afxg_tishi a{color:#71a8cf;}
+.afxg_tishi a:hover{color:#ff0000;}

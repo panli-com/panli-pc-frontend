@@ -1,0 +1,63 @@
+body,p,h1,h2,h3,h4,h5,ul,ol,li,dl,dt,dd,form,div,img,table,tr,td,form，input{margin: 0; padding: 0;}
+img,table,tr,td,input{border: 0;}
+a, input, textarea{outline: none; font-family:"Microsoft YaHei";}
+ul,ol, li{list-style: none;}
+em,i{font-style:normal;}
+body{height:100%; font-size:12px;margin:0;padding:0;font-family:"Microsoft YaHei";}
+.hide{display: none;}
+
+.top{width:960px;margin:auto;height:85px;margin-top:5px}
+.logo{float:left;margin-top:7px;}
+.hy{float:left;border-left:#ddd solid 2px;margin:12px 0 0 15px;padding:11px 0 2px 15px;height:44px;display:inline;}
+.T_right{float:right;margin:10px 10px 0 0;display:inline}	
+.T_right a{color:#bbb;text-decoration:none;}
+.T_right a:hover{color:#F90;text-decoration:underline}
+.T_right span{color:#bbb;margin:0 5px;}
+
+#main{width: 400px;  margin: 0 auto; padding: 100px 0; overflow: hidden;}
+h1{font-size: 28px; height: 42px; font-weight: normal; color: #333;}
+.form_wrap > p{font-size: 16px; height: 42px; color: #424441;}
+.ipt{background-color: #FCFCFC; border: 1px solid #CCCCCC; color: #333; border-radius: 2px; font-size: 14px; width: 93%; padding: 9px 12px; height: 20px; line-height: 20px;}
+.ipt:-ms-input-placeholder{color: #c8cdd2;}
+.ipt:-moz-placeholder{color: #c8cdd2;}
+.ipt:-webkit-input-placeholder{color: #c8cdd2;}
+.phcolor{color: #c8cdd2;}
+.ipt_error{border-color: #FF999A;}
+.tips_error{height: 24px; font-size: 12px; overflow: hidden; color: #606760; height: 24px; line-height: 24px; }
+.tips_error i{background: url(/FrontEnd/images20090801/login/newLogin/icnprite.png) no-repeat; background-position: 0 -40px; width: 15px; height: 15px; float: left; margin: 5px 6px auto 10px; display: block;}
+.btn{overflow: hidden; margin-top: 35px;}
+.sub_btn{float: right; display: block; background: #F69922; border-radius: 3px; height: 44px; width: 160px; font-size: 18px; line-height: 44px; text-align: center; text-decoration: none; color: #FFFFFF;}
+
+.re_email{overflow: hidden; color: #333333; height: 40px;}
+.re_email p{float: left; padding-left: 14px; height: 40px; line-height: 40px; font-size: 16px;}
+.re_email a{float: right; display: block; border: 1px solid #F69922; height: 38px; width: 108px; line-height: 38px; color: #F69922; text-align: center; text-decoration: none; font-size: 14px; background-color: #fee9cc; border-radius: 4px; position: relative;}
+.re_email a .loading{background: url(/FrontEnd/images20090801/login/newLogin/rotate.png) no-repeat; width: 13px; height: 12px; display: inline-block; /*-webkit-animation: rotate 1.5s infinite linear; -moz-animation: rotate 1.5s infinite linear;*/ margin-left: 3px;}
+
+.pwd_verify > p{margin-top: 30px; height: 25px; font-size: 14px; color: #F69922;}
+
+.pwd_wrap{position: relative; font-size: 14px; width: 400px;}
+.pwd_wrap input{ height: 38px; width: 374px; line-height: 38px; background: #fcfcfc; font-size: 14px; color: #000000; padding:0 12px; border: solid 1px #CCCCCC; border-radius: 4px;}
+.pwd_wrap .pwdtxt{padding-right: 58px; width:328px;}
+.re_email p.cemail { padding-left:0px;}
+.cemail .ipt{width:260px; height:18px;}
+.pwd_wrap .pwddisp{background: #f69922; display: block; text-decoration: none; height: 30px; width: 50px; text-align: center; line-height: 30px; color: #FFFFFF; border-radius: 4px; position: absolute;  right: 5px; top: 5px;}
+
+@keyframes rotate {
+  from {-webkit-transform:rotate(0deg);}
+  to {-webkit-transform:rotate(360deg);}
+}
+
+@-webkit-keyframes rotate {
+  from {-webkit-transform:rotate(0deg);}
+  to {-webkit-transform:rotate(360deg);}
+}
+
+@-moz-keyframes rotate {
+  from {-webkit-transform:rotate(0deg);}
+  to {-webkit-transform:rotate(360deg);}
+}
+
+@-ms-keyframes rotate {
+  from {-webkit-transform:rotate(0deg);}
+  to {-webkit-transform:rotate(360deg);}
+}

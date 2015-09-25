@@ -1,0 +1,64 @@
+.hd_top{height:225px;background:#9a0005 url(/huodong2/images/hd_top.jpg) no-repeat 0 0;width:950px;margin:auto;}
+.hd_top p{float:left;margin:150px 0 0 107px;display:inline;color:#FFF;}
+.hd_top p a{color:#FFFF33;padding:0 5px;}
+.hd_top p a:hover{color:#CCFF00;text-decoration:none;}
+.hd_zhong{height:629px;background:#9a0005;width:950px;margin:auto;}
+.hd_lm{background:#9a0005 url(/huodong2/images/hd_lm.jpg) no-repeat 0 0;margin:auto;width:950px;height:43px;}
+.hd_left{float:left;width:695px;}
+.z_l{background:url(/huodong2/images/hd_b1.jpg) no-repeat 0 0;height:629px;width:10px;float:left;margin-right:-100px;}
+
+.hd_right{float:right;width:255px;}
+.z_r{background:url(/huodong2/images/hd_b2.jpg) no-repeat 0 0;height:564px;width:8px;float:left;}
+.z_z{background:url(/huodong2/images/hd_b3.jpg) no-repeat 0 0;height:564px;width:10px;float:right;}
+.hd_ybd{background:url(/huodong2/images/hd_ybd.jpg) no-repeat 0 0;height:66px;width:255px;float:left;}
+.hd_ybd img{margin:23px 0 0 -20px;position:relative;}
+.hd_di{background:url(/huodong2/images/hd_d.jpg) no-repeat 0 0;height:105px;width:950px;margin:auto;margin-bottom:10px;}
+
+.hd_cj{margin:20px 0 0 23px;height:390px;}
+.hd_cj li{width:132px;float:left;height:122px;}
+.hd_cj .hd_tishi{width:396px;height:110px;}
+.hs_tu{float:left;height:100px;width:100px;border:#CCC solid 1px;padding:2px;}
+.hd_ts{background:#ececec;width:391px;height:114px;margin:-5px 0 -5px -10px;position:relative;}
+.hd_ts2 span{color:#FF0000;}
+.hd_ts2 p{margin:40px 0 0 0;font-size:14px;text-align:center;}
+.hd_ts2{background:#f9f9f9;margin:5px;height:102px;float:left;display:inline;border:#ddd solid 1px;width:378px;}
+.h_m{background:#ECF1D1;}
+.h_m .hd_ts2{background:#fff;border:#D2E0B4 solid 1px;}
+.h_m .hd_ts2 p{margin:0;font-size:12px;color:#999;}
+.h_m .hd_ts2 h2{font-size:14px;margin:20px 0 0 0;text-align:center;line-height:36px;}
+.h_m .hd_ts2 h2 span{color:#FF0000;}
+
+.h_dj{background:#C9EAA2;}
+.h_dj .hd_ts2{background:#fff url(/FrontEnd/images20090801/biaoqing/c2.gif) no-repeat 5px 20px;border:#66CC66 solid 1px;width:293px;padding-left:85px}
+.h_dj .hd_ts2 p{margin:0;text-align:left;font-size:12px;line-height:19px;}
+.h_dj .hd_ts2 p a{color:#5592bd;}
+.h_dj .hd_ts2 p a:hover{color:#f00;text-decoration:none;}
+.h_dj .hd_ts2 h2{font-size:14px;margin:18px 0 0 0;line-height:32px;color:#339900;}
+.h_dj .hd_ts2 h2 span{color:#FF0000;}
+
+.chicun{line-height:16px;height:20px;}
+.chicun a{float:left;color:#5592bd;}
+.chicun a:hover{color:#f00;text-decoration:none;}
+.chicun b{font-weight:100;color:#999;float:left;white-space:nowrap;}
+.chicun span{float:left;width:5px;height:5px;}
+.hd_c{background:url(/huodong2/images/chicun.gif) no-repeat 0 0;height:177px;width:126px;position:relative;margin:15px -1000px -1000px -73px;overflow:hidden;}
+.hd_c h3{color:#f60;font-size:12px;font-weight:100;padding-left:10px;padding-top:12px;}
+.chicun .hd_c a{width:116px;padding-left:10px;line-height:18px;}
+
+.hd_help h2{font-size:12px;}
+.hd_help{margin:0 23px;}
+.hd_help li{padding:0 0 10px 0;}
+.hd_help li h3{font-size:12px;font-weight:100;color:#333;line-height:28px;}
+.hd_help li p{color:#999;}
+
+.hd_lj{padding-top:20px;}
+.hd_lj a{font-family:"simsun";font-size:14px;color:#5592bd;}
+.hd_lj a:hover{color:#f00;text-decoration:none;}
+
+.hd_kp{margin:20px 0 0 10px;}
+.hd_kp li{float:left;width:111px;height:130px;}
+.hd_k{float:left;height:100px;width:100px;background:#fff;border:#ccc solid 1px;padding:1px;margin-bottom:5px;}
+.hd_kp p span{float:left;color:#b9814b;width:75px;}
+.hd_kp p a{float:right;color:#f00;width:26px;display:inline;margin-right:5px;}
+.hd_kp p a:hover{color:#990000;text-decoration:none;}
+

@@ -1,0 +1,70 @@
+﻿body{ margin:0 auto; font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span25{ height:25px; line-height:25px; display:block; clear:both;}
+.left{ float:left;}
+.right{ float:right;}
+
+#frame{ width:100%; background:url(lianhe_back.gif) fixed;}
+.banner{ width:100%; height:640px;}
+.banner1{ background:url(lianhe_banner1.jpg) no-repeat center; height:80px;}
+.banner2{ background:url(lianhe_banner2.jpg) no-repeat center; height:80px;}
+.banner3{ background:url(lianhe_banner3.jpg) no-repeat center; height:80px;}
+.banner4{ background:url(lianhe_banner4.jpg) no-repeat center; height:80px;}
+.banner5{ background:url(lianhe_banner5.jpg) no-repeat center; height:80px;}
+.banner6{ background:url(lianhe_banner6.jpg) no-repeat center; height:80px;}
+.banner7{ background:url(lianhe_banner7.jpg) no-repeat center; height:80px;}
+.banner8{ background:url(lianhe_banner8.gif) no-repeat center; height:80px;}
+
+.lianhe_list{ width:940px; margin:0 auto; padding:25px 20px;}
+.lianhe_shijian{ margin:0 auto; background-color:#fff; overflow:hidden;}
+.huodong_Details{ background:url(lianhe_text.gif) no-repeat; width:555px; height:178px; float:left;}
+.app_code{ background:url(lianhe_sys.gif) no-repeat; width:304px; height:147px; float:right;}
+.clear{ clear:both;}
+.iphone_button{width:165px;height:46px; left:125px; top:15px;position:relative;}
+.iphone_button a{width:165px; height:46px; display:block; background:url(lianhe_iPhone.gif) no-repeat top;}
+.iphone_button a:hover{ background-position:bottom;}
+.android_button{width:165px;height:46px; left:125px; top:30px;position:relative;}
+.android_button a{width:165px; height:46px; display:block; background:url(lianhe_Android.gif) no-repeat top;}
+.android_button a:hover{ background-position:bottom;}
+
+.Binding_title{ background:url(lianhe_title.gif) no-repeat center; height:48px; margin-bottom:25px;}
+.lianhe_Binding{ width:980px; margin:0 auto; padding:60px 0 40px 0;}
+#TabTab03Con1{width:940px;}
+#TabTab03Con2{width:940px;}
+.xixi1{width:980px;height:60px;background-image:url(lianhe_button.gif);cursor:pointer;}
+.xixi2{width:980px;height:60px;background-image:url(lianhe_button1.gif);cursor:pointer;}
+.tab1{width:480px;height:60px;float:left;text-align:center;cursor:pointer;}
+.tab2{width:480px; margin-left:20px;height:60px;float:left;text-align:center;cursor:pointer;}
+
+.Account_list{ background-color:#fff; padding:40px 20px; overflow:hidden;}
+.Account_list li{ float:left; padding:0 8px;}
+
+.Activities_Doubt{ width:980px; margin:0 auto;}
+.Activities_title{ background:url(lianhe_Q&A.gif) no-repeat; width:159px; height:62px; margin-left:34px;}
+.Activities_img1{ background:url(lianhe_font1.gif) no-repeat; height:150px;}
+.Activities_img2{ background:url(lianhe_font2.gif) no-repeat; height:181px;}
+.Activities_kefu{ position:relative; width:252px; height:20px; left:670px; top:130px;}
+
+.share_text{ position:relative; font-size:16px; color:#fff; width:280px; text-align:right; left:490px; top:20px;}
+.Share_icon{ width:980px; margin:0 auto; height:42px;}
+.button_icon{ width:200px; float:right; position:relative; top:-10px;}
+.button_icon a{display:inline; width:50px; height:42px; margin:0 2px; background:url(fx_button_03.gif) no-repeat; float:left;}
+.button_icon a.Share1 {background-position: -0px 0px;}
+.button_icon a.Share2 {background-position: -54px 0px;}
+.button_icon a.Share3 {background-position: -109px 0px;}
+.button_icon a.Share1:hover{background-position:-0px -42px;}
+.button_icon a.Share2:hover{ background-position:-54px -42px;}
+.button_icon a.Share3:hover{background-position:-109px -42px;}
+
+.down_button{width:534px;height:90px; margin:0 auto; position:relative; padding:50px 0;}
+.down_button a{width:534px; height:90px; display:block; background:url(down_button.gif) no-repeat top;}
+.down_button a:hover{ background-position:bottom;}
+
+.weixinCode{background:url(http://sf.panli.com/FrontEnd/images20090801/special/20150402/pc/erweima.png) no-repeat; display:block;position: absolute; width:262px; height:315px; top: 45px;
+left: -110px; display:none;  z-index:501;  }
+.weixin_close{ display:block;position: absolute; height:12px; width:12px; right:16px; top:12px; }

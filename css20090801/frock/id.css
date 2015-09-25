@@ -1,0 +1,17 @@
+body{ margin:0 auto;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+
+.frame li{ width:950px;position:relative;}
+.back_1{ background:url(http://sf.panli.com/FrontEnd/images20090801/frock/coupon_back_03.jpg) no-repeat; width:950px; height:262px;}
+.back_2{ background:url(http://sf.panli.com/FrontEnd/images20090801/frock/coupon_back_05.jpg) no-repeat; width:950px; height:163px;}
+.back_3{ background:url(http://sf.panli.com/FrontEnd/images20090801/frock/coupon_back_06.jpg) no-repeat; width:950px; height:163px;}
+.back_4{ background:url(http://sf.panli.com/FrontEnd/images20090801/frock/coupon_back_07.jpg) no-repeat; width:950px; height:163px; }
+.input_t{ background:url(http://sf.panli.com/FrontEnd/images20090801/frock/back.gif) repeat-x; width:229px; height:43px; line-height:43px; border:solid 1px #509a01; margin:115px 0 0 190px; font-size:26px; color:#509a01; padding:0 8px;}
+.icon{width:300px;height:50px;left:325px;top:60px;position:absolute;}
+.icon a{width:300px; height:50px; display:block; background:url(http://sf.panli.com/FrontEnd/images20090801/frock/icon_07.gif) no-repeat top;}
+.icon a:hover{ background-position:bottom;}

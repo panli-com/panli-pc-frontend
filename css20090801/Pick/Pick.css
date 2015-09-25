@@ -1,0 +1,341 @@
+a{cursor:pointer;}
+.fill{float:right;width:720px;margin:10px 23px 0 0;display:inline;border-bottom:30px;}
+.yundan{padding-top:18px;}
+.yundan table{border-collapse:collapse;width:100%;}
+.yundan th{background:#e3e3e3;border:#ccc solid 1px;height:30px;text-align:left;padding-left:10px;line-height:18px;}
+.yundan td{border:#ccc solid 1px;padding:8px 0 8px 10px;font-family:Arial;line-height:18px;}
+.hui{background:#f6f6f6;}
+
+/* .w1{width:102px;} */
+.w1{width:120px;}
+.w2{width:65px;}
+.w3{width:105px;}
+.w4{width:65px;}
+.w5{width:120px;}
+.w6{width:90px;background:#f9f9f9;}
+.w6 a{color:#71a8cf;}
+.w6 a:hover{color:#f00;text-decoration:none;}
+.w7{width:96px;}
+.hui .w6{background:#eee;}
+.w1 a{color:#71A8CF;}
+.w1 a:hover{text-decoration:none;color:#F00}
+.red{color:#F00;}
+.green{color:#009900;}
+.w5 a{color:#f90;}
+.w5 p{color:#999;}
+.w5 a:hover{color:#F00;text-decoration:none;}
+.w7 a{float:left;color:#666;background:url(/FrontEnd/images20090801/newmypanli/g_nav2.gif) no-repeat 0 0;width:85px;height:27px;text-decoration:none;margin-left:3px;display:inline;line-height:27px;text-align:center;overflow:hidden;margin:4px 0;}
+.w7 a:hover{background-position:0 -31px;color:#333;}
+.w7 .kefu{background-position:0 -62px;color:#4883b8;}
+.w7 .kefu:hover{background-position:0 -93px;color:#4277a8;}
+.w7 .sh{background-position:0 -124px;color:#23af24;}
+.w7 .sh:hover{background-position:0 -155px;color:#209f21;}
+.w7 .yuyue{background-position:0 -186px;color:#fd6002;}
+.w7 .yuyue:hover{background-position:0 -217px;color:#fb5702;}
+.w7 .evaluate{background-position:0 -248px;color:#00ab9e;}
+.w7 .evaluate:hover{background-position:0 -279px;color:#00ab9e;}
+.w7 .chakan{background:none;color:#5AA9D8;text-decoration:underline;}
+.w7 .chakan:hover{color:#FF9900;text-decoration:none;}
+
+.w7 .showevaluate{background:none;color:#5AA9D8;text-decoration:underline;}
+.w7 .showevaluate:hover{color:#FF9900;text-decoration:none;}
+
+th.w6 span{float:left;margin-right:5px;display:inline;}
+th.w6 .wen{background:url(/FrontEnd/images20090801/newmypanli/OrderList/wen.gif) no-repeat;height:16px;width:16px;float:left;}
+
+
+.page-top, .page-bottom {float:right;}
+.page-bottom {float:right;height:35px;margin:0 0 0 0;display:inline;}
+.page-bottom a, .page-bottom .page-cur, .page-bottom .page-start, .page-bottom .page-end {
+border:1px solid #AAAAAA;color:#666666;display:inline;float:left;height:20px;line-height:20px;margin-left:2px;padding:0 5px;text-decoration:none;}
+.page-bottom .page-start, .page-bottom .page-end {border:1px solid #DDDDDD;color:#CCC;font-family:"simsun";}
+.page-bottom a:hover {background:#FFEDE1;border:1px solid #FF9900;}
+.page-bottom .page-cur {background:#FFEDE1;border:1px solid #FF6600;color:#FF0000;}
+.page-bottom .page-break {float:left;margin:0 3px 0 5px;}
+.page-bottom .page-skip {color:#999999;display:inline;float:left;height:22px;line-height:22px;margin-left:5px;}
+.ts{border:1px solid #CCCCCC;}
+#jumpto,#ajaxjumpto {border:1px solid #aaa;width:20px;margin:0 3px;}
+.page_button{background:transparent url(/FrontEnd/images20090801/go.gif) no-repeat scroll 0 0;border:medium none;
+cursor:pointer;height:22px;margin:0 0 0 5px;width:22px;}
+.p{height:30px;padding:20px 0 0 0;}
+
+.tishi{background:url(/FrontEnd/images20090801/newmypanli/OrderList/tishi_pick.gif) no-repeat;height:42px;width:500px;margin:-43px -500px -507px -302px;position:relative;z-index:1;color:#d4631f;font-weight:100;line-height:30px;padding-left:10px;float:left;}
+.tishi a{background:url(/FrontEnd/images20090801/newmypanli/clo.gif) no-repeat center;float:right;height:12px;width:12px;margin:8px 16px 0 0;display:inline;}
+.tishi b{float:left;font-weight:100;}
+.tishi b a{background:none;float:none;color:#61AED3;}
+
+.pick_top{padding:10px 0 0 0;height:100px;}
+.p_pic{width:96px;float:left;}
+.p_left{float:right;padding-top:5px;width:615px;}
+.p_left h1{font-size:18px;font-family:"Microsoft YaHei";font-weight:normal;border-bottom:1px #b9b9b9 dashed;height:30px;}
+.pic{padding-top:4px;}
+.pic p{line-height:20px;color:#888;}
+.pic a{color:#71a8cf;}
+.pic a:hover{color:#ff0000;}
+
+
+.am_remind{height:36px;background-color:#defee0;border:1px dashed #8fd994;}
+.am_remind li{float:left;line-height:24px;color:#333;margin:0 12px 0 5px;}
+.am_remind ul{float:left;display:inline;color:#999;margin-top:5px;padding-left:10px;}
+.am_remind ul a{color:#333;text-decoration:none;}
+.am_remind ul a:hover{color:#F00;text-decoration:underline;}
+.am_remind span{color:#ff0000;}
+.am_remind .am_not a{color:#999;}
+.am_remind .am_not span{color:#999;}
+
+
+.am_remind2{height:36px;background-color:#defee0;border:1px solid #8fd994;}
+.am_remind2 p{line-height:36px;padding-left:10px;color:#1b7a22;}
+.am_remind2 a{color:#71a8cf;}
+.am_remind2 a:hover{color:#f00;text-decoration:none;}
+
+.no_list{background:url(/FrontEnd/images20090801/biaoqing/c7.gif) no-repeat 220px 70px;padding:80px 0 100px 300px;float:left;}
+.no_list p{line-height:20px;white-space:nowrap;}
+.no_list p span{padding:0 3px;color:#FF6600;}
+
+
+/*µ¯²ãstar*/
+.PickMon
+{
+    width:660px;
+    border:solid 1px #38913d;
+    position:fixed;
+    z-index:900;
+    background-color:#ffffff;
+    padding-bottom:50px;
+    left:50%;
+    top:50%;
+    margin-left:-330px;
+    margin-top:-236px;
+    _position:absolute;
+}
+.PickMon-Head
+{
+    background:url(/FrontEnd/images20090801/newmypanli/pick/tbg.gif) repeat-x;
+    height:58px;
+    border-top:solid 1px #fff;
+    border-bottom:solid 1px #e1ebd8;
+}
+    .PickMon-Head h1
+    {
+        float:left;
+        padding-left:40px;
+        margin-top:5px;
+        height:50px;
+        line-height:50px;
+        display:inline;
+        margin-left:30px;
+        font-size:16px;
+        color:#666;
+        background:url(/FrontEnd/images20090801/newmypanli/pick/s.gif) no-repeat left center;
+    }
+    .PickMon-Head a.Close
+    {
+        background: url(/FrontEnd/images20090801/icon/common/dialog_closer.gif) no-repeat;
+        cursor: pointer;
+       float: right;
+       height: 19px;
+       width: 25px;
+       margin:20px 20px 0 0px
+    }
+        .PickMon-Head a.Close:hover
+        {
+            background-position:-60px 0;
+        }
+.PickMon-Prompt
+{
+    height:35px;
+    width:575px;
+    padding-left:30px;
+    margin:10px auto 0 auto;
+    color:#919182;
+    border:solid 1px #fad974;
+    line-height:35px;
+    background:url(/FrontEnd/images20090801/newmypanli/pick/d.gif) no-repeat 10px center #ffffcc;
+}
+.PickMon table td,.PickMon table
+{
+    border-collapse: collapse;
+margin: 0;
+padding: 0;
+border:solid 1px #98cd9b;
+color:#363636;
+vertical-align:top;
+}
+.PickMon table
+{
+    width:607px;
+    margin:10px auto 0 auto;
+}
+    .PickMon table td
+    {
+        padding:10px;
+        line-height:20px;
+    }
+    .PickMon table td.Left1
+    {
+        background-color:#d7fcd8;
+        padding-right:10px;
+        text-align:right;
+        width:115px;
+    }
+.PickMon-AddressIn
+{
+    float:left;
+    margin-right:5px;
+    margin-top:5px;
+    display:inline;
+}
+.PickMon-Address
+{
+    float:left;
+    width:350px;
+   
+}
+    .PickMon-Address p span
+    {
+        color:#f00;
+        padding:0 5px;
+    }
+    
+    .PickMon-Address p span.redTip
+    {
+        color:#f00;
+        padding:0 0px;
+    }
+    
+.PickMon-AddOn
+{
+	cursor:pointer;
+padding:5px;
+     clear:both;
+     background-color:#f1f1f1;
+     /*height:75px;*/
+     border:dashed 1px #d3d3d3;
+     
+}
+.PickMon-Add
+{
+	cursor:pointer;
+    padding:5px;
+     clear:both;
+     /*height:75px;*/
+}
+    .PickMon-Address p.Date
+    {
+        color:#b3b3b3;
+    }
+.PickMon-Map
+{
+    width:57px;
+    height:27px;
+    float:right;
+    background:url(/FrontEnd/images20090801/newmypanli/pick/map.gif) no-repeat 0 -1px;
+    display:inline;
+    margin-top:10px;
+}
+    .PickMon-Map:hover
+    {
+        background-position:0 -33px;
+    }
+.PickMon-Date
+{
+    height:27px;
+    color:#ff6600;
+    padding-left:30px;
+    line-height:27px;
+    background:url(/FrontEnd/images20090801/newmypanli/pick/z.gif) no-repeat;
+}
+.PickMon-Submit
+{
+    margin:20px auto 0 auto;
+    height:32px;
+    text-align:center;
+    width:305px;
+}
+    .PickMon-Submit a.Left
+    {
+        height:32px;
+        width:100px;
+        background:url(/FrontEnd/images20090801/newmypanli/pick/close.gif) no-repeat  0 -1px;
+        display:inline;
+        float:left;  
+    }
+        .PickMon-Submit a.Left:hover
+        {
+            background-position:0 -39px;
+        }
+    .PickMon-Submit a.Right
+    {
+        color:#71a8cf;
+        font-size:14px;
+        text-decoration:underline;
+        float:left;
+        margin-left:10px;
+        display:inline;
+        line-height:32px;
+    }
+    .PickMon-Submit a.Submit
+    {
+        display:block;
+        width:100px;
+        height:32px;
+        line-height:32px;
+        color:#fff;
+        font-size:14px;
+        text-decoration:none;
+        background:url(/FrontEnd/images20090801/button/97an.gif) no-repeat;
+    }
+        .PickMon-Submit a.Submit:hover
+        {
+            background-position:0 -34px;
+        }
+.PickMon-AmendDate select
+{
+    height:19px;
+    width:143px;
+    border:solid 1px #abadb3;
+    background:#fff;
+}
+    .PickMon-AmendDate select option
+    {
+        border:none;
+    }
+/*µ¯²ãstop*/
+
+.p_loading {
+    background: none repeat scroll 0 0 #FFFFFF;
+    height: 50px;
+    margin-bottom: 150px;
+    padding-top: 130px;
+    position: relative;
+    text-align: center;
+}
+.p_loading p {
+    color: #BBBBBB;
+}
+.p_loading img {
+    margin-bottom: 3px;
+}
+
+.Track_message{width:550px;border:1px #38913d solid;position:fixed;z-index:900;_position:absolute;left:50%;margin-left:-180px;top:50%;margin-top:-204px;_margin-top:0;background:#fff;height:430px;}
+.Track_tou h1{float:left;font-size:14px;font-weight:normal;color:#666;padding:15px 0 0px 15px;}
+.Track_close{height:19px;width:25px;float:right;padding:15px 15px 0 0;}
+.Track_close a{background:url(/FrontEnd/images20090801/icon/common/dialog_closer.gif) no-repeat;cursor:pointer;float:right;height:19px;width:25px;}
+.Track_close a:hover{background-position:-60px;}
+.Track_tou{background:url(/FrontEnd/images20090801/icon/common/m1.gif) repeat-x 0 0;height:60px;}
+.Track_tishi{background:#ffffe3 url(/FrontEnd/images20090801/icon/common/deng.gif) no-repeat 12px 5px;border:1px solid #fde5b4;color:#999;height:28px;	line-height:28px;margin:0px;padding-left:32px; width: 420px;}
+.Track_tishi a{color:#71A8CF;}
+.Track_tishi a:hover{text-decoration:none;color:#FF6600;}
+.Track_box{border:#ddd solid 1px;margin:-1px 13px 0px 13px;padding-left:32px;background:#f9f9f9;height:285px;overflow:auto;font-family: Tahoma;border-top: none; }
+.Track_box td{line-height:18px;padding:2px 0 2px 0;width:340px;vertical-align:top;}
+.Track_box table{border-collapse:collapse;}
+.Track_o{color:#FF6600;}
+.Track_box td.Track_z{width:125px;}
+.dis2{border-left:#ddd solid 1px; }
+.Track_ment{cursor: pointer; width: 522px;height: 42px;font: 14px;font-weight: 900;border:#ddd solid 1px;margin: 10px 13px 0px 13px;border-bottom: none;  background-color: #f9f9f9; }
+.Track_ment .dis{ background-color: #f9f9f9;border-bottom:#f9f9f9 solid 1px; }
+.Track_ment li{background-color: #fff; text-align: center; height: 30px;float: left;width: 260px;line-height: 30px; border-bottom:#ddd solid 1px; }
+.am_pick_a{color:#71a8cf;}
+.am_pick_a :hover{color:#f00;text-decoration:none;}
+.PickMon table td.Left1 span{color:#999;}

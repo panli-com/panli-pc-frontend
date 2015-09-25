@@ -1,0 +1,25 @@
+.register{width:250px;margin:auto;padding:10px 0 55px 0;}
+.register dd{height:35px;}
+.register dt{font-size:12px;color:#bbb;}
+.register dl{margin-bottom:8px;}
+.register dl input{background:#fff;border:#63A3C5 solid 1px;padding:6px 3px;width:242px;font-size:14px;}
+.register dl .h{color:#bbb;}
+.register dl .z{color:#666;}
+.register dl .r{color:#f00;}
+.register dl .yzm{width:110px;float:left;}
+.register img {float:left;width:125px;height:28px;margin-left:5px;cursor:pointer;}
+
+.tijiao{padding-top:10px;clear:both;}
+.tijiao label input{float:left;margin-right:3px;display:inline;}
+.tijiao span{display:block;height:40px;}
+.button,.button_{background:url(/FrontEnd/images20090801/Wap/ok.gif) no-repeat top;width:100px;height:38px;border:none;height:44px;color:#FFFFFF;line-height:30px;padding-bottom:14px;cursor:pointer;font-size:14px;}
+
+.succeed{width:170px;margin:50px auto 50px auto;background:#fbffdf url(/FrontEnd/images20090801/Wap/succeed.gif) no-repeat 20px 30px;border:#ffc55f solid 1px;padding:30px 10px 30px 70px;}
+.succeed p{font-size:14px;line-height:24px;padding-bottom:15px;color:#090;}
+.succeed span{font-size:12px;line-height:22px;}
+.succeed a{color:#71a8cf;}
+.succeed a:hover{color:#f00;text-decoration:none;}
+.fanhui{height:38px;}
+.fanhui a{background:url(/FrontEnd/images20090801/Wap/fanhui.gif) no-repeat 0 0;height:38px;width:100px;border:0;font-size:14px;color:#333;text-align:center;text-decoration:none;float:left;line-height:35px;}
+
+

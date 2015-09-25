@@ -1,0 +1,46 @@
+body{ margin:0 auto;font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span30{ height:30px; line-height:30px; display:block; clear:both;}
+
+#frame{ width:950px; margin:0 auto;}
+.banner_top{ width:950px; margin:auto;}
+.banner1{ background:url(cssImg/banner_gift_03.jpg) no-repeat;  height:90px;}
+.banner2{ background:url(cssImg/banner_gift_05.jpg) no-repeat;  height:90px;}
+.banner3{ background:url(cssImg/banner_gift_06.jpg) no-repeat;  height:90px;}
+.banner4{ background:url(cssImg/banner_gift_07.jpg) no-repeat;  height:80px;}
+.banner5{ background:url(cssImg/banner_gift_08.gif) no-repeat;  height:100px;}
+.banner6{ background:url(cssImg/banner_gift_09.gif) no-repeat;  height:100px;}
+.banner7{ background:url(cssImg/banner_gift_10.gif) no-repeat;  height:100px;}
+
+.content{ background-color:#ff9600;padding:8px 33px 0 33px;}
+.jifen_con dd{ background:url(cssImg/xian.gif) repeat-y; width:888px; overflow:hidden;}
+.shi_buttom{ background:url(cssImg/shi_buttom.jpg) no-repeat; width:888px; height:9px;}
+.pro_gift li{ float:left; display:block;margin:0 19px;font-family:"Microsoft YaHei",微软雅黑;}
+.bian{ border:solid 2px #eaeaea; padding:2px; background-color:#fff; display:block;}
+.pro_gift{ padding:15px 40px; display:block;}
+.pro_gift span{ display:block; text-align:center; margin-top:8px; color:#ff4800; font-size:18px;}
+.pro_gift .number{ font-size:14px; color:#555;}
+.pro_gift span a{color:#ff4800; text-decoration:none;}
+.pro_gift span a:hover{color:#ff4800; text-decoration:underline;}
+
+.jctuangou{ text-align:center; padding:20px 0;}
+.thank_t{ background:url(cssImg/title_t.gif) no-repeat; width:890px; height:42px;}
+.thank_b{ background:url(cssImg/title_b.gif) no-repeat; width:890px; height:23px;}
+.thank dd{ background:url(cssImg/title_c.gif) repeat-y; width:890px; overflow:hidden; padding:10px 40px 0 40px;}
+.thank_pro li{ float:left; margin:6px 6px 0 6px; display:block;}
+.pro{ background-color:#fff; border:solid 1px #ffbc66; padding:1px; display:block; width:146px; height:51px;}
+.thank_pro span{ text-align:center; font-size:14px; margin-top:5px; display:block;}
+.thank_pro span a{color:#ff4800; text-decoration:none;}
+.thank_pro span a:hover{color:#ff4800; text-decoration:underline;}
+.bbs_haoli{ text-align:center; padding:20px 0;}
+
+.copy{ text-align:right; display:block; padding:0 10px 10px 0;} 
+.button{  position:relative;}
+.icon{width:400px;height:67px;left:275px;top:22px;position:absolute;}
+.icon a{width:400px; height:67px; display:block; background:url(cssImg/button.gif) no-repeat top;}
+.icon a:hover{ background-position:bottom;}

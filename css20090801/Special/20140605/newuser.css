@@ -1,0 +1,72 @@
+﻿body{ margin:0 auto; font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span25{ height:25px; line-height:25px; display:block; clear:both;}
+.left{ float:left;}
+.right{ float:right;}
+
+#frame{ width:100%; margin:0 auto; background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/back.gif) fixed; overflow:hidden;}
+.banner{ height:540px;}
+.banner1{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_02.jpg) no-repeat center; height:75px;}
+.banner2{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_03.jpg) no-repeat center; height:75px;}
+.banner3{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_04.jpg) no-repeat center; height:75px;}
+.banner4{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_05.jpg) no-repeat center; height:75px;}
+.banner5{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_06.jpg) no-repeat center; height:75px;}
+.banner6{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_07.jpg) no-repeat center; height:65px;}
+.banner7{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_08.jpg) no-repeat center; height:100px;}
+.coupons{width:219px;height:58px; margin:0 auto; position:relative;}
+.coupons a{width:219px; height:58px; display:block; background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/coupons.gif) no-repeat top;}
+.coupons a:hover{ background-position:bottom;}
+
+
+.news_content{ width:998px; margin:0 auto; padding-top:10px;}
+.l_con{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_icon.gif) no-repeat; width:57px; height:1213px; padding-right:11px;}
+.r_con{ width:930px; padding-top:10px;}
+.new_title{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_16.gif) no-repeat; width:843px; height:39px; margin:0 0 15px 10px;}
+.new_title1{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_36.gif) no-repeat; width:357px; height:34px; margin:0 0 15px 10px;}
+.new_title2{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_43.gif) no-repeat; width:403px; height:37px; margin:0 0 15px 10px;}
+.new_title3{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_50.gif) no-repeat; width:544px; height:37px; margin:0 0 15px 10px;}
+.panli_list li{ float:left; padding:3px;}
+.new_img1{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_20.gif) no-repeat; width:304px; height:120px;}
+.new_img2{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_22.gif) no-repeat; width:304px; height:120px;}
+.new_img3{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_24.gif) no-repeat; width:304px; height:120px;}
+.new_img4{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_30.gif) no-repeat; width:304px; height:120px;}
+.new_img5{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_31.gif) no-repeat; width:304px; height:120px;}
+.new_img6{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_32.gif) no-repeat; width:304px; height:120px;}
+.process{ background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_39.gif) no-repeat; width:928px; height:110px;}
+
+.jineng_one{ background-color:#fff; border:solid 6px #49a173; padding:20px 13px; overflow:hidden;}
+.sale li{ float:left; padding:30px 3px 25px 3px;}
+.sale_img{ text-align:center;}
+.app_store{position:relative;}
+.anquang li{ float:left; padding:20px 3px 0 3px;}
+.team{ width:440px; float:left;}
+.team_con{ border:solid 3px #dfdbce; background-color:#fff; margin-top:15px; padding:12px; overflow:hidden; clear:both; width:410px;}
+.panli_img{ float:left;}
+.panli_title{ float:left; display:block; margin-left:15px; color:#fe554a; font-weight:bold; background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_65.gif) no-repeat left center; padding-left:40px; font-size:16px;}
+.panli_title a{ color:#fe554a; text-decoration:none;} 
+.text{ display:block; margin-left:15px; width:270px; float:left; font-size:14px; line-height:20px; color:#555; text-indent:4ex; margin-top:6px;}
+.text a{ text-decoration:none; color:#555;}
+.text span{ color:#fe554a;}	
+.xian{ height:24px; clear:both; background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_members_71.gif) no-repeat center;}
+.huiyuan{ width:440px; float:right;}
+.shopp_img{ float:left;}
+.shopp_title{ width:270px; float:left; display:block; margin-left:15px; color:#fe554a; font-weight:bold; background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/tao_img_65.gif) no-repeat left center; padding-left:40px; font-size:14px;}
+.shopp_title span{ float:right; width:50px; display:block;} .shopp_title span a{ color:#f75e34; text-decoration:none;}
+.shopp_text{ display:block; margin-left:15px; width:310px; float:left; font-size:12px; line-height:16px; color:#555; text-indent:4ex; margin-top:4px;}
+.shopp_text a{ text-decoration:none; color:#555;} 
+.yuuli{ display:block; width:310px; float:left; margin-left:15px; font-size:12px; color:#999;}
+.news{ margin-top:4px; display:block; float:left; width:410px;}
+.news li{ float:left; font-size:12px; color:#555; width:202px;}
+.news li a{ text-decoration:none; color:#555;}
+.news li a:hover{ color:#fe554a;}
+
+.new_button{ position:relative; height:100px; clear:both;}
+.icon{width:417px;height:60px;left:290px;top:30px;position:absolute;}
+.icon a{width:417px; height:60px; display:block; background:url(http://sf.panli.com/FrontEnd/images20090801/special/20140605_New/new_button.gif) no-repeat top;}
+.icon a:hover{ background-position:bottom;}
+.banquan{ text-align:right; color:#265e41; padding-bottom:20px; font-size:14px;}

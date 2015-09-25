@@ -1,0 +1,15 @@
+﻿
+.tcbox{position:absolute;  font: 12px/1.5 '\5fae\8f6f\96c5\9ed1',tahoma,sans-serif;}
+.country{background:#ffffd6;border:#7f9db9 solid 1px;width:622px;padding:10px 0;overflow:hidden;}
+.zimu{border-bottom:#f60 solid 1px;height:24px;line-height:24px;width:600px;margin-left:10px;}
+.zimu li{ list-style:none;}
+.zimu li a{float:left;background:#ffe1b0;margin-right:5px;display:inline;text-align:center;text-decoration:none;color:#b65616;}
+.zimu li .w35{width:35px;}
+.zimu li .w90{width:90px;}
+.zimu .c_on a{color:#fff;background:#f60;}
+.zimu .c_on a:hover{color:#fff;background:#f60;}
+.gj_name{padding:10px 0 0 10px;}
+.gj_name li{width:120px;}
+.gj_name ul li a{text-decoration:none;color:#333;padding:1px;}
+.gj_name ul li a:hover{background:#FF6600;color:#fff;}
+.s2 ul li a{}

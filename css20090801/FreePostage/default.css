@@ -1,0 +1,62 @@
+/* CSS Document */
+.f_all{margin:auto;width:950px;margin-bottom:3px;}
+.f_left{background:url(/FrontEnd/images20090801/freepostage/line.gif) repeat-y  -693px 0;float:left;width:690px;overflow:hidden;}
+.banner{background:url(/FrontEnd/images20090801/freepostage/line.gif) no-repeat left top;height:100px;}
+.free{background:url(/FrontEnd/images20090801/freepostage/freetop.gif) no-repeat 0 0;width:664px;height:48px;float:left;margin:10px 0 0 12px;display:inline;margin-bottom:13px;}
+.free ul{margin:5px 0 0 185px;}
+.free ul li{line-height:18px;color:#999;line-height:20px;}
+
+.dao{height:25px;float:left;width:666px;padding-left:10px;}
+.dao ul li{float:left;border-right:1px solid #999;}
+.dao ul li a{color:#666;font-size:14px;padding:0 7px;text-decoration:none;}
+.dao ul li a:hover{color:#6f9663;text-decoration:underline;}
+
+.shangjia{background:url(/FrontEnd/images20090801/freepostage/line.gif) no-repeat -1387px bottom;float:left;width:678px;padding-left:12px;}
+.lanmu{float:left;width:666px;}
+.biaoti{padding-bottom:15px;padding-top:15px;background-color:#edfae9;width:654px;padding:0 0 0 11px;height:30px;line-height:30px;margin-bottom:15px;}
+.biaoti h1{background:url(/FrontEnd/images20090801/freepostage/f1.gif) no-repeat 0 center;padding-left:10px;}
+.biaoti h1{font-size:14px;color:#6f9663;font-weight:normal;float:left;}
+.biaoti span{float:right;padding-right:10px;text-decoration:none;}
+.biaoti span a{text-decoration:none;color:#999;background:url(/FrontEnd/images20090801/freepostage/jiantou.gif) no-repeat 0 center;padding-left:8px;}
+.sj{_height:1px;min-height:1px;}
+.sj ul{}
+.sj ul li{float:left;text-align:center;width:115px;margin-right:18px;height:85px;}
+.sj ul li p a{color:#71a8cf;text-decoration:none;}
+
+
+
+.f_tu{height:55px;}
+.f_tu a{border:1px solid #c5d3e0;float:left;}
+.f_tu img{width:110px;height:45px;}
+.sj ul li a:hover{color:#ff0000;text-decoration:underline;}
+.f_right{background:url(/FrontEnd/images20090801/freepostage/line.gif) repeat-y -2337px top;width:250px;float:right;overflow:hidden;}
+.lmmc{background:url(/FrontEnd/images20090801/freepostage/line.gif) no-repeat -2082px top;border-bottom:#e2e2e2 solid 1px;height:45px;}
+.f_one h2{font-size:14px;color:#3c6699;float:left;margin:15px 0 0 10px;display:inline;font-weight:normal;}
+.paixu span, .paixu b{display:block;float:left;font-weight:bold;font-size:10px;background:url(/FrontEnd/images20090801/freepostage/ph.gif) no-repeat;height:13px;width:16px;text-align:center;color:#FFF;line-height:12px;margin-top:9px;}
+.paixu b{background-position:0 -31px;}
+.mz{background:url(/FrontEnd/images20090801/freepostage/line.gif) no-repeat -2592px bottom;padding-bottom:20px;}
+.mz a{float:left;border:#dddddd solid 1px;height:45px;width:110px;margin-left:9px;margin-top:10px;}
+.paixu{float:right;width:250px;height:360px;display:inline;background:url(/FrontEnd/images20090801/freepostage/line.gif) no-repeat -2592px bottom;}
+.paixu li{height:33px;background:url(/FrontEnd/images20090801/freepostage/d.gif) repeat-x bottom;float:left;width:222px;border-bottom:1px dashed #ddd;}
+.paixu ul{padding-left:15px;}
+.paixu ul i{float:right;margin-top:11px;}
+.paixu ul a{color:#71a8cf;float:left;margin-left:10px;display:inline;overflow:hidden;width:125px;height:20px;line-height:20px;margin-top:5px;}
+.paixu ul a:hover{text-decoration:none;color:#FF0000;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

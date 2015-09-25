@@ -1,0 +1,42 @@
+body{ margin:0 auto;font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto; margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span20{ height:20px; line-height:20px; display:block; clear:both;}
+
+#frame{ background:url(cssImg/back.gif) repeat-x; margin:0 auto; height:377px;}
+.banner_top{ width:960px; margin:auto;}
+.banner01{ background:url(cssImg/banner1.jpg) no-repeat; width:960px; height:70px;}
+.banner02{ background:url(cssImg/banner2.jpg) no-repeat; width:960px; height:70px;}
+.banner03{ background:url(cssImg/banner3.jpg) no-repeat; width:960px; height:70px;}
+.banner04{ background:url(cssImg/banner4.jpg) no-repeat; width:960px; height:70px;}
+.banner05{ background:url(cssImg/banner5.jpg) no-repeat; width:960px; height:42px;}
+
+#back{ background-color:#fff4d2; margin:0 auto;} 
+.content{ width:960px; margin:0 auto;}
+.dianpu_t{ background:url(cssImg/ten_vip_17.gif) no-repeat; width:960px;  height:127px;}
+.dianpu_b{ background:url(cssImg/ten_vip_78.gif) no-repeat; width:960px;  height:22px;}
+.dianpu dd{ background:url(cssImg/ten_vip_19.gif) repeat-y; width:900px; padding:0 30px; overflow:hidden;}
+*+html .dianpu dd{ padding-bottom:10px;}
+
+.meiyi_title{ padding-bottom:10px;}
+.meiyi_list li{ float:left; display:block; margin:13px 7px;}
+.bian{ border:solid 1px #dadada; padding:1px; background-color:#fff; display:block;}
+.meiyi_list span{ font-size:16px; color:#ff4200; text-align:center; display:block; padding-top:10px;}
+.meiyi_list span a{color:#ff4200; text-decoration:none;}
+.meiyi_list span a:hover{ color:#ff4200; text-decoration:underline;}
+
+.binfen_list li{ float:left; display:block; margin:13px 7px;}
+.bian{ border:solid 1px #dadada; padding:1px; background-color:#fff; display:block;}
+.binfen_list span{ font-size:16px; color:#ff4200; text-align:center; display:block; padding-top:10px;}
+.binfen_list span a{color:#5d8d09; text-decoration:none;}
+.binfen_list span a:hover{ color:#5d8d09; text-decoration:underline;}
+
+.xize{ width:924px; background-color:#ff9c00; padding:18px;}
+.xize_title{ padding-bottom:5px;}
+.text{ color:#fff; font-size:14px; line-height:22px;}
+.text span{ color:#fff600;}
+.man{ width:835px; background-color:#ee8700; padding:5px 10px; margin:5px 0 5px 22px; display:block;}

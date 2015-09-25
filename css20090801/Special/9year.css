@@ -1,0 +1,21 @@
+body{ margin:0 auto;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span20{ height:20px; line-height:20px; display:block; clear:both;}
+
+#frame{ background:url(/FrontEnd/images20090801/special/9year/back.gif) fixed;}
+.banner_top{ width:950px; margin:auto;}
+.copy{ text-align:right; display:block; padding:10px 0 15px 0;} 
+
+.button{  position:relative;}
+.icon{width:272px;height:46px;left:135px;top:28px;position:absolute;}
+.icon a{width:272px; height:46px; display:block; background:url(/FrontEnd/images20090801/special/9year/button_03.gif) no-repeat top;}
+.icon a:hover{ background-position:bottom;}
+
+.icon1{width:332px;height:46px;left:482px;top:28px;position:absolute;}
+.icon1 a{width:332px; height:46px; display:block; background:url(/FrontEnd/images20090801/special/9year/button_05.gif) no-repeat top;}
+.icon1 a:hover{ background-position:bottom;}

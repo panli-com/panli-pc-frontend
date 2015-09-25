@@ -1,0 +1,27 @@
+body{ margin:0 auto;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span20{ height:20px; line-height:20px; display:block; clear:both;}
+
+#frame{ background:url(yugao/back.gif) repeat-x; height:857px;}
+.banner_top{ width:950px; margin:auto;}
+.banner1{ background:url(yugao/ten_herald_05.jpg) no-repeat; height:80px;}
+.banner2{ background:url(yugao/ten_herald_07.jpg) no-repeat; height:80px;}
+.banner3{ background:url(yugao/ten_herald_08.jpg) no-repeat; height:80px;}
+.banner4{ background:url(yugao/ten_herald_09.jpg) no-repeat; height:80px;}
+.banner5{ background:url(yugao/ten_herald_10.jpg) no-repeat; height:80px;}
+.banner6{ background:url(yugao/ten_herald_11.gif) no-repeat; height:80px;}
+.banner7{ background:url(yugao/ten_herald_12.gif) no-repeat; height:80px;}
+.banner8{ background:url(yugao/ten_herald_13.gif) no-repeat; height:80px;}
+.banner9{ background:url(yugao/ten_herald_14.gif) no-repeat; height:80px;}
+.banner10{ background:url(yugao/ten_herald_15.gif) no-repeat; height:137px;}
+.register{ display:block; padding:45px 0 0 470px;}
+
+.button{  position:relative;}
+.icon{width:400px;height:67px;left:275px;top:22px;position:absolute;}
+.icon a{width:400px; height:67px; display:block; background:url(yugao/button.gif) no-repeat top;}
+.icon a:hover{ background-position:bottom;}

@@ -1,0 +1,133 @@
+.Localize
+{
+	float: left;
+	width: 100%;
+	height: 652px;
+	background: url(/FrontEnd/images20090801/localize/localizere.gif) repeat-x;
+	margin-top: -12px;
+}
+.Localize-Bg
+{
+	float: left;
+	width: 100%;
+	height: 652px;
+	background: url(/FrontEnd/images20090801/localize/localizebg.jpg) no-repeat center top;
+}
+.Localize-Con
+{
+	width: 650px;
+	height: 520px;
+	margin: 83px auto 0 auto;
+}
+.Localize-Top
+{
+	width: 630px;
+	height: 200px;
+	border-bottom: dashed 1px #e3e3e3;
+	padding-top: 28px;
+}
+.Localize-Title
+{
+	width: 100%;
+	height: 45px;
+	display: block;
+	background: url(/FrontEnd/images20090801/localize/title.gif) no-repeat center top;
+}
+.Localize-Text
+{
+	width: 600px;
+	height: 45px;
+	margin: 0 auto 0 auto;
+	background-color: #f3fde9;
+	border: solid 1px #cbecb7;
+	color: #72b93c;
+	display: block;
+	line-height: 45px;
+	font-size: 16px;
+	font-family: "Microsoft Yahei";
+	text-align: center;
+	margin-top: 20px;
+}
+.Localize-Top p
+{
+	width: 580px;
+	margin: 0 auto 0 auto;
+	font-size: 14px;
+	line-height: 30px;
+	margin-top: 15px;
+	color: #4b4b4b;
+}
+.Localize-Top p a
+{
+	color: #71a8cf;
+}
+.Localize-Top p a:hover
+{
+	color: #f00;
+}
+.Localize-Center
+{
+	width: 600px;
+	height: 165px;
+	margin: 0 auto 0 auto;
+	font-size: 14px;
+	background: url(/FrontEnd/images20090801/localize/pelpeo.gif) no-repeat right center;
+	color: #4b4b4b;
+	padding-top: 20px;
+}
+.Localize-Center ul li
+{
+	height: 33px;
+}
+.Localize-Bottom
+{
+	width: 570px;
+	margin-left: 20px;
+}
+.Localize-Bottom span.Span
+{
+	font-weight: 800;
+	font-size: 14px;
+	color: #4b4b4b;
+}
+.Localize-Bottom p span
+{
+	width: 224px;
+	height: 48px;
+	display: block;
+	float: left;
+	background: url(/FrontEnd/images20090801/localize/text.gif) no-repeat;
+}
+.Localize-Bottom p
+{
+	margin-top: 18px;
+}
+#LocalizeText
+{
+	border: none;
+	background: none;
+	width: 204px;
+	padding: 14px 10px;
+	font-size: 14px;
+	outline: none;
+}
+.LocalizeSubmit
+{
+	border: none;
+	background: none;
+	width: 242px;
+	height: 48px;
+	background: url(/FrontEnd/images20090801/localize/submit.gif) no-repeat;
+	display: inline;
+	margin-left: 36px;
+}
+.LocalizeSubmit_
+{
+	border: none;
+	background: none;
+	width: 242px;
+	height: 48px;
+	background: url(/FrontEnd/images20090801/localize/submit.gif) no-repeat 0 -57px;
+	display: inline;
+	margin-left: 36px;
+}

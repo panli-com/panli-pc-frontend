@@ -1,0 +1,37 @@
+﻿body{ margin:0 auto; font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span30{ height:30px; line-height:30px; display:block; clear:both;}
+.left{ float:left;}
+.right{ float:right;}
+
+#frame{ width:100%; margin:0 auto; background:url(/FrontEnd/images20090801/special/9years_sale_au/back.gif) fixed;}
+.banner{ width:100%; margin:0 auto; text-align:center;}
+.banner1{ background:url(/FrontEnd/images20090801/special/9years_sale_au/az_ziti_02.jpg) no-repeat center; height:80px;}
+.banner2{ background:url(/FrontEnd/images20090801/special/9years_sale_au/az_ziti_03.gif) no-repeat center; height:80px;}
+.banner3{ background:url(/FrontEnd/images20090801/special/9years_sale_au/az_ziti_04.gif) no-repeat center; height:80px;}
+.banner4{ background:url(/FrontEnd/images20090801/special/9years_sale_au/az_ziti_05.gif) no-repeat center; height:80px;}
+.banner5{ background:url(/FrontEnd/images20090801/special/9years_sale_au/az_ziti_06.gif) no-repeat center; height:86px;}
+
+.back{ width:100%; background:url(/FrontEnd/images20090801/special/9years_sale_au/xian.gif) repeat-y center;}
+.content{ width:1044px; margin:0 auto;}
+.con1{ background:url(/FrontEnd/images20090801/special/9years_sale_au/az_ziti_08.gif) no-repeat; height:88px;}
+.con2{ background:url(/FrontEnd/images20090801/special/9years_sale_au/az_ziti_10.gif) no-repeat; height:63px;}
+.con3{ background:url(/FrontEnd/images20090801/special/9years_sale_au/az_ziti_11.gif) no-repeat; height:170px;}
+.con4{ background:url(/FrontEnd/images20090801/special/9years_sale_au/az_ziti_12.gif) no-repeat; height:165px; position:relative;}
+.con5{ background:url(/FrontEnd/images20090801/special/9years_sale_au/az_ziti_13.gif) no-repeat; height:73px;}
+.con6{ background:url(/FrontEnd/images20090801/special/9years_sale_au/az_ziti_14.gif) no-repeat; height:226px;}
+.zhuce{ position:relative; left:792px; top:25px;width:181px;}
+.yunfei{ position:relative; left:855px; top:19px;width:129px;}
+.more{ position:relative; left:545px; top:29px;width:91px;}
+
+.icon{width:286px;height:52px;left:193px;top:75px;position:absolute;}
+.icon a{width:286px; height:52px; display:block; background:url(/FrontEnd/images20090801/special/9years_sale_au/button1.gif) no-repeat top;}
+.icon a:hover{ background-position:bottom;}
+.icon1{width:306px;height:52px;left:545px;top:75px;position:absolute;}
+.icon1 a{width:306px; height:52px; display:block; background:url(/FrontEnd/images20090801/special/9years_sale_au/button2.gif) no-repeat top;}
+.icon1 a:hover{ background-position:bottom;}

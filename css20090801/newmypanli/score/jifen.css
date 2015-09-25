@@ -1,0 +1,67 @@
+.fill{float:right;width:720px;margin:25px 23px 0 0;display:inline;border-bottom:30px;}
+.jifen_top .face{margin-right:5px;display:inline;}
+.face{background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/tx.gif) no-repeat;height:140px;width:140px;float:left;}
+.face img{width:120px;height:120px;margin:7px 0 0 7px;}
+.jifen_top{border-bottom:#ddd solid 1px;height:160px;padding:0 0 0 5px;}
+.huiyuan{float:left;width:300px;background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/score/dd.gif) repeat-y right;padding-right:20px;height:138px;}
+.huiyuan h2{font-size:14px;color:#64ab17;border-bottom:#ddd dashed 1px;height:30px;line-height:30px;font-weight:100;margin-bottom:8px;padding:0 5px;}
+.huiyuan ul{float:left;}
+.huiyuan ul li{line-height:24px;}
+.huiyuan ul li span{color:#FF0000;}
+.huiyuan a{float:right;background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/score/nav.gif) no-repeat top;height:22px;color:#999;text-decoration:none;line-height:22px;width:79px;text-align:center;display:inline;margin:20px 10px 0 0;}
+.huiyuan a:hover{background-position:0 -23px;color:#666;}
+.shuzhi{height:54px;border-bottom:#ddd dashed 1px;margin-bottom:8px;padding:0 5px;}
+.huiyuan p{color:#999;line-height:20px;padding:0 5px;}
+.wenti{float:left;width:230px;padding-left:20px;}
+.ji_lm{background:#f6f6f6;height:26px;border-top:#f1f1f1 solid 1px;margin-bottom:10px;padding:0 10px;line-height:26px;}
+.ji_lm a{float:right;color:#bbb;text-decoration:none;}
+.ji_lm h2{float:left;font-size:12px;}
+
+.wenti ul{margin-left:5px;}
+.wenti ul a{color:#7ba9d7;}
+.wenti ul li{line-height:26px;background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/score/sj.gif) no-repeat left;padding-left:10px;}
+.wenti a:hover{color:#F00;text-decoration:none;}
+
+.jifen{border:#E6E6E6 solid 1px;border-top:0;}
+
+.jf_xz{background:#FFF url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/score/yj.gif) no-repeat left bottom;height:40px;width:720px;position:relative;margin:25px -3px -1px 0;}
+.jf_xz li{float:left;font-size:14px;height:36px;display:inline;margin-right:5px;}
+.jf_xz li a{text-decoration:none;color:#aaa;display:block;background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/score/jilu.gif) no-repeat right -4px;height:32px;line-height:32px;width:138px;text-align:center;margin-top:4px;}
+.jf_xz li .o{background-position:0 0;line-height:36px;height:36px;color:#64ab17;font-weight:bold;margin:0;}
+
+.time{height:35px;padding:15px 20px 0 187px;overflow:hidden;}
+.time label{float:left;font-size:14px;margin:0 0 0 10px;height:30px;line-height:30px;}
+.riqi input{border:none;width:120px;float:left;margin:0;padding:4px 3px;border:0;}
+.riqi{border:#ccc solid 1px;width:148px;background:#FFF;height:23px;overflow:hidden;float:left;}
+.riqi button{background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/RmbAccount/guojia.gif) no-repeat right;border:none;width:17px;height:16px;cursor:pointer;float:left;margin:3px 1px 0 1px;display:inline;}
+.chakan{background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/score/cha.gif) no-repeat;width:46px;height:25px;border:none;color:#FFF;font-size:14px;float:left;margin-left:5px;display:inline;cursor:pointer;}
+
+
+.biao{background:url(http://sf.panli.com/FrontEnd/images20090801/newmypanli/score/yj.gif) no-repeat right bottom;width:720px;padding-bottom:20px;margin:0 -1px -1px -1px;}
+.biao table{width:680px;border-collapse:collapse;margin-left:20px;}
+.biao table td{border-bottom:#e5e5e5 solid 1px;padding:10px 8px;}
+.biao table th{border-top:#e6e6e6 solid 1px;background:#e8e8e8;height:26px;text-align:left;padding:1px 8px;}
+
+.page-top, .page-bottom {float:right;}
+.page-bottom {float:right;height:35px;margin:0 10px 0 0;display:inline;}
+.page-bottom a, .page-bottom .page-cur, .page-bottom .page-start, .page-bottom .page-end {
+border:1px solid #AAAAAA;color:#666666;display:inline;float:left;height:20px;line-height:20px;margin-left:2px;padding:0 5px;text-decoration:none;}
+.page-bottom .page-start, .page-bottom .page-end {border:1px solid #DDDDDD;color:#CCC;font-family:"simsun";}
+.page-bottom a:hover {background:#FFEDE1;border:1px solid #FF9900;}
+.page-bottom .page-cur {background:#FFEDE1;border:1px solid #FF6600;color:#FF0000;}
+.page-bottom .page-break {float:left;margin:0 3px 0 5px;}
+.page-bottom .page-skip {color:#999999;display:inline;float:left;height:22px;line-height:22px;margin-left:5px;}
+.ts{border:1px solid #CCCCCC;}
+#jumpto,#ajaxjumpto {border:1px solid #aaa;width:20px;margin:0 3px;}
+.page_button{background:transparent url(http://sf.panli.com/FrontEnd/images20090801/go.gif) no-repeat scroll 0 0;border:medium none;
+cursor:pointer;height:22px;margin:0 0 0 5px;width:22px;}
+.p{height:30px;padding:20px 20px 0 0;}
+
+.w1{width:170px;}
+.biao .w2{width:350px;line-height:18px;padding-right:30px}
+td.w3{color:#FF0000}
+.w3 span{color:#339900;}
+
+.mei{font-size:14px;text-align:center;padding:100px 0;margin:0 20px;border-top:#CCC dashed 1px;color:#999;} 
+
+

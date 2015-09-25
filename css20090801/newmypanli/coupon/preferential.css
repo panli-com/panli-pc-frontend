@@ -1,0 +1,73 @@
+.fill{float:right;width:720px;margin:25px 23px 0 0;display:inline;padding-bottom:20px;}
+.p_top{height:170px;}
+.p_right{float:right;width:565px;}
+.p_pic{float:left;width:141px;}
+.p_info{float:left;width:285px;height:125px;}
+.p_info h2{color:#69af51;font-size:14px;height:25px;line-height:22px;padding-left:5px;}
+.p_info p{padding-left:5px;}
+.p_info p span{color:#f90;margin-right:10px;}
+.p_info p a{color:#71A8CF;}
+.p_info p a:hover{color:#F00;text-decoration:none;}
+.p_info ul{border-top:#CCC dashed 1px;border-bottom:#CCC dashed 1px;padding:8px 0;margin-bottom:12px;}
+.p_info ul li{line-height:22px;padding-left:5px;}
+.p_info ul li span{color:#F00;padding:0 3px;}
+.p_info ul li a{color:#f90;}
+.p_info ul li a:hover{color:#F00;text-decoration:none;}
+
+.ask{height:125px;float:right;width:265px;}
+.ask h2{font-size:12px;height:18px;}
+.ask li{line-height:20px;padding-left:10px;background:url(/FrontEnd/images20090801/newmypanli/fk.gif) no-repeat left;}
+.ask li a{color:#71A8CF;text-decoration:none;}
+.ask li a:hover{color:#F00;text-decoration:underline;}
+.tieshi{background:#fffddf;float:left;width:550px;height:25px;line-height:25px;border:#eee solid 1px;padding-left:10px;color:#d5b868;}
+.chaozuo{border-bottom:#CCC solid 1px;padding-top:25px;height:90px;}
+.chaozuo li{float:left;width:225px;padding-right:10px;}
+.tu{width:75px;float:left;}
+.gy h2{font-size:14px;height:28px;line-height:25px;}
+.gy h2 a{color:#71A8CF;font-weight:100;}
+.gy h2 a:hover{color:#F00;text-decoration:none;}
+.gy p{line-height:18px;color:#999;}
+
+
+.jf_xz{background:#FFF url(/FrontEnd/images20090801/newmypanli/coupon/yj.gif) no-repeat left bottom;height:40px;width:720px;position:relative;margin:25px -3px -1px 0;}
+.jf_xz li{float:left;font-size:14px;display:inline;margin-right:5px;color:#666;background:url(/FrontEnd/images20090801/newmypanli/coupon/jilu.gif) no-repeat right -4px;height:32px;line-height:32px;width:178px;text-align:center;margin-top:4px;cursor:pointer;}
+.jf_xz .o{background-position:0 0;line-height:36px;height:36px;color:#69af51;font-weight:bold;margin:0 5px 0 0;}
+.jf_xz p{float:right;margin:10px 5px 0 0;display:inline;}
+.jf_xz p a{color:#71A8CF;}
+.jf_xz p a:hover{color:#FF0000;text-decoration:none;}
+.jilu{background:url(/FrontEnd/images20090801/newmypanli/coupon/yj.gif) no-repeat right bottom;padding-bottom:5px;}
+.biao{border-left:#e3e3e3 solid 1px;border-right:#e3e3e3 solid 1px;padding:20px 0 20px 15px;}
+.biao table{border-collapse:collapse;width:690px;font-family:Arial;}
+.hui{background:#f9f9f9;}
+.biao table th{border-bottom:#CCC solid 1px;height:25px;background:#999;color:#FFF;text-align:left;padding-left:10px;padding-top:3px;}
+.biao table th span{font-weight:100;}
+.biao table td{border-bottom:#ddd solid 1px;padding:8px 0 8px 10px;}
+.w1{width:70px;}
+.w2{width:230px;}
+.w3{color:#f00;width:50px;}
+.w4{width:80px;}
+.w5{color:#F00;width:60px;}
+.w6{width:60px;}
+.w6 span{color:#339900;}
+.w7 a{color:#71A8CF;}
+.w7 a:hover{color:#F00;text-decoration:none;}
+
+.page-top, .page-bottom {float:right;}
+.page-bottom {float:right;height:25px;margin:15px 20px -30px 0;display:inline;}
+.page-bottom a, .page-bottom .page-cur, .page-bottom .page-start, .page-bottom .page-end {
+border:1px solid #AAAAAA;color:#666666;display:inline;float:left;height:20px;line-height:20px;margin-left:2px;padding:0 5px;text-decoration:none;}
+.page-bottom .page-start, .page-bottom .page-end {border:1px solid #DDDDDD;color:#CCC;font-family:"simsun";}
+.page-bottom a:hover {background:#FFEDE1;border:1px solid #FF9900;}
+.page-bottom .page-cur {background:#FFEDE1;border:1px solid #FF6600;color:#FF0000;}
+.page-bottom .page-break {float:left;margin:0 3px 0 5px;}
+.page-bottom .page-skip {color:#999999;display:inline;float:left;height:22px;line-height:22px;margin-left:5px;}
+.ts{border:1px solid #CCCCCC;}
+#ajaxjumpto {border:1px solid #aaa;width:20px;margin:0 3px;}
+.page_button{background:transparent url(/FrontEnd/images20090801/go.gif) no-repeat scroll 0 0;border:medium none;
+cursor:pointer;height:22px;margin:0 0 0 5px;width:22px;}
+
+.my td.w5{color:#bbb;}
+.my td.w5 span{color:#339900;}
+.mei{padding:80px 0 100px 270px;line-height:30px;font-size:14px;background:url(/FrontEnd/images20090801/biaoqing/b7.gif) no-repeat 150px 65px;}
+.mei a{color:#71A8CF;}
+.mei a:hover{color:#F00;text-decoration:none;}

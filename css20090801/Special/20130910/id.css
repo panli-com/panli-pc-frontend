@@ -1,0 +1,29 @@
+body{ margin:0 auto; font-size:12px;font-family:Arial, Helvetica, sans-serif;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.all_style{ background:#fef0c6;}
+img{vertical-align:top;}
+.span10{ height:10px; line-height:10px; display:block; clear:both;}
+p, h1, h2, h3, h4, h5, li, ul, dl, dt, dd, b,img,div{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+
+.content{ width:950px; margin:0 auto;}
+.remove1{ background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20130910/yingxiao_img_03.jpg) no-repeat; height:90px;}
+.remove2{ background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20130910/yingxiao_img_05.jpg) no-repeat; height:90px;}
+.remove3{ background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20130910/yingxiao_img_06.jpg) no-repeat; height:90px;}
+.remove4{ background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20130910/yingxiao_img_07.jpg) no-repeat; height:90px;}
+.remove5{ background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20130910/yingxiao_img_08.jpg) no-repeat; height:140px;position:relative;}
+.remove6{ background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20130910/yingxiao_img_09.jpg) no-repeat; height:90px;}
+.remove7{ background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20130910/yingxiao_img_10.jpg) no-repeat; height:90px;}
+.remove8{ background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20130910/yingxiao_img_11.jpg) no-repeat; height:90px;}
+.remove9{ background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20130910/yingxiao_img_12.gif) no-repeat; height:90px;}
+.remove10{ background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20130910/yingxiao_img_13.gif) no-repeat; height:90px;}
+.remove11{ background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20130910/yingxiao_img_14.jpg) no-repeat; height:80px;}
+.remove12{ background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20130910/yingxiao_img_15.jpg) no-repeat; height:125px;position:relative;}
+
+.link{width:176px;height:80px;left:372px;top:50px; position:absolute;}
+.link a{width:176px; height:80px; display:block; background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20130910/button.png) no-repeat top;}
+.link a:hover{ background-position:bottom;}
+
+.link1{width:556px;height:65px;left:195px;top:10px; position:absolute;}
+.link1 a{width:556px; height:65px; display:block; background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20130910/zhuce_03.gif) no-repeat top;}
+.link1 a:hover{ background-position:bottom;}

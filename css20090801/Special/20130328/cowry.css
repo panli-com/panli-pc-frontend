@@ -1,0 +1,32 @@
+body{ margin:0 auto; font-size:12px;font-family:Arial, Helvetica, sans-serif;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.all_style{ background:#fef0c6;}
+img{vertical-align:top;}
+.span10{ height:10px; line-height:10px; display:block; clear:both;}
+p, h1, h2, h3, h4, h5, li, ul, dl, dt, dd, b,img,div{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+
+#frame{ background-color:#acffda; background:url(/FrontEnd/images20090801/Special/20130328/cowry/daren_img_03.gif) repeat-x;}
+*html  #frame{ width:950px; margin:0 auto; background-color:#ffe7d7; overflow:visible;}
+.content{ width:950px; margin:0 auto; background-color:#acffda; }
+.top1{ background:url(/FrontEnd/images20090801/Special/20130328/cowry/daren_img_05.gif) no-repeat; height:70px;}
+.top2{ background:url(/FrontEnd/images20090801/Special/20130328/cowry/daren_img_07.jpg) no-repeat; height:70px;}
+.top3{ background:url(/FrontEnd/images20090801/Special/20130328/cowry/daren_img_08.jpg) no-repeat; height:70px;}
+.top4{ background:url(/FrontEnd/images20090801/Special/20130328/cowry/daren_img_09.jpg) no-repeat; height:70px;}
+.top5{ background:url(/FrontEnd/images20090801/Special/20130328/cowry/daren_img_10.jpg) no-repeat; height:70px;}
+.top6{ background:url(/FrontEnd/images20090801/Special/20130328/cowry/daren_img_11.jpg) no-repeat; height:70px;}
+.top7{ background:url(/FrontEnd/images20090801/Special/20130328/cowry/daren_img_12.jpg) no-repeat; height:70px;}
+.top8{ background:url(/FrontEnd/images20090801/Special/20130328/cowry/daren_img_13.jpg) no-repeat; height:70px;}
+.top9{ background:url(/FrontEnd/images20090801/Special/20130328/cowry/daren_img_14.gif) no-repeat; height:70px;}
+.top10{ background:url(/FrontEnd/images20090801/Special/20130328/cowry/daren_img_15.gif) no-repeat; height:70px;}
+.top11{ background:url(/FrontEnd/images20090801/Special/20130328/cowry/daren_img_16.gif) no-repeat; height:76px;}
+.button{ height:100px; position:relative;}
+.banquan{ height:30px; text-align:right;}
+
+.link{width:454px;height:59px;left:33px;top:25px; position:absolute;}
+.link a{width:454px; height:59px; display:block; background:url(/FrontEnd/images20090801/Special/20130328/cowry/button_left.gif) no-repeat top;}
+.link a:hover{ background-position:bottom;}
+
+.link01{width:404px;height:59px;left:515px;top:25px;position:absolute;}
+.link01 a{width:404px; height:59px; display:block; background:url(/FrontEnd/images20090801/Special/20130328/cowry/button_right.gif) no-repeat top; }
+.link01 a:hover{ background-position:bottom;}

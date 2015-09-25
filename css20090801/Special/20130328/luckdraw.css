@@ -1,0 +1,27 @@
+body{ margin:0 auto; font-size:12px;font-family:Arial, Helvetica, sans-serif;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.all_style{ background:#fef0c6;}
+img{vertical-align:top;}
+.span10{ height:10px; line-height:10px; display:block; clear:both;}
+p, h1, h2, h3, h4, h5, li, ul, dl, dt, dd, b,img,div{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+
+#frame{ width:950px; margin:0 auto; background-color:#ffe7d7; overflow:hidden;}
+*html  #frame{ width:950px; margin:0 auto; background-color:#ffe7d7; overflow:visible;}
+.banner_title{ background:url(/FrontEnd/images20090801/Special/20130328/luckdraw/choujiang_img_09.jpg) no-repeat left top;width:630px; height:29px; padding:43px 0 0 320px; color:#fff; display:block;}
+.choujiang_list{ width:835px; margin:0 auto;}
+.choujiang_list dd{ background:url(/FrontEnd/images20090801/Special/20130328/luckdraw/choujiang_img_11.gif) repeat-y; width:799px;overflow:hidden; padding:18px;}
+*html .choujiang_list dd{ background:url(/FrontEnd/images20090801/Special/20130328/luckdraw/choujiang_img_11.gif) repeat-y; width:799px; overflow:visible; padding:20px;}
+.back_bot{ background:url(/FrontEnd/images20090801/Special/20130328/luckdraw/choujiang_img_53.gif) no-repeat; width:837px; height:9px;}
+.choujiang_pro li{ float:left; display:block; padding:13px 12px;}
+.choujiang_pro .choujiang{width:265px; height:92px; line-height:40px; margin:36px 50px;}
+.choujiang_pro .choujiang a{ background:url(/FrontEnd/images20090801/Special/20130328/luckdraw/choujiang_03.gif) no-repeat top; width:265px; height:92px; display:block;}
+.choujiang_pro .choujiang a:hover{ background-position:bottom;}
+.shuoming{ clear:both; padding:20px 15px 0 15px; color:#808080; background:url(/FrontEnd/images20090801/Special/20130328/luckdraw/xian_03.gif) repeat-x; width:740px; margin:0 auto;}
+
+
+.lipin_list{ width:837px; margin:0 auto; margin-top:20px;} 
+.lipin_top{ background:url(/FrontEnd/images20090801/Special/20130328/luckdraw/lipin_img_03.gif) no-repeat; width:837px; height:48px;}
+.lipin_list dd{ background:url(/FrontEnd/images20090801/Special/20130328/luckdraw/lipin_img_05.gif) no-repeat; width:812px; height:60px; padding:18px 11px;}
+.lipin_pro li{ float:left; display:block; border:solid 1px #ffb3c7; margin:0 6px;}
+.copyright{ float:right; margin:15px 60px;}

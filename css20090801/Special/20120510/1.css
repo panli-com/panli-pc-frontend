@@ -1,0 +1,68 @@
+body{margin:0;padding:0;height:100%;}
+.bogy{background:#bef5fc url(http://sf.panli.com/FrontEnd/images20090801/Special/20120510/tq_jb.jpg) repeat-x 0 320px;}
+img{border:0;}
+li,ul,p{margin:0;padding:0;list-style:none;}
+.tuanqing{padding-bottom:20px;margin-top:-12px;position:relative;z-index:2;background:#bef5fc url(http://sf.panli.com/FrontEnd/images20090801/Special/20120510/tq_jb.jpg) repeat-x 0 320px;}
+.tq_lipin{position:relative;z-index:4;width:950px;margin:auto;background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120510/cj_nav.gif) no-repeat -100000px;}
+.tq_lipin a{position:absolute;height:120px;width:135px;float:left;z-index:5;text-indent:-10000px;}
+.ta1{}
+.ta2{top:338px;left:157px;}
+.ta3{top:338px;left:332px;}
+.ta4{top:490px;left:475px;}
+.ta5{top:649px;left:475px;}
+.ta5{top:802px;left:332px;}
+.ta7{top:802px;left:157px;}
+.ta7{top:649px;left:20px;}
+.ta8{top:802px;left:157px;}
+.tq_dingbu{background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120510/ding1.jpg) no-repeat center 0;height:320px;text-indent:-10000px;}
+.tq_cj{background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120510/cj_03.jpg) no-repeat 0 0;height:426px;margin:auto;width:950px;}
+.choujiang_list{float:right;width:245px;margin:110px 40px 0 0;display:inline;height:310px;overflow:hidden;}
+.choujiang_list li{float:left;width:245px;line-height:30px;height:30px;border-bottom:#ddd dashed 1px;font-size:14px;}
+.choujiang_nav a{float:left;margin:229px 0 0 233px;height:160px;width:160px;text-indent:-10000px;display:inline;}
+.choujiang_nav a:hover{background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120510/cj_nav.gif) no-repeat -80px 0;}
+
+.tq_04{background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120510/cj_04.jpg) no-repeat 0 0;width:950px;margin:auto;height:313px;}
+.tq_04 a{height:200px;width:345px;float:right;display:inline;margin:60px 15px 0 0;text-indent:-10000px;}
+.tq_04 a:hover{background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120510/cj_nav.gif) no-repeat 5px -162px;}
+
+.tq_05{background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120510/cj_05.jpg) no-repeat 0 0;width:950px;margin:auto;height:199px;}
+.tq_05 ul{float:left;margin:5px 0 0 400px;display:inline;width:510px;}
+/*.tq_05 ul li{line-height:22px;font-size:14px;border-bottom:#ddd solid 1px;padding-bottom:6px;background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120510/dddd.gif) no-repeat 0 2px;margin-bottom:6px;width:490px;float:left;padding-left:20px;}*/
+.tq_05 ul li{line-height:22px;font-size:14px;border-bottom:#ddd solid 1px;padding-bottom:6px;background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120510/dddd.gif) no-repeat -3px 2px;margin-bottom:6px;width:495px;float:left;padding-left:15px;}
+
+
+.tq_06{background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120510/cj_06.jpg) no-repeat 0 0;width:950px;margin:auto;height:187px;text-indent:-10000px}
+.tq_07{background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120510/cj_07.jpg) no-repeat 0 0;width:950px;margin:auto;height:217px;}
+
+.tq_07 ul{padding:20px 0 0 200px;height:105px;}
+.tq_07 ul li{float:left;width:120px;}
+.tq_07 ul li a{float:left;height:40px;width:112px;border:#ddd solid 1px;}
+.tq_07 p a{float:left;height:44px;width:290px;display:inline;margin-left:330px;text-indent:-100000px;}
+
+.share_message{width:500px;border:1px #38913d solid;position:fixed;z-index:900;_position:absolute;left:50%;margin-left:-250px;top:50%;margin-top:-200px;_margin-top:0;background:#fff;height:400px;}
+.share_tou h1{float:left;font-size:14px;font-weight:normal;color:#666;padding:15px 0 0px 15px;}
+.share_close{height:19px;width:25px;float:right;padding:15px 15px 0 0;}
+.share_close a{background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120510/dialog_closer.gif) no-repeat;cursor:pointer;float:right;height:19px;width:25px;}
+.share_close a:hover{background-position:-60px;}
+.share_tou{background:url(http://sf.panli.com/FrontEnd/images20090801/Special/20120510/m1.gif) repeat-x 0 0;height:60px;}
+
+.gl_overlay{display:;
+	moz-opacity:0.26; /* Moz + FF 透明度20% */
+	opacity: 0.26;  /*支持CSS3的浏览器（FF 1.5也支持）透明度20%*/
+	filter:alpha(opacity=26); /* IE 透明度20% */
+	position:fixed;bottom:0;top:0;left:0;right:0;background:#000;height:100%;width:100%;_position:absolute; z-index:800;
+}
+.choujiang_jieguo{padding-top:50px;}
+.cj_pic{width:135px;float:left;padding-left:20px;}
+.cj_pic img{height:110px;width:120px;}
+.cj_pic a{height:110px;width:120px;float:left;}
+.cj_info{float:left;width:335px;}
+.cj_info h1{font-size:16px;font-family:"Microsoft Yahei";line-height:30px;height:30px;}
+.cj_info p{line-height:24px;font-size:12px;}
+.cj_info p a{color:#5FA8DE;}
+.cj_info p a:hover{color:#f00;}
+.cj_info ul{padding-top:15px;}
+.cj_info ul li{float:left;padding-right:20px;}
+.cj_info ul li a{color:#5FA8DE;text-decoration:none;border:#5FB867 solid 1px;float:left;height:30px;line-height:30px;padding:0 10px;background:#EAF9DF;color:#488743;}
+.cj_info ul li a:hover{color:#F60;}
+

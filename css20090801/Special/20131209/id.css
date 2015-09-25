@@ -1,0 +1,47 @@
+body{ margin:0 auto;font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto; margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+a{ color:#555; text-decoration:none;}
+a:hover{ color:#e82020;}
+.span20{ height:20px; line-height:20px; display:block; clear:both;}
+
+#frame{ background:url(cssImg/xian.gif) repeat-x; background-color:#e82020; margin:0 auto;}
+.banner_top{ width:960px; margin:0 auto; }
+.banner_top li{ position:relative;}
+.off{ text-align:center; padding:15px 0;}
+
+.content{ width:940px; margin:0 auto; padding:10px; background-color:#fff;}
+
+.products{ width:950px; overflow:hidden;}
+.clear{ clear:both;}
+.products .none{ border:none; padding:0; margin-right:17px;}
+.products li{ width:170px; height:240px; background-color:#fff; float:left; display:block; text-align:center; padding:3px; margin:0 7px 10px 2px; border:solid 2px #e8e8e8;}
+h3{ display:block; font-size:12px; padding:8px 0 3px 0;}
+.special{ float:left; font-size:12px; padding-top:3px; width:70px;}
+.special span{ text-decoration:line-through; color:#666;}
+.jiage{ font-size:12px; float:left; text-align:center; width:100px;}
+.jiage span{ font-size:16px; font-weight:bold; color:#e82020;}
+.collection{ width:80px; height:28px; display:block; background-color:#e82020; float:left; text-align:center; font-size:14px; margin:4px 9px 0 0;}
+.collection a{ width:80px; height:28px; line-height:28px; background-color:#ffda30;color:#e82020; display:block;}
+.collection a:hover{ width:80px; height:28px; background-color:#f4bd00; display:block;}
+.buy{width:80px; height:28px; line-height:28px; display:block; background-color:#e82020; float:left; text-align:center; font-size:14px; margin-top:4px;}
+.buy a{ width:80px; height:28px; background-color:#e82020;color:#fff; display:block;}
+.buy a:hover{ width:80px; height:28px; background-color:#bc1b1b; display:block;}
+.more{ color:#e82020; font-size:12px; margin:0 6px;}
+.more a{ color:#e82020; font-size:14px;}
+.more a:hover{ color:#e82020; font-size:14px; text-decoration:underline;}
+.copy{ width:960px; margin:0 auto; font-size:14px; color:#fff; text-align:right; padding:10px 0;}
+
+.dianpu{ text-align:center; margin-bottom:20px;}
+.dianpu_pro{ width:950px; overflow:hidden;}
+.dianpu_pro li{ width:174px; height:100px; background-color:#fff; float:left; display:block; text-align:center; padding:2px; margin:0 7px 10px 2px; border:solid 1px #e8e8e8;}
+.dianpu_title{ font-size:12px; width:90px; text-align:left; float:left; margin:15px 0 0 4px; line-height:16px;}
+.shoucang{ width:70px; height:28px; display:block; float:left; text-align:center; font-size:14px; margin:10px 0 0 6px;}
+.shoucang a{ width:70px; height:28px; line-height:28px;background-color:#ffe9e8; color:#e82020; border:solid 1px #fdcdca; display:block;}
+.shoucang a:hover{ width:70px; height:28px; background-color:#e82020; color:#fff; border:none; display:block;}
+
+.gongyue{z-index:500; width:154px; height:267px; top:50%; left:85%; position: fixed;}

@@ -1,0 +1,65 @@
+body{height:100%;color:#333;font-size:12px;margin:0;padding:0;font-family:Verdana, Arial, Helvetica, sans-serif}
+p,ul,li,h2,dl,dd,dt{margin:0;padding:0;}
+ul li{list-style:none;}
+img{border:0;}
+.All_top{background:url(/FrontEnd/images20090801/lead/top_bj.jpg) repeat-x 0 bottom;height:103px;margin-bottom:12px;}
+.panli_wrapper{width:950px;margin:auto;height:83px;padding-top:2px;}
+.b_top{width:950px;}
+.b_top a{color:#FFF;}
+.b_top img{position:relative;left:0;margin-top:12px;}
+.logo{float:left;}
+.hy{float:left;border-left:#ddd solid 2px;margin:12px 0 0 15px;padding:11px 0 2px 15px;height:44px;display:inline;}
+.T_right{float:right;margin:10px 10px 0 0;display:inline}
+.T_right a{color:#bbb;text-decoration:none;}
+.T_right a:hover{color:#F90;text-decoration:underline}
+.T_right span{color:#bbb;margin:0 5px;}
+
+.box{border:#CCC solid 1px;width:948px;margin:auto;height:470px;}
+.bottom{background:url(http://sf.panli.com/FrontEnd/images20090801/Register/top_yj.gif) no-repeat right top;width:950px;height:10px;margin:-1px auto -1px auto}
+.move{margin:48px 1px 0 0;display:block;background:url(http://sf.panli.com/FrontEnd/images20090801/Register/top_yj.gif) no-repeat left top;width:950px;margin:-1px;position:relative;height:60px;}
+
+.foot{height:60px;margin:auto;width:950px;text-align:center;padding-top:12px;color:#aaa;margin-top:5px;}.foot a{color:#aaa}.foot a:hover{color:#F60}.foot p{margin-bottom:8px;}
+
+.fill{width:720px;margin:25px 23px 0 130px;border-bottom:30px;}
+.buzhou{height:70px;}
+.biao input{border:#a7d0e4 solid 1px;font-size:14px;padding:5px;width:250px;float:left;}
+.biao .z{width:150px;text-align:right;font-size:14px;padding-right:5px;}
+.biao table{border-collapse:collapse;width:700px;}
+.biao td{padding:7px 0;}
+.biao span{float:left;width:131px;height:28px;border:#eee solid 1px;}
+.biao img{height:28px;width:131px;cursor:pointer;}
+.biao a{float:left;margin:7px 0 0 10px;color:#71a8cf;text-decoration:none;}
+.biao a:hover{color:#FF0000;text-decoration:none;}
+.biao p{float:left;margin:8px 0 0 10px;color:#bbb;}
+.tijiao{padding:15px 0 0 155px;height:150px;}
+.tijiao input{background:url(/FrontEnd/images20090801/button/anniu_2.gif) no-repeat 0 0;width:139px;padding-bottom:13px;height:47px;border:0;color:#eee;font-size:16px;cursor:pointer;float:left;}
+.tijiao .by{background-position:0 -52px;color:#FFF;}
+.tijiao a{float:left;margin:10px 0 0 20px;display:inline;color:#bbb;text-decoration:none;}
+.tijiao a:hover{color:#FF0000;}
+
+input.red{background:#FFF4F4;border:#FF0000 solid 1px;}
+p.red{color:#f00;}
+.biao .lv{color:#97CE73;}
+
+
+.succeed{background:url(/FrontEnd/images20090801/biaoqing/b2.gif) no-repeat 100px 87px;padding-left:230px;height:130px;margin-bottom:20px;padding-top:80px;}
+.succeed h2{color:#73B051;font-size:20px;line-height:35px;height:40px;font-family:Arial;padding-top:5px;}
+.succeed p{line-height:24px;}
+.succeed a{color:#71a8cf;text-decoration:none}
+.succeed a:hover{color:#f00;text-decoration:underline;}
+
+.shixiao{background:url(/images/icon/biaoqing/b7.gif) no-repeat 50px 0;height:105px;padding-left:180px;border-bottom:#ddd dashed 1px;margin-bottom:20px;}
+.shixiao h2{font-size:18px;padding-top:20px;font-weight:100;height:35px;color:#f00;}
+.shixiao p{font-size:14px;color:#666;}
+.shixiao a,.so a{color:#71a8cf;padding:0 2px;}
+.shixiao a:hover,.so a:hover{color:#FF0000;text-decoration:none;}
+.so h2{font-size:12px;height:20px;}
+.so li{line-height:22px;padding-left:10px;background:url(/images/icon/public/fk.gif) no-repeat left;color:#bbb;}
+.so{padding-left:180px;}
+
+.s_huocc{background:url(/FrontEnd/images20090801/ys.gif) no-repeat 0 0;height:75px;padding-left:85px;border-bottom:1px dashed #ddd;margin-bottom:20px;}
+.s_huocc h2{font-size:16px;line-height:24px;font-family:"微软雅黑";color:#ED6C00;}
+.s_huocc li{line-height:20px;color:#666;}
+.s_huocc li a{color:#71A8CF;padding-left:3px;}
+.s_huocc li a:hover{color:#FF0000;text-decoration:none;}
+

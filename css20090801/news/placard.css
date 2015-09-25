@@ -1,0 +1,32 @@
+.placard{margin:auto;width:950px;background:url(http://sf.panli.com/FrontEnd/images20090801/news/placard/yj.gif) repeat-y right 0;margin-bottom:10px}
+.yj_top{background:url(http://sf.panli.com/FrontEnd/images20090801/news/placard/yj.gif) no-repeat left top;padding-top:20px;}
+.ren{background:url(http://sf.panli.com/FrontEnd/images20090801/news/placard/ren.gif) no-repeat 35px 0;height:95px;}
+.ren h1{font-size:20px;font-weight:normal;font-family:"simhei";text-align:center;border-bottom:#CCc dashed 1px;height:60px;line-height:60px;margin:0 90px 0 90px;padding-top:20px;}
+.yj_bottom{background:url(http://sf.panli.com/FrontEnd/images20090801/news/placard/yj.gif) no-repeat -952px bottom;_height:30px;min-height:30px;}
+.time{border-top:#CCc dashed 1px;margin:0 90px 0 90px;height:90px;padding-top:15px;line-height:22px;}
+.time p{text-align:right;margin-right:10px;}
+
+.nr{padding:20px 120px 30px 120px;font-size:14px;line-height:24px;}
+.nr a{color:#5fa4de;}
+.nr a:hover{color:#FF9900;text-decoration:none}
+.g_g h2{height:35px;background:#f4f4f4;font-size:20px;font-weight:bold;color:#666;line-height:35px;padding-left:15px;margin:50px 90px 0 90px;}
+.lb{padding:20px 95px 0 95px;}
+.lb ul li{height:35px;line-height:35px;border-bottom:#ddd dashed 1px;padding:0 10px 0 20px;background:url(http://sf.panli.com/FrontEnd/images20090801/sj.gif) no-repeat 8px center;}
+.lb ul li a{font-size:14px;float:left;}
+.lb ul li span{float:right;color:#bbb;}
+
+
+.page-top, .page-bottom {float:right;}
+.page-bottom {float:right;height:45px;margin:0 20px 0 0;display:inline;}
+.page-bottom a, .page-bottom .page-cur, .page-bottom .page-start, .page-bottom .page-end {
+border:1px solid #AAAAAA;color:#666666;display:inline;float:left;height:20px;line-height:20px;margin-left:2px;padding:0 5px;text-decoration:none;}
+.page-bottom .page-start, .page-bottom .page-end {border:1px solid #DDDDDD;color:#CCC;font-family:"simsun";}
+.page-bottom a:hover {background:#FFEDE1;border:1px solid #FF9900;}
+.page-bottom .page-cur {background:#FFEDE1;border:1px solid #FF6600;color:#FF0000;}
+.page-bottom .page-break {float:left;margin:0 3px 0 5px;}
+.page-bottom .page-skip {color:#999999;display:inline;float:left;height:22px;line-height:22px;margin-left:5px;}
+.ts{border:1px solid #CCCCCC;}
+#jumpto,#ajaxjumpto{border:1px solid #aaa;width:20px;margin:0 3px;}
+.page_button{background:transparent url(http://sf.panli.com/FrontEnd/images20090801/go.gif) no-repeat scroll 0 0;border:medium none;
+cursor:pointer;height:22px;margin:0 0 0 5px;width:22px;}
+.p{height:30px;padding:20px 80px 0 0;}

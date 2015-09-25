@@ -1,0 +1,41 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+
+img{border:0px;}
+
+ul,li,dl,dt,dd,p{ list-style-type:none;  margin:0px;padding:0px; border:0px;}
+.new_other{ width:950px; height:auto; display:table; margin:auto; text-align:center; background:#fff;}
+
+.new_other a:link,.new_other a:visited{ color:#5e5e5e; text-decoration:none;}
+.new_other a:hover{ color:#FF4200; text-decoration:underline;}
+.guidance{ width:950px; height:15px; line-height:15px; padding-bottom:5px; padding-top:5px;text-align:left;color:#5E5E5E;  margin:auto; background:#fff; text-indent:5px;}
+.guidance a{color:#0764b5; text-decoration:none;}
+.theme_header{ width:938px; height:27px; display: inline; font-size:14px;float:left;vertical-align:middle; margin:0px 5px;text-align:left;}
+.theme_left{ width:108px; height:27px; line-height:27px; vertical-align:middle; text-align:center; color:#fff; background: url(http://sf.panli.com/FrontEnd/images20090801/s_header_current_bg.gif) repeat-x;float:left; }
+.theme_right{ width:830px; height:27px; line-height:27px; vertical-align:middle; text-align:left; background: url(http://sf.panli.com/FrontEnd/images20090801/s_panel_header_bg.gif) repeat-x;float:left;text-indent:5px;}
+.theme_new{width:938px; height:300px; display: inline; font-size:14px;float:left; margin:5px 5px 15px 5px;text-align:left; border:1px solid #ffc867;
+background:#fff url(http://sf.panli.com/FrontEnd/images20090801/theme_3.jpg) repeat-x top; }
+.theme_new_l{width:512px; height:274px; margin:14px 10px 10px 10px; float:left; background:url(http://sf.panli.com/FrontEnd/images20090801/theme_04.gif) no-repeat; }
+.theme_new_l li{width:504px; height:260px;  margin-top:6px; margin-left:4px;}
+.theme_new_r{ width:380px; height:274px;margin:14px 10px 10px 0px;float:left;}
+.theme_r2{ width:380px; height:150px; border-bottom:1px dashed #ccc; float:left;}
+.theme_r2 dt{ width:380px; height:30px; line-height:30px; text-align:center; font-weight:bold; float:left;}
+.theme_xx{ width:380px; height:45px; line-height:20px; text-indent:20px;float:left; color:#828282;}
+
+.theme_xx a:link,.theme_xx a:visited{ color:#73A4D0; text-decoration:none;}
+.theme_xx a:hover{ color:#FF4200; text-decoration:underline;}
+.theme_xf{ width:380px; height:22px; line-height:22px; text-indent:28px; background: url(http://sf.panli.com/FrontEnd/images20090801/dot.gif) no-repeat 20px; float:left;}
+.theme_r3{ width:380px; height:124px;  float:left;}
+.theme_log{ width:380px; padding-top:5px;height:30px; line-height:30px;text-align:left; font-weight:bold; color:#ee8000;float:left;}
+.theme_xm{ width:380px; height:35px; line-height:30px; text-align:left;font-weight:bold; color:#000;float:left;}
+.theme_jiaru{width:380px; height:44px;text-align:center; padding-top:5px;float:left;}
+.theme_splendid{ width:938px; height:auto; display: inline; padding-bottom:10px; font-size:12px;float:left; margin:5px 5px 15px 5px;text-align:left;}
+.theme_s_left{ width:460px; height:120px; padding:20px 10px 20px 0px; border-right:1px dashed #ccc;border-bottom:1px dashed #ccc; float:left; }
+.theme_s_right{ width:450px; height:120px; padding:20px 0px 20px 10px;  border-bottom:1px dashed #ccc; float:left; }
+.theme_s_pic{width:225px; height:120px; float:left; }
+.theme_s_t{width:218px; height:120px; padding-left:5px;float:left; }
+.theme_s_tt1{ width:218px;  line-height:30px; vertical-align:middle; float:left; font-weight:bold; padding-bottom:3px;}
+.theme_s_tt2{ width:218px;line-height:18px; vertical-align:middle; float:left; color:#979797; }
+.theme_s_tt2 span{ color:#ee8000;}
+.theme_s_button{ width:218px; height:25px; padding-top:10px; text-align:right; float:left; }

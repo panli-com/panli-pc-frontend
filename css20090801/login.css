@@ -1,0 +1,80 @@
+
+
+
+/*====================================================*/
+
+body{height:100%;color:#333;font-size:12px;margin:0;padding:0;font-family:Verdana, Arial, Helvetica, sans-serif}
+img{border:none;}
+dl,dd,dt,h2,h3,p{margin:0;padding:0;}
+
+.top{width:950px;margin:auto;height:85px;margin-top:5px}
+.logo{float:left;margin-top:7px;}
+.hy{float:left;border-left:#ddd solid 2px;margin:12px 0 0 15px;padding:11px 0 2px 15px;height:44px;display:inline;}
+.T_right{float:right;margin:10px 10px 0 0;display:inline}	
+.T_right a{color:#bbb;text-decoration:none;}
+.T_right a:hover{color:#F90;text-decoration:underline}
+.T_right span{color:#bbb;margin:0 5px;}
+
+.login{background:url(http://sf.panli.com/FrontEnd/images20090801/login/login.jpg?v=1.6) no-repeat;height:405px;width:948px;margin:auto;}
+.register{margin:270px 0 0 37px;float:left;display:inline;}
+.register a{display:block;background:url(http://sf.panli.com/FrontEnd/images20090801/login/zc.gif?v=1.4) no-repeat bottom;width:209px;height:70px;}
+.register a:hover{background-position:0 top}
+.dl{float:right;width:360px;margin:50px 20px 0 0;font-size:14px;display:inline;}
+.dl h2{margin:0 0 30px 5px;}
+.dl table{border-collapse:collapse;}
+.dl table td{padding:4px 0;}
+.dl table .l{width:90px;text-align:right;padding-right:5px;}
+.dl table input{border:#A7D0E4 solid 1px;padding:7px 5px 6px 5px;float:left;width:220px;}
+.dl table .on{background:#F4FDFF}
+.dl .wrong{color:#FF0000;font-size:12px;height:20px;line-height:20px;width:318px;margin:-20px 0 0px 95px;float:left;display:inline;position:absolute}
+
+.dl table .y{width:110px;margin-right:10px;display:inline;}
+.dl table img{width:100px;height:30px;float:left}
+.dl dl{margin:13px 0 0 93px;height:30px;}
+.dl dd{float:left;}
+.dl dt{float:left;margin-right:20px;display:inline;}
+.dl dt input{margin-right:3px;float:left;}
+.dl dt label{line-height:20px;height:20px;overflow:hidden;}
+.dl dd a{color:#71A8CF;text-decoration:none;border-bottom:#71A8CF solid 1px;float:left;line-height:14px;padding-top:2px}
+.dl dd a:hover{color:#f90;text-decoration:none;border-bottom:none;}
+.go{border-bottom:#CCC solid 1px;width:335px;height:225px;}
+
+.join{margin:7px 0 0 96px;color:#999; font-size:12px;}
+.join input{background:url(http://sf.panli.com/FrontEnd/images20090801/login/go.gif) no-repeat;height:41px;width:102px;border:none;font-size:14px;color:#FFF;line-height:30px;padding-bottom:11px;cursor:pointer;}
+.join .by{background-position:0 bottom;color:#D1500A}
+.tishi{margin:12px 0 0 5px;}
+.tishi h3{font-size:14px;}
+.tishi p{color:#999;margin-top:7px;line-height:20px}
+.tishi p a{color:#71A8CF;margin-right:3px;}
+.tishi p a:hover{color:#F90;text-decoration:none;}
+
+.foot{height:60px;margin:auto;width:950px;text-align:center;padding-top:22px;color:#aaa;margin-top:5px;}.foot a{color:#aaa}.foot a:hover{color:#F60}.foot p{margin-bottom:8px;}
+
+.sm{color:#d77127;font-size:12px;height:22px;line-height:22px;width:318px;margin:-24px 0 0px 0;float:left;display:inline;position:absolute;background:#fdffd3 url(/FrontEnd/images20090801/icon/common/deng.gif) no-repeat 3px center;border:#f1daa8 solid 1px;padding-left:18px;white-space:nowrap;}
+.sm span{background:#d77127;color:#FFF;padding:0 1px;}
+
+
+.join p.icon{ width:127px; float:right; margin-top:8px;}
+.join a{ background:url(http://sf.panli.com/FrontEnd/images20090801/login/icon.gif) no-repeat; width:24px; height:24px; float:left; display:block; margin-right:6px; margin-top:-5px; position:relative;}
+.join a.fackbook{ background-position:0px 0px;}
+.join a.qq{background-position:0px -48px;}
+.join a.sina{background-position:0px -24px; margin-right:0px;}
+
+.f_l {
+	float: left;
+}
+.f_r {
+	float: right;
+}
+.clearfix:before, .clearfix:after {
+	content: "";
+	display: table;
+}
+.clearfix:after {
+	clear: both;
+	overflow: hidden;
+}
+.clearfix {
+	clear: both;
+	zoom: 1;
+}

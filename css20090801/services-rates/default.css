@@ -1,0 +1,236 @@
+/* CSS Document */
+.s_all{background:#fafafa;margin-top:-12px;padding-top:12px;}
+.s_body{width:950px;margin:auto;}
+.s_left{
+	float:left;
+	background:url(/FrontEnd/images20090801/services-rates/line.gif) repeat-y -722px 0;
+	width:720px;
+	display:inline;
+}
+
+.dao{height:46px;background:#F7F7F7 url(/FrontEnd/images20090801/services-rates/xz.gif) repeat-x 0 -188px;margin-bottom:20px;overflow:hidden;}
+.dao li{float:left;text-align:center;cursor:pointer;}
+.dao li a{display:block;height:46px;}
+.dao .s1,.dao .s1_{width:359px;height:46px;background:url(/FrontEnd/images20090801/services-rates/xz.gif) no-repeat;border-right:#DFDFDF solid 1px;}
+.dao .s2,.dao .s2_{width:359px;height:46px;}
+.dao .s3,.dao .s3_{width:239px;height:46px;background:url(/FrontEnd/images20090801/services-rates/xz.gif) no-repeat right -47px;border-left:#DFDFDF solid 1px;}
+.dao .s1_{background:#fff url(/FrontEnd/images20090801/services-rates/xz_.gif) no-repeat 0 0;}
+.dao .s2_{background:#fff;border-top:#DFDFDF solid 1px;}
+.dao .s3_{background:#fff url(/FrontEnd/images20090801/services-rates/xz_.gif) no-repeat right 0;}
+.dao .s1 img{margin-top:-118px;}
+.dao .s2 img{margin-top:-155px;}
+.dao .s3 img{margin-top:-194px;}
+.dao .s1_ img{margin-top:14px;}
+.dao .s2_ img{margin-top:-28px;}
+.dao .s3_ img{margin-top:-73px;}
+
+.past1{background:url(/FrontEnd/images20090801/services-rates/s2.gif) no-repeat 0 0;height:117px;width:680px;margin:0 0 0 20px;padding-bottom:10px;}
+
+.p{background:url(/FrontEnd/images20090801/services-rates/s6.gif) no-repeat 0 0;height:93px;width:139px;float:left;margin:12px 0 0 40px;display:inline;}
+.p_c{background:url(/FrontEnd/images20090801/services-rates/s9.gif) no-repeat 0 0;height:93px;width:139px;float:left;margin:12px 0 0 40px;display:inline;}
+.p_d{background:url(/FrontEnd/images20090801/services-rates/s11.gif) no-repeat 0 0;height:93px;width:139px;float:left;margin:12px 0 0 40px;display:inline;}
+
+
+.p2 ul{float:left;margin:10px 0 0 10px;}
+.p2 ul li{line-height:20px;color:#7a7a7a;background:url(/FrontEnd/images20090801/icon/number/fk_2.gif) no-repeat 0 8px;padding-left:10px;}
+.p2 img{padding:20px 0 0 10px;}
+
+
+.past2{height:240px;margin-left:20px;}
+.past2 h1{font-size:14px;color:#333;line-height:32px;padding-left:20px;background-color:#f5f5f5;border:1px solid #ebeaea;width:660px;}
+.p_anniu{padding-left:130px;}
+.p_anniu a{
+	background:url(/FrontEnd/images20090801/services-rates/button.gif) no-repeat 0 0;
+	width:135px;
+	height:40px;
+	float:left;
+	padding-left:50px;
+	color:#FFF;
+	line-height:40px;
+	font-size:14px;
+	text-decoration:none;
+	margin:30px 0 0 0px;
+	display:inline;
+}
+.p_anniu a:hover{background-position:0 -41px;color:#458013;}
+.p_anniu .r_a{
+	background:url(/FrontEnd/images20090801/services-rates/button.gif) no-repeat -187px 0;
+	width:150px;
+	height:40px;
+	float:left;
+	padding-left:35px;
+	color:#749b74;
+	line-height:40px;
+	font-size:14px;
+	text-decoration:none;
+	margin:30px 0 0 50px;
+	display:inline;
+}
+.p_anniu .r_a:hover{background-position:-187px -41px;color:#489248;}
+.pro{height:86px;padding-top:20px;}
+.pro ul li{float:left;background:url(/FrontEnd/images20090801/services-rates/s1.gif) no-repeat 0 0;width:119px;height:86px;}
+.pro ul .jiant{background-position:-120px 0;width:21px;}
+.pro ul .zui{background-position:-141px 0;width:119px;}
+.pro .ying{text-align:center;width:119px;font-size:16px;font-weight:bold;color:#FFF;padding-top:4px;}
+.pro table td{text-align:center;width:119px;font-size:14px;color:#333;line-height:20px;}
+.pro .zi{height:55px;}
+
+.pro ul .jiant2{background-position:-120px 0;width:21px;margin-right:75px;}
+.pro ul .two{margin-right:75px;}
+
+.past3{margin-left:20px;width:680px;height:240px;}
+.past3 .p_left{float:left;width:335px;}
+.past3 .p_left h1{
+	font-size:14px;
+	color:#333;
+	line-height:32px;
+	padding-left:20px;
+	background-color:#f5f5f5;
+	border:1px solid #ebeaea;
+	width:314px;
+	margin-bottom:20px;
+}
+.past3 .p_left ul{width:320px;}
+.past3 .p_left ul li{
+	background:url(/FrontEnd/images20090801/services-rates/s3.gif) no-repeat 0 0;
+	height:37px;
+	margin-bottom:15px;
+	line-height:37px;
+	padding-left:55px;
+	font-size:14px;
+}
+.past3 .p_right{float:right;width:335px;}
+.past3 .p_right h1{
+	font-size:14px;
+	color:#333;
+	line-height:32px;
+	padding-left:20px;
+	background-color:#f5f5f5;
+	border:1px solid #ebeaea;
+	width:314px;
+}
+.past3 .p_right ul{width:334px;height:100px;padding-top:18px;border-bottom:1px dashed #ddd;}
+.past3 .p_right ul li{float:left;background:url(/FrontEnd/images20090801/services-rates/s8.gif) no-repeat 0 0;height:60px;width:93px;text-align:center;line-height:20px;color:#666;font-size:14px;padding-top:23px;}
+.past3 .p_right ul .jia{background-position:-93px 0;width:27px;}
+.p_right p{color:#666;padding-top:10px;}
+.p_right span{color:#FF0000;padding-right:4px;}
+.p_right a{color:#71a8cf;}
+.p_right a:hover{color:#ff0000;text-decoration:none;}
+.past4{margin-left:20px;padding-bottom:20px;}
+.past4 h1{
+	font-size:14px;
+	color:#333;
+	line-height:32px;
+	padding-left:20px;
+	float:left;
+}
+.p_top{background-color:#f5f5f5;border:1px solid #ebeaea;width:680px;height:32px;margin-bottom:10px;}
+.p_top a{font-weight:normal;font-size:12px;color:#71a8cf;padding:8px 15px 0 0;text-decoration:none;float:right;}
+.p_top a:hover{color:#ff0000;text-decoration:underline;}
+.wt h2{
+	background:url(/FrontEnd/images20090801/services-rates/s5.gif) no-repeat 0 2px;
+	height:20px;
+	font-size:14px;
+	color:#656565;
+	padding-left:20px;
+	padding-bottom:5px;
+}
+.wt p{
+	background:url(/FrontEnd/images20090801/services-rates/s5.gif) no-repeat 0 -22px;
+	height:22px;
+	font-size:12px;
+	color:#666;
+	padding-left:20px;
+	line-height:22px;
+}
+.wt .none{background-position:0 -100px;}
+.wt a{color:#71a8cf;}
+.wt a:hover{color:#FF0000;text-decoration:none;}
+.wt span{color:#666;}
+.past4 ul{padding-left:20px;}
+.past4 ul li{border-bottom:1px dashed #dbdbdb;padding:10px 0;width:650px;}
+.di{background:url(/FrontEnd/images20090801/services-rates/line.gif) no-repeat 0 0;height:15px;}
+
+
+.s_right{float:right;background:url(/FrontEnd/images20090801/services-rates/line.gif) repeat-y right 0;width:220px;}
+.zc_d{background:url(/FrontEnd/images20090801/services-rates/line.gif) no-repeat -1444px 0;height:15px;}
+.s_zc h3{background:url(/FrontEnd/images20090801/services-rates/lm.gif) no-repeat 0 0;width:200px;height:46px;font-size:14px;font-weight:normal;color:#3c6699;line-height:46px;padding-left:20px;}
+.s_zc p{font-size:14px;width:180px;padding:10px 0 10px 20px;line-height:22px;}
+.s_zc span{color:#FF0000;font-weight:bold;font-size:16px;}
+.s_zc a{background:url(/FrontEnd/images20090801/cowry/fxnav.gif) no-repeat 0 0;height:36px;width:150px;float:left;margin:0 0 15px 35px;display:inline;text-align:center;line-height:36px;font-size:14px;text-decoration:none;color:#34860f;
+}
+.s_zc a:hover{background-position:0 -36px;color:#FFF;}
+.s_gj h3{background:url(/FrontEnd/images20090801/services-rates/lm.gif) no-repeat 0 0;width:200px;height:46px;font-size:14px;font-weight:normal;color:#3c6699;line-height:46px;padding-left:20px;}
+.s_gj a{
+	background:url(/FrontEnd/images20090801/services-rates/but.gif) no-repeat 1px 0;
+	width:218px;
+	height:54px;
+	float:left;
+	text-decoration:none;
+	padding-left:2px;
+}
+.s_an{padding:10px 0;}
+.yans a:hover{background-position:1px -54px;color:#FFF;}
+.yans p, .duib p, .gus p{margin-left:52px;border-bottom:1px solid #e2e2e2;width:140px;margin-top:10px;font-size:14px;cursor:pointer;}
+.yans span, .duib span, .gus span{margin-left:52px;}
+.duib a{background-position:1px -108px;}
+.duib a:hover{background-position:1px -162px;color:#FFF;}
+.gus a{background-position:1px -216px;}
+.gus a:hover{background-position:1px -270px;color:#FFF;}
+.yans, .duib, .gus{height:54px;}
+
+
+
+.raning_sj{padding-bottom:20px;height:340px;}
+.raning_sj b,.raning_sj span{display:block;float:left;font-weight:bold;font-size:10px;background:url(/FrontEnd/images20090801/free/ph.gif) no-repeat;height:13px;width:16px;text-align:center;color:#FFF;line-height:12px;margin-top:9px;}
+.raning_sj b{background-position:0 -31px;}
+.raning_sj p{float:left;display:inline;margin-left:7px;}
+
+.raning_sj li{height:33px;line-height:33px;padding-left:5px;background:url(/FrontEnd/images20090801/free/d.gif) repeat-x bottom;float:left;width:190px;}
+.raning_sj ul{margin:10px 0 0 9px;}
+.raning_sj ul i{float:right;margin-top:11px;}
+.raning_sj ul a{color:#3398FF;float:left;margin-left:10px;display:inline}
+.raning_sj ul a:hover{text-decoration:none;color:#FF6600}
+
+
+.dao2{height:46px;background:#F7F7F7 url(/FrontEnd/images20090801/services-rates/xz.gif) repeat-x 0 -188px;overflow:hidden;}
+.dao2 ul li{float:left;text-align:center;cursor:pointer;font-size:14px;color:#3c6699;line-height:46px;}
+.dao2 ul li a{display:block;height:46px;}
+.dao2 .r1,.dao2 .r1_{width:109px;height:46px;background:url(/FrontEnd/images20090801/services-rates/xz.gif) no-repeat;}
+.dao2 .r2,.dao2 .r2_{width:110px;height:46px;background:url(/FrontEnd/images20090801/services-rates/xz.gif) no-repeat right -47px;border-left:#DFDFDF solid 1px;}
+.dao2 .r1_{background:#fff url(/FrontEnd/images20090801/services-rates/xz_.gif) no-repeat 0 0;}
+.dao2 .r2_{background:#fff url(/FrontEnd/images20090801/services-rates/xz_.gif) no-repeat right 0;}
+
+.free_sj{padding-bottom:15px;}
+.free_sj ul{width:200px;}
+.free_sj ul li{border-bottom:1px dashed #ddd;height:50px;margin:10px 0 0 15px;}
+.f1 a{float:left;padding-right:7px;}
+.f_r a{font-size:14px;color:#71a8cf;line-height:25px;}
+.f_r a:hover{color:#FF0000;text-decoration:none;}
+
+
+
+.p_g{background:url(/FrontEnd/images20090801/services-rates/s13.gif) no-repeat 0 0;height:93px;width:139px;float:left;margin:12px 0 0 40px;display:inline;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

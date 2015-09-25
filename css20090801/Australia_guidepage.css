@@ -1,0 +1,242 @@
+﻿
+
+/*---------------------------------- */
+
+@charset "utf-8";
+/* CSS Document */
+ul, ol {
+	list-style: none outside none;
+}
+img {
+	border: medium none;
+}
+html, body, table, td, th, img, form, input, ul, ol, li, dl, dt, dd, p, h1, h2, h3, h4, h5, h6, textarea {
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+}
+
+input, select {
+	vertical-align: middle;
+	border: none;
+}
+.f_l {
+	float: left;
+}
+.f_r {
+	float: right;
+}
+.clear {
+	clear: both;
+}
+.pink {
+	color: #E50065;
+}
+.red {
+	color: #a90000;
+}
+.green {
+	color: #81b92b;
+	font-weight: bold;
+}
+.gray {
+	color: #333;
+	font-weight: bold;
+}
+.clearfix:before, .clearfix:after {
+	content: "";
+	display: table;
+}
+.clearfix:after {
+	clear: both;
+	overflow: hidden;
+}
+.clearfix {
+	clear: both;
+	zoom: 1;
+}
+em {
+	font-style: normal;
+}
+/*===公用===*/
+ 
+/*---顶部---*/
+.header {
+	width: 100%;
+	background: url(/FrontEnd/images20090801/guidepage/head_bg.png) repeat-x;
+	height: 102px;
+	border-bottom: 5px solid #6aab32;
+}
+.head {
+	height: 92px;
+	width: 965px;
+	margin: 0px auto;
+	padding-top: 10px;
+}
+/*banner*/
+.banner {
+	width: 100%;
+	height: 325px;
+	overflow: hidden;
+    position:relative;
+}
+.ban_img {
+	width: 100%;
+	margin: 0px auto;
+	position: relative;
+	height: 325px;
+    text-align:center;
+}
+.ban_img li{
+     z-index:1;
+     left:0px;
+     position:absolute;
+     width:100%;
+     text-align:center;
+}
+.ban_img div{
+	width: 970px;
+	margin: 0px auto;
+	height: 325px;
+    position:relative;
+}
+
+
+/*border:1px solid #f00;
+*/
+.ban_icon {
+	position: absolute;
+	bottom: 7px;
+	left: 50%;
+	width: 60px;
+    margin-left:-17px;
+    z-index:15;
+}
+.ban_icon li {
+	margin: 0px 3px;
+	float: left;
+    background: url(/FrontEnd/images20090801/guidepage/icon_01.png) -16px 0px no-repeat;
+	width: 10px;
+	height: 10px;
+    cursor:pointer;
+}
+.clear{ clear:both;}
+.ban_icon li.up {
+	background: url(/FrontEnd/images20090801/guidepage/icon_01.png) 0px 0px no-repeat;
+}
+/*---content---*/
+.main {
+	background:#bbe4f6 url(/FrontEnd/images20090801/Australia_guidepage/bg.png) repeat-y center;
+	width: 100%;
+	position:relative;
+}
+.bg_01{ background:url(/FrontEnd/images20090801/Australia_guidepage/bg_01.png?v=1.0) no-repeat center; height:136px; width:100%;
+margin-top:-13px;}
+.bg_02{ background:url(/FrontEnd/images20090801/Australia_guidepage/bg_02.png) no-repeat center; height:130px; width:1000px; position:relative; margin:0px auto;}
+.ba_021{ background:url(/FrontEnd/images20090801/Australia_guidepage/bg_03.png) no-repeat top center; height:30px; width:100%;}
+.bgs_01{ background:url(/FrontEnd/images20090801/Australia_guidepage/s_03.jpg) no-repeat center; height:60px; width:100%;}
+.bgs_s{background:url(/FrontEnd/images20090801/Australia_guidepage/sbg.jpg) repeat-y center; width:100%; }
+.productUl{ margin:10px auto 0; width:930px; height:600px; clear:both;}
+.productUl li{ float:left;width:200px; font-family: "Microsoft YaHei"; display:inline; margin:20px 16px 0;   }
+.prodcutName{font-size:14px;color:#666; text-decoration:none; line-height:20px; padding-top:5px; display:block;}
+.productPrice{ font-size:16px; font-style:normal;color:#ff3300; display:block; padding-top:5px;}
+a.moreProduct{width:242px; height:50px; background:url(/FrontEnd/images20090801/Australia_guidepage/AugEvt_btn.png) no-repeat; margin:10px auto 0; display:block;}
+a.moreProduct:hover{ background-position:0 -60px;}
+.productText{ text-align:center; color:#999; font-size:12px;font-family: "Microsoft YaHei"; line-height:16px; margin-top:40px;}
+.bg_03{ background:url(/FrontEnd/images20090801/Australia_guidepage/bg_03.png) no-repeat center bottom; height:100px; width:100%;}
+.bg_04{ background:url(/FrontEnd/images20090801/Australia_guidepage/bg_04.png) no-repeat center; height:130px; width:100%;}
+.bg_05{ background:url(/FrontEnd/images20090801/Australia_guidepage/bg_05.png) no-repeat center; height:130px; width:100%;}
+.bg_06{ background:url(/FrontEnd/images20090801/Australia_guidepage/bg_06.png) no-repeat center; height:129px; width:100%;}
+.bg_07{ background:url(/FrontEnd/images20090801/Australia_guidepage/bg_07.png) no-repeat center; height:107px; width:100%;}
+.bg_08{ background:url(/FrontEnd/images20090801/Australia_guidepage/bg_08.png) no-repeat center; height:135px; width:100%;}
+.bg_09{ background:url(/FrontEnd/images20090801/Australia_guidepage/bg_09.png) no-repeat center; height:135px; width:100%;}
+.con_info {
+	width: 1000px;
+	margin: 0px auto;
+	background:url(/FrontEnd/images20090801/Australia_guidepage/img_04.png) no-repeat center;
+	position: relative;
+	font-size:12px;
+	height:503px;
+}
+.con_info div {
+	position: absolute;
+	width: 270px;
+	height: 70px;
+}
+.con_info img {
+	float: left;
+	margin-right: 10px;
+}
+.con_info p {
+	float: left;
+	color: #2f2f2f;
+	line-height: 20px;
+	width: 175px;
+}
+.con_info span.red {
+	color: #f00;
+	font-weight: bold;
+}
+.list_01 {
+	top:25px;
+	left: 188px;
+}
+.list_02 {
+	top: 187px;
+	left:105px;
+}
+.list_03 {
+	top: 345px;
+	left: 225px;
+}
+.list_04 {
+	top: 83px;
+	left: 556px;
+}
+.list_05 {
+	top: 260px;
+	left: 629px;
+}
+.list_06 {
+	top: 400px;
+	left: 542px;
+}
+
+.btn {
+	background: url(/FrontEnd/images20090801/Australia_guidepage/bg2.png) repeat-y;
+	width: 1000px;
+	height:98px;
+	margin: 0px auto;
+	padding-top:32px
+}
+.btn a {
+	display: block;
+	background: url(/FrontEnd/images20090801/Australia_guidepage/btn_02.gif) 0px 0px no-repeat;
+	width: 231px;
+	height: 57px;
+	margin: 0px auto;
+}
+.btn a:hover {
+	background: url(/FrontEnd/images20090801/Australia_guidepage/btn_02.gif) 0px -57px no-repeat;
+}
+
+/*---foot---*/
+.buttom {
+	display: block;
+	clear: both;
+	background: url(/FrontEnd/images20090801/guidepage/page_img_149.gif) repeat-x;
+	height: 137px;
+	padding-top: 30px;
+	margin-top: 20px;
+}
+.copy {
+	width: 950px;
+	margin: 0 auto;
+	text-align: center;
+	color: #555;
+	line-height: 30px;
+	font-size: 14px;
+}
+
+.bg_02 a{ display:block; height:50px; width:100px; position:absolute; right:0px;
+}

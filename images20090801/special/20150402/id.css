@@ -1,0 +1,38 @@
+﻿body{ margin:0 auto;}
+p, h1, h2, h3, h4, h5, ul,li, dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px;}
+ul,li{list-style-type:none;}
+
+
+.frame{ background:url(lianhe_back.gif);}
+.lh_banner1{ width:100%; background:url(lh_app_01.jpg) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.lh_banner2{ width:100%; background:url(lh_app_02.jpg) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.lh_banner3{ width:100%; background:url(lh_app_03.jpg) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.lh_banner4{ width:100%; background:url(lh_app_04.jpg) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.lh_banner5{ width:100%; background:url(lh_app_05.jpg) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.lh_banner6{ width:100%; background:url(lh_app_06.gif) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.lh_banner7{ width:100%; background:url(lh_app_07.gif) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.lh_banner8{ width:100%; background:url(lh_app_08.gif) center no-repeat; background-size:18rem 2.9rem; height:2.9rem; }
+
+.login_title{ background:url(login_title.gif) center no-repeat; background-size:13.75rem 1.25rem; height:1.25rem; padding:1rem 0;}
+.lh_title{ background:url(app_title.png) center top no-repeat; background-size:16rem 3rem; height:1.5rem; overflow:hidden;}
+.lh_bg2 .lh_title{ background-position:center bottom; }
+.lh_title_left,.lh_title_right{height:1.5rem; width:8rem; display:inline-block; }
+.lh_title_left{ margin-left:1rem;}
+.lh_title_right{ margin-left:-0.3rem;}
+.step_img1{ background:url(11_03.png) center no-repeat; background-size:10.375rem 25.2rem; height:25.2rem;}
+.step_img2{ background:url(11_06.png) center no-repeat; background-size:10.45rem 24.17rem; height:24.17rem; margin-top:0.55rem;}
+.step_img3{ background:url(11_07.png) center no-repeat; background-size:10.45rem 24.67rem; height:24.67rem;}
+.ask_img1{ background:url(lh_app_23.gif) center no-repeat; background-size:16.725rem 9.75rem; height:9.75rem;}
+.ask_img2{ background:url(lh_app_25.gif) center no-repeat; background-size:16.725rem 10.1rem; height:10.1rem;}
+
+.lh_bg2 .step_img1{ background:url(1_03.png) center no-repeat; background-size:10.375rem 25.2rem; height:25.2rem;}
+.lh_bg2 .step_img2{ background:url(1_06.png) center no-repeat; background-size:10.375rem 23.4rem; height:23.4rem; margin-top:0.55rem;}
+.lh_bg2 .step_img3{ background:url(1_07.png) center no-repeat; background-size:10.375rem 22.65rem; height:22.65rem;}
+
+.share_logo{text-align:center; padding:0.75rem 0;  }
+.share_text{display:inline-block; width:4.55rem; height:2.2rem; background:url(lh_share_14.gif) no-repeat center; background-size:4.55rem 1.325rem; }
+.share_list{ display:inline-block;text-align: left; margin-left:0.4rem; width:7.8rem; height:2.2rem;}
+.share_list li{display:inline-block; width:2.2rem; height:2.2rem; margin:0 0.2rem;background:url(lh_share_11.gif) no-repeat;background-size:7.5rem 2.1rem;  }
+.share_list li.share_weixin{ }
+.share_list li.share_weibo{background-position:-2.7rem 0rem;}
+.share_list li.share_facebook{background-position:top right;}

@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{ background:#fff;  font-family:Verdana,Arial, Helvetica, sans-serif; font-size:12px; margin:0px;padding:0px; color:#5E5E5E;}
+img{border:0px;}
+
+ul,li,dl,dt,dd,p{ list-style-type:none;  margin:0px;padding:0px; border:0px;}
+.new_other{ width:950px; height:auto; display:table; margin:auto; text-align:center; background:#fff;}
+.new_other a:link,.new_other a:visited{ color:#5e5e5e; text-decoration:none;}
+.new_other a:hover{ color:#FF4200; text-decoration:underline;}
+.guidance{ width:950px; height:15px; line-height:15px; padding-bottom:5px; padding-top:5px;text-align:left;color:#5E5E5E;  margin:auto; background:#fff; text-indent:5px;}
+.zhuyi{width:938px; height:32px; line-height:32px; vertical-align:middle; margin:5px;float:left;  text-align: center; display: inline; }
+
+
+
+.classify{width:938px; height:32px; line-height:32px; vertical-align:middle; margin:5px;float:left; border:1px solid #fedfac; background:#fdf8e3; display: inline; text-align:center;}
+.classify span{ font-size:14px; font-weight:bold;}
+.s_mainbody{ width:628px;height:auto; display: inline; margin:5px; float:left;}
+
+.mainbody_header{ width:628px; height:27px; display: inline; font-size:14px;float:left;}
+.m_h_left{ width:90px; height:27px; line-height:27px; vertical-align:middle; text-align:center; color:#fff; background:url(http://sf.panli.com/FrontEnd/images20090801/s_header_current_bg.gif) repeat-x;float:left;}
+.m_h_right{ width:538px; height:27px; line-height:27px; vertical-align:middle; text-align:left; background: url(http://sf.panli.com/FrontEnd/images20090801/s_panel_header_bg.gif) repeat-x;float:left;}
+.sort{ width:268px; height:18px; padding-top:4px;*padding-top:2px;_padding-top:4px; float:left; text-align:right;}
+.h_pagenext{ width:260px; height:27px; _padding-top:6px;  float:right; text-align:right; padding-right:10px;}
+.show_zy{width:626px; height:28px;line-height:28px; vertical-align:middle; margin:5px 0px; text-indent:25px; color:#fe8e01;
+float:left; border:1px dashed #fedfac; background:#fdf8e3; text-align:left; display: inline; }
+.show{ width:628px; height:100px; border-bottom:1px solid #cbcbcb; float:left; margin:5px auto; background:#f3f3f3;float:left;}
+.show_pic{ width:80px; height:80px; border:2px solid #cccccc; margin:5px; float:left;}
+.show_detail{width:388px;margin:5px; height:84px; float:left; text-align:left;}
+.show_detail dt{width:388px; height:22px; line-height:22px; vertical-align:top;text-align:left;float:left; color:#5e5e5e; font-weight:bold;}
+.show_detail dd{width:388px; height:20px; line-height:20px;vertical-align:middle;text-align:left;float:left;}
+
+#s_pricem{height:25px; line-height:25px; }
+.s_price{ color:#ff4400; font-size:14px; float:left; font-weight:bold;}
+.s_time{color:#b6b6b6; float:right; text-align:right; }
+.s_whereshop{  padding:2px 7px; line-height:16px;_display: table-cell; _vertical-align: middle;_padding:10px  7px 0px 7px; background:#fe8e01; color:#fff; margin-right:10px;}
+.s_whereshop a:link,.s_whereshop a:visited{ color:#fff; text-decoration:none;}
+.s_whereshop a:hover{ color:#fff; text-decoration: underline;}
+.s_daigou{ width:128px; height:100px; float:left; text-align:center;}
+.daigou_number{width:79px; height:56px; line-height:23px; vertical-align:middle; margin:5px 12px; display:inline; background:url(http://sf.panli.com/FrontEnd/images20090801/go_shopping_10.gif) no-repeat; color:#ff4400; float:left;}
+.daigou_number p{ padding:5px; margin:0px;}
+.daigou_button{width:90px; height:35px; margin:3px 10px; text-align:left;float:left; }
+.sidbar{ width:300px; height:auto; display: inline; margin:5px; float:right;}
+.sidbar_box{width:298px; height:auto; display:table; border:1px solid #cbcbcb; background:#f3f3f3; margin-bottom:10px;}
+.sidbar_header{ width:298px; height:27px; display: inline; font-size:14px;float:left;}
+.s_h_right{ width:203px; height:27px; line-height:27px; vertical-align:middle; text-align:right; background: url(http://sf.panli.com/FrontEnd/images20090801/s_side_panel_header_bg.gif) repeat-x;float:left; padding-right:5px;}
+.tuijian{ width:298px; height:140px; float:left; border-bottom:1px dotted #e3e3e3;}
+.t_pic{ width:100px; height:100px; float:left; display:inline; margin:10px; }
+.t_name{ width:170px; height:100px; margin:10px 0px;float:left;text-align:left;}
+.t_name dt{width:170px; line-height:18px; padding-top:5px; margin-bottom:10px; }
+.t_name dd{width:170px;  height:20px; }
+.t_web{width:270px; height:20px; float:left; margin:0px 10px;text-align:left;display: inline;}
+#t_w_w{ color:#fe8e01; padding-left:5px;}
+.t_w_w a{ color:#fe8e01;}
+.t_w_w a:link,.t_w_w a:visited{color:#fe8e01;text-decoration:none;}
+.t_w_w a:hover{ color:#fe8e01; text-decoration: underline;}
+.sidbar_sale{width:298px; height:auto; display:table; border:1px solid #cbcbcb;  margin-bottom:10px;}
+.sale_m{width:298px; height:auto;display:table; border-bottom:1px dashed #e3e3e3; padding:10px 0px; float:left;}
+.sale_title{ width:270px; height:25px; float:left; margin:0px 10px 0px 10px; text-align:left;display: inline; font-weight:bold; background:url(http://sf.panli.com/FrontEnd/images20090801/dot_grey.gif) no-repeat 0px 5px; text-indent:10px;}
+
+.pagination{float:right; text-align:right;width:610px;margin:0;height:30px;font-family:Tahoma;font-size:12px;}
+.page-top,.page-bottom{float:right;}
+
+.pagination a,.page-info,.page-prev,.page-cur,.page-start,.page-end,.page-break,.page-skip{float:left;height:18px;margin:0 3px 0 0;text-align:center;white-space:nowrap;vertical-align:middle;line-height:18px;font-family:Tahoma,SimSun,Arial;}
+.page-start,.pagination a,.page-end{padding:0 5px;border:solid 1px #ccc;}
+.pagination a:hover{border:solid 1px #FD6D01;text-decoration:none;}
+.page-start{width:40px;padding:0!important;}
+a.page-prev{width:20px;padding:0!important;}
+.page-cur,.page-break{padding:0 3px;}
+a.page-next{padding-right:10px;}
+.page-end{padding-right:16px;}
+.page-cur{border:1px solid #FD6D01;padding:0 5px;font-weight:700;color:#FD6D01;background-color:#FFEDE1;}
+.page-skip{padding:0 3px;color:#666;}
+.page-skip input{width:30px;height:18px;margin:0 5px;border:solid 1px #999;vertical-align:top;*vertical-align:middle;font-family:Tahoma,SimSun,Arial;color:#000;text-align:center;}
+.page-skip button{width:37px;height:19px;margin:0 0 0 5px;border:0 none; color:#000;}
+.page-prev span,.page-start span,.page-mini .page-next span,.page-mini .page-end span,.page-skip button span{color:#CCCCCC}
+.page_button{ width:41px; height:19px; border:0px; margin:0px; background:url(http://sf.panli.com/FrontEnd/images20090801/go_shopping_18.gif) no-repeat;}
+
+
+.windows{background:#8a8a8a;width:234px; display:none; position:absolute; z-index:100}
+.white{background:#FFF;width:224px;margin:5px 0 0 5px;padding:2px 0;text-align:center;}
+.jiantou{background:url(http://sf.panli.com/FrontEnd/images20090801/w_jiantou.gif) no-repeat;width:9px;height:17px;position:relative;left:-9px;top:10px;margin-bottom:-17px;}
+.windows p{color:#FFF;width:220px;line-height:18px;margin:5px 0 0 10px;padding-bottom:10px;}
+.windows p a{color:#FFF;text-decoration:none;}
+.windows p a:hover{text-decoration:underline;color:#DAF1FE}

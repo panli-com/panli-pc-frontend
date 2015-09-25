@@ -1,0 +1,42 @@
+h6, h4, h3{ margin:0px; padding:0px;}
+.clear{ clear:both;}
+em{ font-style:normal;}
+.alink{ text-decoration:none; color:#71a8cf;}
+a.alink:hover{color:#f00;}
+.floatLeft{float:left;}.floatRight{float:right;}
+.fonticon{ font-family:'SimSun';}
+.normWidth{width:950px; margin:0 auto; position:relative;_height:1573px;}
+.storybg{background-color:#ffef05; margin-top:-12px; padding:0 0 10px 0; position:relative; overflow:hidden;}
+.storymaxbg{position:absolute;border-color:#ffef05;font-size:0px;display:block;border-style: solid;overflow: hidden;width: 0;height: 0;border-left-color: #8ed7f3;border-width: 2000px 0 2000px 2000px; top:-2000px;left:-1200px; z-index:0;}
+.storyServer{position:relative; z-index:10;}
+.serverBanner{ background:url(/FrontEnd/images20090801/story/banner.png) no-repeat center; height:309px; position:relative;}
+.bannerNav{ position:absolute;  font-family:'SimSun'; color:#0d7cb0; top:35px;left:10px;}
+.bannerNav a{ padding:0 5px; text-decoration:none;color:#0d7cb0;}
+.bannerShare{position:absolute;top:254px;}
+.bannerShare a{display:inline; float:left; width:30px; height:30px; margin:0 7px; background:url(/FrontEnd/images20090801/story/share.gif) no-repeat;text-decoration:none;}
+.bannerShare a.Share2{ background-position:-44px 0px;}
+.bannerShare a.Share3{background-position:-88px 0px;}
+.bannerShare a.Share4{background-position:-132px 0px;}
+.bannerShare a.Share1:hover{background-position:-0px -30px;}
+.bannerShare a.Share2:hover{ background-position:-44px -30px;}
+.bannerShare a.Share3:hover{background-position:-88px -30px;}
+.bannerShare a.Share4:hover{background-position:-132px -30px;}
+.serverType{ float:left;_left:0px;_top:309px; _position:absolute; }
+.serverType span,.serverType a{ float:left; display:inline;cursor:pointer; font-size:12px; position:relative;text-decoration:none; overflow:hidden;}
+.serverType div.serverTypeleft{ width:634px; height:632px;float:left; display:inline;}
+.serverType1{ width:634px; height:316px; background:url(/FrontEnd/images20090801/story/server1.jpg) no-repeat ;}
+.serverType2{ width:634px; height:316px; background:url(/FrontEnd/images20090801/story/server2.jpg) no-repeat ;}
+.serverType3{ width:316px; height:632px; background:url(/FrontEnd/images20090801/story/server3.jpg) no-repeat ;}
+.serverType4{ width:634px; height:316px; background:url(/FrontEnd/images20090801/story/server4.jpg) no-repeat ;}
+.serverType5{ width:634px; height:316px; background:url(/FrontEnd/images20090801/story/server5.jpg) no-repeat ;}
+.serverType6{ width:316px; height:632px; background:url(/FrontEnd/images20090801/story/server6.jpg) no-repeat ;}
+.serverType em{text-decoration:none;color:#738376;position:absolute; left:343px; bottom:20px;}
+.serverType2 em, .serverType3 em, .serverType6 em{left:30px;}
+.serverType5 a{ background:url(/FrontEnd/images20090801/story/button.png) no-repeat; width:250px; height:59px; position:absolute; left:26px; top:214px;}
+.serverType5 a:hover{background-position:0 -59px;}
+.serverType b{width:24px; height:22px;  background:url(/FrontEnd/images20090801/story/laba_j.png) no-repeat; display:block; position:absolute;}
+.serverType1 b{ top:77px; left:400px;}
+.serverType2 b{ top:74px; left:85px;}
+.serverType3 b{ top:390px; left:83px;}
+.serverType4 b{ top:76px; left:405px;}
+.serverType6 b{ top:372px; left:73px;}

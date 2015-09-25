@@ -1,0 +1,21 @@
+body{ margin:0 auto; font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span20{ height:20px; line-height:20px; display:block; clear:both;}
+.left{ float:left;}
+.right{ float:right;}
+
+#frame{ background:url(cssImg/back.gif) fixed; }
+.banner_top{ width:960px; margin:0 auto; text-align:center;}
+
+.content{ width:960px; margin:0 auto; padding-bottom:20px;}
+.content dd{ background:url(cssImg/beij.gif) repeat-y; width:904px; padding:18px 28px; overflow:hidden;}
+.merry_bottom{ background:url(cssImg/buttom.gif) no-repeat; width:960px; height:22px;}
+.weibo_sd{ width:560px;}
+.merry_list{ width:320px;}
+.list{ background-color:#fff; border-left:solid 1px #d4d4d4; border-right:solid 1px #d4d4d4; border-bottom:solid 1px #d4d4d4; padding:20px 10px; text-align:center;}
+.canyu{ margin:20px 0;}

@@ -1,0 +1,26 @@
+﻿body{ margin:0 auto;}
+p, h1, h2, h3, h4, h5, ul,li, dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px;}
+ul,li{list-style-type:none;}
+
+
+.frame{ background-color:#f7f7f7;}
+.app_banner1{ width:100%; background:url(app_banner_01.jpg) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.app_banner2{ width:100%; background:url(app_banner_02.gif) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.app_banner3{ width:100%; background:url(app_banner_03.gif) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.app_banner4{ width:100%; background:url(app_banner_04.gif) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.app_banner5{ width:100%; background:url(app_banner_05.jpg) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.app_banner6{ width:100%; background:url(app_banner_06.gif) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.app_banner7{ width:100%; background:url(app_banner_07.gif) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.app_banner8{ width:100%; background:url(app_banner_08.gif) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.app_banner9{ width:100%; background:url(app_banner_09.gif) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.app_banner10{ width:100%; background:url(app_banner_10.gif) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.app_banner11{ width:100%; background:url(app_banner_11.gif) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.app_banner12{ width:100%; background:url(app_banner_12.gif) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.app_banner13{ width:100%; background:url(app_banner_13.gif) center no-repeat; background-size:18rem 4rem; height:4rem; }
+.app_banner14{ width:100%; background:url(app_banner_14.gif) center no-repeat; background-size:18rem 5.5rem; height:5.5rem; }
+
+.app_button{ width:18rem; margin:0 auto;}
+.ios_down{ width:6.65rem; height:1.8rem; margin-left:1.05rem; display:inline-block;}
+.android_down{ width:8.375rem; height:1.8rem; margin-left:0.85rem; display:inline-block;}
+.ios_down1{ position:relative; width:6.65rem; height:1.8rem; margin-left:1.05rem; top:1.75rem; display:inline-block;}
+.android_down1{ position:relative; width:8.375rem; height:1.8rem; margin-left:0.85rem; top:1.75rem; display:inline-block;}

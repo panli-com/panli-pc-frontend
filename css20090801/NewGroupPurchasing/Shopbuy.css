@@ -1,0 +1,90 @@
+.weizhi{background:url(/FrontEnd/images20090801/GroupPurchasing/gm_bj.gif) no-repeat 0 top;padding:30px 30px 0 30px;height:50px;}
+.weizhi p{font-family:"simhei";font-size:20px;font-weight:normal;width:885px;text-align:center;height:40px;border-bottom:#ddd dashed 1px;}
+.weizhi p a{color:#71A8CF;}
+.weizhi p a:hover{color:#FF9900;text-decoration:none;}
+
+.center{width:950px;margin:auto;background:#fff url(/FrontEnd/images20090801/GroupPurchasing/gm_bj.gif) repeat-y -952px 0;padding-bottom:20px;}
+.tishi{color:#60a1d7;height:24px;text-align:center;}
+.wangzhi{padding:10px 0 0 240px;background:url(/FrontEnd/images20090801/GroupPurchasing/che.gif) no-repeat 135px 0;height:90px;}
+.wangzhi p{height:25px;font-size:14px;line-height:22px;}
+.ts{color:#F00;padding-left:23px;background:url(/FrontEnd/images20090801/newmypanli/wrong.gif) no-repeat left;height:20px;line-height:20px;font-size:14px;}
+.input{height:38px;}
+.sou,.sou_{border:1px solid #A7D0E4;padding:6px 3px;font-size:14px;width:430px;margin:0 5px 0 0;}
+.sou_{background:#f3f3f3;color:#bbb;border:#ddd solid 1px;}
+.qd,.qd_,.qd_h{background:url(/FrontEnd/images20090801/GroupPurchasing/qd.gif) no-repeat center -31px;margin:0;height:30px;border:none;width:88px;font-size:14px;cursor:pointer;color:#CB970B}
+.qd_{background-position:center 0;color:#FFF;}
+.qd_h{background-position:center -62px;color:#aaa;}
+.biao ul{height:30px;background:#f4f5f5;padding-left:48px;margin-bottom:8px;border:#e4e7e9 solid 1px;}
+.biao li{float:left;font-size:14px;line-height:30px;font-weight:bold;}
+.l1{width:330px;}
+.l2{width:100px;}
+.l3{width:100px;}
+.l4{width:120px;}
+.biao{margin:0 35px;}
+.biao table{border-collapse:collapse;width:100%;margin-bottom:8px;}
+.biao table .d{background:#f9f9f9;}
+.biao table .h{background:#ECFAD3;}
+.biao table td{padding:10px 15px;border:#ddd solid 1px;margin:0;}
+.biao table .w1{width:35px;text-align:center;padding:0;}
+.w2 img{height:40px;width:40px;}
+.biao table .w2{width:50px;padding:0 0 0 10px;border-left:none;border-right:none;}
+.biao table .w2 a{border:#ddd solid 1px;float:left;height:40px;width:40px;padding:1px;}
+.biao table .w3{font-size:12px;width:250px;line-height:20px;border-left:none;border-right:none;padding-left:0;}
+.w3 a{color:#71A8CF;}
+.h .w3 a{color:#7A9744;}
+.w3 a:hover{color:#FF0000;text-decoration:none;}
+.biao table .w4{width:70px;border-left:none;border-right:none;}
+.biao table .w5{width:70px;color:#339900;border-left:none;border-right:none;}
+.biao table .w6{width:90px;border-left:none;border-right:none;}
+.w6 input{width:30px;border:1px solid #A7D0E4;font-size:14px;padding:3px;float:left;margin:0 4px 0 3px;display:inline;font-size:16px;font-family:Arial;}
+.w6 a{background:url(/FrontEnd/images20090801/AddItemPanel/jj.gif) no-repeat 0 0;height:18px;width:18px;display:block;float:left;margin-top:4px;}
+.w6 .jia:hover{background-position:0 -20px;}
+.w6 .jian{background-position:-22px 0;}
+.w6 .jian:hover{background-position:-22px -20px;}
+.biao table .w7{padding-right:0;border-left:none;}
+.w7 textarea{border:#A7D0E4 solid 1px;height:28px;margin:0;padding:3px;width:165px;font-size:12px;}
+.w7 .hui{color:#CCC;}
+.w7 .red{border:#FF0000 solid 1px;color:#FF0000}
+
+.loading{text-align:center;padding-top:10px;border:#fc0 solid 2px;height:50px;background:#FFF;margin-bottom:8px;position:relative;}
+.loading p{color:#bbb;}
+.loading img{margin-bottom:3px;}
+
+.tijiao{text-align:right;margin:15px 35px 0 35px;}
+.tijiao input{background:url(/FrontEnd/images20090801/GroupPurchasing/anniu.gif) no-repeat 0 0;width:139px;border:none;line-height:28px;padding-bottom:15px;font-size:14px;color:#FFF;height:50px;cursor:pointer;}
+.tijiao .ok{background-position:0 -52px;}
+.tijiao p{height:40px;font-size:14px;}
+.tijiao span{color:#F00;font-size:18px;}
+.label{padding-top:3px;}
+.label input{vertical-align:text-bottom;margin-bottom:1px;*margin-bottom:-2px;}
+
+.Groupfoot{height:15px;clear:both;background:url(/FrontEnd/images20090801/GroupPurchasing/gm_bj.gif) no-repeat -1904px top;width:950px;margin:auto;}
+.wenxin{height:50px;font-size:14px;color:#f90;padding-left:20px;background:url(/FrontEnd/images20090801/AddItemPanel/deng.gif) no-repeat left;line-height:50px;margin-left:250px;}
+
+.xin_g{border:#F2E3C6 dashed 1px;background:#FFFFCC;line-height:28px;margin-bottom:10px;text-align:center;color:#FF9900;}
+.xin_g b{color:#FF0000;padding:0 3px;}
+
+.shuoming{margin:10px 30px 10px 30px;background:#FFFFee;border:#f0f0f0 solid 1px;padding:10px;}
+.s_tou h2{font-size:14px;color:#333;height:25px;float:left;}
+.shuoming p{line-height:20px;color:#C25A2E;clear:both;border-top:1px dashed #d9d9d9;padding-top:5px;}
+.s_tou a{float:right;font-size:14px;color:#71a8cf;}
+.s_tou a:hover{color:#ff0000;text-decoration:none;}
+
+.f_jine{font-size:14px;height:35px;}
+.f_jine .z{color:#ff0000;font-family:Arial;font-size:16px;}
+.f_zuo{float:left;}
+.f_zuo p{float:left;padding-right:15px;}
+.f_zuo b{color:#ff0000;font-family:Arial;font-size:16px;}
+.f_zuo a{color:#71a8cf;}
+.f_zuo a:hover{color:#F00;}
+
+.tishi2 {background: url("http://sf.panli.com/FrontEnd/images20090801/GroupPurchasing/deng.jpg") no-repeat scroll 10px 6px #FFFEDF;
+    border: 1px solid #FFC16E;
+    height: 30px;
+    line-height: 30px;
+    margin:0 35px;
+    padding-left: 30px;}
+
+
+
+

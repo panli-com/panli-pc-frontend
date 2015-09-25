@@ -1,0 +1,31 @@
+body{ margin:0 auto; font-size:12px;font-family:Arial, Helvetica, sans-serif;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.all_style{ background:#fef0c6;}
+img{vertical-align:top;}
+.span10{ height:10px; line-height:10px; display:block; clear:both;}
+p, h1, h2, h3, h4, h5, li, ul, dl, dt, dd, b,img,div{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+
+.content{ width:950px; margin:0 auto;}
+.send1{ background:url(/FrontEnd/images20090801/Special/20130613/20/banner_1.jpg) no-repeat; height:90px;}
+.send2{ background:url(/FrontEnd/images20090801/Special/20130613/20/banner_2.jpg) no-repeat; height:90px;}
+.send3{ background:url(/FrontEnd/images20090801/Special/20130613/20/banner_3.jpg) no-repeat; height:90px;}
+.send4{ background:url(/FrontEnd/images20090801/Special/20130613/20/shijian.jpg) no-repeat; height:90px;}
+.send5{ background:url(/FrontEnd/images20090801/Special/20130613/20/panli_text.jpg) no-repeat; height:90px;}
+.send6{ background:url(/FrontEnd/images20090801/Special/20130613/20/send_title1.gif) no-repeat; height:90px;}
+.send7{ background:url(/FrontEnd/images20090801/Special/20130613/20/send_shopp.gif) no-repeat; height:90px;}
+.send8{ background:url(/FrontEnd/images20090801/Special/20130613/20/send_shopp1.gif) no-repeat; height:90px;}
+.send9{ background:url(/FrontEnd/images20090801/Special/20130613/20/send_shopp2.gif) no-repeat; height:90px;}
+.send10{ background:url(/FrontEnd/images20090801/Special/20130613/20/send_title2.gif) no-repeat; height:90px;}
+.send11{ background:url(/FrontEnd/images20090801/Special/20130613/20/daigou.gif) no-repeat; height:90px;}
+.send12{ background:url(/FrontEnd/images20090801/Special/20130613/20/daigou_text.gif) no-repeat; height:90px;}
+.send13{ background:url(/FrontEnd/images20090801/Special/20130613/20/move_title.gif) no-repeat; height:90px;}
+.send14{ background:url(/FrontEnd/images20090801/Special/20130613/20/send_move1.gif) no-repeat; height:90px;}
+.send15{ background:url(/FrontEnd/images20090801/Special/20130613/20/send_move2.gif) no-repeat; height:90px;}
+.send16{ background:url(/FrontEnd/images20090801/Special/20130613/20/send_title3.gif) no-repeat; height:90px;}
+.send17{ background:url(/FrontEnd/images20090801/Special/20130613/20/pindan.gif) no-repeat; height:90px;}
+.send18{ background:url(/FrontEnd/images20090801/Special/20130613/20/send_bottom.jpg) no-repeat; height:135px; position:relative;}
+
+.link{width:483px;height:59px;left:235px;top:35px; position:absolute;}
+.link a{width:483px; height:59px; display:block; background:url(/FrontEnd/images20090801/Special/20130613/20/send_button.gif) no-repeat top;}
+.link a:hover{ background-position:bottom;}

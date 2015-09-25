@@ -1,0 +1,141 @@
+﻿body{font-family:"simsun";}
+.hot{width:950px;margin:auto;height:332px;margin-bottom:10px;}
+.left{border:#ccc solid 1px;height:330px;width:638px;float:left;background:url(http://sf.panli.com/FrontEnd/images20090801/hot.gif) no-repeat left top;}
+.zk_qbz{margin:18px 10px 0 35px;background:url(http://sf.panli.com/FrontEnd/images20090801/panli.gif) no-repeat right;height:33px;}
+.zk_qbz h2{background:#FFF;float:left;padding-right:10px;height:20px;margin-top:12px;}
+.nr{margin:10px 0 0 10px;}
+.hotimg{display:inline;float:left;width:357px;}
+.hotimg img{height:255px;width:355px;}
+.hotimg a{border:#666 solid 1px;float:left}
+.tj h1{font-size:14px;margin:5px 0 10px 0;}
+.tj h1 a{text-decoration:none;color:#333;}
+.xiang{width:250px;float:right;height:100px;margin-right:10px;display:inline;}
+.tj{width:250px;border-bottom:dashed #999 1px;height:100px;}
+.tj p{color:#999;line-height:20px;text-indent:25px;}
+.tj p a{color:#73A4D0;text-decoration:none}
+
+.lb{margin-top:10px;}
+.lb li{padding-left:8px;background:url(http://sf.panli.com/FrontEnd/images20090801/fk.gif) no-repeat left;line-height:24px;height:24px;}
+.lb li a{font-size:14px;color:#333;text-decoration:none;}
+.xiang a:hover{color:#FF6600;text-decoration:underline}
+
+.right{float:right;border:#ccc solid 1px;height:330px;width:298px;}
+.lm{height:48px;overflow:hidden}
+.lm img{height:20px;margin:28px 0 0 10px;}
+.shoplogo{margin-top:18px;}
+.shoplogo li{float:left;margin:0 0 8px 10px;display:inline;}
+.shoplogo li a{float:left}
+.shoplogo li img{width:132px;height:55px;border:#aaa solid 1px;}
+.lm2{padding:5px 0 0 0;border-bottom:#ddd solid 1px;height:28px;line-height:28px;width:278px;}
+.lm2 h2{font-size:14px;font-family:"Microsoft YaHei";float:left;padding-left:12px;background:url(/FrontEnd/images20090801/zk_shequ.gif) no-repeat left;}
+.lm2 span{float:right;}
+.lm2 span a{color:#bbb;text-decoration:none;}
+.lm2 span a:hover{color:#FF6600;text-decoration:underline;}
+
+.zk_new{
+	border:#ccc solid 1px;width:950px;margin:auto;margin-bottom:10px;background:url(http://sf.panli.com/FrontEnd/images20090801/zk_new.gif) no-repeat left top;}
+.zk_new ul{margin:15px 0 0 10px;float:left;display:inline;}
+.zk_new ul li{height:160px;float:left;width:455px;margin-left:10px;display:inline}
+.tupian img{height:120px;width:120px;}
+.tupian a{float:left;border:#aaa solid 1px;padding:5px;}
+.xinxi{float:left;width:305px;margin-left:10px;}
+.xinxi span{display:block;border-bottom:#aaa dashed 1px;height:23px;padding-left:3px;color:#FF9900}
+.xinxi h1{font-size:14px;margin:5px 0 10px 3px;}
+.xinxi h1 a{color:#333;text-decoration:none;}
+.xinxi p{color:#aaa;line-height:20px;margin:10px 0 0 3px}
+.xinxi p a{color:#73A4D0;text-decoration:none}
+.xinxi a:hover{color:#FF6600;text-decoration:underline}
+
+.weizhi{width:948px;height:28px;border:#CCC dashed 1px;margin:auto;line-height:28px;background:#FDFDE1;margin-bottom:10px;}
+.weizhi b{margin-right:5px}
+.weizhi p{margin-left:10px;color:#999;}
+.weizhi a{color:#999;text-decoration:none;}
+.weizhi a:hover{color:#FF6600;text-decoration:underline;}
+
+.center{margin:auto;width:950px;}
+.zuo{float:left;width:640px;}
+.details{border:#ccc solid 1px;background:url(http://sf.panli.com/FrontEnd/images20090801/zk_panli.gif) no-repeat left top;margin-bottom:10px}
+.details h1{font-size:20px;font-weight:normal;font-family:"simhei";margin:20px 0 10px 0;text-align:center}
+.zhaiyao{text-align:center;border-bottom:#CCC dashed 1px;height:20px;margin:0 10px 15px 10px}
+.zhaiyao span{margin:0 3px;color:#999;}
+.zhaiyao a{color:#999;text-decoration:none;}
+.zhaiyao a:hover{color:#f90;text-decoration:none;}
+
+.details center{margin-bottom:10px;}
+.zw{margin:0 20px;font-size:14px;line-height:24px;}
+.zw p{text-indent:27px;margin-bottom:20px;}
+
+.shangjia{border:#CCC dashed 1px;margin:0 10px 15px 10px;padding:10px;}
+.shangjia li{line-height:22px;color:#999;}
+.shangjia li a{color:#73A4D0}
+.remen{border:#ccc solid 1px;height:190px;margin-bottom:10px;}
+
+.remen ul{margin:15px 0 0 10px;}
+.remen li{float:left;width:300px;padding-left:10px;background:url(http://sf.panli.com/FrontEnd/images20090801/fk.gif) no-repeat left;line-height:22px;}
+.remen li a{color:#333;text-decoration:none;}
+.remen li a:hover{text-decoration:underline;color:#FF6600}
+
+.you{float:right;width:300px;}
+.pltj{border:#ccc solid 1px;margin-bottom:10px}
+.pltj ul{margin:15px 10px 0 10px;}
+.pltj ul img{height:100px;width:100px;}
+.pltj ul dt a{border:#CCC solid 1px;float:left;}
+.pltj dl{height:120px;}
+.pltj dt{float:left;width:102px;}
+.pltj dd{float:right;width:170px;}
+.pltj dd p {color:#999;height:12px;}
+.pltj dd p span{color:#FF6600;font-weight:bold}
+.pltj h1{font-size:12px;line-height:22px;height:50px;}
+.pltj h1 a{color:#333;text-decoration:none;}
+.pltj a:hover,.shequ a:hover{color:#FF6600;text-decoration:underline;}
+.pltj dl div{color:#999;margin-top:8px}
+.pltj dl div a{color:#3399FF;height:12px}
+.pltj b{margin-left:36px;display:block;font-weight:100;margin-top:2px}
+.pltj b a{text-decoration:none;color:#FF6600}
+
+.shequ{border:#ccc solid 1px; padding:0 0 15px 10px; margin-bottom:10px}
+.shequ ul{margin:10px 10px 0 0;}
+.shequ li{padding-left:10px;background:url(http://sf.panli.com/FrontEnd/images20090801/fk.gif) no-repeat 2px;line-height:24px;border-bottom:#ddd dashed 1px;}
+.shequ ul a{color:#333;text-decoration:none;}
+
+.fx_new{padding:0 0 2px 10px;border:#ccc solid 1px;margin-bottom:10px;}
+.fx_new ul{margin:15px 0 0 0;}
+.fx_new li{width:278px;padding-bottom:10px;}
+.fx_ren{background:url(/FrontEnd/images20090801/cowry/fx_bj.gif) no-repeat 0 bottom;height:28px;}
+.fx_ren h2{font-size:12px;font-weight:100;color:#999;padding-left:25px;background:url(/FrontEnd/images20090801/cowry/fx_info.gif) no-repeat 0 center;height:20px;line-height:20px;font-family:"simsun";}
+.fx_x{border:#E6E6E6 solid 1px;border-top:0;height:68px;background:#F9F9F9;padding:5px 0 0 5px;}
+.new_info{width:198px;float:right;}
+.new_info h2{font-size:12px;font-weight:100;font-family:"simsun";line-height:20px;height:60px;overflow:hidden;text-indent:12px;background:url(/FrontEnd/images20090801/cowry/retie.gif) no-repeat 0 3px;}
+.new_info h2 a{color:#71A8CF;}
+.new_info h2 a:hover{color:#F60;text-decoration:none;}
+.rm_pic{float:left;}
+.rm_pic a{float:left;border:#ddd solid 1px;height:60px;width:60px;}
+.rm_pic img{height:60px;width:60px;}
+
+.tuan{padding:0 0 10px 10px;border:#ccc solid 1px;margin-bottom:10px;}
+.tuan_box{padding:0;}
+.time{color:#333;padding:10px 0 5px 0;font-size:14px;}
+.time span{color:#f00;font-size:22px;font-family:Arial;font-weight:bold;}
+.tuan_pic{height:160px;}
+.tuan_pic a{width:276px;height:150px;float:left;border:#CCC solid 1px;}
+.tuan_pic img{width:276px;height:150px;}
+.t_info{height:60px;}
+.t_info h2{font-size:14px;font-weight:100;width:278px;height:28px;line-height:30px;overflow:hidden;margin-bottom:5px;}
+.t_info h2 a{color:#71A8CF;}
+.t_info h2 a:hover{color:#FF6600;text-decoration:none;}
+.t_info span{padding-right:10px;}
+.t_info span b{font-family:Arial;color:#FF0000;font-size:18px;}
+.t_info p{float:left;line-height:28px;}
+.kan{background:url(/FrontEnd/images20090801/button/70an.gif) no-repeat 0 -30px;float:right;height:29px;width:70px;text-align:center;line-height:29px;color:#FFF;font-size:14px;text-decoration:none;margin:-5px 10px 0 0;position:relative;}
+.kan:hover{color:#FFFFCC;}
+
+
+.a_zkh{width:615px;margin:0 0 10px 15px;}
+.a_zkh img{float:left;margin-right:10px;margin-top:5px;}
+.a_zkh p{font-family:"Microsoft YaHei";line-height:22px;font-size:13px;}
+.a_zkh b{color:#71a8cf;}
+.a_sxf{margin:0 0 15px 15px;width:615px;height:30px;}
+.a_sxf a{color:#71a8cf;text-decoration:none;}
+.a_sxf a:hover{color:#f00;text-decoration:underline;}
+.a_sxfleft{float:left;}
+.a_sxfright{float:right;}

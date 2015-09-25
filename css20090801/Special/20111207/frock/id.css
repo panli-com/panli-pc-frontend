@@ -1,0 +1,26 @@
+body{ margin:0 auto;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+
+.frame li{ width:950px;position:relative;}
+.icon{width:130px;height:70px;left:202px;top:35px;position:absolute;}
+.icon a{width:130px; height:70px; display:block; background:url(/FrontEnd/images20090801/special/20111207/frock/icon_03.gif) no-repeat bottom;}
+.icon a:hover{ background-position:top;}
+.icon01{width:130px;height:70px;left:610px;top:40px;position:absolute;}
+.icon01 a{width:130px; height:70px; display:block; background:url(/FrontEnd/images20090801/special/20111207/frock/icon_03.gif) no-repeat bottom;}
+.icon01 a:hover{ background-position:top;}
+.icon02{width:210px;height:60px;left:172px;top:1px;position:absolute;}
+.icon02 a{width:210px; height:60px; display:block; background:url(/FrontEnd/images20090801/special/20111207/frock/icon_07.gif) no-repeat bottom;}
+.icon02 a:hover{ background-position:top;}
+.icon03{width:210px;height:70px;left:172px;top:5px;position:absolute;}
+.icon03 a{width:210px; height:70px; display:block; background:url(/FrontEnd/images20090801/special/20111207/frock/icon_11.gif) no-repeat bottom;}
+.icon03 a:hover{ background-position:top;}
+.icon04{width:280px;height:70px;left:538px;top:3px;position:absolute;}
+.icon04 a{width:280px; height:70px; display:block; background:url(/FrontEnd/images20090801/special/20111207/frock/icon_14.gif) no-repeat bottom;}
+.icon04 a:hover{ background-position:top;}
+
+

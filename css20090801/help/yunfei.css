@@ -1,0 +1,26 @@
+body{font-size:12px;color:#333;margin:0;padding:0;font-family:Verdana,san-serif;}
+p,h1,ul,li{margin:0;padding:0;list-style:none;}
+.yunfei{ width:950px;margin:auto;margin-bottom:10px; font:12px/1.5 '\5fae\8f6f\96c5\9ed1',tahoma,sans-serif;}
+.select_bar{margin:40px 0;}
+.question{color:#f93;text-decoration:underline; float:right; line-height:32px; position:relative; cursor:pointer; vertical-align:middle; z-index:20;}
+.question .question_answer{position:absolute; background:#FFF1E4; width:524px; color:#333; border:#EAB86F 1px solid; padding:15px 20px; text-align:left; top:30px; left:-320px; z-index:1000; display:none;}
+.details_info {line-height:45px;padding-left:41px;font-size:14px;background: url(/FrontEnd/images20090801/help/yunfei_icon.png) no-repeat;color:#666; background-position: -64px 14px;height: 45px;}
+	
+.company_table{width:950px;text-align:center; color:#666; border:solid 1px #ddd; border-bottom:none;}
+.company_table td {padding: 12px 10px; border-bottom: solid 1px #ddd; position:relative;}
+.company_table thead td {background:#eee;color:#333;font-size:14px; font-weight:bold;}
+.company_table tbody td{padding:20px 10px; background:#fff;}
+.company_table .trans_type{text-align:left;font-weight:bold; color:#333;}
+.company_table .trans_weight .trans_price{color:#f93; font-weight:bold;}
+.company_table .trans_weight .slash_line{margin:0 5px;}
+.company_table .trans_detail{color:#f93; text-decoration:underline; cursor:pointer;}
+.trans_detail span{padding:6px;}
+.company_table .detail_pop{position:absolute; background:#FFF1E4; color:#333; border:#EAB86F 1px solid; padding:20px 15px; width:300px; text-align:left; top:45px; left:-200px; z-index:1000; display:none;}
+.detail_pop h3{line-height:20px; margin-bottom:3px; font-size:14px;}
+.detail_pop p{line-height:20px; font-size:13px;margin-bottom:20px;}
+.detail_pop .nomarginbot{margin-bottom:0;}
+.company_table .trans_time{text-decoration:none;}
+.trans_time .detail_pop{width:432px;}
+.trans_time .detail_pop p{margin-bottom:0;}
+	
+.list_country .am_p_k {background: #fff url("/FrontEnd/images20090801/icon/common/rr.gif") no-repeat scroll 175px center;border: 1px solid #a8c0d6;font-size: 12px;margin: 0;padding: 4px 3px; cursor: pointer;width: 190px;}

@@ -1,0 +1,51 @@
+body{ margin:0 auto;height:100%;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+
+.frame li{ width:950px;position:relative;}
+.link{width:290px;height:40px;left:330px;top:15px;position:absolute;}
+.link a{width:290px; height:40px; display:block; background:url(/FrontEnd/images20090801/Special/20111207/merry_icon_03.gif) no-repeat bottom;}
+.link a:hover{ background-position:top;}
+.link01{width:290px;height:40px;left:330px;top:30px;position:absolute;}
+.link01 a{width:290px; height:40px; display:block; background:url(/FrontEnd/images20090801/Special/20111207/merry_icon_06.gif) no-repeat bottom;}
+.link01 a:hover{ background-position:top;}
+
+/*礼品*/
+.merry_back{ background:url(/FrontEnd/images20090801/Special/20111207/merry_banner_14.jpg) repeat-y; width:750px;padding:0 100px;overflow:hidden;}
+*html .merry_back{ background:url(/FrontEnd/images20090801/Special/20111207/merry_banner_14.jpg) repeat-y; width:750px;padding:0 100px;overflow:visible;}
+.merry_back li{ width:198px;float:left; margin:20px 24px;display:inline; text-align:center;}
+.merry_back li span{display:block; margin-top:20px;}
+.lipin{ clear:both; text-align:right;}
+
+.addpanel_overlay{
+	moz-opacity:0.56; /* Moz + FF 透明度20%*/ 
+	opacity: 0.56; /* 支持CSS3的浏览器（FF 1.5也支持）透明度20%*/
+	filter:alpha(opacity=56); /* IE 透明度20% */ 
+	position:fixed;bottom:0;top:0;left:0;right:0;background:#000;height:100%;width:100%;_position:absolute;
+}
+.advisory_message{width:582px;border:1px #38913d solid;position:fixed;z-index:900;_position:absolute;left:50%;margin-left:-292px;top:50%;margin-top:-230px;background:#fff;height:460px;}
+.advisory_tou h1{float:left;font-size:14px;font-weight:normal;color:#666;padding:15px 0 0px 15px;}
+.advisory_close{height:19px;width:25px;float:right;padding:15px 15px 0 0;}
+.advisory_close a{background:url(/FrontEnd/images20090801/Special/20111207/dialog_closer.gif) no-repeat;cursor:pointer;float:right;height:19px;width:25px;}
+.advisory_close a:hover{background-position:-60px;}
+.advisory_tou{background:url(cssImg/m1.gif) repeat-x 0 0;height:60px;}
+.advisory_biaot{padding:20px 0 20px 105px;}
+
+
+.addbox{padding:100px 0 0 180px;background:url(http://sf.panli.com/FrontEnd/images20090801/biaoqing/b2.gif) no-repeat 50px 100px;}
+.addsw{background:url(http://sf.panli.com/FrontEnd/images20090801/biaoqing/b10.gif) no-repeat 50px 100px;}
+.addyh{background:url(http://sf.panli.com/FrontEnd/images20090801/biaoqing/b9.gif) no-repeat 50px 100px;}
+.addbox h1{color:#7CBF75;font-size:20px;font-family:"simhei";font-weight:normal;height:35px;line-height:24px;}
+.addsw h1,.addyh h1{color:#333;}
+.addbox ul li{line-height:24px;font-size:14px;}
+.addbox ul{padding-bottom:15px;}
+.addbox ul span{color:#F00;padding:0 3px;}
+.addbox dd{float:left;font-size:14px;padding-right:20px;}
+.addbox dd a{float:left;color:#5CA5DA;}
+.addbox dd a:hover{color:#F00;text-decoration:none;}
+
+

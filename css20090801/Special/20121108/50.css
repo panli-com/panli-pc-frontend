@@ -1,0 +1,31 @@
+body{ margin:0 auto;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+
+.banner_top{ width:950px; margin:auto;}
+.back1{ background:url(/FrontEnd/images20090801/special/20121108/50/old_member_03.jpg) no-repeat; height:100px;}
+.back2{ background:url(/FrontEnd/images20090801/special/20121108/50/old_member_05.jpg) no-repeat; height:100px;}
+.back3{ background:url(/FrontEnd/images20090801/special/20121108/50/old_member_06.jpg) no-repeat; height:100px;}
+.back4{ background:url(/FrontEnd/images20090801/special/20121108/50/old_member_07.jpg) no-repeat; height:100px;}
+.back5{ background:url(/FrontEnd/images20090801/special/20121108/50/old_member_08.gif) no-repeat; height:100px;}
+.back6{ background:url(/FrontEnd/images20090801/special/20121108/50/old_member_09.gif) no-repeat; height:100px;}
+.back7{ background:url(/FrontEnd/images20090801/special/20121108/50/old_member_10.gif) no-repeat; height:100px;}
+.back8{ background:url(/FrontEnd/images20090801/special/20121108/50/old_member_11.gif) no-repeat; height:100px; position:relative;}
+.button{left:370px;top:20px;position:absolute; display:block;}
+.back9{ background:url(/FrontEnd/images20090801/special/20121108/50/old_member_12.gif) no-repeat; height:100px;}
+.back10{ background:url(/FrontEnd/images20090801/special/20121108/50/old_member_13.gif) no-repeat; height:100px; position:relative;}
+.more1{left:780px;top:55px;position:absolute; display:block;}
+.back11{ background:url(/FrontEnd/images20090801/special/20121108/50/old_member_14.gif) no-repeat; height:100px;}
+.back12{ background:url(/FrontEnd/images20090801/special/20121108/50/old_member_15.gif) no-repeat; height:100px; position:relative;}
+.more2{left:765px;top:12px;position:absolute; display:block;}
+.back13{ background:url(/FrontEnd/images20090801/special/20121108/50/old_member_16.gif) no-repeat; height:100px; position:relative;}
+.more3{left:780px;top:85px;position:absolute; display:block;}
+.back14{ background:url(/FrontEnd/images20090801/special/20121108/50/old_member_17.gif) no-repeat; height:100px;}
+.back15{ background:url(/FrontEnd/images20090801/special/20121108/50/old_member_18.jpg) no-repeat; height:118px; position:relative;}
+.icon{width:455px;height:60px;left:256px;top:20px;position:absolute;}
+.icon a{width:455px; height:60px; display:block; background:url(/FrontEnd/images20090801/special/20121108/50/more_14.gif) no-repeat top;}
+.icon a:hover{ background-position:bottom;}

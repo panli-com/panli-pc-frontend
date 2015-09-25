@@ -1,0 +1,136 @@
+body{font-size:12px;margin:0;padding:0;font-family:"simsun";background:url(/FrontEnd/images20090801/piece/Spellshop/novip_bj.jpg) repeat-x 0 85px;}
+p,h1,h2,h3,h4,h5,li,ul,dd,dt,dl,form{margin:0;padding:0;}img{border:none;}ul li{list-style:none;}
+.logo{width:450px;float:left;margin-right:-500px}
+.logo a{float:left;}
+.logo p{float:left;border-left:#eee solid 2px;padding:10px 0 5px 12px;margin-left:13px;display:inline;height:50px;}
+.top_r{float:right;width:580px;}
+
+.pay{background:url(/FrontEnd/images20090801/piece/Spellshop/pay_bj.gif) repeat-y -951px 0;width:950px;margin:auto;}
+.biaoti{background:url(/FrontEnd/images20090801/piece/Spellshop/pay_bj.gif) no-repeat 0 0;padding:25px 0 10px;overflow:hidden;}/*改*/
+.biaoti h1{width:900px;margin-left:25px;text-align:center;height:35px;float:left;font-family:"Microsoft YaHei";font-size:18px;font-weight:normal;display:inline;_margin-bottom:20px;}/*改*/
+.biaoti h1 a{color:#333;text-decoration:none;}
+.biaoti h1 a:hover{color:#F00;text-decoration:underline;}
+
+.a_zhekou{width:900px;height:35px;background:#b7b8b7;margin-left:25px;}
+.a_zhekou p{color:#5f9149;line-height:35px;padding-left:10px;float:left;}
+.a_zhekou label{float:left;padding-left:10px;line-height:20px;height:20px;overflow:hidden;padding-top:8px;color:#fff;}
+.a_zhekou input{margin-right:3px;float:left;}
+
+.foot{height:60px;text-align:center;padding-top:32px;color:#999;clear:both;width:950px;margin:auto;background:url(/FrontEnd/images20090801/piece/Spellshop/pay_bj.gif) no-repeat top right}.foot a{color:#999}.foot a:hover{color:#F60}.foot p{margin-bottom:8px;}
+
+.biao{margin:10px 25px 0 25px;}
+.biao table{border-collapse:collapse;padding:0;margin:0;width:100%;}
+.biao table th{border:#e3e3e3 solid 1px;background:#ebebeb;text-align:left;height:30px;padding-left:10px;font-size:14px;}
+.biao table td{border:#e3e3e3 solid 1px;padding:10px 10px;}
+.biao table .w2 a{color:#599ED5;font-size:14px;line-height:18px;}
+.biao table .w2{width:350px;}
+.biao table .w2 .a_w2l{float:left;margin-right:10px;width:62px;margin-top:3px;}
+.biao table .w2 .a_w2l img{border:1px solid #d6d6d6;}
+.biao table .w2 .a_w2r{float:left;width:280px;}
+.biao table .w2 .a_w2r p{font-size:14px;color:#7f7f7f;margin-top:5px;}
+.biao table .w2 a:hover{color:#FF0000;text-decoration:none;}
+.biao table .w3{width:150px;font-size:14px;font-family:"Microsoft YaHei";}
+.biao table .w4{width:150px;}
+.biao table td.w4{color:#339933;background:#fafafa;}
+.biao table .d td.w4{color:#339933;background:#f3f3f3;}
+.biao table .w5{width:120px;padding-left:25px;}
+.biao table .w5 a{background:url(/FrontEnd/images20090801/piece/Spellshop/bzann.gif) no-repeat 0 0;width:111px;height:35px;float:left;line-height:35px;text-align:center;text-decoration:none;font-size:14px;color:#71a8cf;}
+.biao table .w5 a:hover{background-position:0 -38px;}
+.biao table .w5 .a_scnn{background:none;color:#7f7f7f;font-size:12px;}
+.biao table .d{background:#f6f6f6;}
+.zhifu{margin:10px 25px 0 25px;font-size:14px;text-align:right;width:900px;}
+#myAccountBalance{color:#F00;}
+.zhifu a{color:#599ED5;}
+.zhifu a:hover{color:#FF9900;text-decoration:none;}
+.zhifu p{height:25px;line-height:25px;}
+.zhifu li b{color:#FF0000;font-family:Arial;font-weight:bold;font-size:24px;}
+.zhifu ul{float:right;}
+.zhifu ul li{line-height:28px;clear:both;}
+.zhifu ul li p{float:left;}
+.zhifu ul li p b{font-size:16px;}
+.yuer{float:left;display:inline;text-align:left;}
+.yuer a{color:#FF9900;padding:1px;}
+.yuer a:hover{background:#FF9900;color:#FFF;}
+.xy{font-size:12px;line-height:25px;height:25px;}
+.fk{padding-top:15px;clear:both;height:120px;width:900px;}
+.fk dl{float:right;}
+.fk dt{height:25px;}
+.fk dd{height:50px;}
+.fk dl dd input,.fk .by_{background:url(/FrontEnd/images20090801/piece/Spellshop/jsann.gif) no-repeat 0 0;height:42px;width:161px;color:#FFF;border:none;font-size:14px;cursor:pointer;margin-right:75px;display:inline;}
+.fk .by{background-position:0 -47px;}
+.fk .by_{background-position:0 -95px;}
+.no{color:#FF0000;font-size:12px;height:20px;background:url(/FrontEnd/images20090801/icon/use/z_1.gif) no-repeat 0 0;padding-right:50px;float:right;padding-left:15px;}
+.pay_{background:url(/FrontEnd/images20090801/piece/Spellshop/pay_bj.gif) repeat-y -951px 0;width:950px;margin:auto;padding-bottom:30px;margin-top:12px;}
+
+
+.t_hd{padding-left:340px;}
+.t_hd p{height:25px;}
+.t_hd p a{color:#f60;}
+.t_hd p a:hover{color:#f00;text-decoration:none;}
+.t_hd dt{float:left;}
+.t_hd dt a{float:left;background:url(/images/icon/button/a126.gif) no-repeat 0 0;width:126px;height:22px;text-align:center;line-height:22px;text-decoration:none;color:#000;}
+.t_hd dt a:hover{color:#F60;}
+.t_hd dd{float:left;line-height:22px;padding-left:20px;color:#bbb;}
+
+.am_payment{padding-top:10px;float:right;padding-bottom:10px;}
+.am_payment input{width:150px;background:white;border:#BADBEA solid 1px;padding:5px 5px 5px 5px;color:#f00;float:left;}
+.am_payment .a_red{border:#f00 solid 1px;}
+.am_payment p{font-size:14px;float:left;padding-top:5px;}
+.am_payment a{color:#71a8cf;text-decoration:none;padding-left:5px;float:left;padding-top:8px;}
+.am_payment a:hover{color:#f00;text-decoration:underline;}
+
+.w4 .Buy_Num{height:28px;width:94px;display:inline;float:left;border:solid 1px #dbdbdb;margin-left:25px;}
+.w4 .Buy_Num a{display:block; float:left;width:28px; height:28px;text-indent:999em;overflow:hidden;text-decoration:none;}
+.w4 .Buy_Num a.Buy_NumLeft{background:url(/FrontEnd/images20090801/piece/Spellshop/tuanx.gif) no-repeat -81px -4px; border-right:solid 1px #dbdbdb;}
+.w4 .Buy_Num a.Buy_NumRight{background:url(/FrontEnd/images20090801/piece/Spellshop/tuanx.gif) no-repeat -100px -4px ; border-left:solid 1px #dbdbdb;}
+.w4 .Buy_Num a.Buy_NumLeft:hover{background-position:-81px -25px;}
+.w4 .Buy_Num a.Buy_NumRight:hover{background-position:-100px -25px ;}
+.w4 .Buy_Num input{width:30px;float:left;height:22px;padding:3px;border:none;background:none;color:#333;text-align:center;outline:none;line-height:22px;}
+
+.w5s{width:100%; height:100%; position:relative;}
+.beizhu{display:inline;float:left;width: 280px;height:140px;background:#EEF5FD;border:#599ED5 solid 1px;position:absolute;top:-26px;left:0px;}
+.beizhu .bzbox{overflow:hidden;width:270px;float:left;padding-top:15px;}
+.beizhu textarea{border:#BADBEA solid 1px;height:65px;width:249px;margin:0 0 0 12px;padding:3px;font-size:12px}
+.beizhu .hui{background:#f0f0f0;border:#ccc solid 1px;color:#bbb}
+.beizhu dl{margin:10px 0 0 12px;display:inline;float:left}
+.beizhu dl dt{float:left;margin-right:10px;display:inline;}
+.beizhu dl dd{float:left;}
+.beizhu dl dt input{background:#FF8729;color:#fff;border:#E25D1B solid 1px;height:22px;width:50px;cursor:pointer;}
+.beizhu dl dd input{background:#aaa;color:#fff;border:#888 solid 1px;height:22px;width:50px;cursor:pointer;}
+.beizhu img{float:right;position:relative;margin:43px -7px 0 0;}
+
+/* 状态 */
+.cg_2{background:url(/FrontEnd/images20090801/piece/Spellshop/pay_bj.gif) repeat-y -951px 0;width:950px;margin:auto;height:450px;}
+.new_p_cg{height:120px;}
+.new_p_cg h2{font-size:24px;color:#80AB51;padding-left:110px;height:78px;background:url(/FrontEnd/images20090801/welcome.jpg) no-repeat left;line-height:78px;float:left;display:inline;margin-left:230px;margin-top:30px;}
+.new_p_fail{height:100px;background:url(/FrontEnd/images20090801/biaoqing/b7.gif) no-repeat left;padding-left:120px;margin:60px 0 250px 280px;}
+.new_p_fail h2{font-size:24px;color:#80AB51;padding-bottom:10px;}
+.new_p_fail p{font-size:14px;padding-bottom:10px;}
+.new_p_fail a{color:#71a8cf;font-size:14px;margin-right:20px;display:inline;}
+.new_p_fail a:hover{color:#F60;text-decoration:none;}
+.new_p_yd{line-height:24px;padding-left:340px;padding-bottom:250px;}
+.new_p_yd b{color:#F00;}
+.new_p_yd p{padding-bottom:10px;font-size:14px;}
+.new_p_yd a{color:#71a8cf;font-size:14px;margin-right:20px;display:inline;}
+.new_p_yd a:hover{color:#F60;text-decoration:none;}
+
+/* 状态 */
+
+
+
+.substall{float:right; font-size:14px; margin-bottom:15px; line-height:27px; color:#010101;}
+.fleft{ float:left;}
+.fright{ float:right;}
+.substm{ position:absolute; right:6px; top:10px; font-size:0px; line-height:0px; width:0px; height:0px; border:6px solid #fff; border-top-color:#7f9db9; }
+.substituting em{ font-style:normal;}
+ .substituting{ float:left; width:330px; height:25px; position:relative; border:solid 1px #7f9db9; font-size:13px;}
+.substList{ position:absolute; z-index:10; left:-1px; top:25px; display:block; width:330px;border:solid 1px #7f9db9; background-color:#fff; max-height:200px;   overflow-y: auto;display:none;}
+.substList span,.substCheck{ height:22px; line-height:22px; display:block; cursor: pointer; text-align:left; }
+.substCheck{ line-height:25px;}
+.substList span:hover{ background-color:#1e90ff; color:#fff; }
+.substituting span,.substCheck{ padding:0 25px 0 5px;}
+.couponPrice{ margin-bottom:10px; }
+
+
+
+

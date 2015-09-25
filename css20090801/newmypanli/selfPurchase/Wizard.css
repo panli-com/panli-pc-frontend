@@ -1,0 +1,17 @@
+.fill{margin:20px 23px 0 0;float:right;width:720px;display:inline;padding-bottom:20px;}
+.name{background:#f3f3f3;height:35px;border-bottom:#ddd solid 1px;}
+.name ul{margin-top:6px;float:left;}
+.name li{float:left;margin-left:10px;display:inline;}
+.name li a{font-size:14px;text-decoration:none;padding:0 20px;background:#e9e9e9;border:#ddd solid 1px;border-bottom:none;line-height:28px;float:left;height:28px;}
+.name li a:hover{text-decoration:underline;color:#000;}
+.name .ting a,.name .ting a:hover{background:#fff;line-height:29px;height:29px;position:relative;margin-bottom:-1px;text-decoration:none;}
+
+.nr{padding:15px 0 0 0;font-family:"simsun";}
+.nr img{border:#eee solid 1px;margin-bottom:5px;}
+.nr a{color:#71A8CF;}
+.nr a:hover{text-decoration:none;color:#FF0000;}
+.nr h2{font-size:14px;line-height:28px;color:#000;font-family:"Î¢ÈíÑÅºÚ","simsun";}
+.nr p{line-height:22px;color:#666;}
+.nr ol li{line-height:20px;}
+.nr ul li{line-height:22px;color:#666;}
+.nr strong{color:#339900;font-weight:100;}

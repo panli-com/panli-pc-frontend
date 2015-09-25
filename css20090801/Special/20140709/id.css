@@ -1,0 +1,31 @@
+﻿body{ margin:0 auto; font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span20{ height:20px; line-height:20px; display:block; clear:both;}
+.left{ float:left;}
+.right{ float:right;}
+
+#frame{ width:100%; margin:0 auto; background:url(cssImg/back.gif) fixed;}
+.banner{ width:100%; margin:0 auto; text-align:center; display:block;}
+.banner1{ background:url(cssImg/coupons_img_03.gif) no-repeat center; height:80px;}
+.banner2{ background:url(cssImg/coupons_img_04.gif) no-repeat center; height:80px;}
+.banner3{ background:url(cssImg/coupons_img_05.jpg) no-repeat center; height:80px;}
+.banner4{ background:url(cssImg/coupons_img_06.gif) no-repeat center; height:80px;}
+.banner5{ background:url(cssImg/coupons_img_07.gif) no-repeat center; height:80px;}
+.banner6{ background:url(cssImg/coupons_img_08.gif) no-repeat center; height:80px;}
+.banner7{ background:url(cssImg/coupons_img_09.gif) no-repeat center; height:80px;}
+.banner8{ background:url(cssImg/coupons_img_10.gif) no-repeat center; height:80px;}
+.banner9{ background:url(cssImg/coupons_img_11.gif) no-repeat center; height:80px;}
+.banner10{ background:url(cssImg/coupons_img_12.jpg) no-repeat center; height:80px;}
+.banner11{ background:url(cssImg/coupons_img_13.jpg) no-repeat center; height:80px;}
+.banner12{ background:url(cssImg/coupons_img_14.gif) no-repeat center; height:80px;}
+.banner13{ background:url(cssImg/coupons_img_15.gif) no-repeat center; height:80px;}
+.banner14{ background:url(cssImg/coupons_img_16.gif) no-repeat center; height:80px;}
+
+.icon{width:248px;height:55px;top:25px;position:relative; margin:0 auto;}
+.icon a{width:248px; height:55px; display:block; background:url(cssImg/button.gif) no-repeat bottom;}
+.icon a:hover{ background-position:top;}

@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+.bannerimg{ text-align:left;}
+.centerWidth{width:950px; height:100%; margin:auto; text-align:left; display:block; position:relative;}
+
+.bannerimg li{position:absolute;width:100%; height:276px; } 
+.bannerimg .bannerimg1{ background:url(/FrontEnd/images20090801/newindex/bannerbg.gif) repeat-x; }
+.bannerimg .bannerimg1 .bannerbg{width:100%; height:276px;background:url(/FrontEnd/images20090801/newindex/banner/bj_02.jpg) no-repeat center;}
+.bannerimg .bannerimg1 span{display:block; position:absolute; background:url(/FrontEnd/images20090801/newindex/banner/b_03.png) no-repeat; width:209px; height:270px; margin:6px 0 0 510px;}
+
+.banner1text{ position:absolute;  margin-top:7px;}
+.banner1text h5{background:url(/FrontEnd/images20090801/newindex/banner/banner_03.png) no-repeat; width:441px; height:39px;}
+.banner1text h3{background:url(/FrontEnd/images20090801/newindex/banner/banner_06.png) no-repeat; width:304px; height:36px; margin-top:5px;}
+.banner1text h4{background:url(/FrontEnd/images20090801/newindex/banner/banner_09.png) no-repeat; width:331px; height:49px; margin-top:5px;}
+
+.bannerimg .bannerimg1 a{ display:block; height:38px; width:136px; background-color:#91d159; line-height:38px; font-size:14px; color:#fff; text-decoration:none; position:absolute; margin-top:200px;}
+.bannerimg .bannerimg1 a .jt,.bannerimg .bannerimg2 a .jt{ display:block; height:0px; width:0px; border:6px solid #000; border-color:transparent transparent transparent #fff; border-style:dashed dashed dashed solid; line-height:0px; float:left; margin:13px 0 0 8px;}
+.bannerimg .bannerimg1 a em,.bannerimg .bannerimg2 a em{ float:left; font-style:normal; margin-left:35px; display:inline;}
+.bannerimg .bannerimg1 a:hover{background-color:#84c051;}
+
+
+
+.bannerimg .bannerimg2{background:url(/FrontEnd/images20090801/newindex/banner/banner2bg.gif);}
+
+.bannertext2{ position:absolute; margin-top:39px; margin-left:-40px; _margin-left:0px;z-index:1;}
+.bannertext2 span{ display:block; width:511px; height:50px; background:url(/FrontEnd/images20090801/newindex/banner/banner2text.png) no-repeat;}
+.bannertext2 dl dd div.jt{ display:block; height:0px; width:0px; border:5px solid #669966; border-color:transparent transparent transparent #669966; border-style:dashed dashed dashed solid; line-height:0px; float:left; margin-top:3px; display:inline;}
+.bannertext2 dl{ margin-top:28px; width:370px;}
+.bannertext2 dl dd{margin-top:8px; color:#333;}
+.bannerimg .bannerimg2 a{ display:block; height:38px; width:136px; background-color:#599ed7; line-height:38px; font-size:14px; color:#fff; text-decoration:none; position:absolute; margin-top:200px;}
+.bannerimg .bannerimg2 a:hover{background-color:#5190c7;}
+.bannerimg .bannerimg2 .people{position:absolute; width:693px; height:276px; background:url(/FrontEnd/images20090801/newindex/banner/bannerren2.png?v=1.0) no-repeat; margin-left:230px;_margin-left:160px;}
+
+
+.bannerimg .bannerimg3{ background-color:#f7a72a;}
+.bannerimg .bannerimg3 .bannerbg3{width:950px; height:276px; margin:0 auto; text-align:left;}

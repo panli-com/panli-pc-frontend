@@ -1,0 +1,11 @@
+body{background-color:#f9f9f9;font-size:12px;margin:0;padding:0;font-family:Verdana,Arial, Helvetica, sans-serif;}p,h1,h2,h3,h4,h5,li,ul,dd,dt,dl,form,div{margin:0;padding:0;}img{border:none;}ul li{list-style:none;}
+input{font-family:Verdana,Arial, Helvetica, sans-serif;}
+#Head{width:100%;height:95px;background-color:#fff; border-bottom:#e3e3e3 solid 2px;padding-top:15px;}
+.Head-Top{width:950px;margin:0 auto;height:76px;overflow: hidden;}
+.Head-Logo{float:left;}
+.Head-Help{float:right;display:inline; margin-top:53px;color:#71a8cf; }
+.Head-Help a{color:#71a8cf;text-decoration:none;}
+.Head-Help a:hover{color:#f60;text-decoration:none;}
+
+
+.foot{height:60px;margin:auto;width:950px;text-align:center;padding-top:12px;color:#aaa;margin-top:5px;}.foot a{color:#aaa}.foot a:hover{color:#F60}.foot p{margin-bottom:8px;}

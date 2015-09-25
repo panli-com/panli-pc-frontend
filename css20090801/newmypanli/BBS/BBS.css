@@ -1,0 +1,47 @@
+.fill{width:720px;float:right;margin:20px 22px 0 0;display:inline;padding-bottom:20px;}
+
+.bangding{font-size:22px;font-weight:bold;border-bottom:#CCC solid 1px;height:60px;margin-bottom:20px;background:url(/FrontEnd/images20090801/icon/common/48_zh.gif) no-repeat left 0;line-height:48px;padding-left:60px;}
+.tishi{background:#ffffe3 url(/FrontEnd/images20090801/icon/common/qi16.gif) no-repeat 10px 5px;border:#fae2b9 solid 1px;color:#EFAA40;height:30px;line-height:30px;padding-left:30px;margin-bottom:35px;}
+
+.table table{width:100%;border-collapse:collapse;}
+.table table td{padding:8px 0;}
+.table input{border:#A7D0E4 solid 1px;padding:5px;width:220px;float:left;}
+.z{width:150px;text-align:right;font-size:14px;}
+.table p{float:left;margin:5px 0 0 10px;display:inline;line-height:18px;color:#bbb;}
+.table img{width:131px;height:28px;float:left;}
+.table a{float:left;color:#71A8CF;margin:5px 0 0 10px;display:inline;}
+.table a:hover{color:#FF0000;text-decoration:none;}
+.tijiao{padding:5px 0 0 150px;}
+.tijiao p{color:#66CC00;height:30px;background:url(/FrontEnd/images20090801/icon/common/deng.gif) no-repeat left 0;padding-left:20px;line-height:18px;}
+.tijiao input{background:url(/FrontEnd/images20090801/button/139an.gif) no-repeat 0 -140px;width:139px;height:46px;border:0;padding-bottom:15px;color:#eee;font-size:14px;cursor:pointer;}
+.tijiao .by{background-position:0 -46px;color:#FFF;}
+.tijiao .hui{background-position:0 -93px;}
+
+.jy{color:#F00;background:#FFE6E6 url(/FrontEnd/images20090801/icon/use/x_1.gif) no-repeat 5px center;margin-left:150px;padding-left:25px;line-height:24px;height:24px;margin-top:-26px;position:relative;border:#F00 solid 1px;width:300px;}
+
+
+.succeed{background:url(/FrontEnd/images20090801/biaoqing/b2.gif) no-repeat 70px 30px;padding-left:190px;height:130px;padding-top:20px;}
+.succeed h1{font-family:"simhei";font-size:20px;font-weight:normal;color:#80AB51;padding-top:20px;height:30px;}
+.succeed p{font-size:14px;height:30px;}
+.succeed p span{color:#f00;margin:0 2px;}
+.succeed b{line-height:20px;color:#aaa;font-weight:100;}
+.succeed b span{color:#F90;}
+
+.continue h2{font-size:14px;height:20px;}
+.continue{padding-left:190px;}
+.continue ul li{background:url(/FrontEnd/images20090801/icon/number/fk_1.gif) no-repeat left;padding-left:10px;line-height:24px;font-size:14px;}
+.continue ul li a{color:#71A8CF;}
+.continue ul li a:hover{color:#FF0000;text-decoration:none;}
+
+.kaitong{height:110px;padding-top:20px;padding-left:50px;}
+.kaitong label{font-size:14px;float:left;margin-top:5px;width:100px;}
+.kaitong input{border:#69AED3 solid 1px;padding:5px;font-size:14px;width:340px;float:left;}
+.kaitong p{float:left;padding-top:8px;color:#999;background:url(/FrontEnd/images20090801/newmypanli/dhk.gif) no-repeat 0 0;height:34px;width:340px;display:inline;padding-top:30px;padding-left:10px;margin:2px 0 0 100px;}
+.kaitong .hong{color:#F00;}
+.kaitong .hong span{padding-left:22px;background:url(/FrontEnd/images20090801/icon/use/x_1.gif) no-repeat left;line-height:22px;display:block;}
+.kaitong h2{font-size:12px;font-weight:100;height:30px;}
+.tishi2{background:#FFEEEE url(/FrontEnd/images20090801/icon/common/qi16.gif) no-repeat 10px 5px;border:#FBB9B9 solid 1px;color:#CC3300;height:30px;line-height:30px;padding-left:30px;margin-bottom:35px;}
+
+.kaitong b{font-size:12px;font-weight:100;float:left;margin:7px 0 0 10px;display:inline;color:#339900;white-space:nowrap;}
+.kaitong b a{color:#71A8CF;font-family:"simsun";}
+.kaitong b a:hover{color:#FF9900;}

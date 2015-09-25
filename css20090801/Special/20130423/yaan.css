@@ -1,0 +1,39 @@
+body{ margin:0 auto;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal; font-family:Arial, Helvetica, sans-serif;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span20{ height:20px; line-height:20px; display:block; clear:both;}
+.span10{ height:10px; line-height:10px; display:block; clear:both;}
+.left{ float:left; display:block;}
+.right{ float:right; display:block;}
+
+#frame{ background-color:#a29993; margin:0 auto; height:307px;}
+.yaan{ margin:0 auto; text-align:center;}
+
+#back{ background:url(/FrontEnd/images20090801/Special/20130423/back.gif) left fixed; margin:0 auto;clear:both; overflow:hidden;} 
+*html #back{ background:url(/FrontEnd/images20090801/Special/20130423/back.gif) left fixed; margin:0 auto;clear:both; visibility:inherit;} 
+.content{ width:950px; margin:0 auto;}
+.liucheng span{ float:right;}
+.yaan_k{ background-color:#fff; border:solid 1px #d5d5d5; overflow:hidden;}
+*html .yaan_k{ background-color:#fff; border:solid 1px #d5d5d5; visibility:inherit;}
+.one{ height:38px; padding:4px 0 4px 15px; background-color:#ff5400;}
+.yaan_pro{ padding:20px 10px;}
+.yaan_pro li{ float:left; text-align:center; margin:7px; display:block;}
+.yaan_pro span{ display:block; font-size:14px; font-weight:bold; color:#ff5400; margin:10px 0 4px 0;}
+.yaan_pro span a{ display:block; font-size:14px; font-weight:bold; color:#ff5400; margin-top:10px; text-decoration:none;}
+.yaan_pro span a:hover{ display:block; font-size:14px; font-weight:bold; color:#ff5400; margin-top:10px; text-decoration:underline;}
+.yaan_pro p{ font-size:14px; color:#555; display:block;}
+.pro{ border:solid 1px #c1c1c1; display:block;}
+.pro_text{ text-align:center;}
+.pro_img{ padding:20px 23px;}
+.yaan_jiayou{ text-align:center; margin-bottom:50px;}
+
+.tontgdao{ width:950px;}
+.tongdao dd{ background:url(/FrontEnd/images20090801/Special/20130423/yaan_jiayou_17.gif) repeat-x; width:910px; height:263px; float:left; padding:25px 10px;}
+.tongdao_l{ background:url(/FrontEnd/images20090801/Special/20130423/yaan_jiayou_16.gif) no-repeat; width:10px; height:313px; float:left;}
+.tongdao_r{ background:url(/FrontEnd/images20090801/Special/20130423/yaan_jiayou_20.gif) no-repeat; width:10px; height:313px; float:left;}
+.juankuan{ width:490px; margin-top:20px;}
+.juankuan li{ float:left; width:245px; display:block;}
+.gao{ margin-top:20px;}
