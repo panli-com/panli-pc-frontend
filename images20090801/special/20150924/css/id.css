@@ -1,0 +1,64 @@
+﻿body{ margin:0 auto; font-family:"Microsoft YaHei",微软雅黑;}
+.frame{ width:950px;height:auto;font-family:Verdana,Arial, Helvetica, sans-serif;margin:0 auto;text-align:center;}
+p, h1, h2, h3, h4, h5, ul,li,  dl, dt, dd, b,div,img{ list-style-type:none; margin:0px; padding:0px; border:0px; font-weight:normal;}
+ul,li{list-style-type:none;}
+img{vertical-align:top;}
+a,area{outline: none;blr:expression(this.onFocus=this.blur());}/*For IE*/
+:focus{-moz-outline-style:none;}/*For Firefox*/
+.span25{ height:25px; line-height:25px; display:block; clear:both;}
+.left{ float:left;}
+.right{ float:right;}
+
+#frame{ width:100%; overflow:hidden;}
+.banner{ width:100%; height:674px; background-color:#ffd837;}
+.banner1{ background:url(cssImg/Ten_main_02.gif) no-repeat center; height:99px;}
+.banner2{ background:url(cssImg/Ten_main_03.gif) no-repeat center; height:100px;}
+.banner3{ background:url(cssImg/Ten_main_04.gif) no-repeat center; height:100px;}
+.banner4{ background:url(cssImg/Ten_main_05.gif) no-repeat center; height:100px;}
+.banner5{ background:url(cssImg/Ten_main_06.gif) no-repeat center; height:100px;}
+.banner6{ background:url(cssImg/Ten_main_07.gif) no-repeat center; height:174px;}
+.Ten_Navigation{ width:1000px; margin:0 auto; background:url(cssImg/Ten_Navigation.png) no-repeat; height:90px; position:relative; top:85px;}
+.fuwuf{ position:relative; width:225px; height:90px; float:left; display:block;}
+.iPhone6s_plus{ position:relative; width:320px; height:90px; float:left; display:block;}
+.miandan{ position:relative; width:225px; height:90px; float:left; display:block;}
+.Ten_zhuce{ position:relative; width:230px; height:90px; float:left; display:block;}
+
+.content_Service{width:100%; background-color:#9f57dd; overflow:hidden;}
+.con_Service{ width:1000px; margin:0 auto;}
+.Service_img1{ background:url(cssImg/Ten_main_09.gif) no-repeat; height:200px;}
+.Service_img2{ background:url(cssImg/Ten_main_11.gif) no-repeat; height:200px;}
+.Service_img3{ background:url(cssImg/Ten_main_12.gif) no-repeat; height:200px;}
+.Service_img4{ background:url(cssImg/Ten_main_13.gif) no-repeat; height:200px;}
+.Service_img5{ background:url(cssImg/Ten_main_14.gif) no-repeat; height:200px;}
+.Service_img6{ background:url(cssImg/Ten_main_15.gif) no-repeat; height:200px;}
+.Service_img7{ background:url(cssImg/Ten_main_16.gif) no-repeat; height:200px;}
+.Service_img8{ background:url(cssImg/Ten_main_17.gif) no-repeat; height:285px;}
+.Service_button1{width:448px;height:65px; left:50px;position:relative; padding:50px 0; float:left;}
+.Service_button1 a{width:448px; height:65px; display:block; background:url(cssImg/Ten_main_20.gif) no-repeat top;}
+.Service_button1 a:hover{ background-position:bottom;}
+.Service_button2{width:398px;height:65px; left:100px; position:relative; padding:50px 0; float:left;}
+.Service_button2 a{width:398px; height:65px; display:block; background:url(cssImg/Ten_main_22.gif) no-repeat top;}
+.Service_button2 a:hover{ background-position:bottom;}
+.Service_button3{width:518px;height:65px; margin:0 auto; position:relative; padding:50px 0;}
+.Service_button3 a{width:518px; height:65px; display:block; background:url(cssImg/Ten_main_30.gif) no-repeat top;}
+.Service_button3 a:hover{ background-position:bottom;}
+.Ten_kefu{ position:relative; width:140px; height:20px; display:block; left:265px; top:207px;}
+
+.content_iphone{ width:100%; background-color:#15cabe; overflow:hidden; padding-bottom:20px;}
+.con_iphone{ width:1000px; margin:0 auto;}
+.iphone_img1{ background:url(cssImg/Ten_main_26.gif) no-repeat; height:200px;}
+.iphone_img2{ background:url(cssImg/Ten_main_27.gif) no-repeat; height:834px;}
+.Shopping_Ranking{ float:left; background:url(cssImg/Ten_ranking_07.gif) no-repeat; width:368px; height:615px; position:relative; left:48px; top:110px;}
+.Ranking_one{ font-size:22px; color:#fd4530; width:110px; float:left;}
+.Ranking_money{ font-size:22px; color:#fd4530; width:110px; float:right; text-align:center;}
+.Ranking_list{ position:relative; top:180px; width:220px; margin:0 40px 0 85px;}
+.Ranking_list li{ font-size:15px; color:#555;line-height:41px;}
+.Consumption_money{ float:right; width:110px; text-align:center;}
+.Consumption_name{ float:left; width:110px;}
+
+.mf_iphone{ float:right; width:450px; height:124px; padding:40px 30px; position:relative; top:267px; right:48px; font-size:18px; line-height:30px;}
+.text_Blank{ text-indent:2em;}
+.mf_iphone span{ color:#fd4530;}
+.mf_iphone span a{ color:#fd4530; text-decoration:underline;}
+.Ten_copy{ background:url(cssImg/Ten_main_33.gif) no-repeat; height:16px; width:221px; float:right;}
+.fuceng{ width:65px; height:137px;  z-index:500; position:fixed; bottom:30px; left:85%; _position:absolute; /* for IE6 */_top: expression(documentElement.scrollTop + documentElement.clientHeight-this.offsetHeight); /* for IE6 */ overflow:visible; }

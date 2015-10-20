@@ -23,7 +23,7 @@
 
 $(function () {
     CrawlerProduct.init();
-    Product.Init();  
+    Product.Init(); 
 });
 
 var Product = {
@@ -348,9 +348,15 @@ var Product = {
             return false;
         },
         init: function () {
+
+
             var sku = Product.snatchData.Skus;
             this.addInfo();
+
+
             if (!sku || sku == "null" || sku.length == 0) { return false; };
+
+
             this.isSku();
             this.skuType(sku);
             //this.addSku();
@@ -358,7 +364,10 @@ var Product = {
             this.skuOne();
             errorSku = this.errSku;
 
+
+
             this.skuAddHui(true);
+
             this.removeSkuid(); //删除所有和无用skuid相关联的组合id
         },
 
@@ -400,21 +409,41 @@ var Product = {
         },
         skuAddHui: function (isOne) {//第一次检测
             var onSku = [], errSku = this.errSku;
+
             if (errSku.length == 0 || $('#DetailsC_ConSku .DetailsC_Sku').length == 1) return false;
+
             $('#DetailsC_ConSku .DetailsC_Sku').each(function (i, t) {
+
                 if ($('li.on', t).length > 0) onSku.push($('li.on', t).attr('data-skuid'));
+
+
             });
+
+
+
             var id = this.examineId(onSku);
+
+
+
             this.removeSku = isOne ? id : [];
+
+
+
+
+
             $('#DetailsC_ConSku .DetailsC_Sku li').each(function (i, t) {
                 if ($(t).hasClass('on')) return;
                 var skuId = $(t).attr('data-skuid');
+
                 if (!isOne) {
+
                     $.inArray(skuId, id) >= 0 ? $(t).addClass('hui') : $(t).removeClass('hui');
                 } else {
+
                     $.inArray(skuId, id) >= 0 ? $(t).remove() : '';
                 }
             });
+
             return false;
         },
         errSku: [],
@@ -440,16 +469,20 @@ var Product = {
             this.errSku = newErrSku;
         },
         examineId: function (onSku) {//查找未成功id
+
             var errsku = this.errSku,
                 okSku = this.okSku,
                 query = this.query;
             var errorZ = [],
-                typeData = this.skuData; //分类后的sku
+                typeData = this.skuData; //分类后的sku           
+          
             for (var j in typeData) {//遍历sku分类
                 var newCom = onSku.slice(0); //复制一个onsku
-
+              
                 for (var k = 0, newTLen = typeData[j].length; k < newTLen; k++) {
                     for (var n = 0, nlen = onSku.length; n < nlen; n++) {
+
+
                         if (typeData[j][k].SkuId == onSku[n]) {
                             newCom.splice(n, 1);
                             break;
@@ -460,16 +493,21 @@ var Product = {
                     var newComP = newCom.slice(0);
                     newComP.push(typeData[j][k].SkuId);
                     var isBoole = false;
+
                     for (var i = 0, len = okSku.length; i < len; i++) {
                         var skuids = okSku[i].SkuIds;
+
                         if (query.inArray(newComP, skuids)) {
                             isBoole = true;
                             break;
                         }
                     }
+
                     if (!isBoole) errorZ.push(typeData[j][k].SkuId);
                 }
             }
+
+
             return errorZ;
         },
         query: {

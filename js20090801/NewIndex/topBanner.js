@@ -45,9 +45,13 @@ function ajaxInit(date) {
                 }, 3000)
             })
         })
-    }, function () {//2015 4 21 号弹出层活动
-        new bannerSpecial('Special13', new Date(2015, 8, 17), new Date(2015, 8, 23), new Date(date), function () {
-            var Special10 = $('<div class="Special10" style="width:663px; height:552px; background:url(http://sf.panli.com/Ued/images/20150927/doing_002.png); position:fixed; left:50%; top:50%; margin-left:-331px; margin-top:-276px; z-index:9999;"><a href="javascript:;" class="SpecialClose" style="display:block; width:60px; height:60px; position:absolute; right:150px; top:20px;"></a><a href="http://www.panli.com/Special/shippingsale_201509.html" style="display:block; width:663px; height:70px; position:absolute; left:0px; bottom:0px;"></a></div>');
+    }, function () {
+    
+    
+
+        //10月10日10:00—10月15日0:00
+        new bannerSpecial('Special13', new Date(2015, 9, 10,10), new Date(2015, 9, 15,8), new Date(date), function () {
+            var Special10 = $('<div class="Special10" style="width:659px; height:405px; background:url(http://sf.panli.com/Ued/images/20150927/doing_005.png); position:fixed; left:50%; top:50%; margin-left:-329.5px; margin-top:-202.5px; z-index:9999;"><a href="javascript:;" class="SpecialClose" style="display:block; width:60px; height:60px; position:absolute; right:38px; top:148px;z-index:12;"></a><a href="http://www.panli.com/Special/sale_201510.aspx" style="display:block; width:663px; height:510px; position:absolute; left:0px; bottom:0px;z-index:10;"></a></div>');
             $('body').prepend(Special10);
             Panli.Overlay.open();
             Special10.find('.SpecialClose').click(function () {
@@ -57,9 +61,10 @@ function ajaxInit(date) {
             });
         });
 
-        //2015 09 23 号弹出层活动
-        new bannerSpecial('Special13', new Date(2015, 8, 23), new Date(2015, 10, 8), new Date(date), function () {
-            var Special10 = $('<div class="Special10" style="width:477px; height:547px; background:url(http://sf.panli.com/Ued/images/20150927/doing_003.png); position:fixed; left:50%; top:50%; margin-left:-238px; margin-top:-273px; z-index:9999;"><a href="javascript:;" class="SpecialClose" style="display:block; width:60px; height:60px; position:absolute; right:38px; top:115px;z-index:12;"></a><a href="http://www.panli.com/Special/hongbao_201509.html" style="display:block; width:663px; height:510px; position:absolute; left:0px; bottom:0px;z-index:10;"></a></div>');
+
+        //最后1天的弹框，是10月15日0:00—10月16日0:00弹的
+        new bannerSpecial('Special13', new Date(2015, 9, 10, 15,8), new Date(2015, 9, 16,8), new Date(date), function () {
+            var Special10 = $('<div class="Special10" style="width:672px; height:480px; background:url(http://sf.panli.com/Ued/images/20150927/doing_006.png); position:fixed; left:50%; top:50%; margin-left:-336px; margin-top:-240px; z-index:9999;"><a href="javascript:;" class="SpecialClose" style="display:block; width:60px; height:60px; position:absolute; right:-9px; top:169px;z-index:12;"></a><a href="http://www.panli.com/Special/sale_201510.aspx" style="display:block; width:672px; height:480px; position:absolute; left:0px; bottom:0px;z-index:10;"></a></div>');
             $('body').prepend(Special10);
             Panli.Overlay.open();
             Special10.find('.SpecialClose').click(function () {
@@ -69,6 +74,18 @@ function ajaxInit(date) {
             });
         });
 
+
+        //定时10月20日0:00—10月28日0:00
+        new bannerSpecial('Special13', new Date(2015, 9, 20), new Date(2015, 9, 28), new Date(date), function () {
+            var Special10 = $('<div class="Special10" style="width:507px; height:543px; background:url(http://sf.panli.com/Ued/images/20150927/doing_007.png); position:fixed; left:50%; top:50%; margin-left:-253.5px; margin-top:-271.5px; z-index:9999;"><a href="javascript:;" class="SpecialClose" style="display:block; width:60px; height:60px; position:absolute; right:40px; top:51px;z-index:12;"></a><a href="http://www.panli.com/Special/hongbao_201510.aspx" style="display:block; width:507px; height:543px;  position:absolute; left:0px; bottom:0px;z-index:10;"></a></div>');
+            $('body').prepend(Special10);
+            Panli.Overlay.open();
+            Special10.find('.SpecialClose').click(function () {
+                Panli.Overlay.close();
+                Special10.remove();
+                return false;
+            });
+        });
        
     });
 }
@@ -84,5 +101,7 @@ $.ajax({
             ajaxInit(parseFloat(msg.d));
     }
 });
+
+
 
     

@@ -318,7 +318,7 @@ function getUserEnableCash() {
         cache: false,
         dataType: "json",
         contentType: "application/json;utf-8",
-        data: '{"type":"1","node":"2"}',
+        data: '{"type":"2","node":"2"}',
         timeout: 15000,
         error: function () { $subst.parent().remove(); $("#ProEnable").remove(); },
         success: function (r) {
