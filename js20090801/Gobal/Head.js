@@ -26,22 +26,22 @@
 //        return false;
 //    }
 //});
-$('#one_text').click(function () {
-    var href = this.href;
-    var one_text = $('.one_text', this);
-    if (one_text.length > 0) {
-        var today = new Date();
-        today.setTime(today.getTime() + (24 * 30 * 60 * 60 * 1000));
-        document.cookie = 'one_text' + "=true;expires=" + today.toGMTString() + ";path=/";
-        var eq0 = one_text.eq(0);
-        eq0.animate({ opacity: 0 }, 300, function () { eq0.remove(); });
-        one_text.eq(1).css({ 'opacity': 0, 'display': 'block' }).animate({ opacity: 1 }, 300);
-        setTimeout(function () {
-            location.href = href;
-        }, 400)
-        return false;
-    }
-});
+//$('#one_text').click(function () {
+//    var href = this.href;
+//    var one_text = $('.one_text', this);
+//    if (one_text.length > 0) {
+//        var today = new Date();
+//        today.setTime(today.getTime() + (24 * 30 * 60 * 60 * 1000));
+//        document.cookie = 'one_text' + "=true;expires=" + today.toGMTString() + ";path=/";
+//        var eq0 = one_text.eq(0);
+//        eq0.animate({ opacity: 0 }, 300, function () { eq0.remove(); });
+//        one_text.eq(1).css({ 'opacity': 0, 'display': 'block' }).animate({ opacity: 1 }, 300);
+//        setTimeout(function () {
+//            location.href = href;
+//        }, 400)
+//        return false;
+//    }
+//});
 if (getCookie('top_shop')) {
     $('#shoppingCart span').html('我的仓库');
 }
