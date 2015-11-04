@@ -46,23 +46,11 @@ function ajaxInit(date) {
             })
         })
     }, function () {
+       
 
-
-        //定时10月20日0:00—10月28日0:00
-        new bannerSpecial('Special13', new Date(2015, 9, 20), new Date(2015, 9, 27, 8), new Date(date), function () {
-            var Special10 = $('<div class="Special10" style="width:507px; height:543px; background:url(http://sf.panli.com/Ued/images/20150927/doing_007.png); position:fixed; left:50%; top:50%; margin-left:-253.5px; margin-top:-271.5px; z-index:9999;"><a href="javascript:;" class="SpecialClose" style="display:block; width:60px; height:60px; position:absolute; right:40px; top:51px;z-index:12;"></a><a href="http://www.panli.com/Special/hongbao_201510.aspx" style="display:block; width:507px; height:543px;  position:absolute; left:0px; bottom:0px;z-index:10;"></a></div>');
-            $('body').prepend(Special10);
-            Panli.Overlay.open();
-            Special10.find('.SpecialClose').click(function () {
-                Panli.Overlay.close();
-                Special10.remove();
-                return false;
-            });
-        });
-
-        //定时10月27日0:00—11月3日0:00，有弹出蒙版宣传页。活动期间用户每天打开首页，只弹1次。弹窗设计请查收附件。
-        //弹出框链接： http://www.panli.com/Special/hongbao_201510.aspx （记得做成整个弹窗图片都可以链接到活动页）
-        new bannerSpecial('Special13', new Date(2015, 9, 27), new Date(2015, 11, 3), new Date(date), function () {
+        //定时10月27日0:00—11月3日0:00，
+        //弹出框链接： http://www.panli.com/Special/hongbao_201510.aspx 
+        new bannerSpecial('Special13', new Date(2015, 9, 27), new Date(2015, 10, 3), new Date(date), function () {
             var _ImgW = 507,
                 _ImgH = 554,
                 _closeAR = 40,
@@ -80,24 +68,76 @@ function ajaxInit(date) {
         });
 
 
-
+        //定时11月3日0:00—11月10日0:00;
+        //弹出框链接：  http://www.panli.com/Special/hongbao_201510.aspx 
+        new bannerSpecial('Special13', new Date(2015, 10, 3), new Date(2015, 10, 10), new Date(date), function () {
+            var _ImgW = 614,
+                _ImgH = 518,
+                _closeAR = 84,
+                _closeAT = -9,
+                _imgSrc = 'http://sf.panli.com/Ued/Pc/index/images/doing_003.png',
+                _aHref = 'http://www.panli.com/Special/hongbao_201510.aspx';
+            var Special10 = $('<div class="Special10" style="width:' + _ImgW + 'px; height:' + _ImgH + 'px; background:url(' + _imgSrc + '); position:fixed; left:50%; top:50%; margin-left:-' + _ImgW / 2 + 'px; margin-top:-' + _ImgH / 2 + 'px; z-index:9999;"><a href="javascript:;" class="SpecialClose" style="display:block; width:60px; height:60px; position:absolute; right:' + _closeAR + 'px; top:' + _closeAT + 'px;z-index:12;"></a><a href="' + _aHref + '" style="display:block; width:' + _ImgW + 'px; height:' + _ImgH + 'px;  position:absolute; left:0px; bottom:0px;z-index:10;"></a></div>');
+            $('body').prepend(Special10);
+            Panli.Overlay.open();
+            Special10.find('.SpecialClose').click(function () {
+                Panli.Overlay.close();
+                Special10.remove();
+                return false;
+            });
+        });
 
 
     });
 }
 $.ajax({
     type: "POST",
-    url: "/App_Services/wsDefault.asmx/GetDateTime",
+    url: "/App_Services/wsDefault.asmx/GetDateTimeStamp",
     dataType: "json",
     contentType: "application/json;utf-8",
     timeout: 10000,
     error: function () { },
     success: function (msg) {
+        var millisecond = parseInt(clientTimeZoneT().millisecond);
+        var HDateTime = parseFloat(msg.d * 1000);     
         if (msg)
-            ajaxInit(parseFloat(msg.d));
+            ajaxInit(HDateTime);
     }
 });
 
+function clientTimeZoneT() {
+    //获得时区偏移量
+    var timeOffset = new Date().getTimezoneOffset();
+    //获得时区小时偏移基数
+    var hour = parseInt(timeOffset / 60);
+    //获得时区分钟偏移基数
+    var munite = timeOffset % 60;
+    var prefix = "-";
+    if (hour < 0 || munite < 0) {
+        prefix = "+";
+        hour = -hour;
+        if (munite < 0) {
+            munite = -munite;
+        }
+    }
+    hour += " ";
+    munite += " ";
+    if (hour.length == 2) {
+        hour = "0" + hour;
+    }
+    if (munite.length == 2) {
+        munite = "0" + munite;
+    }
+    var TimeZone = prefix + hour + munite;
+
+    var TimeZoneJ = {
+        TimeZone: TimeZone,
+        Minute:timeOffset,
+        millisecond: (timeOffset*60*1000)
+    }
+
+    return TimeZoneJ;
+}
 
 
     
